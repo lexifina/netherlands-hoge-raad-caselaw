@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2654"
-published_in: ["Rechtspraak.nl", "BNB 1999/107 met annotatie van J. den Boer", "FED 1999/166 met annotatie van J.E.A.M. VAN DIJCK", "FED 1999/112", "WFR 1999/153, 1", "V-N 1999/9.13 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 1999/107 met annotatie van J. den Boer", "FED 1999/166 met annotatie van J.E.A.M. VAN DIJCK", "FED 1999/112", "WFR 1999/153, 1", "V-N 1999/9.13"]
 ---
 
 # ECLI:NL:HR:1999:AA2654 Hoge Raad , 27-01-1999 / 33932
