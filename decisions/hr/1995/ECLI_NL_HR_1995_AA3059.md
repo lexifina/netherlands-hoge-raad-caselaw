@@ -1,0 +1,43 @@
+---
+ecli: "ECLI:NL:HR:1995:AA3059"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30319"
+decided: "1995-02-22"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1995:AA3059"
+published_in: ["Rechtspraak.nl", "BNB 1995/230 met annotatie van E. Aardema", "FED 1995/175", "WFR 1995/348, 1", "V-N 1995/1098, 14 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1995:AA3059 Hoge Raad , 22-02-1995 / 30319
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Arnhem van 20 mei 1994 betreffende een beschikking op een verzoek als bedoeld in artikel 70, lid 2, van de Wet op de inkomstenbelasting 1964.
+
+1. Beschikking en geding voor het Hof Op een op 18 december 1991 ingediend verzoek van belanghebbende heeft de Inspecteur bij beschikking van 11 maart 1993 het voordeel als bedoeld in het eerste lid van vorengenoemd artikel ter zake van waardeverandering van tot belanghebbendes landbouwbedrijf behorende grond vastgesteld op nihil. Belanghebbende is tegen die beschikking met schriftelijke toestemming van de Inspecteur op de voet van artikel 26, lid 3 (tekst vóór 1 januari 1994), van de Algemene wet inzake rijksbelastingen, rechtstreeks in beroep gekomen bij het Hof, dat de uitspraak waarvan beroep (waarmee het Hof kennelijk heeft bedoeld: de beschikking) heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van de middelen van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Belanghebbende exploiteerde sinds 1973 een gemengd landbouwbedrijf. In 1993 heeft hij zijn boerderij met 41.55.90 ha. grond, grotendeels gelegen in het gebied genaamd A, verkocht aan de gemeente Z voor een prijs van ƒ 6.000.000,--, waarin schadeloosstellingen waren begrepen. Eind 1981 bracht de gemeente een rapport uit, getiteld "Aanzet tot een globaal bestemmingsplan A", waarin melding wordt gemaakt van het voornemen om rond het eind van de tachtiger jaren te komen tot woningbouw in A. In september 1987 bracht de gemeente een rapport uit, getiteld "Studie woningbouwlocaties te Z", waarin in verband met woningbouw na 1991 nieuwe locaties waaronder A nader op geschiktheid voor woningbouw worden onderzocht. Een door belanghebbende ingeschakelde taxateur, B, heeft op 12 december 1991 een taxatierapport uitgebracht betreffende de waarde in het economische verkeer per 31 maart 1986 van de hiervóór genoemde opstal en gronden, zowel bij voortgezet agrarisch gebruik als bij niet voortgezette agrarische exploitatie. De taxateur stelt het waardeverschil op ƒ 1.527.000,--. Op 8 februari 1993 heeft een taxateur, verbonden aan de Belastingdienst/Registratie en successie, C, de waarde bij voortgezette agrarische bestemming geschat op ƒ 1.627.500,-- en de waarde in het economische verkeer, indien per 31 maart 1986 sprake zou zijn geweest van een bestemmingswijziging, op ƒ 2.930.500,--, aldus een waardeverschil aangevend van ƒ 1.303.000,--.
+
+3.2. In geschil is of per 31 maart 1986 met betrekking tot voormelde grond sprake is van een bestemmingswijzigingswinst als bedoeld in artikel 70, lid 1, van de Wet op de inkomstenbelasting 1964, en of belanghebbende erop mocht vertrouwen dat die bestemmingswijzigingswinst voor de Inspecteur bindend was vastgesteld in een bespreking tussen genoemde taxateurs.
+
+3.3. Het Hof heeft belanghebbendes beroep op het vertrouwensbeginsel verworpen op grond dat niet aannemelijk is geworden dat op 11 december 1991 tussen genoemde taxateurs overeenstemming is bereikt over de waarden vermeld in het taxatierapport van B. Dit oordeel geeft niet blijk van een onjuiste rechtsopvatting en kan, als verweven met waarderingen van feitelijke aard, voor het overige in cassatie niet op zijn juistheid worden getoetst; het is ook niet onbegrijpelijk. Middel 1, dat zich tegen dit oordeel keert, faalt derhalve.
+
+3.4. Het Hof heeft voorts geoordeeld dat ook indien tussen genoemde taxateurs wel overeenstemming zou zijn bereikt, belanghebbende aan de aanwezigheid van C op 11 december 1991 ten kantore van B niet het in rechte te beschermen vertrouwen kan ontlenen dat de Inspecteur is gebonden aan de in vorenbedoeld taxatierapport vermelde waarden per 31 maart 1986. Tegen dit oordeel keert zich middel 2.  Het middel faalt, aangezien het oordeel door het Hof ten overvloede is gegeven, en mitsdien 's Hofs beslissing niet draagt.
+
+3.5. Het Hof heeft voorts geoordeeld dat niet aannemelijk is dat op 31 maart 1986 sprake was van een bestemmingswijzigingswinst als hiervóór in 3.1 bedoeld.
+
+3.6. Het heeft daartoe in de eerste plaats overwogen dat de verkopen van grond aan de gemeente op door belanghebbende niet nader aangeduide tijdstippen tegen de waarde in het economische verkeer bij agrarische bestemming van die gronden, met bijbetaling door een projectontwikkelaar om te voorkomen dat twee jaar over de prijs zou moeten worden onderhandeld, niet meebrengt dat die gronden zijn verkocht voor waarden in het economische verkeer, omdat de projectontwikkelaar niet betaalde voor de gronden op zich, zodat uit deze verkopen niet valt af te leiden dat met betrekking tot de gronden van belanghebbende op 31 maart 1986 sprake is van bestemmingswijzigingswinst. Tegen dit oordeel richt zich middel 4 met een motiveringsklacht. De klacht is gegrond. Van een vergoeding voor een spoedige levering van een onroerende zaak kan, ook indien deze door een derde is betaald, zonder nadere redengeving niet worden gezegd dat zij geen betrekking heeft op de waarde in het economische verkeer van die zaak. 3.7. Middel 5 keert zich tegen hetgeen het Hof in onderdeel 5.4 van zijn uitspraak heeft geoordeeld. Deze oordelen houden in dat de Inspecteur onbestreden heeft gesteld dat rond 31 maart 1986 geen verkopen plaatsvonden voor prijzen boven waarden in het economische verkeer bij agrarische bestemming, en dat niet gebleken is dat het rapport uit september 1987 zijn schaduw in zodanige mate vooruitwierp dat in 1986 met betrekking tot belanghebbendes grond sprake was van een (naderende) bestemmingswijziging en evenmin dat op 31 maart 1986 ter zake van die grond sprake was van bestemmingswijzigingswinst. Deze oordelen zijn onbegrijpelijk in het licht van hetgeen hiervóór in 3.6 is overwogen en van de hiervóór in 3.1 vermelde taxatierapporten, welke beide taxaties immers een positief verschil vaststellen tussen de waarde in het economische verkeer bij niet voortgezette agrarische exploitatie en de waarde bij voortgezet agrarisch gebruik. Voor zover bedoelde oordelen ervan uitgaan dat van voordelen als bedoeld in voormeld artikel 70, lid 1, welke vóór 1 april 1986 zijn ontstaan, slechts sprake kan zijn indien de desbetreffende grond reeds op 1 april 1986 voortaan of waarschijnlijk binnenkort buiten het kader van de uitoefening van een landbouwbedrijf zou worden aangewend, berusten zij op een onjuiste opvatting van genoemde bepaling, aangezien een zodanige eis daarin niet valt te lezen. Ook middel 5 treft derhalve doel.
+
+3.8. Middel 3 behoeft, gelet op hetgeen met betrekking tot de overige middelen is overwogen, geen afzonderlijke behandeling. 3.9. Uit het vorenoverwogene volgt dat 's Hofs uitspraak niet in stand kan blijven. Verwijzing moet volgen.
+
+4. Proceskosten De Hoge Raad zal met het oog op een eventuele veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken belanghebbende in de gelegenheid stellen zich uit te laten als hierna bepaald.
+
+5. Beslissing. De Hoge Raad vernietigt de uitspraak van het Hof, verwijst het geding naar het Gerechtshof te 's-Hertogenbosch ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van ƒ 300,--, en stelt belanghebbende in de gelegenheid binnen 6 weken na de uitspraak in het openbaar van dit arrest zich uit te laten omtrent een eventuele veroordeling van de wederpartij in de kosten van het geding in cassatie.
+
+Dit arrest is op 22 februari 1995 vastgesteld door de raadsheer Van der Linde als voorzitter en de raadsheren Bellaart en Van der Putt-Lauwers, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken.
