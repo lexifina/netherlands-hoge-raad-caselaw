@@ -1,0 +1,34 @@
+---
+ecli: "ECLI:NL:HR:1994:AA2940"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "29100"
+decided: "1994-10-05"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1994:AA2940"
+published_in: ["Rechtspraak.nl", "BNB 1995/5 met annotatie van Laeijendecker", "FED 1994/679 met annotatie van H.B. HIELTJES", "FED 1994/633", "WFR 1994/1541, 1", "V-N 1994/3355, 27 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/successiewet-1956/art-019.md"]
+---
+
+# ECLI:NL:HR:1994:AA2940 Hoge Raad , 05-10-1994 / 29100
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van AX,  BX en CX (hierna: belanghebbenden) te Z (Verenigde Staten) tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 13 juli 1992 betreffende de aan hen opgelegde aanslagen in het recht van successie ter zake van hun verkrijgingen uit de nalatenschap van Y, overleden te Q op 23 mei 1989.
+
+1. Aanslagen, bezwaar en geding voor het Hof Aan  belanghebbenden  zijn  ter zake van hun verkrijgingen uit voormelde nalatenschap op één aanslagbiljet  verenigde aanslagen  in het recht van successie opgelegd naar  een belaste verkrijging van f 5.054.802,-- door AX en naar belaste verkrijgingen van elk groot f 312.091,--, door BX en CX welke aanslagen, na daartegen gemaakt bezwaar bij uitspraak van de Inspecteur zijn gehandhaafd. Belanghebbenden zijn van de uitspraak van de Inspecteur in beroep gekomen bij het Hof.
+
+Het Hof heeft de uitspraak bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbenden hebben tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft een vertoogschrift ingediend. Belanghebbenden hebben de zaak doen toelichten door Mr. J. Wuisman, advocaat bij de Hoge Raad. De Advocaat-Generaal Moltmaker heeft op 8 maart 1994 geconcludeerd tot verwerping van het beroep.
+
+3. Beoordeling van de middelen 3.1. In cassatie kan van het volgende worden uitgegaan. Erflater is in 1989 te Q overleden. Hij heeft tot erfgenamen benoemd AX voor de helft en diens beide kinderen voor een vierde onder de last van vruchtgebruik ten behoeve van hun vader. AX is geboren in 1942. Met zijn vader heeft hij sinds de echtscheiding van zijn ouders in 1947 geen contact meer gehad. Zijn moeder heeft na de echtscheiding op het adres a-straat 1 te Q enige tijd samengewoond met A. In 1958 maakte zijn moeder kennis met erflater. Deze ontfermde zich over hem, beschouwde hem als een eigen zoon en heeft hem gedurende zijn ingenieursstudie die vanaf september 1959 negen jaar duurde, als enige financieel volledig ondersteund. Tot september 1959 woonde AX op voormeld adres bij zijn moeder in huis. Op dat adres was volgens een door de Inspecteur overgelegd uittreksel uit het bevolkingsregister van de gemeente Q tot 13 oktober  1958 tevens ingeschreven A. 3.2. Blijkens de stukken van het geding heeft de Inspecteur tot de mondelinge behandeling van de zaak zijn standpunt dat erflater AX niet "uitsluitend" als eigen kind heeft onderhouden en opgevoed, erop gebaseerd dat deze nog bij zijn moeder woonde, in samenhang met de omstandigheid dat diens moeder niet met erflater samenwoonde. Pas bij de mondelinge behandeling heeft de Inspecteur onder overlegging van een uittreksel uit het bevolkingsregister zijn standpunt tevens doen steunen op de stelling dat de moeder nog tot 13 oktober 1958 met A samenwoonde. Nu daartegenover blijkens 's Hofs uitspraak ter zitting is aangevoerd dat het uittreksel niet in overeenstemming is met de destijds bestaande feitelijke situatie had het Hof niet tot uitspraak mogen overgaan zonder hetzij de behandeling van de zaak te schorsen teneinde belanghebbenden gelegenheid te geven voor die stelling bewijs bij te brengen, hetzij zich ervan te vergewissen dat belanghebbenden daaraan geen behoefte hadden. 3.3. Nu uit 's Hofs uitspraak niet blijkt dat het een of het ander heeft plaatsgevonden en belanghebbenden in cassatie erover klagen dat hen onvoldoende gelegenheid is geboden het zojuist bedoelde bewijs te leveren, is middel I, waarin die klacht is vervat, gegrond. 3.4. Op grond van de door de Advocaat-Generaal in zijn conclusie onder 4.2 vermelde wetsgeschiedenis moet worden aangenomen dat naar de bedoeling van de wetgever artikel 19, lid 2, van de Successiewet 1956 aldus moet worden uitgelegd dat een kind ook "uitsluitend" door een pleegouder als een eigen kind kan worden onderhouden en opgevoed indien die pleegouder naast een van de eigen ouders aan het onderhoud en de opvoeding van het kind deelneemt. Dat deelnemen moet dan, wil inderdaad sprake zijn van onderhoud en opvoeding als een eigen kind, wel een zodanige intensiteit hebben dat de pleegouder in feite de plaats van de ontbrekende ouder inneemt. Dat daarvan sprake is kan worden aangenomen in geval van samenwoning tussen de eigen ouder en de pleegouder, maar is ook buiten dat geval denkbaar. Het Hof heeft  derhalve door in zijn - in zijn opvatting - ten overvloede gegeven oordeel ervan uit te gaan dat niet is voldaan aan de wettelijke vereisten voor een pleegkind indien de pleegouder niet met de eigen ouder is gehuwd of met deze samenwoont, een onjuiste, immers te strenge, maatstaf aangelegd. Ook middel II is gegrond. 3.5. De gegrondheid van beide middelen brengt mede dat verwijzing van het geding moet plaatshebben voor een hernieuwd onderzoek van de zaak in volle omvang.
+
+4. Proceskosten De Hoge Raad zal met het oog op een eventuele veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken belanghebbende in de gelegenheid stellen zich uit te laten als hierna bepaald.
+
+5. Beslissing De Hoge Raad vernietigt de uitspraak van het Hof, verwijst het geding naar het Gerechtshof te Amsterdam ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, bepaalt dat door de Griffier van de Hoge Raad aan belanghebbende wordt terugbetaald het ter zake van de vervanging van de mondelinge uitspraak bij het Hof gestorte bedrag van f 150,--, gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van zijn beroep in cassatie gestorte griffierecht ten bedrage van f 300,--, en stelt belanghebbende in gelegenheid binnen 6 weken na heden zich uit te laten omtrent een eventuele veroordeling van de wederpartij in de kosten van het geding in cassatie.
+
+Dit arrest is gewezen door de vice-president Stoffer als voorzitter, en de raadsheren Wildeboer, Urlings, Zuurmond en Fleers, in tegenwoordigheid van de waarnemend griffier Van der Vegt, in raadkamer van 5 oktober 1994.
