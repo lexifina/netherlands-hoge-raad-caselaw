@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1994:ZC1533"
-published_in: ["Rechtspraak.nl", "NJ 1996, 376 met annotatie van C.J.H. Brunner", "RvdW 1994, 245", "VR 1995, 97"]
+published_in: ["Rechtspraak.nl", "NJ 1996, 376 met annotatie van C.J.H. Brunner", "RvdW 1994, 245", "VR 1995, 97", "VR 2026/71"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1994:54"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-399.md"]
 ---
