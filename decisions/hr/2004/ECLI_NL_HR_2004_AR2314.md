@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AR2314"
-published_in: ["Rechtspraak.nl", "RSV 2004, 333", "RZA 2004, 208", "BNB 2004/410", "FED 2005/11 met annotatie van P. KAVELAARS", "FED 2004/506", "WFR 2004/1402, 1", "Belastingadvies 2004/19.12", "V-N 2004/50.4 met annotatie van Redactie", "FutD 2004-1678"]
+published_in: ["Rechtspraak.nl", "RSV 2004, 333", "RZA 2004, 208", "BNB 2004/410", "FED 2005/11 met annotatie van P. KAVELAARS", "FED 2004/506", "WFR 2004/1402, 1", "Belastingadvies 2004/19.12", "V-N 2004/50.4", "NTFR 2004/1379 met annotatie van drs. M. Schuver-Bravenboer"]
 ---
 
 # ECLI:NL:HR:2004:AR2314 Hoge Raad , 17-09-2004 / 38662
