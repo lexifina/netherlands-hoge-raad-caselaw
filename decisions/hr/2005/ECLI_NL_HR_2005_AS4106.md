@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AS4106"
-published_in: ["Rechtspraak.nl", "BNB 2005/131", "WFR 2005/179", "V-N 2005/23.15 met annotatie van Redactie", "FutD 2005-0168 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "BNB 2005/131", "WFR 2005/179", "V-N 2005/23.15 met annotatie van Redactie", "NTFR 2005/130", "FutD 2005-0168", "Viditax (FutD) 2005012801"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHLEE:2003:AG1679"]]
 cites_law: ["netherlands/national/acts/wet-arbeidsongeschiktheidsverzekering-zelfstandigen/art-003.md"]
 ---
