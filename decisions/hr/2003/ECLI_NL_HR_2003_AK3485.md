@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AK3485"
-published_in: ["Rechtspraak.nl", "BNB 2004/111 met annotatie van E. Aardema", "FED 2003/489", "Belastingadvies 2003/24.2", "WFR 2003/1494", "FED 2004/68 met annotatie van K.M. BRAUN", "V-N 2003/46.3 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 2004/111 met annotatie van E. Aardema", "FED 2003/489", "Belastingadvies 2003/24.2", "WFR 2003/1494", "FED 2004/68 met annotatie van K.M. BRAUN", "V-N 2003/46.3", "NTFR 2003/1546 met annotatie van dr. A. van Dongen"]
 cites_law: ["netherlands/national/acts/awr/art-029.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-012.md"]
 ---
 
