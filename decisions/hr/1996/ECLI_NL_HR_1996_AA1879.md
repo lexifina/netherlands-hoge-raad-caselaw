@@ -1,0 +1,43 @@
+---
+ecli: "ECLI:NL:HR:1996:AA1879"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30517"
+decided: "1996-01-03"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1996:AA1879"
+published_in: ["Rechtspraak.nl", "BNB 1996/127 met annotatie van J. Hoogendoorn", "FED 1996/72", "FED 1996/272 met annotatie van W.M.E. VAN GORKUM", "WFR 1996/76", "V-N 1996/387, 12 met annotatie van Redactie", "TVVS 1997, 47 met annotatie van J.S. RIJKELS"]
+---
+
+# ECLI:NL:HR:1996:AA1879 Hoge Raad , 03-01-1996 / 30517
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Staatssecretaris van Financiën  tegen de uitspraak van het Gerechtshof te Amsterdam van 1 juli 1994 betreffende een uitspraak op een door de besloten vennootschap met beperkte aansprakelijkheid X B.V. te Z gedaan verzoek als bedoeld in artikel 8b, lid 3, van de Uitvoeringsregeling inkomstenbelasting 1990.
+
+1. Uitspraak en geding voor het Hof Belanghebbende heeft op 10 augustus 1992 de Inspecteur verzocht de voorgenomen verwerving door D B.V. van de door B gehouden aandelen in belanghebbende tegen uitgifte van eigen aandelen te zamen met de voorgenomen inkoop door belanghebbende van de door C B.V. gehouden aandelen in belanghebbende aan te merken als voorgenomen rechtshandelingen die een situatie doen ontstaan als bedoeld in artikel 8b, lid 1, van de Uitvoeringsregeling inkomstenbelasting 1990 (tekst 1992; hierna: de Uitvoeringsregeling) jo. artikel 40a, lid 1, van de Wet op de inkomstenbelasting 1964 (tekst 1992; hierna: de Wet). De Inspecteur heeft dit verzoek bij uitspraak afgewezen. Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof, dat deze uitspraak heeft vernietigd en het verzoek, zoals bij pleidooi gewijzigd, heeft toegewezen. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Staatssecretaris heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit.
+
+3. Beoordeling van het middel van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan:
+
+3.1.1. Belanghebbende, waarvan het geplaatste en gestorte aandelenkapitaal f 46.000,-- nominaal beloopt, houdt de aandelen van een aantal werkmaatschappijen. De aandeelhouders van belanghebbende waren tot mei 1992: -     A Ltd. te Q (VK) (hierna: A) voor f 23.000,-- nominaal; -    C B.V. te S (hierna: C) voor f 5.000,-- nominaal; -    B te R, Filippijnen, (hierna: B) voor f 18.000,- - nominaal. B is de enige aandeelhouder van C. 3.1.2. D B.V. i.o. te T (hierna: D) verwierf in de loop van mei 1992 alle aandelen die A in belanghebbende hield. De aandelen in D - welke vennootschap op 26 januari 1993 door B is opgericht - werden van de aanvang af gehouden door B. 3.1.3. Belanghebbende heeft bij pleitnota aan het Hof voorgelegd de vraag of de voorgenomen vervreemding van de door B gehouden aandelen in belanghebbende tegen eigen aandelen van D te zamen met de voorgenomen vervreemding van de door B gehouden aandelen in C tegen uitreiking van eigen aandelen van D kan worden aangemerkt als rechtshandelingen die een situatie doen ontstaan als bedoeld in artikel 8b, lid 1, van de Uitvoeringsregeling jo. artikel 40a, lid 1, van de Wet.
+
+3.2.1. Uitgaande van de vaststelling dat belanghebbende in beroep stelt het voornemen te hebben de hiervóór in 3.1.3 omschreven rechtshandelingen te verrichten en pas als tweede of derde mogelijkheid over te willen gaan tot het uitvoeren van in 's Hofs uitspraak onder 3, letter b, omschreven rechtshandelingen, waaronder die, welke zijn vermeld in het verzoekschrift, heeft het Hof geoordeeld: dat belanghebbende geacht kan worden het verzoekschrift in deze zin te hebben aangevuld, zodat het Hof voor zover nodig ook de voorgenomen niet in het verzoekschrift vermelde rechtshandelingen in de beoordeling zal hebben te betrekken; dat het mede om redenen van proceseconomie afziet van het stellen van de eis dat ten aanzien van laatstbedoelde rechtshandelingen afzonderlijke aanvullende verzoekschriften worden ingediend, waarop dan door de Inspecteur uitspraak moet worden gedaan. Tegen deze oordelen komt het middel in de eerste plaats op.
+
+3.2.2. Het middel betoogt dat het Hof geen beslissing had mogen nemen ter zake van het in de pleitnota gedane verzoek, nu de Inspecteur niet in de gelegenheid is geweest op de voet van het bepaalde in artikel 8b, lid 3, van de Uitvoeringsregeling met betrekking tot het in dat verzoek gepresenteerde complex van voorgenomen rechtshandelingen een beslissing te nemen. Dit betoog faalt. Nu het Hof kennelijk en terecht ervan is uitgegaan dat de bij pleitnota voorgelegde vraag niet op een wezenlijk andere situatie betrekking had dan die, welke de in het verzoek van 10 augustus 1992 voorgenomen rechtshandelingen beoogden te doen ontstaan, doch eveneens ertoe strekte dat een situatie ontstond waarin alle aandelen in belanghebbende in de macht van D waren gebracht, behoefde het Hof die vraag niet onbeantwoord te laten.
+
+3.3.1. Het Hof heeft voorts geoordeeld dat met betrekking tot de hiervóór in 3.1.3 vermelde, voorgenomen rechtshandelingen het gelijk aan belanghebbende is, en dat de in 's Hofs uitspraak onder 3, letter b, vermelde alternatieven geen bespreking meer behoeven. Tot dit oordeel is het Hof gekomen op grond van de volgende overwegingen: dat tot mei 1992 de helft van het aandelenkapitaal van belanghebbende wordt gehouden door A, dat B houder van een aanmerkelijk belang in het kapitaal van belanghebbende was en dat B voorts alle aandelen van C hield, welke vennootschap de overige aandelen in belanghebbende bezat; dat, ingeval B laatstbedoelde aandelen eveneens rechtstreeks zou hebben gehouden, was voldaan aan alle in artikel 40a, lid 1, aanhef en letters a tot en met d, van de Wet en artikel 8b, lid 1, aanhef en letters a tot en met d, van de Uitvoeringsregeling gestelde vereisten, indien na de verkoop door A van de door haar gehouden aandelen in belanghebbende aan D, B zijn aandelen in belanghebbende tegen uitreiking van eigen aandelen aan D zou hebben vervreemd; dat het onvoldoende reden ziet om anders te oordelen, nu B een deel van de aandelen in belanghebbende niet rechtstreeks houdt, maar middels C en voornemens is naast de rechtstreeks gehouden aandelen in belanghebbende tevens de aandelen C aan D te vervreemden tegen uitreiking aan hem van aandelen in die vennootschap; dat het dan bereikte resultaat immers niet wezenlijk verschilt van het vorenveronderstelde geval, aangezien D houdster wordt van alle aandelen in belanghebbende, zij het deels middels C; dat het bepaalde in artikel 40a, lid 1, aanhef en letter c, van de Wet en artikel 8b, lid 1, aanhef en letter c, van de Uitvoeringsregeling, waaruit de Inspecteur afleidt dat C de door haar gehouden aandelen zou moeten vervreemden, aan laatstvermeld oordeel niet in de weg hoeft te staan; dat die vervreemding immers ertoe zou leiden dat de aandelen D deels in handen komen van C, hetgeen, naar de Inspecteur eveneens stelt, strijdig zou zijn met het uit het in artikel 40a, lid 1, aanhef en letter b, van de Wet en in artikel 8b, lid 1, aanhef en letter b, van de Uitvoeringsregeling bepaalde voortvloeiende vereiste dat alle aandelen D worden gehouden door natuurlijke personen; dat de stellingname van de Inspecteur dan ook erop neerkomt dat een geval als het onderhavige zou zijn uitgesloten van de in artikel 40a voorziene faciliteit, hetgeen niet de bedoeling van de wetgever kan zijn geweest. Tegen vorenvermeld oordeel en de daaraan ten grondslag liggende overwegingen komt het middel voor het overige op.
+
+3.3.2. In zoverre kan het middel evenmin tot cassatie leiden. De door het Hof beoordeelde situatie verschilt, gelijk het Hof terecht heeft geoordeeld, niet wezenlijk van de situatie waarin D alle aandelen in belanghebbende zou verkrijgen van B en deze aandelen onmiddellijk zou gaan houden. Een redelijke wetstoepassing brengt mee dat in een zodanig geval de in artikel 40a van de Wet neergelegde faciliteit eveneens toepassing vindt.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad verwerpt het beroep.
+
+Dit arrest is op 3 januari 1996 vastgesteld door de vice-president R.J.J. Jansen als voorzitter, en de raadsheren Van der Linde, Bellaart, C.H.M. Jansen en Van der Putt-Lauwers, in tegenwoordigheid van de waarnemend griffier Lubbers, en op die datum in het openbaar uitgesproken.
+
+Van de Staatssecretaris van Financiën wordt ter zake van dit beroep een recht geheven van ƒ 300,--.
