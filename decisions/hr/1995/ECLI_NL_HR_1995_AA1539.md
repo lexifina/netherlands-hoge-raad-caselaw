@@ -1,0 +1,33 @@
+---
+ecli: "ECLI:NL:HR:1995:AA1539"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30207"
+decided: "1995-04-05"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1995:AA1539"
+published_in: ["Rechtspraak.nl", "BNB 1995/165 met annotatie van J.W. Zwemmer", "FED 1995/310", "FED 1995/430 met annotatie van J.E.A.M. VAN DIJCK", "WFR 1995/558, 1", "V-N 1995/1416, 12 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1995:AA1539 Hoge Raad , 05-04-1995 / 30207
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Staatssecretaris van Financiën tegen de uitspraak van het Gerechtshof te Amsterdam  van 11 maart 1994 betreffende de aan X te Z voor het jaar 1991 opgelegde aanslag inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1991 een aanslag inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van ƒ 144.129,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft die uitspraak vernietigd en de aanslag verminderd tot een aanslag berekend naar een belastbaar inkomen van ƒ 140.780,--. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Staatssecretaris van Financiën heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft een vertoogschrift ingediend.
+
+3. Beoordeling van het middel 3.1. In cassatie kan van het volgende worden uitgegaan. Belanghebbende is verbonden aan een academisch ziekenhuis. In het jaar 1991 heeft hij twee congressen bezocht. De daaraan verbonden kosten hebben in totaal ƒ 7.285,-- bedragen, waarvan, na aftrek van een van zijn werkgever ontvangen vergoeding ten bedrage van ƒ 3.446,--, een bedrag van ƒ 3.839,-- voor rekening van belanghebbende is gekomen. Belanghebbende heeft op grond van het bepaalde in artikel 36, lid 2, aanhef en letter g, van de Wet op de inkomstenbelasting 1964 (tekst 1990; hierna de Wet) ƒ 1.000,--, plus 75 percent van ƒ 2.839,--, dat is in totaal ƒ 3.129,-- als congreskosten in aftrek gebracht. De Inspecteur is uitgegaan van het in evenbedoeld artikel genoemde maximaal aftrekbare bedrag van ƒ 3.250,-- en heeft daarop het bedrag van de van de werkgever ontvangen vergoeding in mindering gebracht, zodat per saldo voor belanghebbende niets aftrekbaar was. 3.2. Het Hof heeft de congreskosten voor een bedrag van ƒ 3.129,-- in aftrek toegelaten. 3.3. In het middel wordt uitgegaan van de juiste opvatting dat ter zake van de kosten van woon-werkverkeer van de werkgever ontvangen vergoedingen niet eerst in mindering worden gebracht op de werkelijke kosten alvorens die kosten worden getoetst aan het forfaitair aftrekbare bedrag, maar rechtstreeks in mindering komen op dat forfaitair aftrekbare bedrag. Immers, tot 1 januari 1990 vloeide dit voort uit het systeem van de artikelen 35 en 36 van de Wet en het bepaalde in artikel 3, lid 8, van de Uitvoeringsbeschikking inkomstenbelasting 1964 - zij het dat dit laatste artikel in een bijzondere situatie als aangegeven in het arrest van de Hoge Raad van 9 september 1992, nr. 28.268, BNB 1992/381 onverbindend was - en uit niets blijkt dat de wetgever met ingang van 1990 in dit systeem wijziging heeft willen brengen. 3.4. Echter, anders dan in het middel wordt betoogd brengt het vorenstaande niet mede dat dit wettelijke systeem met ingang van 1990 ook is gaan gelden voor alle overige kosten waarvoor in artikel 36, lid 2, nadere regelingen zijn gegeven. Immers, het voor het woon-werkverkeer geldende systeem vormde een afzonderlijke, van het normale wettelijke systeem afwijkende regeling en uit de geschiedenis van de "Oort"-wetgeving blijkt niet dat de wetgever afwijkende regeling ook voor de overige aftrekbare kosten heeft willen laten gelden. 3.5. Gelet op het in 3.4 overwogene ligt het voor de hand om voor de bepaling van het bedrag dat ter zake van andere aftrekbare kosten dan de kosten van woon-werkverkeer voor aftrek in aanmerking komt, zoveel mogelijk aan te sluiten bij hetgeen voor die andere aftrekbare kosten gold in de tot 1990 geldende regeling. Zulks brengt voor de kosten als bedoeld in artikel 36, lid 2, letter g, mee dat - nu de werkelijk gemaakte kosten volledig belastingvrij mogen worden vergoed - belastingvrije vergoedingen in mindering moeten worden gebracht op de werkelijk gemaakte kosten waarop zij betrekking hebben en dat het bedrag van de niet-vergoede kosten wordt getoetst aan het maximaal aftrekbare bedrag. Deze uitleg is in overeenstemming met de toelichting die door het Tweede-kamerlid De Grave is gegeven op het amendement dat heeft geleid tot de hier van toepassing zijnde tekst van artikel 36, lid 2, letter g, luidende voor zover hier van belang: "Het maximum van ƒ 4.000,-- voor het meerdere is gesteld omdat het hierbij gaat om zakelijke kosten, namelijk om kosten van verwerving die de werkgever niet vergoedt. Indien meer dan ƒ 4.000,-- zou worden vergoed - bedoeld is kennelijk: zou worden opgevoerd - buiten de vergoedingen door de werkgever, is er in overheersende mate een privé-keuze aanwezig die zich niet leent voor aftrek in het kader van kosten  van verwerving" (Handelingen UCV 1988/89, nr. 26, blz. 57). 3.6. Bij aftrekbare kosten die slechts tot een bepaald bedrag aftrekbaar zijn en ook slechts tot dat bedrag belastingvrij kunnen worden vergoed, zoals het geval is bij autokosten, zal een vergoeding tot gevolg hebben dat de aftrek niet hoger kan zijn dan het verschil tussen het genormeerde bedrag en de vergoeding. 3.7. Uit het vorenoverwoge volgt dat het middel niet tot cassatie kan leiden.
+
+4. Proceskosten De Hoge Raad zal met het oog op een eventuele veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken belanghebbende in de gelegenheid stellen zich uit te laten als hierna bepaald.
+
+5. Beslissing De Hoge Raad verwerpt het beroep en stelt belanghebbende in de gelegenheid binnen 6 weken na heden zich uit te laten omtrent een eventuele veroordeling van de wederpartij in de kosten van het geding in cassatie.
+
+Dit arrest is op 5 april 1995 vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Wildeboer, Urlings, Zuurmond en Fleers, in tegenwoordigheid van de waarnemend griffier Van der Vegt, en op die datum in het openbaar uitgesproken.
+
+Van de Staatssecretaris van Financiën wordt ter zake van dit beroep een recht geheven van ƒ 300,--.
