@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2002:AD8475"
-published_in: ["Rechtspraak.nl", "PW 2002, 21474", "BNB 2002/136 met annotatie van M.W.C. FETERIS", "FED 2002/60", "FED 2002/307 met annotatie van J.J. VETTER", "WFR 2002/200", "V-N 2002/7.5 met annotatie van Redactie", "JB 2002/44 met annotatie van R.M.P.G.N.-C."]
+published_in: ["Rechtspraak.nl", "PW 2002, 21474", "BNB 2002/136 met annotatie van M.W.C. FETERIS", "FED 2002/60", "FED 2002/307 met annotatie van J.J. VETTER", "WFR 2002/200", "V-N 2002/7.5", "JB 2002/44 met annotatie van Rosery Niessen-Cobben", "NTFR 2002/175 met annotatie van Jhr. mr. W.E.M. van Nispen tot Sevenaer"]
 cites_law: ["netherlands/national/acts/awr/art-029.md", "netherlands/national/acts/awr/art-047.md"]
 ---
 
