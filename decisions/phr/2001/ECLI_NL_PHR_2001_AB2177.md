@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2001:AB2177"
-published_in: ["Rechtspraak.nl", "NJ 2001, 477", "RvdW 2001, 111", "ROR 2001, 20", "Ondernemingsrecht 2001, 53 met annotatie van F.B.J. Grapperhaus", "JAR 2001/128", "JOR 2001/146 met annotatie van SCJJK"]
+published_in: ["Rechtspraak.nl", "NJ 2001, 477", "RvdW 2001, 111", "ROR 2001, 20", "Ondernemingsrecht 2001, 53 met annotatie van F.B.J. Grapperhaus", "JAR 2001/128", "JOR 2001/146 met annotatie van prof. mr. S.C.J.J. Kortmann"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2001:AB2177"]]
 ---
 
