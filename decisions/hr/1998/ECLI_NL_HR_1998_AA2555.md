@@ -1,0 +1,41 @@
+---
+ecli: "ECLI:NL:HR:1998:AA2555"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33417"
+decided: "1998-08-26"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2555"
+published_in: ["Rechtspraak.nl", "PW 1999, 21013", "BNB 1998/409 met annotatie van R.J. DE VRIES", "FED 1998/698", "FED 1999/154 met annotatie van R.P.C. CORNELISSE", "WFR 1998/1532, 2", "V-N 1998/51.15 met annotatie van Redactie", "TVVS 1998, 164 met annotatie van H.G.M. Dijstelbloem", "AA19990173 met annotatie van Zwemmer J.W. Jaap", "FutD 1998-1676 met annotatie van Fiscaal up to Date"]
+---
+
+# ECLI:NL:HR:1998:AA2555 Hoge Raad , 26-08-1998 / 33417
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de besloten vennootschap met beperkte aansprakelijkheid X B.V. te Z tegen de uitspraak van het Gerechtshof te Arnhem van 30 mei 1997 betreffende de haar voor het jaar 1991 opgelegde aanslag in de vennootschapsbelasting.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1991 een aanslag in de vennootschapsbelasting opgelegd naar een belast baar bedrag van f 6.653.920,--, welke aanslag, na daarte gen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is tegen die uitspraak in beroep geko men bij het Hof, dat deze uitspraak heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen ´s Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoog schrift het cassatieberoep bestreden. Belanghebbende heeft de zaak doen toelichten door mr dr R.W.F. Hendriks, advocaat te ´s-Hertogenbosch.
+
+3. Beoordeling van de middelen van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Bij overeenkomst van 20 november 1990 hebben zeven Nederlandse fabrikanten van a-producten zich in het kader van een herstructurering binnen de Nederlandse a- industrie verplicht tot het terugbrengen van de productie van a in de jaren 1991 tot en met 1995, alsmede tot het betalen, vanaf 1 januari 1991, van bedragen aan de Stichting D. Belanghebbende was bij deze overeenkomst geen partij, doch heeft zich op 29 januari 1991 - eenzijdig - bereid verklaard, ingaande 1 januari 1991, haar productie van a voor de duur van twee jaren met circa 10% terug te brengen en per kwartaal aan de Stichting D te betalen een bedrag van f 2,50 per 1000 a-producten, berekend over haar productiecapaciteit van 35 miljoen a- producten, op jaarbasis een bedrag van f 350.000,--. Bij brief van 21 november 1991 vulde zij deze verklaring aan door te verklaren over de jaren 1993 tot en met 1995 de productie van a te handhaven op het in die verklaring aangegeven niveau en in de jaren 1993 tot en met 1996 per kwartaal een bedrag te betalen van f 2,50 per 1000 a-producten, berekend over de totale werkelijke productie in het desbetreffende kwartaal. In verband met bezwaren van de Commissie van de Europese Gemeenschappen tegen de overeenkomst van 20 november 1990 werd op 25 augustus 1992 een aangepaste overeenkomst gesloten. Belanghebbende was bij deze overeenkomst partij. In haar aangifte vennootschapsbelasting voor het onderhavige jaar (1991) vermeldde belanghebbende ter zake van bedoelde saneringsregeling een voorziening ten bedrage van f 2.825.347,--.
+
+3.2. Het Hof heeft - overeenkomstig het standpunt van de Inspecteur - beslist dat het uit de overeenkomst van 25 augustus 1992 voortvloeiende bedrag van f 2.475.347,--, zijnde de contante waarde van de geschatte betalingen aan de Stichting D in de periode tot en met 30 september 1997, niet als voorziening in het onderhavige jaar in aanmerking kan worden genomen.
+
+3.3. Aan deze beslissing ligt ten grondslag het oordeel dat ter zake van die toekomstige betalingen slechts dan een voorziening kan worden gevormd, indien sprake is van een op balansdatum bestaande rechtsverhouding, waaruit de verplichting tot het doen van die betalingen voortvloeit. 3.4. Dit oordeel is in overeenstemming met de opvatting van de Hoge Raad, dat op grond van goed koopmansgebruik bij de bepaling van de uit een onderneming in enig jaar genoten winst in de eindbalans van dat jaar een passiefpost mag worden opgenomen voor verplichtingen die kunnen voortvloeien uit een reeds bestaande rechtsverhouding (onder andere de arresten van de Hoge Raad van 16 mei 1956, nr. 12733, BNB 1956/205, 4 juli 1990, nr. 25804, BNB 1990/264, 22 december 1993, nr. 29230, BNB 1994/121 en 19 juni 1996, nr. 30823, BNB 1996/264).
+
+3.5. Als gevolg van de aan het opnemen van een voorziening gestelde eis van het op de balansdatum bestaan van een rechtsverhouding, kan de hiervóór in 3.4 weergegeven opvatting tot onbevredigende uitkomsten leiden, waarbij geen recht wordt gedaan aan het beginsel van goed koopmansgebruik dat ter zake van toekomstige uitgaven een passief post mag worden opgenomen in het jaar, waarin zij worden opgeroepen. Dit doet zich met name voor bij toekomstige uitgaven, die weliswaar niet voortvloeien uit een op de balansdatum bestaande rechtsverhouding, doch wel hun oorsprong vinden in feiten en omstandigheden die zich in de periode voorafgaande aan de balansdatum hebben voorgedaan. Hoewel goed koopmansgebruik verlangt dat met deze uitgaven door het opnemen van een passiefpost op de balansdatum rekening wordt gehouden, is zulks bij het ontbreken van een op de balansdatum bestaande rechtsverhouding en behoudens de gevallen, waarbij de uitoefening van een onderneming noodzakelijkerwijs leidt tot kosten die worden opgeroepen door de productie in enig jaar van de in de onderneming voortgebrachte zaken, doch pas in een volgend jaar tot een uitgaaf leiden, ingevolge de rechtspraak van de Hoge Raad tot dusver niet mogelijk.
+
+3.6. Gelet op het hiervóór in 3.5 vermelde bezwaar, is de Hoge Raad tot de conclusie gekomen dat het voor de passivering gestelde vereiste van een op de balansdatum bestaande rechtsverhouding, welk civielrechtelijk vereiste ook niet past in het op de bedrijfseconomie gegronde begrip goed koopmansgebruik en voorts in de literatuur is omstreden, niet moet worden gehandhaafd, doch moet worden toegestaan dat bij de bepaling van de winst voor een zeker jaar ter zake van toekomstige uitgaven een passiefpost wordt gevormd, indien die uitgaven hun oorsprong vinden in feiten of omstandigheden, die zich in de periode voorafgaande aan de balansdatum hebben voorgedaan en ook overigens aan die periode kunnen worden toegerekend, en ter zake waarvan een redelijke mate van zekerheid bestaat dat zij zich zullen voordoen.
+
+3.7. Uit het voorgaande volgt dat de middelen, die zich tegen de hiervóór in 3.2 genoemde beslissing van het Hof richten, slagen. 's Hofs uitspraak kan derhalve niet in stand blijven; verwijzing moet volgen.
+
+4. Proceskosten De Hoge Raad acht termen aanwezig om ten aanzien van de proceskosten die belanghebbende in verband met de behandeling van het geding in cassatie redelijkerwijs heeft moeten maken, te beslissen als hierna zal worden vermeld. De vraag of aan belanghebbende voor de kosten in verband met de behandeling van het geding voor het Hof een vergoeding dient te worden toegekend, zal door het verwijzingshof worden beoordeeld.
+
+5. Beslissing De Hoge Raad: vernietigt de uitspraak van het Hof; verwijst het geding naar het Gerechtshof te 's-Hertogenbosch ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest; gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van f 315,--; veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 5.680,-- voor beroepsmatig verleende rechtsbijstand.
+
+Dit arrest is op 26 augustus 1998 vastgesteld door de vice-president R.J.J. Jansen als voorzitter, en de raadsheren Bellaart, Van der Putt-Lauwers, Van Brunschot en Meij, in tegenwoordigheid van de waarnemend griffier Van Hooff, en in het openbaar uitgesproken.
