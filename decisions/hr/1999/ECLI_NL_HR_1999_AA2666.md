@@ -1,0 +1,36 @@
+---
+ecli: "ECLI:NL:HR:1999:AA2666"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33485"
+decided: "1999-02-17"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2666"
+published_in: ["Rechtspraak.nl", "FED 1999/376 met annotatie van C. OVERDUIN", "BNB 1999/197 met annotatie van B.G. van Zadelhoff", "FED 1999/170", "FED 1999/169", "BNB 1999/226 met annotatie van J. Brunt", "FED 1999/380 met annotatie van C.J. HUMMEL", "WFR 1999/283", "WFR 1999/283, 1", "V-N 1999/13.26 met annotatie van Redactie", "V-N 1999/13.24 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-009.md"]
+---
+
+# ECLI:NL:HR:1999:AA2666 Hoge Raad , 17-02-1999 / 33485
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de stichting X te Z tegen de uitspraak van het Gerechtshof te Leeuwarden van 23 mei 1997 betreffende na te melden naheffingsaanslag in de omzetbelasting.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is over het tijdvak 1 januari 1987 tot en met 31 december 1991 een naheffingsaanslag in de omzetbelasting opgelegd. De Inspecteur heeft op 10 november 1992 de naheffingsaanslag ambtshalve verminderd tot een aanslag ten bedrage van ƒ 5.186.600,-- aan enkelvoudige belasting en ƒ 141.138,-- aan verhoging. Op het tegen de aanslag gemaakte bezwaar is deze bij uitspraak van de Inspecteur van 12 februari 1993 gehandhaafd. Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof, dat deze uitspraak heeft vernietigd, en de naheffingsaanslag heeft gehandhaafd overeenkomstig de ambtshalve vermindering van 10 november 1992 op een bedrag van ƒ 5.186.600,-- aan enkelvoudige belasting en ƒ 141.138,-- aan verhoging. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van het middel van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Belanghebbende, exploitante van een ziekenhuis, heeft op 1 mei 1990 voor bedrijfsdoeleinden beschikt over een nieuw ziekenhuis dat in haar opdracht onder terbeschikkingstelling van stoffen is vervaardigd en daarmee dit ziekenhuis geleverd in de zin van artikel 3, lid 1, aanhef en letter h, van de Wet op de omzetbelasting 1968 (hierna: de Wet). De ter zake van de nieuwbouw van dit ziekenhuis aan haar in rekening gebrachte omzetbelasting heeft belanghebbende tot een bedrag van ƒ 17.123.676,-- in aftrek gebracht. Ter zake van de hiervóór bedoelde levering heeft zij een bedrag van ƒ 12.000.000,-- op aangifte voldaan. Per 1 januari 1989 is het algemene tarief van de omzetbelasting verlaagd van 20 percent naar 18,5 percent. De Inspecteur heeft de ter zake van de hiervóór bedoelde levering verschuldigde omzetbelasting met toepassing van artikel II, lid 5, van de Wet van 21 december 1988, Stb. 614 (hierna: de Overgangsbepalingen 1988) uiteindelijk berekend op ƒ 17.186.000,-- en een bedrag van ƒ 5.186.600 nageheven. Naar belanghebbendes mening dient de naheffingsaanslag verminderd te worden met een bedrag, groot ƒ 517.805,--, aangezien artikel II, lid 5, van de Overgangsbepalingen 1988, als strijdig met artikel 12 van de Zesde Richtlijn, niet dient te worden toegepast.
+
+3.2. Het Hof heeft geoordeeld dat uit artikel 12, lid 2, van de Zesde Richtlijn blijkt dat de Raad van de Europese Gemeenschappen het aan de Lid-Staten heeft overgelaten ingeval van tariefswijzigingen desgewenst passende overgangsmaatregelen te treffen. Hiermee is naar 's Hofs oordeel in beginsel niet in strijd een overgangsregeling die voorziet in de mogelijkheid dat de belastingschuld wordt vastgesteld naar een ander tarief dan geldt op het tijdstip waarop het belastbaar feit plaatsvindt èn de belastingschuld ontstaat. Artikel II, leden 4 en 5, van de Overgangsbepalingen 1988 luiden: "4. Ingeval een ondernemer ingevolge een vóór 1 januari 1989 gesloten overeenkomst na 31 december 1988 een onroerend goed levert of een werk in onroerende staat oplevert tegen een vergoeding welke vervalt in termijnen naarmate het werk vordert, blijft ten aanzien van het gedeelte van de vergoeding dat gelijk is aan de som van die termijnen die op grond van die overeenkomst vóór 1 januari 1989 zijn vervallen, de verlaging van de omzetbelasting van 20 tot 18,5 percent buiten toepassing. 5. Ingeval een ondernemer na 31 december 1988 een onroerend goed levert in de zin van artikel 3, eerste lid, onderdeel h, van de Wet op de omzetbelasting 1968, welk onroerend goed ingevolge een vóór 1 januari 1989 gesloten overeenkomst in opdracht is vervaardigd onder terbeschikkingstelling van stoffen, waaronder grond is begrepen, blijft de verlaging van de omzetbelasting van 20 tot 18,5 percent buiten toepassing ten aanzien van het gedeelte van de vergoeding dat gelijk is aan de som van de termijnen die op grond van die overeenkomst vóór 1 januari 1989 zijn vervallen naarmate het werk is gevorderd en de in de vergoeding begrepen kosten van de vóór die datum ter beschikking gestelde stoffen."
+
+Het Hof heeft voormeld lid 5 van artikel II van de Overgangsbepalingen 1988 aangemerkt als passend in de zin van artikel 12, lid 2, van de Zesde Richtlijn, aangezien  - verkort weergegeven - indien de Wet niet zou voorzien in een levering als bedoeld in artikel 3, lid 1, letter h, van de Wet in gevallen als het onderhavige, waarin een goed op de voet van artikel 3, lid 1, onderdeel c, van de Wet wordt geleverd, de belastingplichtige zou worden geconfronteerd met de uit laatstbedoelde levering voortvloeiende belastingdruk, welke in het geval van de onderhavige tariefswijziging inhoudt dat termijnen vervallen vóór 1 januari 1989 worden belast naar het toen geldende tarief van 20 percent. Dit oordeel is juist. De overgangsregeling als bedoeld in voornoemd lid 5, is, naar redelijkerwijs niet voor twijfel vatbaar is, passend in de zin van artikel 12, lid 2, van de Zesde Richtlijn, nu een soortgelijke overgangsregeling van toepassing is ten aanzien van de levering van een onroerende  zaak of een oplevering van een werk in onroerende staat en de laatstgenoemde overgangsregeling, naar eveneens redelijkerwijs niet voor twijfel vatbaar is, als zodanig passend is. Het middel, dat de klacht behelst, dat het Hof voor de beoordeling van het passend zijn van artikel II, lid 5, van de Overgangsbepalingen 1988 geen vergelijking had moeten maken met een levering op grond van artikel 3, lid 1, letter, c van de Wet maar met een levering op grond van artikel 3, lid 1, letter a en/of e, van de Wet, faalt derhalve.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad verwerpt het beroep.
+
+Dit arrest is op 17 februari 1999 vastgesteld door de vice-president R.J.J. Jansen als voorzitter, en de raadsheren De Moor, Van Brunschot, Van Vliet en Hammerstein, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken.
