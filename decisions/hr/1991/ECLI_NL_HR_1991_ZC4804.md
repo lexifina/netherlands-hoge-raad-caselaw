@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1991:ZC4804"
-published_in: ["Rechtspraak.nl", "Belastingblad 1992/73 met annotatie van J.P. Kruimel", "BNB 1992/47 met annotatie van G.J. van Leijenhorst", "FED 1992/16", "FED 1992/56 met annotatie van W.J.N.M. SNOIJINK", "V-N 1992/173, 37", "FutD 1992-0029"]
+published_in: ["Rechtspraak.nl", "Belastingblad 1992/73 met annotatie van J.P. Kruimel", "BNB 1992/47 met annotatie van G.J. van Leijenhorst", "FED 1992/16", "FED 1992/56 met annotatie van W.J.N.M. SNOIJINK", "V-N 1992/173, 37"]
 cites_law: ["netherlands/national/acts/gemeentewet/art-273.md"]
 ---
 
