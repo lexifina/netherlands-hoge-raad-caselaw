@@ -1,0 +1,73 @@
+---
+ecli: "ECLI:NL:HR:1998:AE4714"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33090"
+decided: "1998-09-23"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AE4714"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:HR:1998:AE4714 Hoge Raad , 23-09-1998 / 33090
+
+## Uitspraak
+
+Nr. 33.090
+
+23 september 1998
+
+PdM
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Arnhem van 21 januari 1997 betreffende de hem voor het jaar 1993 opgelegde aanslag inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof
+
+Aan belanghebbende is voor het jaar 1993 een aanslag inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van f 77.291,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd.
+
+Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof.
+
+Het Hof heeft die uitspraak bevestigd.
+
+2. Geding in cassatie
+
+Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld en daarbij twee middelen van cassatie voorgesteld.
+
+De Staatssecretaris van Financiën heeft een vertoogschrift ingediend.
+
+Belanghebbende heeft de zaak doen toelichten door mr. J.G. Schouten, advocaat te Arnhem.
+
+3. Beoordeling van de middelen
+
+3.1. Belanghebbende heeft zich voor het Hof op het gelijkheidsbeginsel beroepen, aldus, dat volgens hem slechts aan hemzelf en zijn collega's D genaamd E en C (navorderings)aanslagen in de inkomstenbelasting zijn opgelegd, terwijl ten aanzien van andere collega's die in de zienswijze van de belastingdienst evenzeer zwart loon hebben genoten, is volstaan met naheffing van loonbelasting/premie volksverzekeringen bij de werkgever. Het Hof heeft dienaangaande geoordeeld dat belanghebbende tegenover de gemotiveerde betwisting door de Inspecteur geen enkel concreet gegeven heeft aangevoerd met betrekking tot die collega's waaruit zou kunnen volgen dat de Inspecteur in dezen ten aanzien van die collega's een (begunstigend) beleid heeft gevoerd waarvan ten nadele van belanghebbende is afgeweken.
+
+3.2. Dit oordeel wordt in het eerste middel terecht als onbegrijpelijk bestreden. In de laatste alinea van het door de Inspecteur als produktie 1 bij zijn vertoogschrift gevoegde fiscaal rapport, waarnaar de Inspecteur verwijst ter weerlegging van de door belanghebbende geuite veronderstelling dat sprake zou kunnen zijn van dubbel belasten ter zake van hetzelfde veronderstelde zwarte loon, is immers vermeld:
+
+"voor zover mogelijk wordt geadviseerd navorderingsaanslagen IB 1989 t/m 1993 op te leggen, dan wel bij primitieve regeling met vorenstaande zwart genoten inkomens rekening te houden. Voorgesteld wordt met vorenstaande netto-inkomsten in de IB-sfeer rekening te houden zonder verrekening van voorheffingen. Bij handelmaatschappij A BV, de werkgever, zijn vorenstaande uitbetalingen niet meegenomen in de gebruteerde lonen en daarover opgelegde naheffingsaanslagen".
+
+Voorts laten de overige bij het vertoogschrift van de Inspecteur gevoegde stukken geen andere conclusie toe dan dat het bij de veronderstelde betalingen van zwart loon ging om ten minste een twintigtal werknemers.
+
+3.3. Uit een en ander volgt dat belanghebbendes beroep op het gelijkheidsbeginsel zozeer wordt ondersteund door de door de Inspecteur zelf overgelegde gedingstukken dat het bestreden oordeel van het Hof inderdaad onbegrijpelijk is. Indien immers ten aanzien van in dezelfde situatie verkerende werknemers die zwart loon hebben genoten, in een aantal gevallen wordt nageheven bij een werkgever die de nageheven belasting en premie volksverzekeringen niet zal verhalen, en van andere werknemers (met verhoging) inkomstenbelasting wordt geheven, is sprake van een ongelijke behandeling van gelijke gevallen. Daarvoor kan een goede grond bestaan, maar de inspecteur dient dit dan te stellen en zonodig aannemelijk te maken.
+
+3.4. Hierbij is van belang dat, mocht 's Hofs oordeel berusten op de gedachte dat hier alleen van belang is hoe ten aanzien van de onder het ambtsgebied van de Inspecteur vallende werknemers van A BV is gehandeld - de door het Hof aan zijn oordeel toegevoegde opmerking dat de Inspecteur onbestreden heeft aangevoerd dat de twee onder haar inspectie vallende werknemers van A BV op gelijke wijze zijn behandeld wijst in die richting - sprake is van een onjuiste rechtsopvatting. In een geval van een FIOD-onderzoek als het onderhavige brengt een behoorlijke taakvervulling van de daarbij betrokken eenheden van de belastingdienst mee dat deze ter voorkoming van een ongerechtvaardigde ongelijke behandeling van de bij het onderzoek betrokken belasting- en inhoudingsplichtigen zorg dragen voor een onderlinge afstemming van de op grond van het onderzoek te nemen maatregelen. Het na verwijzing in te stellen onderzoek naar de gestelde ongerechtvaardigde ongelijke behandeling dient zich dan ook te richten op alle werknemers ten aanzien van wie in het FIOD-onderzoek het vermoeden is gerezen dat zij zwart loon hebben ontvangen. Middel I is in zoverre gegrond. Middel II behoeft geen behandeling. De uitspraak van het Hof kan niet in stand blijven en verwijzing moet volgen voor een onderzoek in volle omvang.
+
+4. Proceskosten
+
+De Staatssecretaris van Financiën zal worden veroordeeld in de kosten van het geding in cassatie. Hierbij wordt in aanmerking genomen dat de zaak met nr. 33088, die betrekking heeft op een andere belanghebbende, met de onderhavige zaak samenhangt in de zin van het Besluit proceskosten fiscale procedures. De vraag of in verband met de behandeling van het geding voor het Hof aan belanghebbende een vergoeding voor proceskosten dient te worden toegekend, zal door het verwijzingshof moeten worden beoordeeld.
+
+5. Beslissing
+
+De Hoge Raad:
+
+- vernietigt de uitspraak van het Hof,
+
+- verwijst het geding naar het Gerechtshof te 's-Hertogenbosch ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest,
+
+- veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 1.420,-- voor beroepsmatig verleende rechtsbijstand, en
+
+- gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze terzake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van f 300,--.
+
+Dit arrest is op 23 september 1998 vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Zuurmond, Pos, Beukenhorst en Monné, in tegenwoordigheid van de waarnemend griffier Dekker-Barendse, en op die datum in het openbaar uitgesproken.
