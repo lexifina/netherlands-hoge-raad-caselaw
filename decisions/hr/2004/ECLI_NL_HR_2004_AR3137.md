@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AR3137"
-published_in: ["Rechtspraak.nl", "JOL 2004, 611", "NJ 2005, 199 met annotatie van P. van Schilfgaarde", "RvdW 2004, 129", "TvI 2005, 15 met annotatie van N.E.D. Faber", "JWB 2004/401", "JOR 2005/19 met annotatie van A. Steneker", "RV 2014/142 met annotatie van Redactie van Rechtspraak Vermogensrecht"]
+published_in: ["Rechtspraak.nl", "JOL 2004, 611", "NJ 2005, 199 met annotatie van P. van Schilfgaarde", "RvdW 2004, 129", "TvI 2005, 15 met annotatie van N.E.D. Faber", "JWB 2004/401", "JOR 2005/19 met annotatie van A. Steneker", "RV 2014/142 met annotatie van mr. A.J. van der Lely, prof. mr. A.I.M. van Mierlo, prof. mr. S.E. Bartels"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2004:AR3137"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2003:AF8402"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-054.md", "netherlands/national/acts/wet-rechterlijke-organisatie/art-081.md"]
 ---
