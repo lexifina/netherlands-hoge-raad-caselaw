@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AN7817"
-published_in: ["Rechtspraak.nl", "JOL 2003, 689", "NJ 2004, 293 met annotatie van P. van Schilfgaarde", "RvdW 2004, 8", "JWB 2003/479", "RV 2014/133 met annotatie van Redactie van Rechtspraak Vermogensrecht"]
+published_in: ["Rechtspraak.nl", "JOL 2003, 689", "NJ 2004, 293 met annotatie van P. van Schilfgaarde", "RvdW 2004, 8", "JWB 2003/479", "RV 2014/133 met annotatie van mr. A.J. van der Lely, prof. mr. A.I.M. van Mierlo, prof. mr. S.E. Bartels"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2003:AN7817"]]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-162.md", "netherlands/national/acts/faillissementswet/art-063a.md"]
 ---
