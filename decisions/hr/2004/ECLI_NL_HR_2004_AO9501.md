@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO9501"
-published_in: ["Rechtspraak.nl", "BNB 2004/244", "FED 2004/291", "WFR 2004/818", "V-N 2004/27.18 met annotatie van Redactie", "FutD 2004-0899"]
+published_in: ["Rechtspraak.nl", "BNB 2004/244", "FED 2004/291", "WFR 2004/818", "V-N 2004/27.18", "NTFR 2004/737 met annotatie van drs. M. Schuver-Bravenboer"]
 ---
 
 # ECLI:NL:HR:2004:AO9501 Hoge Raad , 14-05-2004 / 38998
