@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1997:AA3216"
-published_in: ["Rechtspraak.nl", "RSV 1997, 202", "BNB 1997/309 met annotatie van P. Kavelaars", "FED 1997/586", "WFR 1997/1052, 1", "V-N 1997/2757, 22 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "RSV 1997, 202", "BNB 1997/309 met annotatie van P. KAVELAARS", "FED 1997/586", "WFR 1997/1052, 1", "V-N 1997/2757, 22"]
 cites_law: ["netherlands/national/acts/algemene-ouderdomswet/art-006.md"]
 ---
 
