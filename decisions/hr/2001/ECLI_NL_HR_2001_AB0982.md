@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AB0982"
-published_in: ["Rechtspraak.nl", "FED 2001/269", "BNB 2001/244", "FED 2001/416 met annotatie van J.W. VERSTRAATE", "WFR 2001/522", "V-N 2001/22.18 met annotatie van Redactie", "FutD 2001-0728"]
+published_in: ["Rechtspraak.nl", "FED 2001/269", "BNB 2001/244", "FED 2001/416 met annotatie van J.W. VERSTRAATE", "WFR 2001/522", "V-N 2001/22.18", "NTFR 2001/609 met annotatie van dr. A. van Dongen"]
 cites_law: ["netherlands/national/acts/uitvoeringsbesluit-omzetbelasting-1968/art-020.md", "netherlands/national/acts/uitvoeringsbesluit-omzetbelasting-1968/art-021.md"]
 ---
 
