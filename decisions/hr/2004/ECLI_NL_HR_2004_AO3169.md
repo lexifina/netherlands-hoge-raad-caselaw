@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO3169"
-published_in: ["Rechtspraak.nl", "BNB 2004/155", "FED 2004/84", "WFR 2004/250, 1", "V-N 2004/11.18 met annotatie van Redactie", "FutD 2004-0226"]
+published_in: ["Rechtspraak.nl", "BNB 2004/155", "FED 2004/84", "WFR 2004/250, 1", "V-N 2004/11.18 met annotatie van Redactie", "NTFR 2004/200 met annotatie van mr. J.A.W. Vrolijks"]
 cites_law: ["netherlands/national/acts/wet-arbeidsongeschiktheidsverzekering-zelfstandigen/art-003.md"]
 ---
 
