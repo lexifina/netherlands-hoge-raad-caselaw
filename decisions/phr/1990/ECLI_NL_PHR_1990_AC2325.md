@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:PHR:1990:AC2325"
 court: "Parket bij de Hoge Raad"
 court_code: "PHR"
-docket: "13 748"
+docket: "13.748"
 decided: "1990-01-12"
 published: "2013-04-04"
 type: "conclusie"
@@ -12,7 +12,11 @@ published_in: ["Rechtspraak.nl", "NJ 1990, 662 met annotatie van P. van Schilfga
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:1990:AC2325"]]
 ---
 
-# ECLI:NL:PHR:1990:AC2325 Parket bij de Hoge Raad , 12-01-1990 / 13 748
+# ECLI:NL:PHR:1990:AC2325 Parket bij de Hoge Raad , 12-01-1990 / 13.748
+
+## Inhoudsindicatie
+
+Faillissementsrecht; Ontslag.
 
 ## Conclusie
 
@@ -61,7 +65,7 @@ Maar als er geen sprake is van een kennelijk onredelijk ontslag, is er voor voor
 
 4.1 Tegen 's hofs beslissing richt zich de eerste klacht van onderdeel 1 van het middel met het, door HR 23 mei 1980, NJ 1980, 502 PAS (Nebig/Nolen) geïnspireerde betoog, dat een overeenkomst als in casu neergelegd in het S.P., beoogt bij voorbaat de discussie uit te sluiten niet alleen over de hoogte van de voorziening in geval van kennelijk onredelijk ontslag, maar ook over de vraag of een ontslag zonder zodanige voorziening al dan niet kennelijk onredelijk is. En indien de overeenkomst ook met laatstgenoemd oogmerk zou zijn gesloten, dan zou deze ook de curator in het faillissement van de werkgever binden.
 
-4.2 Het schijnt mij toe dat de klacht faalt bij gebrek aan feitelijke grondslag. Rechtbank noch hof hebben immers vastgesteld dat VGB en de bonden bij het opstellen van het S.P. ook het als tweede genoemde oogmerk hebben gehad. Maar ook al zou het S.P. tevens deze strekking hebben gehad, dan is daarmee nog geen antwoord gegeven op de vraag of met deze strekking ook tijdens faillissement rekening kon worden gehouden: het oordeel over de kennelijke onredelijkheid van een ontslag is immers bij solventie van de werkgever niet hetzelfde als na zijn faillietverklaring, zie boven sub 3.2. Hier lag dan ook m.i. het doorslaggevend verschil met het genoemde arrest van 23 mei 1980, waar het ontslag zonder voorzieningen wel als kennelijk onredelijk kon worden aangemerkt nu het niet tijdens faillissement, maar nog bijna een jaar vóór de aan de werkgever verleende surséance van betaling was gegeven.
+4.2 Het schijnt mij toe dat de klacht faalt bij gebrek aan feitelijke grondslag. Rechtbank noch hof hebben immers vastgesteld dat [A] en de bonden bij het opstellen van het S.P. ook het als tweede genoemde oogmerk hebben gehad. Maar ook al zou het S.P. tevens deze strekking hebben gehad, dan is daarmee nog geen antwoord gegeven op de vraag of met deze strekking ook tijdens faillissement rekening kon worden gehouden: het oordeel over de kennelijke onredelijkheid van een ontslag is immers bij solventie van de werkgever niet hetzelfde als na zijn faillietverklaring, zie boven sub 3.2. Hier lag dan ook m.i. het doorslaggevend verschil met het genoemde arrest van 23 mei 1980, waar het ontslag zonder voorzieningen wel als kennelijk onredelijk kon worden aangemerkt nu het niet tijdens faillissement, maar nog bijna een jaar vóór de aan de werkgever verleende surséance van betaling was gegeven.
 
 4.3 Ook de tweede klacht van onderdeel 1 faalt m.i. Nu [A] en de bonden de krachtens het S.P. uit te keren vergoedingen hebben beschouwd als ‘’voorzieningen’’ in de zin van art. 1639s BW, kan een werknemer aan het S.P. geen rechten ontlenen indien er, ook zonder die voorzieningen, geen sprake is van een kennelijk onredelijk ontslag in de zin van art. 1639s BW.
 
@@ -69,7 +73,7 @@ Maar als er geen sprake is van een kennelijk onredelijk ontslag, is er voor voor
 
 4.5 Het hof heeft naar mijn mening derhalve geen blijk gegeven van een onjuiste rechtsopvatting, noch is zijn uitleg van hetgeen partijen zelf uitdrukkelijk als strekking van hun overeenkomst hebben aangemerkt, onbegrijpelijk. Onderdeel 1 acht ik derhalve ongegrond.
 
-5. Onderdeel 2 komt met een motiveringsklacht op tegen r.o. 4.5 waarin het hof voorbijgaat aan de stelling van [eiser] dat het S.P. als overeenkomst door curatoren is erkend (in het middel staat m.i. ten onrechte: ‘’moet worden erkend’’). Deze klacht mist feitelijke grondslag, zie de incidentele memorie van antwoord, p. 3 onder ‘’Overleg met curatoren’’ met de daarbij gevoegde produktie: de brief van 23 september 1981 waaruit blijkt, dat naar hun mening het S.P. in een faillissement geen effect, geen rechtsgevolg, heeft, maar voor zover die mening niet juist mocht zijn, het Plan wordt opgezegd.
+5. Onderdeel 2 komt met een motiveringsklacht op tegen r.o. 4.5 waarin het hof voorbijgaat aan de stelling van [eiser] dat het S.P. als overeenkomst door curatoren is erkend (in het middel staat m.i. ten onrechte: ‘’moet worden erkend’’). Deze klacht mist feitelijke grondslag, zie de incidentele memorie van antwoord, p. 3 onder ‘’Overleg met curatoren’’ met de daarbij gevoegde productie: de brief van 23 september 1981 waaruit blijkt, dat naar hun mening het S.P. in een faillissement geen effect, geen rechtsgevolg, heeft, maar voor zover die mening niet juist mocht zijn, het Plan wordt opgezegd.
 
 6. Daar ik geen van de onderdelen van het middel gegrond acht, concludeer ik tot verwerping van het beroep met veroordeling van eiser in de kosten van het geding in cassatie.
 
