@@ -1,0 +1,33 @@
+---
+ecli: "ECLI:NL:HR:1994:AA3010"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30075"
+decided: "1994-12-07"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1994:AA3010"
+published_in: ["Rechtspraak.nl", "NJ 1995, 301 met annotatie van J.M.M. Maeijer", "RvdW 1995, 9", "BNB 1995/49 met annotatie van Van Dijck", "FED 1995/12", "FED 1995/381 met annotatie van W.E.M. VAN NISPEN TOT SEVENAER", "WFR 1995/43, 2", "V-N 1995/58, 13 met annotatie van Redactie", "NV 1995, 10"]
+---
+
+# ECLI:NL:HR:1994:AA3010 Hoge Raad , 07-12-1994 / 30075
+
+## Uitspraak
+
+gewezen op het beroep van de Staatssecretaris van Financiën tegen de uitspraak van het Gerechtshof te Amsterdam van 29 december 1993 betreffende de aan X, overleden op 9 februari 1991, voor het jaar 1983 opgelegde aanslag in de inkomstenbelasting.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan X is voor het jaar 1983 een aanslag in de inkomstenbelasting opgelegd naar een belastbaar inkomen van f 3.744.507,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. De erven van X (hierna: belanghebbenden) zijn van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft die uitspraak vernietigd en de aanslag verminderd tot een aanslag berekend naar een belastbaar inkomen van f 1.700.460,--, waarvan een bedrag van f 1.217.063,-- belast naar het tarief van artikel 57, lid 2, van de Wet op de inkomstenbelasting 1964 (hierna: de Wet). De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Staatssecretaris van Financiën heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbenden hebben een vertoogschrift ingediend.
+
+3. Beoordeling van het middel en ambtshalve aanwezig bevonden grond voor cassatie 3.1. In cassatie kan van het volgende worden uitgegaan. Sedert 1979 hielden X en zijn onderscheidenlijk in 1963 en 1967 geboren zonen A en B elk 32 percent van de aandelen in C B.V. (hierna: Beheer). De overige aandelen waren in handen van een familielid. Op 8 augustus 1983 heeft Beheer haar 300 aandelen in D B.V. (hierna: werkmaatschappij) voor in totaal f 30.000,--, zijnde de nominale waarde, verkocht aan X en diens beide zonen. Het hierbij door hen tezamen behaalde voordeel, groot f 470.000,--, vormt een winstuitdeling door Beheer welke als inkomsten uit vermogen belast is. Na de verkoop hield X 50,57 percent van de aandelen in de werkmaatschappij en A evenals B 24,57 percent. Voordien hielden zij - middellijk en onmiddellijk - onderscheidenlijk 32,29 percent en 32 percent. De overige aandelen waren in handen van vorenbedoeld familielid. Op 15 augustus 1983 werden alle aandelen in Beheer, met een totale nominale waarde van f 25.000,--, voor een prijs van f 2.176.443,31 verkocht aan een bankconcern. 3.2. Partijen worden in cassatie nog slechts verdeeld gehouden door de vraag of het door A in 1983 bij de koop van de aandelen in de werkmaatschappij behaalde voordeel ten bedrage van f 109.666,-- naar burgerlijk recht als vrucht van de door hem gehouden aandelen in Beheer moet worden aangemerkt en derhalve valt onder het wettelijk vruchtgenot dat toekomt aan X. In het middel wordt, kort samengevat, betoogd dat het Hof door die vraag ontkennend te beantwoorden heeft miskend dat de uitdeling dividend in natura en als zodanig een vrucht van de aandelen is. 3.3. Het middel faalt. Het voordeel vindt zijn grond in de op 8 augustus 1983 tussen X en diens beide zonen enerzijds en Beheer anderzijds gesloten koopovereenkomst met betrekking tot de aandelen in de werkmaatschappij. De door deze koopovereenkomst bewerkstelligde onttrekking van vermogen aan Beheer door haar aandeelhouders vormt een gedeeltelijke realisering van het eigenlijke vermogensrecht van de aandeelhouders. Anders dan in het middel wordt betoogd is hierbij niet van belang dat de meerwaarde van de aandelen in de werkmaatschappij - naar in het middel wordt verondersteld - niet in de commerciële en fiscale vermogensopstelling van Beheer zichtbaar was gemaakt. 3.4. Met betrekking tot het oordeel van het Hof dat door B bij de verkoop van de aandelen in Beheer gemaakte winst, welke verkoop met de in 3.2 bedoelde transactie en andere in 's Hofs uitspraak nader aangeduide rechtshandelingen een samenhangend geheel van rechtshandelingen vormt, met toepassing van het leerstuk der wetsontduiking voor 76,78 percent dient te worden aangemerkt als, bij X belaste, inkomsten uit vermogen heeft het volgende te gelden. Ingevolge het arrest van de Hoge Raad van 4 mei 1994, nr. 29.087, gepubliceerd in BNB 1994/251 wordt, kort gezegd, een belastingplichtige wiens gerechtigdheid in de werkmaatschappij in het kader van een "kasgeld BV constructie" met meer dan 10 percent is verminderd vermoed zijn belang bij de daarin uitgeoefende ondernemingsactiviteiten niet geheel of nagenoeg geheel te hebben behouden, zodat dan voor toepassing van het leerstuk der wetsontduiking geen plaats is. Partijen hebben met dit arrest, waarin een door de Staatssecretaris van Financiën bij resolutie voorgeschreven berekeningswijze in strijd met het recht werd geoordeeld geen rekening kunnen houden. Zulks brengt mee dat partijen alsnog de gelegenheid moeten krijgen zich over de toepassing van het arrest in het onderhavige geval uit te laten. 3.5. 's Hofs uitspraak kan op grond van het in 3.4 overwogene niet in stand blijven. Verwijzing moet volgen.
+
+4. Proceskosten De Hoge Raad zal met het oog op een eventuele veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken belanghebbenden in de gelegenheid stellen zich uit te laten als hierna bepaald.
+
+5. Beslissing De Hoge Raad vernietigt de uitspraak van het Hof, behoudens de beslissing omtrent het griffierecht, wijst het geding terug naar het Gerechtshof te Amsterdam ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest en stelt belanghebbenden in de gelegenheid binnen 6 weken na heden zich uit te laten omtrent een eventuele veroordeling van de wederpartij in de kosten van het geding in cassatie.
+
+Dit arrest is vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Urlings, Zuurmond, Herrmann en Fleers, in tegenwoordigheid van de waarnemend griffier Van der Vegt, in raadkamer van 7 december 1994.
+
+De beslissing is uitgesproken ter openbare terechtzitting van 21 december 1994.
