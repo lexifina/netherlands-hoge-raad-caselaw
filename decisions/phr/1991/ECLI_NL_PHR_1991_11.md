@@ -1,0 +1,50 @@
+---
+ecli: "ECLI:NL:PHR:1991:11"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "27.639"
+decided: "1991-10-23"
+published: "2020-09-01"
+type: "conclusie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:1991:11"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:PHR:1991:11 Parket bij de Hoge Raad , 23-10-1991 / 27.639
+
+## Inhoudsindicatie
+
+Bijlage I bij ECLI:NL:PHR:1991:10
+
+## Conclusie
+
+BIJLAGE I
+
+Uit de conclusie A.-G. Hartkamp in de zaak nr. 14.294 (zitting 27 september 1991)
+
+Het gaat i.c. om de vraag of de distillatie-apparatuur bestanddeel is geworden van het fabrieksgebouw van Bergel. Hof noch president rechtbank hebben zich gebaseerd op de mate van materiele verbondenheid tussen de apparatuur en het gebouw, zodat de vraag in casu moet worden beantwoord aan de hand van de verkeersopvattingen. Dit geldt zowel voor het huidige als het komende recht. Zie HR 26 maart 1936, NJ 1936, 757 m.o. P.S. (Sleepboot Egbertha); HR 11 december 1953, NJ 1954, 115 m.o. J.D. (Stafmateriaal); HR 21 juni 1974, NJ 1975, 17 m.o. G.J.S.; HR 24 september 1976, NJ 1978, 269 m.o. B.W.; HR 16 maart 1979, NJ 1980, 600 m.o. B.W. Verg. ook nog HR 27 mei 1950, NJ 1951, 197 m.o. D.J.V..
+
+Voor het nieuwe recht wordt dit met zoveel woorden bepaald in art. 3:4. Zie Parl. Gesch. Boek 3, blz. 72, 74/75 en 76 t/m 78. Voorts (met betrekking tot het vervallen art. 3.1.1.4 inzake hulpzaken) blz. 89.
+
+8) Zie over de toepassing van het verkeersopvattingenkriterium naast de conclusies voor en de noten onder de bovenvermelde uitspraken de navolgende literatuur: de noot van Hijmans van den Bergh onder HR 11 december 1953, NJ 1954, 115 in AA 1953-1954, blz. 110 e.v.; Van der Grinten, WPNR 4701 (1961), blz. 519 e.v.; Brahn, Pitlo-bundel (1970), blz. 171 e.v., m.n. blz. 175/6 en 183/4; Van der Grinten, WPNR 5153 (1971), blz. 519 e.v.; Beekhuis, Van Opstall-bundel (1972), blz. 11 e.v.; Heyman, WPNR 5270 (1974), blz. 469 e.v.; Reinsma, WPNR 5335 (1976), blz. 73 e.v.; de noot van Kleijn onder HR 18 januari 1978, NJ 1979, 565; Kortmann, AA 1983, blz. 325 e.v. (beantwoording rechtsvraag); Asser-Beekhuis I (1985), nrs. 77 e.v. (blz. 54 e.v.); Pitlo-Brahn (1987), blz. 7 e.v. en 40; Kortmann, WPNR 5855 (1988), blz. 2 e.v. (met rectificatie op blz. 21); Vakstudie Belastingen van Rechtsverkeer (losbl.), art. 2, aant. 23 e.v., m.n. nr. 28 (Van Gils). Hier wordt ook een aantal uitspraken van lagere rechters genoemd. Zie hiervan m.n. Hof Den Bosch 3 juni 1983, NJ 1982, 73; Hof Den Bosch 18 januari 1983, NJ 1984, 13; Pres. Rb. Groningen 10 mei 1983, NJ 1984, 430; Rb. Den Bosch 17 juni 1983, NJ 1984, 302; en Rb. Haarlem 22 juli 1988, NJ 1989, 645.
+
+9) Het oordeel omtrent hetgeen de verkeersopvattingen inhouden is in beginsel van feitelijke aard en derhalve aan toetsing in cassatie onttrokken, zij het dat uitzonderingen denkbaar zijn (zie het genoemde arrest van 26 maart 1936), terwijl de Hoge Raad voorts uiteraard een daarbij gevolgde onjuiste rechtsopvatting kan corrigeren en op motiveringsgebreken kan toezien (het arrest van 16 maart 1979). Men zie hierover de noot van Scholten onder HR 26 maart 1936, NJ 1936, 757; de noot van Veegens onder HR 27 mei 1950, NJ 1951, 197; de noot van J. Drion onder HR 11 december 1954, NJ 1954, 115; de noot van Hijmans van den Bergh in AA 1953, blz. 110 e.v.; de discussie tussen Van der Meij en Hijmans van den Bergh in NJB 1954, blz. 306 e.v.; Klein Wassink, WFR 1963, blz. 641 e.v.; de conclusie van A-G Franx voor HR 16 maart 1979, NJ 1980, 600; de noot van Brunner onder HR 10 april 1981, NJ 1981, 532, sub 2; Rogmans, Grotius-bundel ‘’Ex iure'' (1987), blz. 152 e.v.; Veegens-Korthals Altes-Groen (1989), nr. 107.
+
+10) Bij Asser-Beekhuis I, nr. 79 worden de verkeersopvattingen in verband met bestanddeelvorming als volgt ‘’gesubstantieerd'':
+
+‘’O.i. is beslissend of het betrokken voorwerp een zo essentieel deel van de hoofdzaak vormt, dat laatstgenoemde zonder dit deel niet aan haar economische of maatschappelijke bestemming kan beantwoorden, dan wel - enigszins anders gezegd - of de zaak zonder het bestanddeel, mede gelet op het gebruik waarvoor zij bestemd is, in het verkeer als een incompleet geheel beschouwd zou worden (het enkele feit van economische samenhang is hiervoor zeker niet voldoende; zie noot Wachter onder HR 24 sept. 1976, NJ 1978, 269).''
+
+Men zie reeds in deze zin A-G Eggens voor HR 11 dec. 1953, NJ 1954, 115 m.o. J.D., instemmend geciteerd door Van der Grinten, WPNR 4701. Deze omschrijving wordt bekritiseerd door Kortmann in zijn in nr. 8 aangehaalde geschriften: zij zou te ruim zijn en daardoor ook (een deel van) de hulpzaken van art. 563 lid 1 onder 1° omvatten. M.i. biedt de omschrijving van Asser-Beekhuis ondanks zijn - in de omstandigheden onvermijdelijke - vaagheid een bruikbaar uitgangspunt, mits men haar, zoals zij ook ongetwijfeld is bedoeld, op een hoofdzaak (in casu een fabrieksgebouw) betrekt, en niet op ‘’een gebouw waarin een bepaald bedrijf wordt uitgeoefend'', in dier voege dat daarbij het gebouw en het bedrijf (d.w.z. de daartoe behorende zaken) als een soort samengestelde zaak zou worden opgevat. Voorts leg ik de nadruk op het woord uitgangspunt: onder omstandigheden zal de rechter zijn beslissing m.i. nader moeten motiveren, met name wanneer bestanddeelvorming, gelet op de aard van de desbetreffende zaken en de daarbij betrokken belangen, niet voor de hand ligt. Ik kom hierop nog terug.
+
+11) Wat betreft onroerende zaken dient bestanddeelvorming te worden onderscheiden van bestemming tot hulpzaak als bedoeld in art. 563 BW; deze bestemming heeft tot gevolg dat de hulpzaak - mits toebehorend aan de eigenaar van de hoofdzaak - tot een onroerende zaak wordt gemaakt. In de onderhavige casus is art. 563 lid 1 onder 1° van belang:
+
+‘’Bij fabrijken, trafijken, molens, smederijen en dergelijke onroerende zaken (worden door bestemming onder onroerende zaken begrepen) de persen, disteleerketels, ovens, kuipen, vaten, de verdere gereedschappen, bepaaldelijk tot derzelver wezen behoorende, ook al waren die voorwerpen niet aard- of nagelvast;''
+
+Uit deze bepaling - waarin weliswaar ook de onroerende zaak voorop wordt gesteld maar dan wel in nauw verband met het daarin uitgeoefende bedrijf - en uit de daarop betrekking hebbende rechtspraak (zie m.n. HR 17 mei 1944, NJ 1944, 409; 18 mei 1951, NJ 1951, 548; 18 januari 1978, NJ 1979, 565 m.o. W.M.K.) valt m.i. af te leiden, dat het veeleer voor de hand ligt om machines (uiteraard voor zover geen zelfstandige zaken) als hulpzaak dan als bestanddeel van een fabrieksgebouw te beschouwen. En daarbij teken ik nog aan dat de bestemming tot hulpzaak door de Hoge Raad niet spoedig wordt aangenomen. In de arresten van 1944 en 1951 wordt daarvoor o.m. de eis gesteld dat de gebouwen niet zonder aantasting van hun bestemming voor een ander doel kunnen worden gebezigd resp. dat tussen de opzet van het gebouw en het daarin uitgeoefende bedrijf een bijzonder verband aanwezig is.
+
+12) De hulpzaken keren als zodanig in het nieuwe BW niet terug; zie het voormelde art. 3.1.1.4, dat in het gewijzigd ontwerp is geschrapt. Uit de parlementaire geschiedenis bij dit artikel, uit art. 3: 254 en uit art. 77 Overgangswet en de daarbij behorende toelichtingen valt af te leiden dat het geenszins de bedoeling is hierdoor de hulpzaken bij de bestanddelen ‘’in te lijven''. Er wordt integendeel gewezen op de nadelen die bestanddeelvorming inhoudt voor degene die de desbetreffende zaak onder eigendomsvoorbehoud heeft geleverd (zie Parl. Gesch. Boek 3, blz. 77 en 89), een opvatting die in de in nr. 8 genoemde literatuur weerklank heeft gevonden en waaraan dan ook in het licht van het steeds groter wordende belang van het eigendomsvoorbehoud voor de praktijk (een figuur die thans ook in het wetboek geregeld is, zie art. 3:92) bijzonder gewicht toekomt. In dit verband is van belang dat in art. 3:254 (evenals in het oorspronkelijke art. 3.1.1.14) worden genoemd ‘’machinerieën of werktuigen die bestemd zijn om daarmede een bedrijf in een bepaalde hiertoe ingerichte fabriek of werkplaats uit te oefenen'', welke categorie uiteraard in gemoderniseerde bewoordingen aan art. 563 BW is ontleend. Ook naar nieuw recht meen ik hieruit te moeten concluderen dat bestanddeelvorming ten aanzien van machines bepaald niet voor de hand ligt.
+
+13) Onmogelijk is zij daarentegen naar mijn mening niet. Ook een fabrieksgebouw kan ‘’incompleet'' zijn zonder een bepaalde machine of installatie. In de bewoordingen van art. 3:4: een machine kan onderdeel zijn van een fabrieksgebouw. Dit zal zich eerder voordoen naarmate gebouw en machine specifieker op elkaar zijn afgestemd, met name indien de machine specifiek voor het gebouw of zelfs het gebouw specifiek voor de machine is ontworpen, gebouwd of ingericht. Dit zal dan ‘’specifieker'' moeten zijn dan dat de machine of installatie bestemd is om daarmee een bedrijf in een bepaalde hiertoe ingerichte fabriek uit te oefenen, omdat zulks blijkens het zojuist geciteerde artikel het criterium voor de hulpzaak resp. de ‘’hulpzaak nieuwe stijl'' is; het ligt in de rede dat voor bestanddeelvorming meer moet worden geëist. En al zij toegegeven dat een haarscherpe onderscheiding hier niet mogelijk is en dat veel afhangt van de appreciatie door de feitelijke rechter van de omstandigheden van het geval, dit neemt niet weg dat m.i. van de feitenrechter mag worden verlangd dat hij zo nauwkeurig mogelijk motiveert waarom naar zijn inzicht aan deze zware eisen is voldaan.
+
+14) Nu aannemelijk is dat de Hoge Raad in zijn arrest van 1936 geïnspireerd werd door het Duitse recht, teken ik bij het voorgaande aan dat in Duitsland met betrekking tot de vraag of een machine bestanddeel kan zijn van een fabrieksgebouw, een vergelijkbare restrictieve opvatting pleegt te worden aangehangen. Men zie o.m. Staudinger/Dilcher, par. 93 Rdnr. 17, par. 94 Rdnr. 21/22 en par. 98 Rdnr. 8, Soergel/Muhl, par. 94 Rdnr. 32 e.v., Palandt par. 93 Rdnr. 7.
