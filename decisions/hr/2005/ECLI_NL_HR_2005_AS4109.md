@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AS4109"
-published_in: ["Rechtspraak.nl", "BNB 2005/153", "WFR 2005/179, 1", "V-N 2005/8.4 met annotatie van Redactie", "FutD 2005-0173"]
+published_in: ["Rechtspraak.nl", "BNB 2005/153", "WFR 2005/179, 1", "V-N 2005/8.4", "NTFR 2005/170 met annotatie van Schellekens", "FutD 2005-0173", "Viditax (FutD) 2005012808"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2003:AK3813"]]
 cites_law: ["netherlands/national/acts/uitvoeringsbesluit-motorrijtuigenbelasting-1994/art-006.md", "netherlands/national/acts/wet-op-de-motorrijtuigenbelasting-1994/art-030.md"]
 ---
