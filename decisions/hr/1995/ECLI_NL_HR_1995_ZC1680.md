@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1995:ZC1680"
-published_in: ["Rechtspraak.nl", "NJ 1996, 158 met annotatie van W.M. Kleijn", "RvdW 1995, 81", "AA19950705 met annotatie van J. Hijma", "RV 2014/78 met annotatie van Redactie van Rechtspraak Vermogensrecht", "JOR 2021/107 met annotatie van Steneker, A."]
+published_in: ["Rechtspraak.nl", "NJ 1996, 158 met annotatie van W.M. Kleijn", "RvdW 1995, 81", "AA19950705 met annotatie van J. Hijma", "RV 2014/78 met annotatie van mr. A.J. van der Lely, prof. mr. A.I.M. van Mierlo, prof. mr. S.E. Bartels", "JOR 2021/107"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1995:11"]]
 ---
 
