@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AN8170"
-published_in: ["Rechtspraak.nl", "JOL 2004, 333", "NJ 2004, 617 met annotatie van P. van Schilfgaarde", "RvdW 2004, 87", "Ondernemingsrecht 2004, 264 met annotatie van W.J.M. van Andel", "WR 2004, 279", "JWB 2004/238", "AA20040782 met annotatie van A.I.M. van Mierlo", "JHV 2004/223 met annotatie van WL", "JOR 2004/221 met annotatie van G.A.J. Boekraad"]
+published_in: ["Rechtspraak.nl", "JOL 2004, 333", "NJ 2004, 617 met annotatie van P. van Schilfgaarde", "RvdW 2004, 87", "Ondernemingsrecht 2004, 264 met annotatie van W.J.M. van Andel", "WR 2004, 279", "JWB 2004/238", "AA20040782 met annotatie van A.I.M. van Mierlo", "JHV 2004/223 met annotatie van Mr.Wendela Raas de Lange", "JOR 2004/221 met annotatie van G.A.J. Boekraad"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2004:AN8170"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-039.md"]
 ---
