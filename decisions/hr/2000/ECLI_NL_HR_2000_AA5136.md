@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA5136"
-published_in: ["Rechtspraak.nl", "BNB 2000/221 met annotatie van G. Slot", "FED 2000/187 met annotatie van G.Th.K. Meussen", "WFR 2000/461", "V-N 2000/15.2 met annotatie van Redactie", "NTFR 2000/438 met annotatie van mr. M.B. Lucas Luijckx"]
+published_in: ["Rechtspraak.nl", "BNB 2000/221 met annotatie van G. Slot", "FED 2000/187 met annotatie van G.Th.K. Meussen", "WFR 2000/461", "V-N 2000/15.2", "NTFR 2000/438 met annotatie van mr. M.B. Lucas Luijckx"]
 ---
 
 # ECLI:NL:HR:2000:AA5136 Hoge Raad , 15-03-2000 / 35261
