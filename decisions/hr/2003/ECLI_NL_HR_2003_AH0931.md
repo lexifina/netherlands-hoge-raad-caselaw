@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AH0931"
-published_in: ["Rechtspraak.nl", "Belastingblad 2003/840", "BNB 2003/274 met annotatie van W.J.N.M. SNOIJINK", "FED 2003/358", "WFR 2003/1092", "V-N 2003/33.23 met annotatie van Redactie", "NTFR 2003/1106 met annotatie van mr. John F. Kastelein MRE MRICS RV"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2003/840", "BNB 2003/274 met annotatie van W.J.N.M. SNOIJINK", "FED 2003/358", "WFR 2003/1092", "V-N 2003/33.23", "NTFR 2003/1106 met annotatie van mr. J.F. Kastelein MRE MRICS RV"]
 ---
 
 # ECLI:NL:HR:2003:AH0931 Hoge Raad , 20-06-2003 / 37770
