@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AS7925"
-published_in: ["Rechtspraak.nl", "BNB 2005/172 met annotatie van G.J. van Leijenhorst", "WFR 2005/338, 1", "Belastingadvies 2005/9.9", "V-N 2005/13.3 met annotatie van Redactie", "FutD 2005-0405"]
+published_in: ["Rechtspraak.nl", "BNB 2005/172 met annotatie van G.J. van Leijenhorst", "WFR 2005/338, 1", "Belastingadvies 2005/9.9", "V-N 2005/13.3", "NTFR 2005/284 met annotatie van mr. E. van Waaijen", "FutD 2005-0405", "Viditax (FutD) 2005022504"]
 ---
 
 # ECLI:NL:HR:2005:AS7925 Hoge Raad , 25-02-2005 / 40157
