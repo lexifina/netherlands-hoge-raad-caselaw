@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AP0084"
-published_in: ["Rechtspraak.nl", "JOL 2004, 281", "NJ 2006, 4", "Ondernemingsrecht 2004, 148 met annotatie van S-J. Spanjaard", "JWB 2004/195", "JAR 2004/166 met annotatie van Mr. R.M. Beltzer", "JOR 2004/216"]
+published_in: ["Rechtspraak.nl", "JOL 2004, 281", "NJ 2006, 4", "Ondernemingsrecht 2004, 148 met annotatie van S.J. Spanjaard", "JWB 2004/195", "JAR 2004/166 met annotatie van Mr. R.M. Beltzer", "JOR 2004/216"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2004:AP0084"]]
 ---
 
