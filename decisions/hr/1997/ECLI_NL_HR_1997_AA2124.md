@@ -1,0 +1,26 @@
+---
+ecli: "ECLI:NL:HR:1997:AA2124"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "31753"
+decided: "1997-03-12"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1997:AA2124"
+published_in: ["Rechtspraak.nl", "BNB 1997/231 met annotatie van R.H. Happé", "WFR 1997/417, 1", "V-N 1997/1282, 5 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/awr/art-026.md"]
+---
+
+# ECLI:NL:HR:1997:AA2124 Hoge Raad , 12-03-1997 / 31753
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Amsterdam van 28 juni 1995 betreffende na te melden aan hem over het jaar 1987 opgelegde aanslag tot navordering van inkomstenbelasting.
+
+1. Aanslag, navorderingsaanslag en geding voor het Hof Aan belanghebbende is aanvankelijk voor het jaar 1987 een aanslag in de inkomstenbelasting opgelegd naar een belastbaar inkomen van ƒ 249.922,--. Deze aanslag is, na daartegen gemaakt bezwaar, verminderd tot een berekend naar een belastbaar inkomen van ƒ 249.922,-- met vermindering ter voorkoming van dubbele belasting over een inkomensbestanddeel van ƒ 2.340,--. Vervolgens is belanghebbende over 1987 een navorderingsaanslag opgelegd naar een belastbaar inkomen van ƒ 501.426,--, met een verhoging van 100 percent van de nagevorderde belasting, welke verhoging bij besluit van de Inspecteur tot op ƒ 164.579,-- is kwijtgescholden. Belanghebbende is van de navorderingsaanslag en het besluit tot gedeeltelijke kwijtschelding in beroep gekomen bij het Hof. Het Hof heeft de navorderingsaanslag gehandhaafd en - met vernietiging van het kwijtscheldingsbesluit - kwijtschelding van de verhoging verleend tot op een bedrag van ƒ 100.000,--. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft een vertoogschrift ingediend.
+
+3. Beoordeling van de middelen 3.1. In cassatie kan worden uitgegaan van het volgende. Belanghebbende was in 1987 commissaris en aandeelhouder  (5,01 percent) van A B.V. te Q (hierna: de B.V.). Zijn zoon was toen directeur en aandeelhouder. Ongeveer 30 percent van de aandelen werd gehouden door een Zwitserse vennootschap, waarvan de aandelen, zoals ook het geval is met de resterende aandelen in de B.V., in handen waren van diverse leden van de familie waartoe belanghebbende en zijn zoon behoren. Naar aanleiding van de door belanghebbendes zoon ingediende aangiften inkomstenbelasting 1987 en 1988 zijn vragen gesteld. De antwoorden daarop hebben geleid tot het instellen van onderzoeken voor de inkomstenbelasting/vermogensbelasting ten aanzien van belanghebbendes zoon, alsmede ten aanzien van belanghebbende, wiens dossier inmiddels door de inspecteur der directe belastingen te S was overgedragen aan de Belastingdienst Grote Ondernemingen te P. Tevens zijn onderzoeken ingesteld voor de vennootschapsbelasting ten aanzien van de B.V. In het rapport inzake de inkomstenbelasting/vermogensbelasting ten aanzien van belanghebbende is een vermogensvergelijking opgenomen welke een negatief netto privésaldo vertoont van respectievelijk ƒ 198.511,-- voor 1987 en ƒ 371.784,-- voor 1988. Belanghebbende erkent het bestaan van genoemde negatieve saldi, maar stelt dat deze worden gecompenseerd door zowel netto opbrengsten behaald met het wedden op paardenkoersen als door opbrengsten verkregen uit het verkopen van een muntenverzameling. 3.2. Het hof heeft geoordeeld dat de tekstwijziging van artikel 26 van de Algemene wet inzake rijksbelastingen, hierna: AWR, - het Hof doelt kennelijk op het derde lid van artikel 26 AWR zoals dat met ingang van 19 maart 1993 luidt - uitsluit dat belanghebbende zich erop kan beroepen dat, nu de primitieve aanslag is opgelegd door de Inspecteur der directe Belastingen te S, het Hoofd van de Belastingdienst Grote Ondernemingen te P (de Inspecteur) niet bevoegd was tot het opleggen van de op 31 mei 1993 gedagtekende navorderingsaanslag. Dit oordeel is juist. De tekst van genoemd artikellid staat niet toe vast te houden aan de door de Hoge Raad geformuleerde regel dat een navorderingsaanslag die is vastgesteld door een andere inspecteur dan die welke de aanslag heeft vastgesteld moet worden vernietigd. Voor zover middel I van een andere opvatting uitgaat faalt het derhalve. Het middel behoeft voor het overige geen behandeling. 3.3. Middel II, dat erop neerkomt dat het Hof niet, althans niet zonder enige motivering, belanghebbendes, in zijn tweede pleitnota voor het Hof gedane, bewijsaanbod had mogen passeren is gegrond. Het Hof heeft omtrent het door belanghebbende gedane bewijsaanbod niets vastgesteld, noch enige opheldering van dit bewijsaanbod gevraagd, noch overwogen dat en op welke grond hij dit bewijsaanbod passeert, zodat 's Hofs uitspraak niet naar de eis der wet met redenen is omkleed. 3.4. Gelet op het onder 3.3 overwogene kan 's Hofs uitspraak niet in stand blijven. Verwijzing moet volgen. De overige middelen behoeven geen behandeling.
