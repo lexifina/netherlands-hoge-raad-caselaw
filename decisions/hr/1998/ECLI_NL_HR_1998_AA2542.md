@@ -1,0 +1,31 @@
+---
+ecli: "ECLI:NL:HR:1998:AA2542"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33615"
+decided: "1998-08-26"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2542"
+published_in: ["Rechtspraak.nl", "BNB 1999/49 met annotatie van R.J. DE VRIES", "FED 1999/43 met annotatie van X.G.R. AUERBACH", "WFR 1998/1452", "V-N 1998/47.9 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1998:AA2542 Hoge Raad , 26-08-1998 / 33615
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Amsterdam van 27 juni 1997 betreffende de hem voor het jaar 1992 opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1992 een aanslag in de inkomstenbelasting/premie volksverzekeringen opge legd naar een belastbaar inkomen van f 175.237,--, waarvan een bedrag van f 109.962,-- belast naar het tarief van artikel 57, lid 2, van de Wet op de inkomstenbelasting 1964, welke aanslag, na daartegen ge maakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is tegen die uitspraak in beroep geko men bij het Hof, dat deze uitspraak heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie.
+
+Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoog schrift het cassatieberoep bestreden.
+
+3. Beoordeling van de middelen van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Tot het ondernemingsvermogen van belanghebbende, die een autorijschool annex garage drijft, behoorde een aan het a-straat 1 te Z gelegen woonhuis met achtergelegen loods, ondergrond, erf en verdere aanhorigheden. In 1990 heeft B en W van de gemeente Z (hierna: de gemeente) in het kader van de realisatie van het bestemmingsplan Q, met belanghebbende overeenstemming bereikt over de verkoop van een gedeelte van de ondergrond, alsmede de zich daarop bevindende loods. De koopprijs bedroeg f 325.000,--; de eigendomsoverdracht heeft op 8 maart 1991 plaatsgevonden. In de transportakte is de volgende clausule opgenomen: "(...) eventuele belastingschade komt voor rekening van de gemeente." In een brief van 23 oktober 1992 is deze belastingschade door belanghebbende berekend op f 109.962,--. Bij brief van 11 maart 1993 heeft de gemeente bevestigd dat dit bedrag aan belanghebbende zal worden betaald. 3.2. Ten aanzien van de aan belanghebbende toegekende vergoeding voor belastingschade, ten bedrage van f 109.962,--, welke vergoeding de Inspecteur tot de winst van 1992 heeft gerekend, heeft het Hof, na te hebben overwogen dat het op de ondergrond betrekking hebbende gedeelte van de koopprijs een prijs van f 398,75 per m2 betrof en dat die prijs niet onaanzienlijk verschilt van de door de inspectie der Registratie en Successie getaxeerde prijs van f 250,-- per m2, en dat door belanghebbende niet is weersproken dat het vervreemde bedrijfsmiddel in het bedrijf overtollig was, geoordeeld dat de vergoeding ingevolge artikel 7 van de Wet op de inkomstenbelasting 1964 (hierna: de Wet) tot de belastbare winst dient te worden gerekend, aangezien niet is bewezen dat de door de gemeente vergoede schade is opgetreden als een noodzakelijk gevolg van een dreigende onteigening van een aan belanghebbende toebehorend perceel. In dit oordeel ligt besloten (rechtsoverweging 5.1 van 's Hofs uitspraak) dat een in gelijke omstandigheden als belanghebbende verkerende, redelijk handelende ondernemer, rekening houdende met de belastingheffing over het totale verschil tussen het ontvangen bedrag en de boekwaarde van de afgestane onroerende zaak, ook zonder (dreigende) onteigening dezelfde transactie zou zijn aangegaan. Dit oordeel geeft niet blijk van een onjuiste rechtsopvatting en kan als verweven met waarderingen van feitelijke aard voor het overige in cassatie niet op zijn juistheid worden getoetst. Het is ook niet onbegrijpelijk. Het eerste middel, dat zich tegen dit oordeel richt, kan derhalve niet tot cassatie leiden. 3.3. Het tweede middel houdt in dat het Hof artikel 9 van de Wet heeft geschonden door te oordelen dat de vergoeding voor belastingschade tot de winst van het jaar 1992 dient te worden gerekend. Primair betoogt dit middel, dat - indien belastingheffing over deze vergoeding dient plaats te vinden  - zulks in 1993 dient te geschieden, aangezien op 31 december 1992 nog geen zekerheid bestond dat, en tot welk bedrag, het verzoek van belanghebbende tot vergoeding van de belastingschade door de gemeente zou worden gehonoreerd. In zoverre faalt het middel, aangezien het Hof feitelijk en niet onbegrijpelijk - en derhalve in cassatie onaantastbaar - heeft geoordeeld dat voldoende zekerheid bestond om de aanspraak op die vergoeding per 31 december 1992 te waarderen op f 109.962,--. Subsidiair betoogt het tweede middel, dat de vergoeding voor belastingschade voor het grootste gedeelte tot de winst van 1991 had moeten worden gerekend. Ook in zoverre faalt het middel. Ook indien waardering van genoemde aanspraak per 31 december 1991 op f 109.962,-- ten onrechte achterwege is gebleven, waardoor is verzuimd de vergoeding te betrekken in de winst van het jaar 1991, kan die vergoeding alsnog - door toepassing van de foutenleer - tot uitdrukking worden gebracht in de winst van 1992, nu voor laatstgenoemd jaar dient te worden uitgegaan van een eindvermogen, waarin die aanspraak voor genoemd bedrag is opgenomen en van een beginvermogen, waarin die aanspraak niet is opgenomen. 4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad verwerpt het beroep.
+
+Dit arrest is op 26 augustus 1998 vastgesteld door de vice-president R.J.J. Jansen als voorzitter, en de raadsheren Bellaart, Van der Putt-Lauwers, Van Brunschot en Meij, in tegenwoordigheid van de waarnemend griffier Van Hooff, en in het openbaar uitgesproken.
