@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2003:AN7817"
-published_in: ["Rechtspraak.nl", "JOL 2003, 689", "NJ 2004, 293 met annotatie van P. van Schilfgaarde", "RvdW 2004, 8", "JWB 2003/479", "JOR 2004/61 met annotatie van JJvH"]
+published_in: ["Rechtspraak.nl", "JOL 2003, 689", "NJ 2004, 293 met annotatie van P. van Schilfgaarde", "RvdW 2004, 8", "JWB 2003/479", "JOR 2004/61 met annotatie van Mr. J.J. van Hees"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2003:AN7817"]]
 ---
 
