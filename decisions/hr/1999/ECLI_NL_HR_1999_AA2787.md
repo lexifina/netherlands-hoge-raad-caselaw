@@ -1,0 +1,37 @@
+---
+ecli: "ECLI:NL:HR:1999:AA2787"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "34579"
+decided: "1999-06-30"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2787"
+published_in: ["Rechtspraak.nl", "BNB 1999/301", "FED 1999/574 met annotatie van R.M. FREUDENTHAL", "FED 1999/434", "WFR 1999/925, 1", "V-N 1999/31.22 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1999:AA2787 Hoge Raad , 30-06-1999 / 34579
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 24 juni 1998 betreffende na te melden navorderingsaanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende, aan wie aanvankelijk in de inkomstenbelasting/premie volksverzekeringen voor het jaar 1990 een aanslag van nihil was opgelegd, is over dat jaar een navorderingsaanslag opgelegd naar een belastbaar inkomen van f 3.775.194,--, waarvan f 3.723.935,-- belast naar het tarief van artikel 57a, lid 2, van de Wet op de inkomstenbelasting 1964 (tekst 1990; hierna: de Wet), zonder verhoging. Deze aanslag is, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur gehandhaafd. Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof, dat deze uitspraak heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van de middelen van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: In maart 1985 zijn de aandelen van A B.V. verdeeld in gewone en preferente aandelen van nominaal f 10,--, waarna belanghebbende 880 gewone en 3.520 7% preferente aandelen, zijnde in totaal 78,2 percent van het geplaatste aandelenkapitaal, bezat. Op 15 oktober 1985 is door F Stichting G (hierna: G) opgericht. Het statutaire doel van G is het verstrekken van studiebeurzen en dergelijke, van startkapitaal aan jonge ondernemers, het financieel steunen van personen in financiële moeilijkheden en het verstrekken van geldleningen aan instellingen met eenzelfde doelstelling. Het bestuur van G bestond uit D (destijds werknemer van A B.V.), I (externe accountant van A B.V.) en F. Op 13 december 1985 heeft belanghebbende zijn aandelenpakket A B.V. aan de Stichting Administratiekantoor J overgedragen tegen uitgifte van certificaten van gewone en preferente aandelen. Op dezelfde datum heeft belanghebbende aan G een rentedragende lening van f 45.000,-- verstrekt, voor onbepaalde tijd en tegen een rentevergoeding van 6%, en tevens aan G verkocht 3.520 certificaten van preferente aandelen A B.V. voor de nominale waarde van f 35.200,--. Overeenkomstig artikel 17, lid 1, van de statuten van A B.V. is jaarlijks van de winst 7 percent van de nominale waarde van de preferente aandelen uitgekeerd. In 1988 heeft belanghebbende de aan G verstrekte lening geheel kwijtgescholden. G heeft geen andere activa dan de evenvermelde 3.520 certificaten van preferente aandelen en het niet bestede deel van het op deze aandelen uitgekeerde dividend. G heeft in de periode 1985 tot en met 1991 tweemaal een schenking gedaan van f 902,-- respectievelijk f 2.000,-- en voorts een renteloze lening verstrekt van f 2.000,--. Op 27 december 1990 heeft belanghebbende de nog in zijn bezit zijnde 880 certificaten van gewone aandelen A B.V. aangewend ter volstorting van 90 aandelen in de besloten vennootschap met beperkte aansprakelijkheid K B.V.
+
+3.2. De Inspecteur heeft het verschil tussen de waarde in het economische verkeer ten tijde van evenbedoelde volstorting en de verkrijgingsprijs van de 880 certificaten aangemerkt als door belanghebbende genoten winst uit aanmerkelijk belang. Belanghebbende stelt zich op het standpunt dat zijn bezit van de 880 certificaten, zijnde 15,6 percent van het geplaatste aandelenkapitaal van A B.V., vanaf 13 december 1990 geen aanmerkelijk belang meer vormde.
+
+3.3. Het Hof heeft geoordeeld dat belanghebbende onvoldoende heeft ontzenuwd het vermoeden dat hij in feite, ondanks de hiervóór in 3.1, derde alinea, vermelde rechtshandelingen, steeds het voor het middellijk aandeelhouderschap te dezen van belang zijnde economische belang bij de preferente aandelen in A B.V. heeft behouden. Bij dit oordeel is het Hof kennelijk en terecht ervan uitgegaan dat voor het antwoord op de vraag of belanghebbende op het tijdstip van volstorting van de aandelen in K B.V. met de nog in zijn bezit zijnde certificaten van gewone aandelen in A B.V. nog steeds als houder van een aanmerkelijk belang in de zin van artikel 39, lid 3, van de Wet moest worden aangemerkt, van belang is of hij op dat tijdstip of op enig tijdstip in de daaraan voorafgaande vijf jaren het economische belang bij de preferente aandelen in A B.V. had. De feiten en omstandigheden die het Hof bij voormeld oordeel in aanmerking neemt, maken duidelijk dat belanghebbende bij de verkoop aan G van de certificaten van laatstbedoelde aandelen belang had, maar bieden geen grond voor het oordeel dat het economische belang bij die certificaten door belanghebbende is behouden of opnieuw is verworven. In zoverre treft de in middel II vervatte motiveringsklacht doel.
+
+3.4. Gelet op het hiervóór in 3.3 overwogene kan 's Hofs uitspraak niet in stand blijven. De Hoge Raad kan zelf de zaak afdoen. Uit 's Hofs uitspraak en de stukken van het geding blijkt niet dat door de Inspecteur feiten of omstandigheden zijn gesteld die erop wijzen dat belanghebbende zowel de juridische zeggenschap als het economische belang bij de certificaten van de preferente aandelen in A B.V. heeft behouden of opnieuw heeft verworven. Anders dan de Inspecteur heeft gesteld komt een verwatering van een aanmerkelijk belang op de wijze die belanghebbende daarvoor heeft gekozen, niet in strijd met doel en strekking van artikel 39 van de Wet. De middelen behoeven voor het overige geen behandeling.
+
+4. Proceskosten De Staatssecretaris zal worden veroordeeld in de kosten van het geding in cassatie en de Inspecteur in de kosten van het geding voor het Hof.
+
+5. Beslissing De Hoge Raad: vernietigt de uitspraak van het Hof alsmede die van de Inspecteur; vernietigt de navorderingsaanslag; gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van f 315,--; veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 2.840,-- voor beroepsmatig verleende rechtsbijstand; veroordeelt de Inspecteur in de kosten van het geding voor het Hof aan de zijde van belanghebbende, vastgesteld op f 3.550,-- voor beroepsmatig verleende rechtsbijstand, en wijst aan de Staat als de rechtspersoon die de bij het Hof gemaakte kosten moet vergoeden.
+
+Dit arrest is op 30 juni 1999 vastgesteld door de vice- president R.J.J. Jansen als voorzitter en de raadsheren Van Brunschot, Hammerstein, Van Amersfoort en Lourens, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken.
