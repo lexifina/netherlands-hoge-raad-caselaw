@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AR3513"
-published_in: ["Rechtspraak.nl", "BNB 2005/51 met annotatie van G.T.K. MEUSSEN", "FED 2004/672 met annotatie van R. RUSSO", "FED 2004/567", "Belastingadvies 2004/21.7", "WFR 2004/1527, 1", "V-N 2004/53.20 met annotatie van Redactie", "FutD 2004-1835"]
+published_in: ["Rechtspraak.nl", "BNB 2005/51 met annotatie van G.T.K. MEUSSEN", "FED 2004/672 met annotatie van R. RUSSO", "FED 2004/567", "Belastingadvies 2004/21.7", "WFR 2004/1527, 1", "V-N 2004/53.20", "NTFR 2004/1508 met annotatie van E. de Vries"]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-010a.md", "netherlands/national/acts/wet-vennootschapsbelasting-1969/art-015.md"]
 ---
 
