@@ -1,0 +1,31 @@
+---
+ecli: "ECLI:NL:HR:1995:AA1657"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30470"
+decided: "1995-07-24"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1995:AA1657"
+published_in: ["Rechtspraak.nl", "V-N 1995/3046, 33 met annotatie van Redactie", "WFR 1995/1199, 1", "Belastingblad 1995/618 met annotatie van Redactie", "BNB 1995/272 met annotatie van G.J. van Leijenhorst", "FED 1995/714 met annotatie van M. Plante-Faile", "FED 1995/603", "Gst. 1995-7017, 9 met annotatie van I.M. van Walree"]
+---
+
+# ECLI:NL:HR:1995:AA1657 Hoge Raad , 24-07-1995 / 30470
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van Burgemeester en Wethouders van de gemeente Gaasterlân-Sleat tegen de uitspraak van het Gerechtshof te Leeuwarden van 8 juli 1994 betreffende de aan X te Z voor het jaar 1992 opgelegde aanslag in de woonforensenbelasting van de gemeente Gaasterlân-Sleat.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1992 ter zake van het zonder in de gemeente hoofdverblijf te hebben, op meer dan negentig dagen van dat jaar voor zich of zijn gezin beschikbaar houden van een gemeubileerde woning, een aanslag in de woonforensenbelasting van de gemeente Gaasterlân-Sleat opgelegd, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van Burgemeester en Wethouders van de gemeente Gaasterlân-Sleat is gehandhaafd. Belanghebbende is van die uitspraak in beroep gekomen bij het Hof. Het Hof heeft die uitspraak, alsmede de aanslag vernietigd. De uitspraak van het Hof is aan dit arrest gehecht. 2. Geding in cassatie Burgemeester en Wethouders hebben tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft een vertoogschrift ingediend.
+
+3. Beoordeling van het middel 3.1. In cassatie moet van het volgende worden uitgegaan. Belanghebbende, die zijn hoofdverblijf elders heeft, is sedert 1991 eigenaar van een in de gemeente gelegen gemeubileerde recreatiewoning. Bij overeenkomst van 31 januari 1992 heeft hij deze woning met ingang van 1 maart 1992 op basis van exclusiviteit ter beschikking gesteld aan A voor verhuur aan haar cliënten. De overeenkomst bevat onder meer de volgende bepaling: "Eigenaar zal voor eigen bewoning over de woning kunnen beschikken mits hij hiervan telkens een maand vooraf melding maakt en mits de woning niet reeds gereserveerd is. Doch zal eigen bewoning door eigenaar gedurende de gebruikelijke 16 vakantieweken niet meer bedragen dan 6 weken per jaar met een maximum van 6 weken". De woning is in 1992 gedurende ongeveer 15 weken verhuurd geweest. 3.2. Ingevolge artikel 1 van de Verordening Woonforensenbelasting 1992 wordt in de gemeente onder de naam Woonforensenbelasting een directe belasting geheven van de natuurlijke personen, die zonder in de gemeente hoofdverblijf te hebben er gedurende het belastingjaar meer dan 90 dagen voor zich of hun gezin een gemeubileerde woning ter beschikking houden. 3.3. Het Hof heeft onder meer geoordeeld dat het enkele feit dat de woning in 1992 gedurende meer dan 90 dagen onverhuurd is gebleven niet tot gevolg heeft dat belanghebbende de woning gedurende meer dan 90 dagen voor zich of zijn gezin beschikbaar heeft gehouden in de zin van artikel 1 van de Verordening omdat het gedurende die dagen onverhuurd zijn van de woning niet wegneemt dat deze toen ingevolge de met A gesloten overeenkomst voor derden en niet voor belanghebbende of diens gezin beschikbaar werd gehouden. En voorts dat ook als de overeenkomst met A aan belanghebbende de ruimte zou bieden de woning desgewenst meer dan 90 dagen per jaar voor zichzelf of zijn gezin beschikbaar te houden daaruit nog niet volgt dat belanghebbende dat ook heeft gedaan. Tegen deze oordelen richt zich het middel. 3.4. Van een gemeubileerde woning, die uitsluitend is bestemd voor verhuur en ook feitelijk door de eigenaar niet anders wordt gebruikt dan nodig is om deze voor de verhuur gereed te maken en te houden, kan niet worden gezegd dat deze door de eigenaar voor zich en zijn gezin ter beschikking wordt gehouden. 3.5. Indien echter een gemeubileerde woning weliswaar is bestemd voor verhuur maar ook in enige mate door de eigenaar zelf wordt gebruikt, anders dan nodig is om deze voor verhuur gereed te maken en te houden, moet worden aangenomen dat die woning door de eigenaar voor zich of zijn gezin beschikbaar wordt gehouden voor het gedeelte van het jaar dat eigen gebruik niet in verband met verhuur of aan derden toegekende rechten tot verhuur is uitgesloten. Het middel is in zoverre gegrond en behoeft voor het overige geen behandeling.
+
+3.6. De onder 3.1 vermelde regeling in het contract met A laat geen andere gevolgtrekking toe dan dat eigen gebruik door belanghebbende en zijn gezin slechts gedurende 10 weken per jaar is uitgesloten. Uit hetgeen onder 3.5 is overwogen volgt dan dat de woning in het onderhavige jaar door belanghebbende voor zich of zijn gezin beschikbaar werd gehouden, tenzij belanghebbende daarvan geen ander gebruik heeft gemaakt dan nodig was om de woning voor verhuur gereed te maken en te houden. Omtrent dit laatste heeft het Hof niets vastgesteld, zodat verwijzing moet volgen opdat dit punt alsnog wordt onderzocht.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken. Daarbij verdient aantekening dat na te melden vernietiging zich tevens uitstrekt tot de door het Hof uitgesproken proceskostenveroordeling.
+
+5. Beslissing De Hoge Raad vernietigt de uitspraak van het Hof, behoudens de beslissing omtrent het griffierecht, en verwijst het geding naar het Gerechtshof te Amsterdam ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest.
+
+Dit arrest is  vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Wildeboer, Urlings, Zuurmond en Fleers, in tegenwoordigheid van de waarnemend griffier Loen, in raadkamer van 24 juli 1995 en in het openbaar uitgesproken.
