@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AF5556"
-published_in: ["Rechtspraak.nl", "BNB 2004/225 met annotatie van J.W. Zwemmer", "Belastingadvies 2004/5.3", "WFR 2004/382", "FED 2004/125", "V-N 2004/14.3 met annotatie van Redactie", "FutD 2004-0357 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "BNB 2004/225 met annotatie van J.W. Zwemmer", "Belastingadvies 2004/5.3", "WFR 2004/382", "FED 2004/125", "V-N 2004/14.3", "NTFR 2004/316 met annotatie van MR. E. THOMAS"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2004:AF5556"]]
 cites_law: ["netherlands/national/acts/awr/art-025.md", "netherlands/national/acts/awr/art-029.md", "netherlands/national/acts/awr/art-047.md"]
 ---
