@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2004:AO7575"
-published_in: ["Rechtspraak.nl", "JOL 2004, 398", "NJ 2004, 618 met annotatie van P. van Schilfgaarde", "RvdW 2004, 93", "Ondernemingsrecht 2004, 179 met annotatie van S.J. Spanjaard", "JWB 2004/288", "JOR 2004/222 met annotatie van JJvH"]
+published_in: ["Rechtspraak.nl", "JOL 2004, 398", "NJ 2004, 618 met annotatie van P. van Schilfgaarde", "RvdW 2004, 93", "Ondernemingsrecht 2004, 179 met annotatie van S.J. Spanjaard", "JWB 2004/288", "JOR 2004/222 met annotatie van Mr. J.J. van Hees"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2004:AO7575"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-053.md", "netherlands/national/acts/faillissementswet/art-054.md"]
 ---
