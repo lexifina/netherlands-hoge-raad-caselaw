@@ -1,0 +1,36 @@
+---
+ecli: "ECLI:NL:HR:1998:AA2480"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33100"
+decided: "1998-03-18"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2480"
+published_in: ["Rechtspraak.nl", "BNB 1998/136", "FED 1998/206", "FED 1998/296 met annotatie van R.N.G. VAN DER PAARDT", "WFR 1998/473, 1", "V-N 1998/16.31 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-008.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-029.md"]
+---
+
+# ECLI:NL:HR:1998:AA2480 Hoge Raad , 18-03-1998 / 33100
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Staatssecretaris van Financiën tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 22 januari 1997 betreffende na te melden aan de fiscale eenheid X B.V. c.s. te Z opgelegde naheffingsaanslag in de omzetbelasting.
+
+1. Aanslag, bezwaar en geding voor het Hof. Aan belanghebbende is over het tijdvak 1 januari 1989 tot en met 31 december 1991 een naheffingsaanslag in de omzetbelasting opgelegd ten bedrage van f 31.223,--, zonder verhoging, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is tegen die uitspraak in beroep geko men bij het Hof, dat deze uitspraak, alsmede de naheffingsaanslag heeft vernietigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Staatssecretaris  heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van het middel van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Door een tot de fiscale eenheid behorende besloten vennootschap, A B.V. (hierna ook: belanghebbende) is aan een 23-tal kopers van door belanghebbende gestichte woningen een schadeloosstelling voor misgelopen subsidies toegekend, aangezien de subsidieaanvragen waren afgewezen omdat de hoogte van de stichtingskosten per woning niet in overeenstemming was met de subsidievoorwaarden. Bij de vaststelling van de hoogte van de te vergoeden bedragen is uitgegaan van de contante waarde van de geweigerde subsidietermijnen waarop in mindering zijn gebracht bedragen wegens inkomstenbelasting en premie volksverzekeringen, die de kopers bij de verstrekking van de subsidie verschuldigd zouden zijn geweest. Aan de schadeloosstelling en de berekening daarvan lag ten grondslag de wens van de bij de overeenkomsten betrokken partijen om de kopers in dezelfde financiële positie te brengen als waarin zij zouden hebben verkeerd bij toekenning van de subsidie. De in verband met deze schadeloosstelling gedane betalingen zijn volgens partijen voor het Hof een prijsvermindering in de zin van artikel 29, lid 1, aanhef en onderdeel b, van de Wet op de omzetbelasting 1968 (hierna: de Wet). Belanghebbende heeft in verband daarmee de in de desbetreffende creditnota's begrepen omzetbelasting op aangifte in aftrek gebracht. Belanghebbende heeft vervolgens met de eenheid Belastingdienst/Particulieren Q, die van mening was dat het bedrag van de schadeloosstelling in de inkomstenbelasting/premie volksverzekeringen moest worden betrokken, een - uit praktische overwegingen tot stand gekomen - compromis gesloten, hetwelk inhield dat belanghebbende aan de Belastingdienst een gezamenlijke afkoopsom zou betalen van f 200.000,-- en dat de kopers in verband met die betaling de ontvangen schadeloostelling voor de inkomstenbelasting/premie volksverzekeringen niet behoefden aan te geven. In het naheffingstijdvak heeft belanghebbende in verband met de betaling van bedoeld bedrag van f 200.000,-- een bedrag van 18,5/118,5 x f 200.000,--, zijnde f 31.223,--, aan omzetbelasting op aangifte in aftrek gebracht op grond van het bepaalde in genoemd artikel 29, lid 1, van de Wet. De Inspecteur heeft, zich op het standpunt stellend dat het hiervóór vermelde bedrag van f 200.000,-- niet het karakter heeft van een prijsvermindering in de zin van artikel 29, lid 1, aanhef en onderdeel b, van de Wet, de onderwerpelijke naheffingsaanslag opgelegd.
+
+3.2. Het Hof heeft met juistheid vooropgesteld dat voor de beantwoording van de vraag of een (terug)betaling in mindering op de vergoeding komt, moet worden vastgesteld of een rechtstreeks verband bestaat tussen het verrichten van de aan de orde zijnde prestatie en die betaling. Uitgaande van de feiten van het geding heeft het Hof deze vraag bevestigend beantwoord.  Aan dit oordeel heeft het Hof ten grondslag gelegd: -    dat de relatie van belanghebbende tot de kopers uitsluitend was die van leverancier/aannemer tegenover zijn afnemers; -    dat de betaling van f 200.000,-- een wezenlijk onderdeel was van de leveringsverplichting, omdat de kopers zich bij het aangaan van de koop/aannemingsovereenkomst in niet onbelangrijke mate hebben laten leiden door de te verwachten subsidie.
+
+3.3. Voorzover het middel aanvoert dat de onderhavige betalingen zijn gedaan aan een derde (de fiscus), die niet in een rechtstreeks verband met de onderliggende transacties, zijnde de levering van woningen, kan worden gebracht, kan het niet tot cassatie leiden, aangezien in 's Hofs hiervóór in 3.2 vermeld oordeel - hetwelk niet blijk geeft van een onjuiste rechtsopvatting en als verweven met waarderingen van feitelijke aard en niet onbegrijpelijk voor het overige in cassatie niet met vrucht kan worden bestreden - ligt besloten dat de fiscus de betaling van f 200.000,-- heeft ontvangen van, althans namens de kopers. Voorzover het middel ten betoge strekt dat door de betaling van een lumpsum geen of onvoldoende rechtstreeks verband bestaat tussen die betaling en de afzonderlijk jegens de kopers verrichte prestaties, faalt het evenzeer, aangezien deze bij compromis tot stand gekomen betaling haar grond heeft in de tussen belanghebbende en de kopers gesloten overeenkomsten, en, zoals het Hof feitelijk en niet onbegrijpelijk - en mitsdien in cassatie niet met vrucht te bestrijden - heeft geoordeeld, niet anders kan worden gezien dan als een rechtstreeks gevolg van het vergoeden van de misgelopen subsidie. Ook het derde middelonderdeel, waarin wordt geklaagd dat het fiscale voordeel dat elke individuele koper heeft bij de afkoop van de fiscale claim, niet is bepaald c.q. te bepalen is, faalt bij gebrek aan feitelijke grondslag.
+
+4. Proceskosten De Hoge Raad acht termen aanwezig om ten aanzien van de proceskosten die belanghebbende in verband met de behandeling van het geding in cassatie redelijkerwijs heeft moeten maken, te beslissen als hierna zal worden vermeld.
+
+5. Beslissing De Hoge Raad: verwerpt het beroep; veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 2.130,-- voor beroepsmatig verleende rechtsbijstand.
+
+Dit arrest is op 18 maart 1998 vastgesteld door de vice-president R.J.J. Jansen als voorzitter en de raadsheren Bellaart, De Moor, Van Brunschot en Meij, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken. Van de Staatssecretaris van Financiën wordt ter zake van dit beroep in cassatie een recht geheven van f 315,--.
