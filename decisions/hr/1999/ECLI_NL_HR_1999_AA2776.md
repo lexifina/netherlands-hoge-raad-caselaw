@@ -1,0 +1,31 @@
+---
+ecli: "ECLI:NL:HR:1999:AA2776"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "34668"
+decided: "1999-06-23"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2776"
+published_in: ["Rechtspraak.nl", "BNB 1999/297", "FED 1999/508 met annotatie van P.A. FLUTSCH", "WFR 1999/882, 1", "V-N 1999/30.7 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1999:AA2776 Hoge Raad , 23-06-1999 / 34668
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te 's-Hertogenbosch van 29 juni 1998 betreffende de aan hem voor het jaar 1994 opgelegde aanslag inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1994 een aanslag inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van f 48.094,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak door de Inspecteur is gehandhaafd. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft de uitspraak van de Inspecteur bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld en daarbij twee klachten aangevoerd. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft een vertoogschrift ingediend, waarin hij de eerste klacht gegrond acht en zich met betrekking tot de tweede klacht refereert aan het oordeel van de Hoge Raad.
+
+3. Beoordeling van de klachten 3.1. In cassatie kan van het volgende worden uitgegaan. Belanghebbende was in het onderhavige jaar gehuwd in gemeenschap van goederen en genoot het hoogste persoonlijke inkomen als bedoeld in artikel 5, lid 2, van de Wet op de inkomstenbelasting 1964 (hierna: de Wet). Uit tot de huwelijksgemeenschap behorende onroerende zaken werden huurinkomsten genoten. Belanghebbende en zijn echtgenote hebben een "meewerkcontract" ondertekend, waarin is vermeld dat zij zijn overeengekomen dat de echtgenote bepaalde werkzaamheden zal verrichten in het kader van de verhuur van genoemde onroerende zaken en daarvoor van belanghebbende een beloning van f 4.000,-- per jaar zal ontvangen. Voorts heeft belanghebbende reiskosten gemaakt in verband met het (samen met zijn echtgenote) regelmatig bezoeken van de sinds haar geboorte geestelijk gehandicapte zuster van zijn echtgenote, die in een gezinsvervangend tehuis verbleef. Deze zuster is drie tot vier jaar jonger dan belanghebbendes echtgenote en verliet op haar dertiende het ouderlijk huis om in bedoeld gezinsvervangend tehuis te gaan wonen. Belanghebbendes echtgenote heeft het ouderlijk huis zeven tot acht jaar daarna verlaten. 3.2. Het Hof heeft geoordeeld dat artikel 5, lid 7, van de Wet eraan in de weg staat dat belanghebbende het bedrag dat hij in het kader van het onder 3.1 bedoelde contract ter zake van de verrichte werkzaamheden ten behoeve van de verhuur van onroerende zaken heeft betaald aan zijn echtgenote, in aftrek kan brengen op de uit deze onroerende zaken genoten inkomsten uit vermogen. Door de eerste klacht wordt dit oordeel terecht bestreden. Nu in artikel 5, lid 7, van de Wet slechts is vermeld in welke gevallen mag worden afgeweken van de regel van artikel 5, lid 6, van de Wet kan daarin niet een beperking worden gelezen van de aftrekbaarheid van kosten die betrekking hebben op de verwerving, inning en het behoud van inkomsten uit vermogen (ongeacht of deze inkomsten op grond van artikel 5, lid 1, van de Wet worden gerekend tot het inkomen van de echtgenoot). 's Hofs uitspraak kan niet in stand blijven. Verwijzing moet volgen voor onderzoek van de stellingen waarmee de Inspecteur de aftrek heeft bestreden, te weten dat het "meewerkcontract" reële betekenis mist en dat het bedrag van f 4.000,-- niet is betaald ter verwerving, inning en behoud van de inkomsten uit de onroerende zaken. 3.3. De tweede klacht bestrijdt 's Hofs oordeel dat niet kan worden gezegd dat de echtgenote van belanghebbende bij de aanvang van de ziekte of invaliditeit van haar zuster met haar een gezamenlijke huishouding voerde in de zin van artikel 46, lid 3, aanhef en letter e, van de Wet. Gezien de wetsgeschiedenis van bedoelde bepaling, moet aan het begrip "voeren van een gezamenlijke huishouding" in zekere mate een ruime invulling worden gegeven. In overeenstemming met de uitleg die door de Hoge Raad in het arrest van 10 juni 1998, nr. 33456, BNB 1998/250, is gegeven aan het begrip "voeren van een gezamenlijke huishouding" voor de toepassing van artikel 56 van de Wet, moet het begrip "voeren van een gezamenlijke huishouding" voor de toepassing van artikel 46 in die zin worden opgevat, dat daaronder mede moet worden begrepen de situatie van kinderen die met hun ouders in gezinsverband wonen. De reiskosten die zijn gemaakt voor het bezoeken van de gehandicapte zuster van de echtgenote van belanghebbende moeten derhalve als buitengewone lasten ter zake van ziekte en invaliditeit in aftrek worden toegelaten. De uitspraak van het Hof kan ook op dit punt niet in stand blijven.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken. Door het verwijzingshof zal worden beoordeeld of aan belanghebbende voor de kosten in verband met de behandeling van het geding van het Hof een vergoeding dient te worden toegekend.
+
+5. Beslissing De Hoge Raad: ·vernietigt de uitspraak van het Hof, ·verwijst het geding naar het Gerechtshof te Arnhem ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, en ·gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van f 315,--.
+
+Dit arrest is op 23 juni 1999 vastgesteld door de raadsheer Zuurmond als voorzitter, en de raadsheren Beukenhorst en Monné, in tegenwoordigheid van de waarnemend griffier de Bruin, en op die datum in het openbaar uitgesproken.
