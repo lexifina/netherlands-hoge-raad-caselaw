@@ -1,0 +1,33 @@
+---
+ecli: "ECLI:NL:HR:1998:AA2366"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33204"
+decided: "1998-07-22"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2366"
+published_in: ["Rechtspraak.nl", "BNB 1998/317", "FED 1998/487", "FED 1998/622 met annotatie van M.J.G.A.M. WEEREPAS", "WFR 1998/1135, 1", "V-N 1998/37.5 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1998:AA2366 Hoge Raad , 22-07-1998 / 33204
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Staatssecretaris van Financiën tegen de uitspraak van het Gerechtshof te 's-Hertogenbosch van 13 februari 1997 betreffende de aan X te Z voor het jaar 1992 opgelegde aanslag inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1992 een aanslag in de inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van f 20.084,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft die uitspraak vernietigd en de - intussen door de Inspecteur ambtshalve tot een aanslag naar een belastbaar inkomen van f 12.836,-- verminderde - aanslag verminderd tot een aanslag naar een belastbaar inkomen van f 12.143,--. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Staatssecretaris van Financiën heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft een vertoogschrift ingediend.
+
+3. Beoordeling van de middelen 3.1. In cassatie kan van het volgende worden uitgegaan. Belanghebbende demonstreert en verkoopt kunststofartikelen voor huishoudelijk gebruik van het merk Tupperware op party's die bij gastvrouwen thuis worden georganiseerd. Verkoop van Tupperware-artikelen vindt uitsluitend plaats door middel van dergelijke party's, die niet zijn gericht op de consumptie van voedsel. Tijdens een party worden, bij wijze van demonstratie, met behulp van de Tupperware-artikelen voedselproducten bereid, zoals cake en salade. Deze tijdens de party bereide producten worden voor een deel door de aanwezigen tijdens of na de demonstratie geconsumeerd. Tevens demonstreert belanghebbende op de party dat de Tupperware-artikelen kunnen dienen om voedingsmiddelen te bewaren. Met het oog op een en ander schaft belanghebbende voor een party voedingsmiddelen aan, zoals meel, specerijen, rauwe groente, aardappelen en champignons. In het onderhavige jaar heeft belanghebbende te dier zake f 693,-- uitgegeven. Van die kosten heeft 25 percent betrekking op voedingsmiddelen welke in bereide vorm tijdens en na de party's zijn genuttigd door de aanwezigen; belanghebbende heeft zelf daarvan niets genuttigd of anderszins voor eigen gebruik aangewend. Het resterende deel van de kosten heeft betrekking op voedingsmiddelen welke na de demonstratie uiteindelijk zijn weggegooid. Voor het Hof was in geschil of, en zo ja in hoeverre, belanghebbendes uitgaven voor voedingsmiddelen kunnen worden gerangschikt onder haar, op de door haar ontvangen provisies terzake van de verkoop van de artikelen drukkende, aftrekbare kosten. Het Hof heeft het gehele bedrag van f 693,-- aftrekbaar geoordeeld. Het middel be strijdt dit oordeel met de klacht dat het Hof artikel 36, lid 1, aanhef en letter e, van de Wet op de inkomstenbelasting 1964 (hierna: de Wet) heeft geschonden. 3.2. Gelet op de in zijn uitspraak bedoelde passages uit de kamerstukken, waaraan nog kan worden toegevoegd de in het beroepschrift in cassatie vermelde zinsnede uit de Memorie van toelichting (Kamerstukken II 1988/89, 20873, nr. 3, blz. 25: "De in het nieuwe artikel neergelegde regeling inzake beperking van de aftrekbaarheid van gemengde kosten ..."), heeft het Hof terecht geoordeeld dat de in artikel 36 van de Wet neergelegde uitsluiting van de aftrek van bepaalde kosten is ingegeven door de wens van de wetgever te komen tot een verdere beperking van de aftrek van zogenoemde gemengde kosten. 3.3. Aan die bedoeling van de wetgever kan echter niet de gevolgtrekking worden verbonden dat die uitsluiting van de aftrek beperkt moet blijven tot die gemengde kosten. Volgens de Memorie van toelichting is immers "bij de invulling (van dit uitgangspunt) gekozen voor een concrete, min of meer uitvoerige normstelling en niet voor een open formulering waarbij nieuwe begrippen en scheidslijnen pas na verloop van jaren zouden zijn uitgekristalliseerd" (Kamerstukken 1988/89, 20873, nr. 3, blz. 11-12) en kennelijk is met deze opzet van de regeling mede beoogd geschillen te voorkomen over de vraag of bepaalde uitgaven in een concreet geval als gemengde kosten moeten worden aangemerkt. Dat volgt onder meer uit de opmerking in de Memorie van antwoord aan de Eerste kamer dat als gevolg van de noodzaak "om bij de aangebrachte beperkingen forfaitair te werk te gaan (...) het zich (zal) kunnen voordoen dat er ook beperkingen worden gesteld aan de aftrekbaarheid van kosten die door de betrokkene als puur zakelijk worden ervaren" (Kamerstukken I 1988/89, 20873, nr. 133c, blz. 13). 3.4. Niettemin is het redelijk in het licht van die bedoeling van de wetgever artikel 36, lid 1, aanhef en letter e, van de Wet aldus uit te leggen dat de daar geregelde uitsluiting van aftrek van kosten verband houdende met voedsel niet geldt in een geval als het onderhavige, waarin het voedsel louter is aangeschaft om te dienen als hulpmiddel bij de demonstratie van kunststofproducten en de omstandigheid dat het ten dele en in het kader van die demonstratie wordt geconsumeerd slechts bijkomstig is. Het Hof heeft mitsdien, zij het op andere gronden, terecht de desbetreffende kosten in aftrek toegelaten. Het middel kan derhalve niet tot cassatie leiden.
+
+4. Proceskosten De Staatssecretaris zal worden veroordeeld in de kosten van het geding in cassatie.
+
+5. Beslissing De Hoge Raad: -    verwerpt het beroep, en -    veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 355,--.
+
+Dit arrest is op 22 juli 1998 vastgesteld door de raadsheer Zuurmond als voorzitter, en de raadsheren Fleers, Pos, Beukenhorst en Monné, in tegenwoordigheid van de waarnemend griffier Loen, en op die datum in het openbaar uitgesproken.
+
+Van de Staatssecretaris van Financiën wordt terzake van dit beroepschrift in cassatie een recht geheven van f 315,--.
