@@ -2,18 +2,22 @@
 ecli: "ECLI:NL:HR:1989:AC2498"
 court: "Hoge Raad"
 court_code: "HR"
-docket: "13 399"
+docket: "13.399"
 decided: "1989-05-12"
 published: "2013-04-04"
 type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1989:AC2498"
-published_in: ["Rechtspraak.nl", "NJ 1990, 130 met annotatie van W.H. Heemskerk", "RvdW 1989, 132", "V-N 1989/1591, 30 met annotatie van Redactie", "AA19900104 met annotatie van S.C.J.J. Kortmann"]
+published_in: ["Rechtspraak.nl", "NJ 1990, 130 met annotatie van W.H. Heemskerk", "RvdW 1989, 132", "V-N 1989/1591, 30", "AA19900104 met annotatie van S.C.J.J. Kortmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1989:AC2498"]]
 ---
 
-# ECLI:NL:HR:1989:AC2498 Hoge Raad , 12-05-1989 / 13 399
+# ECLI:NL:HR:1989:AC2498 Hoge Raad , 12-05-1989 / 13.399
+
+## Inhoudsindicatie
+
+Faillissement. Bodembeslag gelegd door de ontvanger, na het uitspreken van het faillissement, op goederen die de belastingschuldige tot zekerheid aan een derde fiduciair in eigendom had overgedragen.
 
 ## Uitspraak
 
@@ -96,7 +100,7 @@ De conclusie van de Advocaat-Generaal Biegman-Hartogh strekt tot vernietiging va
 
 4. Beoordeling van de middelen in het principaal cassatieberoep
 
-4.1 Toen de Ontvanger ermee werd geconfronteerd dat zich in de faillissementen van een aantal tot de Sigmagroep behorende vennootschappen (in welke faillissementen Mr. Gerritse als curator optreedt) een gang van zaken voordeed als onder 3.1 verkort geschetst, heeft hij (zakelijk weergegeven): (a) buiten rechte op grond van art. 1377 BW de nietigheid ingeroepen van de door de zekerheidseigenaren ( [H] en N.I.B.) met de curator en de koper van de bodemgoederen ( [B] ) gesloten overeenkomsten en verrichte rechtshandelingen; en (b) zich in dit geding op het standpunt gesteld, primair dat hij die gang van zaken "niet tegen zich behoeft te laten gelden" (formulering van het Hof in rov. 8.1.12) en subsidiair dat de curator, de zekerheidseigenaren en de koper van de bodemgoederen jegens de Staat onrechtmatig hebben gehandeld. Dienovereenkomstig heeft de Ontvanger gevorderd, zeer verkort weergegeven, primair: voor recht te verklaren dat het bodembeslag niet is vervallen, en subsidiair: [H] , N.I.B., de curator en [B] te veroordelen tot het vergoeden van de door de fiscus geleden schade.De Rechtbank heeft beide vorderingen afgewezen, maar het Hof heeft de primaire vordering toegewezen. Daartegen keren zich de middelen in het principaal cassatieberoep.Opmerking verdient nog dat de Rechtbank heeft geoordeeld dat de Ontvanger niet de bevoegdheid toekwam "tot het inroepen van de Pauliana" omdat "de curator noch een van zijn medegedaagden" is te vereenzelvigen met de schuldenaar ("immers, zij zijn geen debiteur ter zake van de belastingvorderingen van de Ontvanger"). Daartegen richtte zich de tweede appelgrief van de Ontvanger. Tegen de achtergrond van de gedingstukken meet uit rov. 3 van 's Hofs tussenarrest worden afgeleid dat de Ontvanger, wellicht op een dwaalspoor gebracht door HR 12 april 1985, NJ 1986, 808, deze grief heeft ingetrokken.
+4.1 Toen de Ontvanger ermee werd geconfronteerd dat zich in de faillissementen van een aantal tot de [groep] behorende vennootschappen (in welke faillissementen Mr. Gerritse als curator optreedt) een gang van zaken voordeed als onder 3.1 verkort geschetst, heeft hij (zakelijk weergegeven): (a) buiten rechte op grond van art. 1377 BW de nietigheid ingeroepen van de door de zekerheidseigenaren ( [H] en N.I.B.) met de curator en de koper van de bodemgoederen ( [B] ) gesloten overeenkomsten en verrichte rechtshandelingen; en (b) zich in dit geding op het standpunt gesteld, primair dat hij die gang van zaken "niet tegen zich behoeft te laten gelden" (formulering van het Hof in rov. 8.1.12) en subsidiair dat de curator, de zekerheidseigenaren en de koper van de bodemgoederen jegens de Staat onrechtmatig hebben gehandeld. Dienovereenkomstig heeft de Ontvanger gevorderd, zeer verkort weergegeven, primair: voor recht te verklaren dat het bodembeslag niet is vervallen, en subsidiair: [H] , N.I.B., de curator en [B] te veroordelen tot het vergoeden van de door de fiscus geleden schade.De Rechtbank heeft beide vorderingen afgewezen, maar het Hof heeft de primaire vordering toegewezen. Daartegen keren zich de middelen in het principaal cassatieberoep.Opmerking verdient nog dat de Rechtbank heeft geoordeeld dat de Ontvanger niet de bevoegdheid toekwam "tot het inroepen van de Pauliana" omdat "de curator noch een van zijn medegedaagden" is te vereenzelvigen met de schuldenaar ("immers, zij zijn geen debiteur ter zake van de belastingvorderingen van de Ontvanger"). Daartegen richtte zich de tweede appelgrief van de Ontvanger. Tegen de achtergrond van de gedingstukken moet uit rov. 3 van 's Hofs tussenarrest worden afgeleid dat de Ontvanger, wellicht op een dwaalspoor gebracht door HR 12 april 1985, NJ 1986, 808, deze grief heeft ingetrokken.
 
 4.2 Middel I strekt ten betoge dat onjuist is 's Hofs in rov. 8.2.8 neergelegde oordeel dat de Ontvanger ook na het uitspreken van het faillissement van de belastingschuldige onder deze nog bodembeslag mag leggen. Het middel faalt, omdat dit oordeel, zoals blijkt uit het hiervoor onder 3.2 overwogene, juist is. Middel II berust op dezelfde grondslag als middel I en moet het lot daarvan delen. Datzelfde geldt voor onderdeel alc van middel III.
 
@@ -108,7 +112,7 @@ Deze vier gronden zijn, kort gezegd:
 
 - (B) nu de opbrengst van de verkoop van de bodemgoederen, behoudens een relatief gering gedeelte, niet in de boedel terecht is gekomen, verzet de strekking van art. 16 lid 3 Invorderingswet zich ertegen aan te nemen dat de voldoening aan de Ontvanger kan worden tegengeworpen (rov. 8.3.7);
 
-- (C) nu de strekking van "de overeenkomst tot verkoop van de bedrijfsactiva", voorzover deze de voldoening van de vorderingen van de zekerheidseigenaren regelde, enkel bet frustreren van het bodemrecht is, heeft deze overeenkomst in zoverre een ongeoorloofde oorzaak die "deze betaling vitieert" (rov. 8.3.8 en 8.3.9);
+- (C) nu de strekking van "de overeenkomst tot verkoop van de bedrijfsactiva", voorzover deze de voldoening van de vorderingen van de zekerheidseigenaren regelde, enkel het frustreren van het bodemrecht is, heeft deze overeenkomst in zoverre een ongeoorloofde oorzaak die "deze betaling vitieert" (rov. 8.3.8 en 8.3.9);
 
 - (D) de zekerheidseigenaren konden zich onder de omstandigheden van dit geval niet in redelijkheid op het standpunt stellen dat hun vorderingen geheel waren voldaan (rov. 8.3.10).
 
