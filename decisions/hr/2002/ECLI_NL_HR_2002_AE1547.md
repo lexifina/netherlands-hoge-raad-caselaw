@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2002:AE1547"
-published_in: ["Rechtspraak.nl", "JOL 2002, 425", "NJ 2002, 437 met annotatie van P. van Schilfgaarde", "RvdW 2002, 125", "TvI 2002, p. 331 met annotatie van H.M. Koster", "V-N 2002/38.33 met annotatie van Redactie", "JWB 2002/266", "JOR 2002/179 met annotatie van NEDF"]
+published_in: ["Rechtspraak.nl", "JOL 2002, 425", "NJ 2002, 437 met annotatie van P. van Schilfgaarde", "RvdW 2002, 125", "TvI 2002, p. 331 met annotatie van H.M. Koster", "V-N 2002/38.33", "JWB 2002/266", "JOR 2002/179 met annotatie van prof. mr. N.E.D. Faber", "NTFR 2002/1482 met annotatie van mr. J.D. Schouten"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2002:AE1547"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-057.md", "netherlands/national/acts/faillissementswet/art-182.md", "netherlands/national/acts/invorderingswet-1990/art-021.md"]
 ---
