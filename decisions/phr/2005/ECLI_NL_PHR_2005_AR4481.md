@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2005:AR4481"
-published_in: ["Rechtspraak.nl", "NJ 2008, 41 met annotatie van Jac. Hijma", "JOL 2005, 53", "RvdW 2005, 21", "JWB 2005/42", "JOR 2005/167 met annotatie van J.J. Dammingh"]
+published_in: ["Rechtspraak.nl", "NJ 2008, 41 met annotatie van J. Hijma", "JOL 2005, 53", "RvdW 2005, 21", "JWB 2005/42", "JOR 2005/167 met annotatie van J.J. Dammingh"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2005:AR4481"]]
 ---
 
