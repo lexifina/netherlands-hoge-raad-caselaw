@@ -1,0 +1,53 @@
+---
+ecli: "ECLI:NL:HR:1996:AA1910"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30885"
+decided: "1996-08-16"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1996:AA1910"
+published_in: ["Rechtspraak.nl", "BNB 1996/340", "FED 1996/670", "FED 1996/741 met annotatie van R.G. FRANSSEN", "WFR 1996/1212, 1", "V-N 1996/3312, 18 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1996:AA1910 Hoge Raad , 16-08-1996 / 30885
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Amsterdam van 9 november 1994 betreffende de hem voor het jaar 1990 opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1990 een aanslag in de inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van ƒ 334.411,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof, dat deze uitspraak heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van de middelen van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan:
+
+3.1.1. Belanghebbende, van beroep apotheker, exploiteert te R een apotheek.
+
+3.1.2. Belanghebbende is lid van de Coöperatieve Apothekers Vereniging B te U (hierna: B). Deze vereniging heeft ten doel in de stoffelijke belangen van haar leden, de bij haar aangesloten apothekers, te voorzien en voorts de bedrijfsuitoefening van de apothekers in het algemeen te bevorderen. Dit doel tracht B te bereiken door het kopen en verkopen en/of het doen kopen of doen verkopen, alsmede het vervaardigen, bewerken en/of het doen vervaardigen of doen bewerken van farmaceutische produkten en medische apparatuur. Het lidmaatschap van B is voorbehouden aan hen die een door de Nederlandse wet erkend diploma van apotheker bezitten.
+
+3.1.3. De statuten van B behelzen met ingang van 1988, voor zover in cassatie van belang, de volgende bepalingen: "Artikel 1.   De leden zijn verplicht met één aandeel deel te nemen in het ledenkapitaal van de vereniging volgens
+
+nader in deze statuten en reglementen omschreven regels. (...) Artikel 32 1. Ieder lid is verplicht om bij zijn toetreding één aandeel, nominaal groot honderd gulden (ƒ 100,--), in het ledenkapitaal te nemen en op dat aandeel het nominaal bedrag te storten. Voorts kan ieder lid zolang zijn lidmaatschap voortduurt het Bestuur (...) verzoeken één of meer aandelen, elk groot nominaal honderd gulden (ƒ 100,--), in het ledenkapitaal aan hem toe te kennen, tegen storting van het nominaal bedrag. Over het aantal bij toetreding of later te nemen aandelen beslist het Bestuur, naar algemene, door het Bestuur vast te stellen maatstaven, welke maatstaven in deze statuten worden aangeduid met: de deelnemingsgrondslagen. Indien een lid, naar het oordeel van het Bestuur, meer aandelen houdt dan hem op grond van de deelnemingsgrondslagen toekomen, worden deze aandelen als boventallig aangemerkt. (...)"
+
+3.1.4. In de artikelen 11 en 32 van de uit 1984 daterende statuten was, voor zover in cassatie van belang, het volgende bepaald: "Artikel 1.   De leden zijn verplicht met een of meer aandelen deel te nemen in het kapitaal van de vereniging volgens nader in het huishoudelijk reglement omschreven regels, met dien verstande dat buitengewone leden slechts voor één aandeel in het kapitaal der vereniging kunnen deelnemen.
+
+(...) Artikel 32 1.   Het kapitaal der vereniging wordt gevormd door de inleggelden van de leden; deze inleggelden worden "aandelen" genoemd. Een aandeel heeft een nominale waarde van tweehonderdvijftig gulden (ƒ 250,--). (...)"
+
+3.1.5. Ultimo december 1988 is door B een zogenoemde obligatielening uitgeschreven. Inschrijving stond alleen open voor de leden van B. De voorwaarden luidden, voor zover hier van belang: -    het aantal per lid te nemen obligaties wordt bepaald door het aantal aandelen van een lid; -    de nominale waarde van een obligatie bedraagt ƒ 100,--; -    de obligaties dragen een rente van 5,5 procent per jaar boven het promesse-disconto van de Nederlandse Bank NV; -    de lening zal in haar geheel a pari worden afgelost op 30 april 1999; -    de lening zal vóór die datum worden afgelost ingeval de aandelen vervallen aan B wegens boventalligheid of wanneer zij worden vervreemd aan B, tenzij het aantal obligaties blijft binnen een door het bestuur van B vastgestelde verhouding tussen aandelen en obligaties, welke verhouding op het moment van uitgifte is te stellen op 1:1; -    een obligatie kan alleen aan B worden vervreemd; -    financiering van de obligaties kan geschieden via de Amro-bank te U.
+
+3.1.6. Belanghebbende bezat ultimo december 1990 aandelen en obligaties B met een waarde van ƒ 127.000,-- respectievelijk ƒ 127.000,--. Ultimo december 1989 was dit ƒ 119.600,-- respectievelijk ƒ 119.600,--.
+
+3.2. Voor het Hof was tussen partijen in geschil of belanghebbende recht heeft op toepassing van de rentevrijstelling, genoemd in artikel 47a, lid 3, van de Wet op de inkomstenbelasting 1964, voor de uit de obligaties genoten rente. Buiten geschil was dat de toepassing van de rentevrijstelling achterwege dient te blijven, indien de obligaties tot het ondernemingsvermogen van belanghebbende dienen te worden gerekend.
+
+3.3. Het Hof heeft overwogen: dat partijen, naar ter zitting is gebleken, het er kennelijk over eens zijn dat de aandelen die belanghebbende vóór de statutenwijziging in 1988 bezat, verplicht ondernemingsvermogen vormen; dat het Hof partijen in hun eensluidend standpunt zal volgen, nu dat geen blijk geeft van een onjuist juridisch inzicht; dat partijen van mening verschillen over de vraag of het karakter van de aandelen na de statutenwijziging in 1988 ongewijzigd is gebleven; dat belanghebbende zich op het standpunt stelt dat de aandelen na de statutenwijziging niet meer tot het verplichte ondernemingsvermogen behoren; dat belanghebbende ter staving van zijn standpunt aanvoert dat de leden krachtens het huidige artikel 11 van de statuten slechts de verplichting hebben om met één aandeel deel te nemen in het kapitaal van B; dat het Hof dit standpunt van belanghebbende verwerpt; dat de enkele wijziging in 1988 van artikel 11 van de statuten in het huidige artikel 11 aan de aandelen niet het karakter van ondernemingsvermogen ontneemt; dat uit niets is gebleken dat de aandelen na de statutenwijziging binnen de onderneming van belanghebbende een andere plaats zijn gaan innemen; dat belanghebbende in dit verband nog heeft aangevoerd dat het nemen van meer dan één aandeel ter vrije keuze van het lid staat; dat die vrijheid om al of niet meer dan één aandeel te nemen echter niet relevant is voor de beantwoording van de vraag of een genomen aandeel aan de onderneming dient te worden toegerekend; dat het Hof dan ook niet vermag in te zien dat de beslissing van een lid om boven het eerste aandeel meerdere aandelen te nemen het ondernemingskarakter aan die meerdere aandelen kan ontnemen; dat het Hof op grond van het vorenoverwogene aannemelijk acht de stelling van de Inspecteur dat de aandelen ook na de statutenwijziging in 1988 tot het verplichte ondernemingsvermogen van belanghebbende behoren; dat het bezit van aandelen de leden recht geeft op het nemen van obligaties; dat uit de voorwaarden van inschrijving blijkt dat het bezit van één aandeel van nominaal ƒ 100,-- recht gaf op het nemen van één obligatie van nominaal ƒ 100,-- en voorts dat de obligaties een rente droegen van 5,5 procent per jaar boven het promesse-disconto van de Nederlandse Bank NV; dat de Inspecteur dienaangaande erop heeft gewezen dat belanghebbende slechts kon participeren in de geldlening omdat hij reeds aandelen bezat; dat de Inspecteur voorts onweersproken heeft gesteld dat in geval van financiering van de obligaties bij de huisbankier van B door deze een rentevergoeding werd gevraagd van 1,5 procent boven het promesse-disconto van de Nederlandse Bank NV, zodat de obligatienemer aldus kon rekenen op een écart van vier procent en dat dit verschil als een verkapte korting moet worden beschouwd; dat derhalve ook de obligaties tot het verplichte ondernemingsvermogen van belanghebbende dienen te worden gerekend.
+
+3.4. Middel 1 betoogt dat het Hof onvoldoende heeft gemotiveerd waarom de aandelen en obligaties tot het verplichte ondernemingsvermogen van belanghebbende dienen te worden gerekend. Het middel treft doel. Ter beantwoording van de vraag of de aandelen en obligaties tot het verplichte ondernemingsvermogen van belanghebbende moeten worden gerekend, diende het Hof te onderzoeken of de met deze aandelen en obligaties te behalen voordelen in feite afhankelijk zijn van de bedrijfsuitoefening van belanghebbende. 's Hofs uitspraak is te dezen onvoldoende gemotiveerd, nu het Hof zich niet heeft uitgelaten over de vraag op welke grond het écart van vier procent rente als een verkapte korting moet worden beschouwd. De uitspraak kan derhalve niet in stand blijven; verwijzing moet volgen. De middelen behoeven voor het overige geen behandeling.
+
+4. Proceskosten De Hoge Raad zal met het oog op een eventuele veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken belanghebbende in de gelegenheid stellen zich uit te laten als hierna bepaald.
+
+5. Beslissing. De Hoge Raad vernietigt de uitspraak van het Hof, verwijst het geding naar het Gerechtshof te 's-Gravenhage ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van ƒ 300,--, en stelt belanghebbende in de gelegenheid binnen 6 weken na heden zich uit te laten omtrent een eventuele veroordeling van de wederpartij in de kosten van het geding in cassatie.
+
+Dit arrest is op 16 augustus 1996 vastgesteld door de vice-president R.J.J. Jansen als voorzitter, en de raadsheren Van der Linde, Bellaart, Van der Putt-Lauwers en Van Brunschot, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken.
