@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AD3568"
-published_in: ["Rechtspraak.nl", "BNB 2001/383", "FED 2001/528", "WFR 2001/1374", "V-N 2001/60.26 met annotatie van Redactie", "FutD 2001-1803", "NTFR 2003/599"]
+published_in: ["Rechtspraak.nl", "BNB 2001/383", "FED 2001/528", "WFR 2001/1374", "V-N 2001/60.26 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:HR:2001:AD3568 Hoge Raad , 21-09-2001 / 36557
