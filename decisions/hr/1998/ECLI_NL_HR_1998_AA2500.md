@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2500"
-published_in: ["Rechtspraak.nl", "BNB 1998/195 met annotatie van P. KAVELAARS", "FED 1998/505 met annotatie van J.H.M. ARTS", "WFR 1998/614, 1", "V-N 1998/25.19 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 1998/195 met annotatie van P. KAVELAARS", "FED 1998/505 met annotatie van J.H.M. ARTS", "WFR 1998/614, 1", "V-N 1998/25.19"]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-010.md", "netherlands/national/acts/wet-loonbelasting-1964/art-011.md"]
 ---
 
