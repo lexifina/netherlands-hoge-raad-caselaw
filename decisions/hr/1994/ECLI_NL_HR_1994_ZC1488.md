@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1994:ZC1488"
-published_in: ["Rechtspraak.nl", "NJ 1995, 447 met annotatie van W.M. Kleijn", "RvdW 1994, 207", "V-N 1994/3540, 33 met annotatie van Redactie", "AA19960115 met annotatie van S.C.J.J. Kortmann", "RV 2014/76 met annotatie van Redactie van Rechtspraak Vermogensrecht"]
+published_in: ["Rechtspraak.nl", "NJ 1995, 447 met annotatie van W.M. Kleijn", "RvdW 1994, 207", "V-N 1994/3540, 33", "AA19960115 met annotatie van S.C.J.J. Kortmann", "RV 2014/76 met annotatie van mr. A.J. van der Lely, prof. mr. A.I.M. van Mierlo, prof. mr. S.E. Bartels", "JOR 2026/236 met annotatie van mr. dr. V.J.M. van Hoof"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1994:11"]]
 cites_law: ["netherlands/national/acts/registratiewet-1970/art-001.md", "netherlands/national/acts/registratiewet-1970/art-013.md"]
 ---
