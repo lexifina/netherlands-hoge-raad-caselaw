@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AA9842"
-published_in: ["Rechtspraak.nl", "Belastingblad 2001/593", "BNB 2001/112 met annotatie van G.J. van Leijenhorst", "FED 2001/127", "WFR 2001/194, 1", "V-N 2001/19.36 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2001/593", "BNB 2001/112 met annotatie van G.J. van Leijenhorst", "FED 2001/127", "WFR 2001/194, 1", "V-N 2001/19.36", "NTFR 2001/459"]
 cites_law: ["netherlands/national/acts/wet-waardering-onroerende-zaken/art-017.md"]
 ---
 
