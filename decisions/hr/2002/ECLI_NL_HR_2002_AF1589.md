@@ -1,0 +1,57 @@
+---
+ecli: "ECLI:NL:HR:2002:AF1589"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "37557"
+decided: "2002-12-06"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2002:AF1589"
+published_in: ["Rechtspraak.nl", "BNB 2003/75", "FED 2002/727", "Belastingadvies 2002/7.9", "WFR 2002/1846", "V-N 2002/61.10 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:2002:AF1589 Hoge Raad , 06-12-2002 / 37557
+
+## Uitspraak
+
+Nr. 37.557
+
+6 december 2002
+
+wv
+
+gewezen op het beroep in cassatie van de Staatssecretaris van Financiën tegen de uitspraak van het Gerechtshof te Amsterdam van 16 mei 2001, nr. P99/2603, betreffende na te melden aan X te Z opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof
+
+Aan belanghebbende is voor het jaar 1997 een aanslag in de inkomstenbelasting/premie volksverzekeringen opgelegd, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is verminderd tot een aanslag naar een belastbaar inkomen van ƒ 45.362 .
+
+Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof.
+
+Het Hof heeft de uitspraak van de Inspecteur vernietigd en de aanslag verminderd tot een aanslag berekend naar een belastbaar inkomen van ƒ 44.648. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie
+
+De Staatssecretaris van Financiën heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit.
+
+Belanghebbende heeft een verweerschrift ingediend.
+
+3. Beoordeling van het middel
+
+3.1. Onderdeel a van het middel behelst een rechtsklacht tegen 's Hofs oordeel dat een uitgave door belanghebbende van ƒ 1513,75 tot voorziening in het levensonderhoud van haar aan drugs en alcohol verslaafde dochter, onder de omstandigheden van het geval zoals door het Hof in zijn uitspraak vermeld, is aangetoond met een schriftelijk bescheid, te weten een nota van een tandarts voor dat bedrag. 's Hofs oordeel geeft evenwel geen blijk van een onjuiste rechtsopvatting, zodat het onderdeel faalt.
+
+3.2. Onderdeel b van het middel strekt ten betoge dat geen sprake is van uitgaven in geld als bedoeld in artikel 46, lid 1, letter a, onder 2º, van de Wet, zoals het Hof heeft geoordeeld, maar van uitgaven in natura. Nu het Hof echter - in cassatie onbestreden - heeft vastgesteld dat de verbintenis tot verkrijging van de tandheelkundige hulp tot stand is gekomen tussen de dochter van belanghebbende en de tandarts, en dat belanghebbende niet heeft gefungeerd als verstrekker van de dienst, maar als verstrekker van het voor de verwerving van die dienst benodigde geld, is zijn oordeel juist. Het stelsel van de wet verzet zich niet ertegen dat belanghebbende de uitgave rangschikt onder de uitgaven tot voorziening in het levensonderhoud en niet onder de uitgaven ter zake van ziekte (HR 23 april 1980, nr. 19811, BNB 1980/197). Ook dit onderdeel faalt derhalve.
+
+4. Proceskosten
+
+De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten.
+
+5. Beslissing
+
+De Hoge Raad verklaart het beroep ongegrond.
+
+Dit arrest is gewezen door de vice-president E. Korthals Altes als voorzitter, en de raadsheren L. Monné en J.C. van Oven, in tegenwoordigheid van de waarnemend griffier A.I. Boussak-Leeksma, en in het openbaar uitgesproken op 6 december 2002.
+
+Van de Staat wordt ter zake van het door de Staatssecretaris van Financiën ingestelde beroep in cassatie een griffierecht geheven van € 327.
