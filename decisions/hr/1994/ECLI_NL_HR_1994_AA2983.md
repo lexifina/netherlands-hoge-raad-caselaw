@@ -1,0 +1,39 @@
+---
+ecli: "ECLI:NL:HR:1994:AA2983"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "29448"
+decided: "1994-11-09"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1994:AA2983"
+published_in: ["Rechtspraak.nl", "BNB 1995/60 met annotatie van G. Slot", "FED 1994/718", "FED 1995/45 met annotatie van L.G.M. STEVENS", "WFR 1994/1745", "V-N 1994/3759, 14 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1994:AA2983 Hoge Raad , 09-11-1994 / 29448
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de besloten vennootschap met beperkte aansprakelijkheid X B.V. te Z tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 8 januari 1993 betreffende de haar voor het jaar 1986 opgelegde aanslag in de vennootschapsbelasting.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1986 een aanslag in de vennootschapsbelasting opgelegd naar een belastbaar bedrag van f 3.037,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd. Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof, dat deze uitspraak heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van het middel van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Belanghebbende heeft op 30 juni 1986 met A, in het kader van de staking van een onderneming in de zin van de artikelen 19 en 44f van de Wet op de inkomstenbelasting 1964 (tekst 1986) een stamrechtovereenkomst gesloten voor een bedrag van f 141.328,--. Deze overeenkomst houdt - zakelijk weergegeven -, voor zover van belang het volgende in: a.   het bedrag van f 141.328,-- zal, te rekenen vanaf 30 juni 1986 tot de ingangsdatum van de uitkering(en), worden opgerent met 6% samengestelde interest per jaar; b.   het aldus opgerente bedrag zal worden aangewend voor een lijfrente op het leven van A en/of diens partner of eventueel zijn minderjarige (pleeg)kinderen (een zogenaamde gerichte lijfrente) en toekomen aan A, zijn partner of de vorenbedoelde kinderen; de ingangsdatum is bij in leven zijn van A 5 mei 2012; c.   de lijfrente zal bedragen 100/85 van een lijfrente die van een door A of andere rechthebbende op de lijfrente aan te wijzen verzekeringsmaatschappij zal kunnen worden bedongen; d.   de als voren berekende lijfrente kan belanghebbende onderbrengen bij een door A of andere rechthebbende op de lijfrente aan te wijzen verzekeringsmaatschappij; e.   er is een glijclausule opgenomen met betrekking tot de hoogte van de overeengekomen rente van 6%. Deze zal, indien de belastingdienst of de belastingrechter die rente definitief op een ander percentage vaststelt, aan die beslissing worden aangepast.
+
+3.2. In haar beroepschrift berekent belanghebbende de actuariële waarde van de uitkeringen op 5 mei 2012 als volgt: rekenkapitaal f 141.328,-- opgerent à 6% van 30 juni 1986 tot 5 mei 2012    f 637.300,-- af: daarin begrepen voor kosten en winstopslag                     f  63.730,-- rekenkapitaal op netto grondslag   f 573.570,--. Als actuarieel kapitaal benodigd voor de uitkeringen berekent belanghebbende vervolgens een bedrag van (100/85 x f 573.570,-- =) f 674.788,--. Belanghebbende heeft zich primair op het standpunt gesteld dat de jaarlijkse toevoeging aan het stamrechtkapitaal dient te worden berekend door het verschil tussen het bij ingangsdatum van de lijfrente benodigde kapitaal (f 674.788,--) en het beginkapitaal (f 141.328,--) gelijkelijk te verdelen over de periode van 30 juni 1986 tot 5 mei 2012, hetgeen neerkomt op een (gelijkblijvende) jaarlast van f 20.650,--.
+
+3.3. Het Hof heeft geoordeeld dat de door belanghebbende primair voorgestane lineaire methode ter verdeling van de jaarlast in strijd is met goed koopmansgebruik. Dit oordeel is juist. De door belanghebbende aangegane verplichting is immers op één lijn te stellen met een schuld tegen samengestelde interest. Een dergelijke schuld kan in het passief van de balans telkenjare slechts met het bedrag van de interest worden verhoogd. Onderdeel c van het middel faalt derhalve.
+
+3.4. Het Hof heeft geoordeeld dat de - naar zijn oordeel - te hoge in aanmerking genomen rente opweegt tegen de verhoging van het kapitaal in verband met de insolvabiliteitstoeslag - door vermenigvuldiging met 100/85 - waaraan het de gevolgtrekking heeft verbonden dat een praktische oplossing met zich brengt de beide grootheden te salderen. Alsdan is er - aldus het Hof - conform het standpunt van de Inspecteur, slechts ruimte voor oprenting van de koopsom met een samengestelde rente van 6%. Dit oordeel is echter niet begrijpelijk. Gegeven de omstandigheid dat het bedrag van de verplichting ingevolge de voormelde overeenkomst per 5 mei 2012, met inachtneming van de vermenigvuldigingsfactor van 100/85, een vaststaand bedrag (f 674.788,--) zal belopen, leidt immers de vermindering van het gehanteerde rentepercentage naar haar aard tot een verhoging van de jaarlijks in aanmerking te nemen passiefpost, welke factor - anders dan het Hof veronderstelt - niet met de  vermenigvuldigingsfactor kan worden gecompenseerd. De onderdelen a en b van het middel zijn dus gegrond, zodat 's Hofs uitspraak niet in stand kan blijven.
+
+3.5. De Hoge Raad kan zelf de zaak afdoen. Naar uit overweging 3.11 van 's Hofs uitspraak blijkt hebben partijen overeenstemming bereikt over het antwoord op de vraag welk stelsel belanghebbende mag volgen indien haar hiervóór in 3.2 vermelde stelsel niet in overeenstemming met goed koopmansgebruik zou worden geacht, en ook het hiervóór in 3.4 weergegeven standpunt van de Inspecteur zou worden verworpen. Partijen zijn overeengekomen dat het bedrag van f 141.328,-- jaarlijks wordt opgerent met 6% samengestelde interest, terwijl het verschil tussen het hiervoor in 3.2 vermelde rekenkapitaal ad f 637.300,-- en het op 5 mei 2012 actuarieel benodigde kapitaal van f 674.788,--, ofwel een bedrag van f 37.488,--, lineair over de periode 30 juni 1986 tot 5 mei 2012 wordt verdeeld. Voor het onderhavige jaar betekent zulks dat de last bedraagt (6/12 x 6% van f 141.328,-- =) f 4.240,--, vermeerderd met (6/310 x f 37.488,-- = ) f 726,--, derhalve f 4.966,--. Het belastbare bedrag dient te worden verminderd tot f 3.037,-- minus f 726,-- = f 2.311,--.
+
+4. Proceskosten De Hoge Raad zal met het oog op een eventuele veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken belanghebbende in de gelegenheid stellen zich uit te laten als hierna bepaald.
+
+5. Beslissing De Hoge Raad vernietigt de uitspraak van het Hof en die van de Inspecteur, vermindert de aanslag tot een aanslag naar een belastbaar bedrag van f 2.311,--, gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie gestorte griffierecht ten bedrage van f 300,--, alsmede het bij het Hof gestorte griffierecht ter zake van de behandeling van de zaak voor het Hof ten bedrage van f 75,--, derhalve in totaal f 375,--, en stelt belanghebbende in de gelegenheid binnen 6 weken na heden zich uit te laten omtrent een eventuele veroordeling van de wederpartij in de kosten van het geding in cassatie.
+
+Dit arrest is gewezen door de vice-president R.J.J. Jansen als voorzitter, en de raadsheren Van der Linde, Bellaart, De Moor en Van der Putt-Lauwers, in tegenwoordigheid van de waarnemend griffier Van Hooff, in raadkamer van 9 november 1994.
