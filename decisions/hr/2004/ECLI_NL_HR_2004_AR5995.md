@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AR5995"
-published_in: ["Rechtspraak.nl", "RSV 2005, 34", "BNB 2005/45", "FED 2004/660", "Belastingadvies 2004/23.12", "WFR 2004/1805", "V-N 2004/63.21 met annotatie van Redactie", "FutD 2004-2109"]
+published_in: ["Rechtspraak.nl", "RSV 2005, 34", "BNB 2005/45", "FED 2004/660", "Belastingadvies 2004/23.12", "WFR 2004/1805", "V-N 2004/63.21", "NTFR 2004/1755 met annotatie van drs. M. Schuver-Bravenboer"]
 ---
 
 # ECLI:NL:HR:2004:AR5995 Hoge Raad , 19-11-2004 / 38663
