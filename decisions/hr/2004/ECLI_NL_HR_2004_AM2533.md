@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AM2533"
-published_in: ["Rechtspraak.nl", "JOL 2004, 187", "NJ 2004, 376 met annotatie van Y. Buruma", "V-N 2004/50.7 met annotatie van Redactie", "FutD 2004-1547", "NBSTRAF 2004/146"]
+published_in: ["Rechtspraak.nl", "JOL 2004, 187", "NJ 2004, 376 met annotatie van Y. Buruma", "V-N 2004/50.7 met annotatie van Redactie", "NbSr 2004/146"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2004:AM2533"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-097.md", "netherlands/national/acts/wetboek-van-strafvordering/art-312.md", "netherlands/national/acts/wetboek-van-strafvordering/art-359a.md"]
 ---
@@ -38,7 +38,7 @@ Arrest
 
 op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Hertogenbosch van 5 juli 2002, nummer 20/002009-01, in de strafzaak tegen:
 
-[verdachte], geboren te [geboorteplaats] (Turkije) op [geboortedatum] 1972, wonende te [woonplaats].
+[verdachte], geboren te [geboorteplaats] op [geboortedatum] 1972, wonende te [woonplaats].
 
 1. De bestreden uitspraak
 
@@ -46,7 +46,7 @@ Het Hof heeft in hoger beroep - behoudens ten aanzien van de bewijsvoering en de
 
 2. Geding in cassatie
 
-2.1. Het beroep is ingesteld door de verdachte. Namens deze heeft mr. A. Lina, advocaat te Venlo, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+2.1. Het beroep is ingesteld door de verdachte. Namens deze heeft mr. A. Lina, advocaat te [plaats], bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
 
 De Advocaat-Generaal Vellinga heeft geconcludeerd tot verwerping van het beroep.
 
@@ -140,31 +140,31 @@ Voorts brengt het hiervoor overwogene mee dat de rechter een onderzoek naar de j
 
 a. een proces-verbaal van de regiopolitie Limburg-noord van 15 december 1999, inhoudende, voorzover hier van belang, als relaas van de verbalisanten dan wel een van hen:
 
-"Op 7 december 1999 te 19.40 uur werd door ons aangebeld aan de voordeur van het pand aan de [a-straat 1] te [woonplaats]. Wij zagen dat de voordeur werd geopend door een ons van naam en aanzien bekende persoon, de later te noemen verdachte [medeverdachte 1]. Wij maakten ons bekend als politieambtenaren en werden door [medeverdachte 1] in de woning binnengelaten.
+"Op 7 december 1999 te 19.40 uur werd door ons aangebeld aan de voordeur van het pand aan de [woonplaats] te [plaats]. Wij zagen dat de voordeur werd geopend door een ons van naam en aanzien bekende persoon, de later te noemen verdachte [betrokkene 1]. Wij maakten ons bekend als politieambtenaren en werden door [betrokkene 1] in de woning binnengelaten.
 
 Direct bij binnenkomst in de woning roken wij een zeer sterke marihuana- c.q. hashgeur in de woning. Wij zagen dat in de voorkamer vier Turkse mannen zaten en in de achterkamer een drietal personen, naar later bleek Duitse drugsklanten. Beide kamers stonden met elkaar in open verbinding.
 
-Ik, Achten, zag en voelde dat de deur onder de trap in de hal niet afgesloten was. Dit was kennelijk de door de getuige [getuige 1] omschreven trap (het hof leest: toegang naar de kelder), waar de verkoper van de marihuana vermoedelijk de marihuana haalde. Ik, Achten, liep deze kelder in. Ik zag dat er een soort bar was gemaakt. Ik zag dat op de bar diverse attributen lagen, zoals grote messen, snijplanken en verpakkingsmaterialen die gebruikt worden bij de verkoop van marihuana en/of hashish. Ik rook een zeer sterke en penetrante hash- c.q. marihuanageur in deze kelder. Tevens zag ik dat er naast de bar een kast aan de muur bevestigd was. Ik zag dat deze kast voorzien was van twee schuifdeuren, waarvan de linkerdeur openstond. Ik zag dat er in deze kast, voor de hand en zichtbaar met het blote oog, diverse doorzichtige plastic bakken met daarin marihuana stonden. Tevens zag ik dat er een doorzichtige plastic doos met daarin diverse lades in deze kast stond. Ik zag dat er hashish in deze doos zat. Vervolgens liep ik, Achten, terug naar de woonkamer en legitimeerde ik mij ten aanzien van alle aanwezigen als politieambtenaar. Ik deelde de aanwezigen het doel van het binnentreden mede en ik toonde hen de schriftelijke machtiging tot binnentreden.
+Ik, [verbalisant 1], zag en voelde dat de deur onder de trap in de hal niet afgesloten was. Dit was kennelijk de door de getuige [getuige] omschreven trap (het hof leest: toegang naar de kelder), waar de verkoper van de marihuana vermoedelijk de marihuana haalde. Ik, [verbalisant 1], liep deze kelder in. Ik zag dat er een soort bar was gemaakt. Ik zag dat op de bar diverse attributen lagen, zoals grote messen, snijplanken en verpakkingsmaterialen die gebruikt worden bij de verkoop van marihuana en/of hashish. Ik rook een zeer sterke en penetrante hash- c.q. marihuanageur in deze kelder. Tevens zag ik dat er naast de bar een kast aan de muur bevestigd was. Ik zag dat deze kast voorzien was van twee schuifdeuren, waarvan de linkerdeur openstond. Ik zag dat er in deze kast, voor de hand en zichtbaar met het blote oog, diverse doorzichtige plastic bakken met daarin marihuana stonden. Tevens zag ik dat er een doorzichtige plastic doos met daarin diverse lades in deze kast stond. Ik zag dat er hashish in deze doos zat. Vervolgens liep ik, [verbalisant 1], terug naar de woonkamer en legitimeerde ik mij ten aanzien van alle aanwezigen als politieambtenaar. Ik deelde de aanwezigen het doel van het binnentreden mede en ik toonde hen de schriftelijke machtiging tot binnentreden.
 
-De drie Duitse klanten, genaamd [getuige 2], [getuige 3] en [getuige 4], die in de achterkamer zaten, hebben verklaringen afgelegd. De Duitse getuigen voornoemd wezen de in de woning aanwezige [verdachte] (verdachte) aan als de verkoper van de verdovende middelen.
+De drie Duitse klanten, genaamd [betrokkene 2], [betrokkene 3] en [betrokkene 4], die in de achterkamer zaten, hebben verklaringen afgelegd. De Duitse getuigen voornoemd wezen de in de woning aanwezige [verdachte] (verdachte) aan als de verkoper van de verdovende middelen.
 
-Ik, Achten, zag vervolgens dat er voor de bank in de voorkamer, waarop op dat moment [verdachte], [medeverdachte 2] en [medeverdachte 3] zaten, een in doorzichtig plastic verpakte hoeveelheid hashish op de grond lag. Naar later bleek betrof dit netto 65 gram hashish.
+Ik, [verbalisant 1], zag vervolgens dat er voor de bank in de voorkamer, waarop op dat moment [verdachte], [betrokkene 5] en [betrokkene 6] zaten, een in doorzichtig plastic verpakte hoeveelheid hashish op de grond lag. Naar later bleek betrof dit netto 65 gram hashish.
 
-Gezien het vorenstaande werden [medeverdachte 1], [medeverdachte 3], [verdachte] en [medeverdachte 2] door mij, Achten, aangehouden terzake van vermoedelijke overtreding van de Opiumwet.
+Gezien het vorenstaande werden [betrokkene 1], [betrokkene 6], [verdachte] en [betrokkene 5] door mij, [verbalisant 1], aangehouden terzake van vermoedelijke overtreding van de Opiumwet.
 
-In de kelder van de woning aan de [a-straat 1] te [woonplaats] werd door ons in het eerder omschreven hangkastje voor de hand aangetroffen een hoeveelheid van 560 gram hashish en een hoeveelheid van 620 gram marihuana. Tevens troffen wij in de kelder een tweetal vaten aan, soortgelijk als die welke wij, zoals eerderomschreven, de bestuurder van de Mercedes naar buiten zagen dragen. In de blauwe ton troffen wij netto 1.740 gram marihuana aan en in de gele ton netto 700 gram marihuana.
+In de kelder van de woning aan de [woonplaats] te [plaats] werd door ons in het eerder omschreven hangkastje voor de hand aangetroffen een hoeveelheid van 560 gram hashish en een hoeveelheid van 620 gram marihuana. Tevens troffen wij in de kelder een tweetal vaten aan, soortgelijk als die welke wij, zoals eerderomschreven, de bestuurder van de Mercedes naar buiten zagen dragen. In de blauwe ton troffen wij netto 1.740 gram marihuana aan en in de gele ton netto 700 gram marihuana.
 
-Ik, Woudstra, zag dat er in de kelder aan het plafond diverse zwartgeverfde afvoerpijpen bevestigd waren, alle van nagenoeg dezelfde dikte. Ik zag ook dat een van deze pijpen duidelijk dikker was en van een ander materiaal was vervaardigd dan de rest van de pijpen. Ik zag namelijk dat deze pijp van plastic was en dat de overige pijpen van metaal waren vervaardigd.
+Ik, [verbalisant 2], zag dat er in de kelder aan het plafond diverse zwartgeverfde afvoerpijpen bevestigd waren, alle van nagenoeg dezelfde dikte. Ik zag ook dat een van deze pijpen duidelijk dikker was en van een ander materiaal was vervaardigd dan de rest van de pijpen. Ik zag namelijk dat deze pijp van plastic was en dat de overige pijpen van metaal waren vervaardigd.
 
-Bovendien zag ik dat de bevestiging van deze pijp nieuw was, dit in tegenstelling tot de andere pijpen, waarvan de bevestigingsbeugels duidelijk ouder waren. Verder zag ik, Woudstra, dat er net na een knik in deze plastic pijp duidelijk verse krassporen op de zwarte verf zaten. Het leek erop alsof deze pijp met regelmaat losgetrokken c.q. -geschoven werd. Tevens zag ik, Woudstra, dat het uiteinde van deze plastic pijp pardoes eindigde tegen c.q. in een tegen de muur bevestigde houten plaat. Ik zag ook dat deze plaat verder onbeschadigd was en uit een stuk bestond. Hieruit concludeerde ik dat deze buis later tegen die plaat was aangebracht.
+Bovendien zag ik dat de bevestiging van deze pijp nieuw was, dit in tegenstelling tot de andere pijpen, waarvan de bevestigingsbeugels duidelijk ouder waren. Verder zag ik, [verbalisant 2], dat er net na een knik in deze plastic pijp duidelijk verse krassporen op de zwarte verf zaten. Het leek erop alsof deze pijp met regelmaat losgetrokken c.q. -geschoven werd. Tevens zag ik, [verbalisant 2], dat het uiteinde van deze plastic pijp pardoes eindigde tegen c.q. in een tegen de muur bevestigde houten plaat. Ik zag ook dat deze plaat verder onbeschadigd was en uit een stuk bestond. Hieruit concludeerde ik dat deze buis later tegen die plaat was aangebracht.
 
-Ambtshalve is het mij bekend dat soortgelijke pijpen of afvoersystemen veelvuldig gebruikt worden voor het verstoppen van verdovende middelen. Met geringe krachtsinspanning kon ik, Woudstra, deze pijp net na de knik, ter hoogte van de krassporen, lostrekken. Ik zag en voelde toen dat deze plastic pijp een "loze" pijp was, welke nergens op aangesloten bleek te zijn. Ik, Woudstra, rook onmiddellijk hierna dat in deze pijp een zeer sterke marihuana- c.q. hashgeur hing. Ik zag vervolgens dat er achter deze pijp in de muur een bergplaats was gemaakt. Ik zag tevens dat er in deze pijp en in de bergplaats een grote hoeveelheid plakken hashish lagen, merendeels verpakt in doorzichtig plastic. In totaal lag er netto 5.175 gram hashish in deze bergplaats en pijp.
+Ambtshalve is het mij bekend dat soortgelijke pijpen of afvoersystemen veelvuldig gebruikt worden voor het verstoppen van verdovende middelen. Met geringe krachtsinspanning kon ik, [verbalisant 2], deze pijp net na de knik, ter hoogte van de krassporen, lostrekken. Ik zag en voelde toen dat deze plastic pijp een "loze" pijp was, welke nergens op aangesloten bleek te zijn. Ik, [verbalisant 2], rook onmiddellijk hierna dat in deze pijp een zeer sterke marihuana- c.q. hashgeur hing. Ik zag vervolgens dat er achter deze pijp in de muur een bergplaats was gemaakt. Ik zag tevens dat er in deze pijp en in de bergplaats een grote hoeveelheid plakken hashish lagen, merendeels verpakt in doorzichtig plastic. In totaal lag er netto 5.175 gram hashish in deze bergplaats en pijp.
 
 Wij zagen voorts dat vanaf de binnenplaats van de woning een buitenberging te bereiken was. Wij zagen tevens dat de schuifdeur tot deze berging geheel open stond. Wij roken dat er in deze berging een zeer sterke hash- c.q. marihuanageur hing. Tevens zagen wij dat er in de berging, direct bij de schuifdeur, een grijze vuilniszak stond. Wij zagen dat er in deze vuilniszak diverse in doorzichtig plastic verpakte hoeveelheden marihuana lagen. In totaal betrof dit netto 2.570 gram marihuana."
 
 b. een proces-verbaal van de regiopolitie Limburg-noord van 8 december 1999, inhoudende als de aan de verbalisanten afgelegde verklaring van de verdachte:
 
-"Ik bewoon aan de [a-straat 1] te [woonplaats] een kamer op de tweede etage. Verder maak ik gebruik van de woonkamer, de keuken, de wc en de badkamer."
+"Ik bewoon aan de [woonplaats] te [plaats] een kamer op de tweede etage. Verder maak ik gebruik van de woonkamer, de keuken, de wc en de badkamer."
 
 4.2.3. Het Hof heeft naar aanleiding van het in het middel bedoelde verweer het volgende overwogen en beslist:
 
@@ -174,7 +174,7 @@ Het hof verwerpt (...) dit verweer. Van overschrijding van bevoegdheden is naar 
 
 4.3. Bij de beoordeling van het middel moet worden vooropgesteld dat activiteiten die verder gaan dan "zoekend rondkijken" moeten worden aangemerkt als een "doorzoeking", waartoe een opsporingsambtenaar in een geval als het onderhavige niet bevoegd is. Tegen deze achtergrond is het oordeel van het Hof dat bij het hiervoor onder 4.2.2 sub a gerelateerde lostrekken van een pijp in de kelder door een opsporingsambtenaar geen sprake is van "overschrijding van bevoegdheden", niet zonder meer begrijpelijk.
 
-4.4. Het middel, dat daarover terecht klaagt, kan evenwel niet tot cassatie leiden. Tegen de achtergrond van het hiervoor onder 3.5 overwogene en in aanmerking genomen dat uit de gebezigde bewijsmiddelen volgt dat de verdachte, die evengenoemde kelder niet gebruikte, niet de bewoner was van het onderhavige gedeelte van het pand [a-straat 1] te [woonplaats], kan niet worden gezegd dat het de verdachte is geweest die door het onbevoegdelijk lostrekken van een afvoerpijp in die kelder is getroffen in het belang dat de overtreden norm beoogt te beschermen, zodat het Hof het verweer terecht heeft verworpen.
+4.4. Het middel, dat daarover terecht klaagt, kan evenwel niet tot cassatie leiden. Tegen de achtergrond van het hiervoor onder 3.5 overwogene en in aanmerking genomen dat uit de gebezigde bewijsmiddelen volgt dat de verdachte, die evengenoemde kelder niet gebruikte, niet de bewoner was van het onderhavige gedeelte van het pand [woonplaats] te [plaats], kan niet worden gezegd dat het de verdachte is geweest die door het onbevoegdelijk lostrekken van een afvoerpijp in die kelder is getroffen in het belang dat de overtreden norm beoogt te beschermen, zodat het Hof het verweer terecht heeft verworpen.
 
 5. Slotsom
 
