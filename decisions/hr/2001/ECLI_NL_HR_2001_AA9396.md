@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AA9396"
-published_in: ["Rechtspraak.nl", "FED 2001/72", "BNB 2001/95", "WFR 2001/62", "V-N 2001/6.29 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "FED 2001/72", "BNB 2001/95", "WFR 2001/62", "V-N 2001/6.29 met annotatie van Redactie", "NTFR 2001/98 met annotatie van Mr. M.H.J. Schellekens"]
 cites_law: ["netherlands/national/acts/wet-op-de-motorrijtuigenbelasting-1994/art-030.md", "netherlands/national/acts/wet-op-de-motorrijtuigenbelasting-1994/art-037.md"]
 ---
 
