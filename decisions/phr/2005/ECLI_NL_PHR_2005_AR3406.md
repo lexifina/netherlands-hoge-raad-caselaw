@@ -9,7 +9,7 @@ type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2005:AR3406"
 published_in: ["Rechtspraak.nl", "JOL 2005, 36", "NJ 2005, 250 met annotatie van P. van Schilfgaarde", "RvdW 2005, 14", "JWB 2005/24", "JOR 2005/105 met annotatie van R.J. Abendroth"]
-relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2004:AO4433"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2005:AR3406"]]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2005:AR3406"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-076.md"]
 ---
 
