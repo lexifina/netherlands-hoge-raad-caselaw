@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AD9721"
-published_in: ["Rechtspraak.nl", "BNB 2003/248 met annotatie van R.H. Happé", "FED 2003/273 met annotatie van W.A.P. VAN ROIJ", "FED 2003/179", "WFR 2003/476, 1", "Belastingadvies 2003/6.1", "V-N 2003/16.22 met annotatie van Redactie", "FutD 2003-0452", "NTFR 2003/507 met annotatie van mr. M.J. Hamer"]
+published_in: ["Rechtspraak.nl", "BNB 2003/248 met annotatie van R.H. Happé", "FED 2003/273 met annotatie van W.A.P. VAN ROIJ", "FED 2003/179", "WFR 2003/476, 1", "Belastingadvies 2003/6.1", "V-N 2003/16.22", "NTFR 2003/507 met annotatie van mr. M.J. Hamer"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2003:AD9721"]]
 ---
 
