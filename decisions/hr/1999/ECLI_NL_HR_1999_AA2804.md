@@ -1,0 +1,31 @@
+---
+ecli: "ECLI:NL:HR:1999:AA2804"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "34442"
+decided: "1999-07-09"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2804"
+published_in: ["Rechtspraak.nl", "Belastingblad 1999/621", "BNB 1999/377", "WFR 1999/964, 2", "V-N 1999/36.3 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1999:AA2804 Hoge Raad , 09-07-1999 / 34442
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de besloten vennootschap met beperkte aansprakelijkheid X B.V. te Z (voorheen: Y B.V.) tegen de uitspraak van het Gerechtshof te Amsterdam van 12 mei 1998 betreffende na te melden aan haar opgelegde aanslagen in de onroerendezaakbelastingen van de gemeente Amsterdam.
+
+1. Aanslagen, bezwaar en geding voor het Hof Aan belanghebbende zijn voor het jaar 1994 wegens het genot krachtens eigendom, bezit of beperkt recht van de onroerende zaken, plaatselijk bekend als a-straat 1 begane grond en eerste verdieping, op één aanslagbiljet verenigde aanslagen in de onroerendezaakbelastingen van de gemeente Amsterdam opgelegd naar een heffingsgrondslag van onderscheidenlijk f 9.890.000,-- en f 6.329.000,--, welke aanslagen, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur der Gemeentebelastingen van de gemeente Amsterdam zijn gehandhaafd. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft terzake van de onroerende a-straat 1 begane grond en eerste verdieping de uitspraak vernietigd en de aanslag verminderd tot een aanslag naar een heffingsgrondslag van f 5.716.000,--.
+
+2. Geding in cassatie Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld en daarbij drie middelen van cassatie voorgesteld. Namens burgemeester en wethouders van de gemeente Amsterdam is een vertoogschrift ingediend.
+
+3. Beoordeling van de middelen 3.1. Het Hof heeft geoordeeld dat de Inspecteur voldoende aannemelijk heeft gemaakt dat de door hem vastgestelde waarde van de onderhavige onroerende zaak niet te hoog is. Dit oordeel berust op de aan het Hof voorbehouden waardering van de bewijsmiddelen en behoefde geen nadere motivering dan het Hof daarvoor heeft gegeven, in het bijzonder niet met betrekking tot de geschiktheid van de door de Inspecteur gehanteerde waarderingsmethode. Middel I faalt derhalve. 3.2. Belanghebbende heeft voor het Hof een gespecificeerd urenoverzicht van de door A B.V. verrichte werkzaamheden terzake van de taxatie van de onroerende zaak overgelegd. Op grond van artikel 1, letter b, juncto artikel 2, lid 1, letter b, van het Besluit proceskosten fiscale procedures kunnen kosten van een deskundige die aan een partij verslag heeft uitgebracht overeenkomstig de in de Wet tarieven in strafzaken en het daarbij behorende Besluit tarieven in strafzaken daarvoor vastgestelde bedragen worden begrepen in een kostenveroordeling. Het Hof heeft de kostenveroordeling beperkt tot slechts een deel van de in rekening gebrachte uren, kennelijk omdat het van oordeel was dat voor het meerdere geen sprake is geweest van kosten die de wederpartij in verband met de behandeling van het geding voor het gerechtshof redelijkerwijs heeft moeten maken. Dit oordeel is met de overweging dat het aantal gedeclareerde uren naar 's Hofs oordeel buitensporig hoog was, toereikend gemotiveerd. 3.3. Het Hof heeft geoordeeld dat ten aanzien van de kosten van een deskundige die aan een partij verslag heeft uitgebracht het vergoeden van omzetbelasting niet mogelijk is. Dit oordeel geeft onvoldoende inzicht in 's Hofs gedachtegang. Het betreft hier immers niet, zoals in het arrest van de Hoge Raad van 8 juni 1994, nr. 29588, BNB 1994/213, het geval was, kosten terzake van beroepsmatig verleende rechtsbijstand, voor welke kosten een forfaitair tarief geldt. Op grond van artikel 7a van het Besluit tarieven in strafzaken worden de bedragen die volgens dit Besluit voor vergoeding in aanmerking komen verhoogd met de omzetbelasting, die daarover is verschuldigd. De voor vergoeding in aanmerking komende kosten voor de werkzaamheden van de in 3.2 genoemde deskundige dienen dan ook te worden verhoogd met omzetbelasting naar de op grond van de bepalingen van de Wet op de omzetbelasting 1968 toepasselijke tarieven. Dit geldt echter, gelet op de strekking van dit artikel 7a, alleen indien de aan belanghebbende in rekening gebrachte omzetbelasting op haar drukt, dus niet indien zij die belasting als voorbelasting in aftrek kan brengen. De uitspraak en de stukken van het geding bevatten niet de gegevens om te kunnen beoordelen of deze situatie zich voordoet, zodat niet kan worden nagegaan of het Hof te dezen van de juiste rechtsopvatting is uitgegaan. Middel III is derhalve gegrond. De uitspraak kan niet in stand blijven en verwijzing moet volgen.
+
+4. Proceskosten in cassatie Burgemeester en wethouders zullen worden veroordeeld in de kosten van het geding in cassatie, waarbij de Hoge Raad in aanmerking neemt dat de onderhavige zaak en de zaken met nummers 34443 en 34444 met elkaar samenhangen in de zin van artikel 3 van het Besluit proceskosten fiscale procedures.
+
+5. Beslissing De Hoge Raad: -   vernietigt de uitspraak van het Hof, doch alleen wat betreft de beslissing omtrent de proceskosten, -   verwijst het geding naar het Gerechtshof te 's-Gravenhage ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, -   veroordeelt burgemeester en wethouders in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 1.420,-- voor beroepsmatig verleende rechtsbijstand, -   gelast dat door burgemeester en wethouders aan belanghebbende wordt vergoed het door deze terzake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van f 315,--, en -   wijst de gemeente Amsterdam aan als de rechtspersoon die deze kosten moet vergoeden.
+
+Dit arrest is op 9 juli 1999 vastgesteld door de vice- president Stoffer als voorzitter, en de raadsheren Zuurmond, Pos, Beukenhorst en Kop, in tegenwoordigheid van de waarnemend griffier Fehmers, en op die datum in het openbaar uitgesproken.
