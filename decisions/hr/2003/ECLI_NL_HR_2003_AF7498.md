@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AF7498"
-published_in: ["Rechtspraak.nl", "PW 2003, 21646", "BNB 2003/268 met annotatie van E. Aardema", "FED 2003/253", "FED 2003/441 met annotatie van J.A. SMIT", "WFR 2003/731, 1", "Belastingadvies 2003/10.1", "V-N 2003/22.8 met annotatie van Redactie", "FutD 2003-0749", "NTFR 2003/759 met annotatie van drs. W.A. Romijn"]
+published_in: ["Rechtspraak.nl", "PW 2003, 21646", "BNB 2003/268 met annotatie van E. Aardema", "FED 2003/253", "FED 2003/441 met annotatie van J.A. SMIT", "WFR 2003/731, 1", "Belastingadvies 2003/10.1", "V-N 2003/22.8", "NTFR 2003/759 met annotatie van drs. W.A. Romijn"]
 ---
 
 # ECLI:NL:HR:2003:AF7498 Hoge Raad , 18-04-2003 / 38122
