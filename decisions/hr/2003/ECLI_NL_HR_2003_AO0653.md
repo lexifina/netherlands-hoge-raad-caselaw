@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AO0653"
-published_in: ["Rechtspraak.nl", "RSV 2004, 45", "BNB 2004/102", "WFR 2004/39", "FED 2004/19", "V-N 2004/4.20 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "RSV 2004, 45", "BNB 2004/102", "WFR 2004/39", "FED 2004/19", "V-N 2004/4.20 met annotatie van Redactie", "NTFR 2004/10 met annotatie van MR. E. THOMAS"]
 ---
 
 # ECLI:NL:HR:2003:AO0653 Hoge Raad , 19-12-2003 / 38932
