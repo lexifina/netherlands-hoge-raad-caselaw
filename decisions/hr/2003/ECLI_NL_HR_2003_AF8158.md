@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AF8158"
-published_in: ["Rechtspraak.nl", "FED 2003/277", "Belastingadvies 2003/10.11", "WFR 2003/812, 1", "V-N 2003/24.21 met annotatie van Redactie", "BNB 2003/250 met annotatie van R.H. Happé", "FutD 2003-0846"]
+published_in: ["Rechtspraak.nl", "FED 2003/277", "Belastingadvies 2003/10.11", "WFR 2003/812, 1", "V-N 2003/24.21", "BNB 2003/250 met annotatie van R.H. Happé", "NTFR 2003/786 met annotatie van mr. E. van Waaijen"]
 ---
 
 # ECLI:NL:HR:2003:AF8158 Hoge Raad , 02-05-2003 / 38252
