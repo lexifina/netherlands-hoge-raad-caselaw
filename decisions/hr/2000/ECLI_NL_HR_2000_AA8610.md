@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA8610"
-published_in: ["Rechtspraak.nl", "FutD 2000-2075", "FED 2000/676", "FED 2001/152 met annotatie van J.A. MONSMA", "V-N 2001/3.24 met annotatie van Redactie", "WFR 2000/1776, 1", "Belastingblad 2001/58"]
+published_in: ["Rechtspraak.nl", "FED 2000/676", "FED 2001/152 met annotatie van J.A. MONSMA", "V-N 2001/3.24", "WFR 2000/1776, 1", "Belastingblad 2001/58", "NTFR 2001/148 met annotatie van mr. J.F. Kastelein MRE MRICS RV", "BNB 2001/52 met annotatie van W.J.N.M. Snoijink"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2000:AA8610"]]
 cites_law: ["netherlands/national/acts/uitvoeringsbesluit-onderbouwing-en-uitvoering-waardebepaling-wet-waardering-onroerende-zak/art-004.md", "netherlands/national/acts/wet-waardering-onroerende-zaken/art-017.md", "netherlands/national/acts/wet-waardering-onroerende-zaken/art-020.md"]
 ---
