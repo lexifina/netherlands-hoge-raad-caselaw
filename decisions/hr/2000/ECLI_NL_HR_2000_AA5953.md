@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA5953"
-published_in: ["Rechtspraak.nl", "JOL 2000, 314", "NJ 2000, 442", "RvdW 2000, 139", "JWB 2000/72", "JOR 2000/188", "AA20000783 met annotatie van Kortmann C.A.J.M. Tijn"]
+published_in: ["Rechtspraak.nl", "JOL 2000, 314", "NJ 2000, 442", "RvdW 2000, 139", "JWB 2000/72", "JOR 2000/188", "AA20000783 met annotatie van Kortmann S.C.J.J. Bas"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2000:AA5953"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-1065.md"]
 ---
