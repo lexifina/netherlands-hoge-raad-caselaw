@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AR3406"
-published_in: ["Rechtspraak.nl", "JOL 2005, 36", "NJ 2005, 250 met annotatie van P. van Schilfgaarde", "RvdW 2005, 14", "JWB 2005/24", "AA20050254 met annotatie van R.D. Vriesendorp", "JOR 2005/105 met annotatie van R.J. Abendroth", "RV 2014/147 met annotatie van Redactie van Rechtspraak Vermogensrecht"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AR3406"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2004:AO4433"]]
+published_in: ["Rechtspraak.nl", "JOL 2005, 36", "NJ 2005, 250 met annotatie van P. van Schilfgaarde", "RvdW 2005, 14", "JWB 2005/24", "AA20050254 met annotatie van R.D. Vriesendorp", "JOR 2005/105 met annotatie van R.J. Abendroth", "RV 2014/147 met annotatie van mr. A.J. van der Lely, prof. mr. A.I.M. van Mierlo, prof. mr. S.E. Bartels"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AR3406"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-076.md"]
 ---
 
