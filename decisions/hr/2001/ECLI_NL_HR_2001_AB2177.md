@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AB2177"
-published_in: ["Rechtspraak.nl", "NJ 2001, 477", "RvdW 2001, 111", "ROR 2001, 20", "Ondernemingsrecht 2001, 53 met annotatie van F.B.J. Grapperhaus", "JAR 2001/128", "JOR 2001/146 met annotatie van SCJJK"]
+published_in: ["Rechtspraak.nl", "NJ 2001, 477", "RvdW 2001, 111", "ROR 2001, 20", "Ondernemingsrecht 2001, 53 met annotatie van F.B.J. Grapperhaus", "JAR 2001/128", "JOR 2001/146 met annotatie van prof. mr. S.C.J.J. Kortmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2001:AB2177"]]
 cites_law: ["netherlands/national/acts/wet-op-de-ondernemingsraden/art-025.md"]
 ---
