@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AH3766"
-published_in: ["Rechtspraak.nl", "BNB 2004/97", "FED 2003/544", "WFR 2003/1651", "V-N 2003/51.30 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 2004/97", "FED 2003/544", "WFR 2003/1651", "V-N 2003/51.30 met annotatie van Redactie", "NTFR 2003/1732 met annotatie van Mr. M.H.J. Schellekens"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2003:AH3766"]]
 cites_law: ["netherlands/national/acts/wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992/art-003.md"]
 ---
