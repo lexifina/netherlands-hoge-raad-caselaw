@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA8734"
-published_in: ["Rechtspraak.nl", "JOL 2000, 589", "NJ 2002, 32 met annotatie van H.J. Snijders", "RvdW 2000, 238", "JWB 2000/231", "AA20010459 met annotatie van A.I.M. van Mierlo"]
+published_in: ["Rechtspraak.nl", "JOL 2000, 589", "NJ 2002, 32 met annotatie van H.J. Snijders", "RvdW 2000, 238", "JWB 2000/231", "AA20010459 met annotatie van Mierlo van A.I.M."]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2000:AA8734"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-007.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-008.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-076.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-091.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-092.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-093.md"]
 ---
