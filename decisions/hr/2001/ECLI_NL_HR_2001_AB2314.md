@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AB2314"
-published_in: ["Rechtspraak.nl", "AB 2002, 342 met annotatie van O.J.D.M.L. Jansen, M.J.J.P. Luchtman", "FED 2001/388", "FED 2001/502 met annotatie van B. EMMERIG", "WFR 2001/942", "V-N 2001/37.3 met annotatie van Redactie", "BNB 2002/27 met annotatie van M.W.C. FETERIS", "FutD 2001-1251 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "AB 2002, 342 met annotatie van M.J.J.P. Luchtman, O.J.D.M.L. Jansen", "FED 2001/388", "FED 2001/502 met annotatie van B. EMMERIG", "WFR 2001/942", "V-N 2001/37.3", "BNB 2002/27 met annotatie van M.W.C. Feteris", "NTFR 2001/985 met annotatie van mr. C.J.M. van Hassel"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2001:AB2314"]]
 cites_law: ["netherlands/national/acts/awr/art-047.md"]
 ---
