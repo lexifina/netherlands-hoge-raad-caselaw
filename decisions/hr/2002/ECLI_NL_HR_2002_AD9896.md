@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2002:AD9896"
-published_in: ["Rechtspraak.nl", "Belastingblad 2002/411", "BNB 2002/154 met annotatie van G.J. van Leijenhorst", "FED 2002/158", "WFR 2002/421, 1", "V-N 2002/18.27 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2002/411", "BNB 2002/154 met annotatie van G.J. van Leijenhorst", "FED 2002/158", "WFR 2002/421, 1", "V-N 2002/18.27", "NTFR 2002/406 met annotatie van mr. J.F. Kastelein MRE MRICS RV"]
 ---
 
 # ECLI:NL:HR:2002:AD9896 Hoge Raad , 08-03-2002 / 36666
