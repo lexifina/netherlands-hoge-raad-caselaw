@@ -1,0 +1,38 @@
+---
+ecli: "ECLI:NL:HR:1996:AA1855"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30705"
+decided: "1996-03-13"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1996:AA1855"
+published_in: ["Rechtspraak.nl", "BNB 1996/217 met annotatie van G. Slot", "FED 1996/280", "FED 1996/376 met annotatie van R.E.C.M. Niessen", "WFR 1996/431", "V-N 1996/1240, 10 met annotatie van Redactie", "PJ 1996/36 met annotatie van H.M. KAPPELLE"]
+cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-008.md"]
+---
+
+# ECLI:NL:HR:1996:AA1855 Hoge Raad , 13-03-1996 / 30705
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Staatssecretaris van Financiën tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 29 augustus 1994 betreffende na te melden ten aanzien van de besloten vennootschap met beperkte aansprakelijkheid X B.V. te Z genomen beschikking van de Inspecteur inzake vennootschapsbelasting.
+
+1. Beschikking en geding voor het Hof Bij beschikking van 31 maart 1992 inzake terugwenteling van een verlies van het boekjaar 1989/1990 naar het boekjaar 1987 heeft de Inspecteur rekening gehouden met een verlies ten bedrage van ƒ 65.586,--. Belanghebbende heeft tegen die beschikking bezwaar gemaakt bij de Inspecteur, en is tevens tegen die beschikking, met schriftelijke toestemming van de Inspecteur op de voet van artikel 26, lid 3, (tekst vóór 1 januari 1994) van de Algemene wet inzake rijksbelastingen, rechtstreeks in beroep gekomen bij het Hof. Vervolgens heeft de Inspecteur op 30 november 1992 een nieuwe terugwentelingsbeschikking genomen over dezelfde periode, welke beschikking het Hof heeft aangemerkt als uitspraak op het bezwaarschrift. Het Hof heeft de als uitspraak aangemerkte beschikking vernietigd, en het terug te wentelen verlies over het boekjaar 1989/1990 vastgesteld op ƒ 85.891,--, te verrekenen met de winst over het eerste korte boekjaar (1987) van belanghebbende. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Staatssecretaris  heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft  bij vertoogschrift het cassatieberoep bestreden.
+
+3. Beoordeling van het middel van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan: Belanghebbende heeft per 1 januari 1990 de pensioenregeling van haar directeur-grootaandeelhouder gewijzigd en daarbij ten behoeve van diens echtgenote ook een weduwenpensioen - ter grootte van 70% van het ouderdomspensioen - toegezegd. Deze verplichtingen worden in eigen beheer gehouden en gewaardeerd volgens de lineaire methode, waarbij het gedurende de diensttijd op te bouwen doelvermogen bij ingang van het pensioen wordt bepaald volgens een netto-actuariële methode met een rekenrente van 4%. Met ingang van het boekjaar 1989/1990 wordt het doelvermogen door belanghebbende berekend met gebruikmaking van de sterftetafels GBM/GBV 1980-1985, waarbij voor de directeur-grootaandeelhouder een leeftijdsterugstelling van 5 jaar is toegepast en voor zijn echtgenote een van 6 jaar. Met ingang van 1 januari 1990 - de datum van haar indiensttreding bij belanghebbende - is voorts aan voornoemde echtgenote eveneens een recht op ouderdoms- en weduwnaarspensioen toegekend, waarvan de waardering op dezelfde wijze plaatsvindt.
+
+3.2. Het Hof heeft overwogen dat belanghebbende in overeenstemming met goed koopmansgebruik handelt door ten aanzien van de onderhavige pensioenverplichtingen bij de berekening op actuariële basis van de doelvermogens daarvan voor wat betreft het ouderdoms- pensioen uit te gaan van de tarieven (koopsommen) van levensverzekeringsmaatschappijen voor direct ingaande lijfrenten onder aftrek van een kosten- en winstopslag van 10%. Het Hof heeft voorts vastgesteld dat op het voor het onderhavige jaar van belang zijnde tijdstip door de levensverzekeringsmaatschappijen bij de bepaling van de benodigde koopsom voor een direct ingaande lijfrente op de sterftetafels GBM/GBV 1980-1985 leeftijdsterugstellingen werden toegepast van respectievelijk 5 jaar voor mannen en 6 jaar voor vrouwen en dat deze leeftijdsterugstellingen enerzijds dienen ter correctie van de sterftetafels wegens verbeterde levensverwachtingen in het algemeen (de zogenoemde technische correctie), en anderzijds vanwege de zogenoemde autoselectie, zijnde dit laatste de ervaring van de levensverzekeringsmaatschappijen dat diegenen die een lijfrente bedingen doorgaans langer plegen te leven dan andere leeftijdsgenoten. Het Hof heeft aannemelijk geacht dat de directeur-grootaandeelhouder en zijn echtgenote gerekend kunnen worden tot de hiervóór bedoelde groep van personen op wie genoemde autoselectie van toepassing is. Op grond van het hiervóór overwogene heeft het Hof geoordeeld dat, indien belanghebbende de onderhavige pensioenverplichtingen bij een levensverzekeraar zou hebben ondergebracht, zij geconfronteerd zou zijn geworden met tarieven waarin leeftijdsterugstellingen van 5 jaar voor de directeur-grootaandeelhouder en van 6 jaar voor diens echtgenote zouden zijn verwerkt. Het Hof heeft voorts geoordeeld  dat, aangezien volgens goed koopmansgebruik in de situatie van eigen beheer mag worden uitgegaan van de bij een levensverzekeringsmaatschappij te storten koopsom onder aftrek van een kosten- en winstopslag, niet valt in te zien dat belanghebbende in strijd met goed koopmansgebruik handelt door ook in haar situatie van eigen beheer uit te gaan van de door levensverzekeringsmaatschappijen toegepaste leeftijdsterugstellingen, welk gebruik in overeenstemming is met de beginselen van eenvoud en de voorzichtigheid die mede aan het begrip goed koopmansgebruik ten grondslag liggen.
+
+3.3. Het middel strekt ten betoge dat geen enkele grond bestaat om voor de situatie dat pensioenverplichtingen in eigen beheer worden gehouden, af te wijken van de regel dat moet worden uitgegaan van de verzekeringswiskunde, hetgeen - aldus het middel - betekent dat de wet van de grote aantallen dient te worden aangehouden, en dat, voor zover in de leeftijdsterugstellingen compensatie is gezocht voor het verschijnsel van autoselectie, zulks in strijd is met goed koopmansgebruik.
+
+In 's Hofs oordeel ligt besloten - hetgeen het middel beaamt  - dat de door belanghebbende toegepaste leeftijdsterugstellingen, óók voor zover die uitgaan boven een enkele technische correctie, bij levensverzekeringsmaatschappijen gebruikelijk zijn. Dit brengt mee dat de door belanghebbende voorgestane waardering met een leeftijdsterugstelling van 5 jaar voor de man en 6 jaar voor de vrouw niet in strijd is met goed koopmansgebruik. Het middel faalt derhalve.
+
+4. Proceskosten De Hoge Raad acht, gelet op de inhoud van het procesdossier,  termen aanwezig om ten aanzien van de proceskosten die belanghebbende in verband met de behandeling van het geding in cassatie redelijkerwijs heeft moeten maken, te beslissen als hierna zal worden vermeld.
+
+5. Beslissing De Hoge Raad verwerpt het beroep, en veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op ƒ 1.420,-- voor beroepsmatig verleende rechtsbijstand.
+
+Dit arrest is op 13 maart 1996 vastgesteld door de vice-president R.J.J. Jansen als voorzitter en de raadsheren Van der Linde, Bellaart, De Moor en Van der Putt-Lauwers, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken. Van de Staatssecretaris van Financiën wordt ter zake van dit beroep in cassatie een recht geheven van ƒ 300,-- .
