@@ -1,0 +1,63 @@
+---
+ecli: "ECLI:NL:PHR:1958:AG2028"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "9090"
+decided: "1958-01-31"
+published: "2013-04-04"
+type: "conclusie"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:1958:AG2028"
+published_in: ["Rechtspraak.nl", "NJ 1958, 251 met annotatie van Redactie"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:1958:AG2028"]]
+---
+
+# ECLI:NL:PHR:1958:AG2028 Parket bij de Hoge Raad , 31-01-1958 / 9090
+
+## Inhoudsindicatie
+
+Verandering van woonplaats. Persoonlijke aansprakelijkheid uit art. 1401B. W. van het orgaan van een rechtspersoon terzake van gedragingen, opleverende wanprestatie van de rechtspersoon.
+
+## Conclusie
+
+No. 9090.
+
+Zitting 20 december 1957.
+
+Mr. Langemeijer
+
+conclusie inzake:
+
+[eiser]
+
+contra
+
+[verweerster 1] , echtgenote van [A] c.s.
+
+Edele Hoog Achtbare Heren,
+
+In deze zaak staat vooreerst ter beoordeling het verweer van niet-ontvankelijkheid van het beroep in cassatie, op grond dat de dagvaarding aan de verweerder sub 4 en de" verweerster sub 5 niet te hunner woonplaats zou zijn betekend.
+
+Dit verweer is zeker ongegrond voor wat betreft ver- weerster sub 5, die ingevolge de wet van 4 juni '56, Stb1. 343, met ingang van 1 januari 1957 een eigen woonplaats had en gedagvaard is aan het adres, waar zij op de dag van de uitbrenging van het exploit nog stond ingeschreven.
+
+Dit laatste is anders voor wat betreft verweerder sub 4, die inderdaad enkele weken vóór deze datum was "afgeschreven" naar Geneve. Ik meen intussen, dat in dit geval niet is voldaan aan de vereisten voor verandering van woonplaats, welke de artikelen 75 en 76 van het Burgerlijk Wetboek stellen. Immers, wel is gedaan de verklaring aan het bestuur van de gemeente, die de betrokkene beweerde te verlaten, maar niet blijkt van een overeenkomstige verklaring aan het bestuur van de gemeente, waar hij zich zou hebben gevestigd. Nu neem ik weliswaar aan, dat dit laatste vereiste bij vestiging in het buitenland niet letterlijk kan worden vervuld, maar toepassing van de artikelen 75 en 76 op dit daar niet voorziene geval zal dan toch minstens eisen, dat in het buitenland een feitelijke toestand ontstaat gelijk aan die, welke bij vestiging in het binnenland in de verklaring aan het gemeentebestuur van de nieuwe woonplaats zou zijn uitgedrukt. Dit nu is in casu onaannemelijk. De vage verklaringen door verweerders overgelegd en al de bijzonderheden, door pleiter voor eiser onweersproken medegedeeld, wijzen zo zeer op onmacht van de verschenen verweerders om een nieuwe woonplaats van verweerder sub 4 aan te wijzen - onmacht die bij hen, zijn nabije verwanten redelijkerwijze niet te verklaren is uit onbekendheid met een in werkelijkheid wel geschiede vestiging - dat ik het nadere bewijsaanbod van verweerders niet als ernstig gemeend kan beschouwen en geen aanleiding zie om hun gelegenheid tot vervulling van dit aanbod te geven. Evenmin zie ik reden om aan eiser tot cassatie ten deze nog meer bewijs op te leggen.
+
+Overigens zou ik ook hierin niet met verweerders instemmen, dat niet-ontvankelijkheid van het cassatieberoep tegen de verweerder sub 4 een gelijke uitkomst met betrekking tot het beroep tegen de anderen zou medebrengen. Wel neem ik aan dat een veroordeling in de hoofdzaak niet goed anders dan ten aanzien van de gehele groep [verweerders] kan worden gewezen, doch daaruit volgt m.i. niet, dat hetzelfde geldt voor de vrijwaringsactie tegen [eiser] . Zou het gevolg van de niet-ontvankelijkheid van het cassatieberoep tegenover verweerder sub 4, gepaard aan eventueel slagen van dit beroep tegenover de andere verweerders, zijn; dat [eiser] tegenover de laatste niet, maar tegenover de eerste wel tot vrijwaring gehouden zou moeten worden geacht, dan kan dit zeker ernstige moeilijkheden medebrengen, maar . onoplosbaar zijn die moeilijkheden m.i. niet. [eiser] zal dan jegens verweerder sub 4 gehouden zijn tot vrijwaring ter zake van dat deel van de gevolgen van de eventueel tegen alle verweerders gewezen veroordeling, dat bij con juiste onderlinge afrekening tussen hen op verweerder sub 4 zal drukken. Ik vergeet hierbij niet, dat Uw Raad bij zijn arrest no. 9117 van 13 dezer blijk heeft gegeven aan verwante praktische bezwaren meer gewicht toe te kennen dan ik destijds deed, maar ik zie niet, dat Uw bedoelde beslissing ook in het thans aan de orde zijnde geval tot een andere uitkomst dan ik hier verdedigde zou behoeven te leiden.
+
+Wat dan het cassatieberoep zelf betreft, allesbeheersend of nagenoeg allesbeheersend zou kunnen blijken onderdeel a van het middel dat luidt: "Schending en/of verkeerde toepassing der artikelen 175 Grondwet, 20 R. O. , 48 en 59 Rv., 1279 t/m 1284, 1302, 1303, 1374, 1376, 1401, 1402 en 1403 B.W., 1 t/m 7 Huurbeschermingsbesluit 1941, 6, 13 en 14 Besluit Vijandelijke Vermogen (E 133), a. doordat het Hof , met verwerping van de zevende en twaalfde grief van eiser, heeft beslist, dat eiser door zijn handelwijze met betrekking tot de afkoop van het voorkeursrecht door verweerders bij hen het gerechtvaardigde vertrouwen opwekte, dat hij het gehuurde bij het einde van de huur op 31 december 1945 zou ontruimen en hij een onrechtmatige daad pleegde door desondanks deze ontruiming te gaan frustreren, daar immers de door het Hof bedoelde onrechtmatige daad juist bestaat in de niet-nakoming of niet-tijdige nakoming van een door de aanvaarding der opzegging per 31 december 1945 ontstane verbintenis tot ontruiming van het gehuurde, dus in een wanprestatie jegens verweerders, zodat het Hof de handelwijze van eiser niet tevens als een onrechtmatige daad jegens verweerders had mogen beschouwen".
+
+Inderdaad ligt de hier aan de orde gestelde vraag in dit geval niet gemakkelijk. Als uitgangspunt zou ik op grond van Uw arresten van 11 juni 1926, N.J. 1926, blz. 1049 en 9 december 1955, N.J. 1956, no. 157 (ik laat enkele oudere buiten beschouwing) willen nemen, dat op feiten, die noodzakelijk geinterpreteerd moeten worden als wanprestatie, niet de bepalingen voor onrechtmatige daad behoren te worden toegepast, tenzij het voorgevallene ook dan nog onrechtmatig zou zijn, indien het niet tevens wanprestatie opleverde.
+
+Over de theoretische grondslagen van deze regel bestaat verschil van mening - zie Asser Rutten, blz. 480/1 (wiens weergave van de heersende leer overigens de gedachte wekt van een iets ruimer mogelijkheid van samenloop der acties dan de Rechtspraak erkent) en de daar geciteerden - maar de regel zelf wordt niet betwist. De vraag, die moeilijkheden geeft, daarentegen schijnt mij die of het Hof geacht moet worden hier een vaststelling van feiten te hebben gegeven, die insluit wanprestatie (en wel zodanige, die, weggedacht, geen onrechtmatige daad zou overlaten). Zoveel is zeker, dat het Hof niet constateert, dat de door [eiser] opgewekte schijn, dat hij zou zorgen voor tijdige onrtiming, in verband met de houding van [verweerders] een overeenkomst opleverde, en ongetwijfeld zou zulk een overeenkomst zijn wat men hier zou moeten aannemen om tot de gevolgtrekking te komen, dat [eiser] wanprestatie pleegde. De vraag is echter, of niet de feiten, die het Hof wel vaststelt, noodzakelijk een overeenkomst insluiten, Het Hof toch overweegt omtrent de zevende en twaalfde grief: "dat onbetwist vaststaat dat artikel 1 van het tussen [verweerders] en de N.V. Stadsschouwburg geldende huurcontract luidde zoals in [eiser] conclusie van antwoord in de vrijwaring - welke conclusie in extenso is opgenomen in het beroepen vonnis - is gesteld; dat eveneens onbetwist is dat [eiser] zonder enig protest of voorbehoud te maken de beide in het huurcontract voorziene afkoopsommen groot respectievelijk 1.7500 .- en f. 2500 .- van [verweerders] in ontvangst heeft genomen en wel blijkens de in het geding zijnde kwitantie, op 14 augustus 1945 hoewel in het contract was bepaald dat van het afkooprecht voor 1 juli 1945 gebruik moest worden gemaakt onder gelijktijdige betaling van de afkoopsommen dat door deze gedraging tan Dullemen naar verkeersopvattingen aan [verweerders] te kennen gaf dat hij met de beeindiging per 31 december 1945 van de lopende huurovereenkomst instemde; dat op deze grond het Hof - de motivering van de rechtbank in haar rechtsoverweging daarlatende - de in die overweging juneto de 38e rechtsoverweging vervatte beslissing van de Rechtbank juist acht; dat deze beslissing hierop neerkomt dat [eiser] door zijn handelwijze met betrekking tot de afkoop van het voorkeursrecht door [verweerders] bij hen het gerechtvaardigde vertrouwen opwekte dat hij het gehuurde bij het eind van de huur op 31 december 1945 zou ontruimen en hij een onrechtmatige daad pleegde door desondanks deze ontruiming te gaan frustreren".
+
+Zeker doet dit sterk denken aan een overeenkomst. Miskenning door het Hof van de boven gestelde regel echter zal men daaruit slechts mogen afleiden, indien het noodzakelijk een overeenkomst insluit. Dit zou ik niet menen. De oorspronkelijke huurovereenkomst voorzag een aantal vereisten voor een opzegging, waaraan de huurder, in wiens plaats [eiser] optrad, gebonden zou zijn. Betekent dit nu, dat bereidverklaring door [eiser] tot ontruiming op een niet geheel aan die vereisten voldoende opzegging, gepaard aan het aannemen van bepaalde voor het geval van opzegging voorziene betalingen, niet anders zijn kan dan een nieuwe overeenkomst ? Ik meen van niet. Denkbaar zou toch, om slechts een voorbeeld te noemen ook zijn, dat [eiser] aanvankelijk van mening was geweest, dat de goede trouw, waarmede de oorspronkelijke overeenkomst moest worden uitgevoerd, hem verbood zich op de gebreken van de opzegging te beroepen. Op die mening zou hij later hebben kunnen terugkomen, misschien zelfs terecht. Een nieuwe overeenkomst is bij dit veronderstelde geval niet in het spel. Ook niet-nakoming van een verbintenis uit de oorspronkelijke huurovereenkomst staat dan niet vast. Dan echter is er ruimte voor de mogelijkheid, dat [eiser] overeenkomstig zijn aanvankelijke mening zou hebben gehandeld op een wijze, die bij [verweerders] zo sterke verwachtingen moest opwekken, dat het onverwacht beschamen van die verwachtingen in strijd zou moeten worden genoemd met de in het maatschappelijk verkeer betamende zorgvuldigheid. Ik noem deze constructie slechts als voorbeeld; andere figuren zijn wellicht ook denkbaar. Wat hieruit volgt echter is m.i., dat de feiten, die het Hof heeft vastgesteld niet noodzakelijk insluiten een (contractuele) verbintenis tot ontruiming, die [eiser] niet zou zijn nagekomen. Dit zo zijnde kan mon aan het Hof ook niet verwijten, dat het door de feiten uitsluitend te toetsen aan de voorschriften voor onrechtmatige daad Uw hiervoor vermelde rechtspraak zou hebben miskend. Ik meen dus, dat hot onderdeel feitelijke grondslag mist.
+
+Zou Uw Raad deze mening niet delen, dan zou m.i. reeds op deze grond vernietiging van het arrest moeten volgen, ongeacht de gegrondheid van de overige onderdelen. Met name zie ik geen ruimte voor het betoog, dat, indien er wel een verbintenis zou zijn geweest, factoren zouden overblijven, die, los van die verbintenis, het gedrag van [eiser] onrechtmatig zouden maken. Indien daarentegen mijn mening omtrent onderdeel a juist is dan verliezen de onderdelen b tot en met d betekenis. Immers zomin de stelling, dat onder omstandigheden zelfs een huurder, die van zijn kant heeft opgezegd, zich (destijds) op huurbescherming zou hebben mogen beroepen, als de in onderdelen c en d van het middel genoemde gebreken van de opzegging als rechtshandeling doen iets af aan het oordeel over de onrechtmatigheid van het beschamen van een eenmaal door uiterst sprekend gedrag zijdens [eiser] opgewekte verwachting, dat hij een gedragslijn zou volgen, die door de enkele bevoegdheid om huurbescherming in te roepen en door gebreken van de opzegging niet eo ipso werd uitgesloten.
+
+Ongegrond schijnt mij ook onderdeel e, dat klaagt over de beslissing, dat [eiser] ook in privé onbetamelijk zou hebben gehandeld. Indien men toch uitgaat van de door het Hof als vast staand aangenomen feiten, is hier zeker aanleiding voor het aannemen van persoonlijke schuld in de zin van Uw arrest van 6 januari 1933, N.J. 1933, blz. 593.
+
+Onderdeel f tenslotte, klagende over onvoldoende motivering, is niet bij pleidooi toegelicht. Ik zou menen, dat de motivering van het Hof, indien men mét mij aanneemt, dat de overige daartegen gerichte bezwaren niet opgaan, ook aan duidelijkheid niet te wensen overlaat.
+
+Ik concludeer tot ontvankelijk verklaring en verwerping van het beroep onder veroordeling van eiser tot cassatie in de daarop gevallen kosten.
+
+De Procureur-Generaal bij de Hoge Raad der Nederlanden,
