@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO4493"
-published_in: ["Rechtspraak.nl", "BNB 2004/153", "V-N 2004/14.12 met annotatie van Redactie", "FutD 2004-0362"]
+published_in: ["Rechtspraak.nl", "BNB 2004/153", "V-N 2004/14.12", "NTFR 2004/310 met annotatie van mr. drs. E.J.H. Vermeulen"]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-008.md"]
 ---
 
