@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2003:AI0369"
-published_in: ["Rechtspraak.nl", "NJ 2004, 549", "RvdW 2003, 135", "Ondernemingsrecht 2004, 29 met annotatie van R.J. van Galen", "JWB 2003/305", "JOR 2003/211 met annotatie van JJvH"]
+published_in: ["Rechtspraak.nl", "NJ 2004, 549", "RvdW 2003, 135", "Ondernemingsrecht 2004, 29 met annotatie van R.J. van Galen", "JWB 2003/305", "JOR 2003/211 met annotatie van Mr. J.J. van Hees"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2003:AI0369"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-218.md", "netherlands/national/acts/faillissementswet/art-265.md", "netherlands/national/acts/faillissementswet/art-272.md"]
 ---
