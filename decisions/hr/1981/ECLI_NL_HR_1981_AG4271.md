@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1981:AG4271"
-published_in: ["Rechtspraak.nl", "NJ 1982/503 met annotatie van W.H. Heemskerk, E.A.A. Luijten", "RvdW 1981, 157", "SJP 1985/30"]
+published_in: ["Rechtspraak.nl", "NJ 1982/503 met annotatie van W.H. Heemskerk, E.A.A. Luijten", "RvdW 1981, 157", "SJP 1985/30", "AA19820665 met annotatie van Schilfgaarde van P. Peter"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1981:AG4271"]]
 ---
 
