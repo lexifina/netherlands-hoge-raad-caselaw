@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2825"
-published_in: ["Rechtspraak.nl", "RZA 1999, 166", "BNB 1999/338 met annotatie van J. Hoogendoorn", "FED 1999/726 met annotatie van M. Robben", "WFR 1999/1008", "V-N 1999/35.23 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "RZA 1999, 166", "BNB 1999/338 met annotatie van J. Hoogendoorn", "FED 1999/726 met annotatie van M. Robben", "WFR 1999/1008", "V-N 1999/35.23"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1999:AA2825"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-008.md"]
 ---
