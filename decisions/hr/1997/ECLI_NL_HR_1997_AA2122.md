@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1997:AA2122"
-published_in: ["Rechtspraak.nl", "BNB 1997/142", "FED 1997/217", "WFR 1997/454, 1", "V-N 1997/1682, 26 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 1997/142", "FED 1997/217", "WFR 1997/454, 1", "V-N 1997/1682, 26"]
 cites_law: ["netherlands/national/acts/wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992/art-003.md"]
 ---
 
