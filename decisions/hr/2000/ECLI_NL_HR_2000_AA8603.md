@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA8603"
-published_in: ["Rechtspraak.nl", "FED 2000/674", "BNB 2001/51 met annotatie van B.G. van Zadelhoff", "WFR 2000/1775, 2", "V-N 2000/54.25 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "FED 2000/674", "BNB 2001/51 met annotatie van B.G. van Zadelhoff", "WFR 2000/1775, 2", "V-N 2000/54.25", "NTFR 2000/1782 met annotatie van E.H. van den Elsen"]
 cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-003.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-031.md"]
 ---
 
