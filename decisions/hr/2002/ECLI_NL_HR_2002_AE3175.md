@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2002:AE3175"
-published_in: ["Rechtspraak.nl", "BNB 2002/236", "FED 2002/320", "WFR 2002/820, 1", "V-N 2002/28.30 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 2002/236", "FED 2002/320", "WFR 2002/820, 1", "V-N 2002/28.30", "NTFR 2002/761 met annotatie van Mr. M.H.J. Schellekens"]
 ---
 
 # ECLI:NL:HR:2002:AE3175 Hoge Raad , 24-05-2002 / 37398
