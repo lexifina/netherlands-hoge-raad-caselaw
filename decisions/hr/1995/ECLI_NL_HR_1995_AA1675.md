@@ -1,0 +1,250 @@
+---
+ecli: "ECLI:NL:HR:1995:AA1675"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30138"
+decided: "1995-08-24"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1995:AA1675"
+published_in: ["Rechtspraak.nl", "BNB 1995/320 met annotatie van P.H.J. Essers", "FED 1995/636", "WFR 1995/1231, 1", "V-N 1995/2976, 13 met annotatie van Redactie"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1995:AA1675"]]
+---
+
+# ECLI:NL:HR:1995:AA1675 Hoge Raad , 24-08-1995 / 30138
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Amsterdam van 16 februari 1994 betreffende de hem voor het jaar 1990 opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1990 een aanslag in de inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van ƒ 20.160,--, onder vermeerdering van de belasting met desinvesteringsbetalingen ten bedrage van ƒ 4.700,--. Deze aanslag is, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur gehandhaafd. Belanghebbende is tegen die uitspraak in beroep gekomen bij het Hof, dat deze uitspraak heeft bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft bij vertoogschrift het cassatieberoep bestreden. De Plaatsvervangend Procureur-Generaal Van Soest heeft op 12 januari 1995 geconcludeerd tot verwerping van het beroep.
+
+3. Beoordeling van de middelen van cassatie 3.1. In cassatie kan van het volgende worden uitgegaan:
+
+3.1.1. Belanghebbende, met X-Y in algehele gemeenschap van goederen gehuwd, drijft sinds vele jaren een detailhandel in aardappelen, groente en fruit.
+
+3.1.2. Begin 1989 werd deze onderneming uitgeoefend in een winkel in Q alsmede vanuit standplaatsen op markten aldaar. Hierbij deed belanghebbende zelf het marktwerk en zorgde zijn echtgenote voor de winkel.
+
+3.1.3. Belanghebbende en zijn echtgenote zijn een vennootschap onder firma aangegaan, waarin naar de toestand per 1 januari 1990 de als voormeld door belanghebbende gedreven onderneming werd ingebracht. Daarbij werd de helft van het ondernemingsvermogen op naam van belanghebbendes echtgenote gesteld.
+
+3.2. De middelen stellen primair de vraag aan de orde of de hiervóór in 3.1 vermelde feiten aanleiding geven tot desinvesteringsbetalingen ten laste van belanghebbende.
+
+3.3. Het Hof heeft deze vraag bevestigend beantwoord en heeft daartoe, kort samengevat, overwogen dat, toen de oorspronkelijk alleen door belanghebbende zelf gedreven onderneming in 1990 samen met diens echtgenote in vennootschappelijk verband werd voortgezet, dit fiscaalrechtelijk erop neerkwam dat bedoelde onderneming voor de helft werd gestaakt en dat in zoverre aan de oorspronkelijke onderneming van belanghebbende vermogen werd onttrokken, terwijl voorts de aldus onttrokken helft ten behoeve van belanghebbendes echtgenote in de vennootschap werd ingebracht. Hiervan uitgaande heeft het Hof geoordeeld dat belanghebbende ingevolge het bepaalde in artikel 61b, lid 1, juncto lid 2, onderdeel a, van de Wet op de inkomstenbelasting 1964, in de voor het onderhavige geval geldende tekst (hierna: de Wet), te dier zake desinvesteringsbetalingen verschuldigd werd.
+
+3.4.1. De middelen bestrijden dit oordeel met een betoog, ertoe strekkende: dat, indien in gemeenschap van goederen gehuwde echtgenoten ertoe overgaan een door één van hen gedreven onderneming voor gezamenlijke rekening uit te oefenen, de eigendom van het ondernemingsvermogen onveranderd, in dezelfde verhouding als voordien, aan de echtgenoten gezamenlijk blijft toekomen; dat het Hof derhalve ten onrechte heeft geoordeeld dat belanghebbende zijn onderneming voor de helft heeft gestaakt en het vermogen van die onderneming voor de helft daaraan heeft onttrokken; dat een dergelijke onttrekking slechts zou kunnen berusten op een wetsfictie, doch dat zodanige wetsfictie niet bestaat.
+
+3.4.2. Dit betoog is evenwel niet gegrond. De omstandigheid dat een onderneming deel uitmaakt van het vermogen van een huwelijksgemeenschap, staat niet eraan in de weg dat de onderneming ingevolge het bepaalde in artikel 6 van de Wet wordt aangemerkt als de onderneming van de echtgenoot die deze onderneming drijft en dat het vermogen van die onderneming als diens ondernemingsvermogen wordt aangemerkt. Dit brengt mee dat, indien de andere echtgenoot als ondernemer tot die onderneming toetreedt, het gedeelte van het ondernemingsvermogen dat dientengevolge voortaan aan die echtgenoot moet worden toegerekend, aan het ondernemingsvermogen van eerstgenoemde echtgenoot wordt onttrokken.
+
+3.5. De middelen bestrijden voorts de overweging van het Hof dat de over het onderhavige jaar (1990) in rekening gebrachte desinvesteringsbetalingen niet in 1989 kunnen worden gesitueerd omdat gesteld noch gebleken is "dat reeds in 1989 een afspraak als hier bedoeld tussen belanghebbende en zijn echtgenote is gemaakt". Daarbij verwijst belanghebbende naar een brief van 2 juni 1990, namens hem aan de Inspecteur gericht, waaruit als zijn standpunt zou blijken dat de vennootschap onder firma reeds in 1989 was aangegaan doch dat belanghebbende, "ter voorkoming van de noodzaak om de aangifte inkomstenbelasting 1989 te herzien", de fiscale consequenties ervan naar 1990 wilde verschuiven, met welk standpunt de Inspecteur zonder enig voorbehoud akkoord zou zijn gegaan.
+
+3.6. Dit betoog kan reeds daarom niet tot cassatie leiden, omdat het Hof mede op grond van de inhoud van genoemde brief heeft vastgesteld dat de vennootschap onder firma eerst in 1990 tussen belanghebbende en zijn echtgenote werd aangegaan, en omdat deze vaststelling  - die door het Hof in rechtsoverweging 5.3 van zijn uitspraak is neergelegd en kennelijk vooral gebaseerd was op datgene wat partijen blijkens het onder 4 van die uitspraak gestelde ter zitting van het Hof hadden medegedeeld -  een feitelijk karakter heeft en als niet onbegrijpelijk in cassatie moet worden geëerbiedigd.
+
+3.7. Vervolgens keren de middelen zich tegen rechtsoverweging 5.6 van de bestreden uitspraak met het betoog dat het Hof ten onrechte heeft geoordeeld dat belanghebbendes gemachtigde in de brief van 14 juni 1990 in redelijkheid niet heeft kunnen lezen dat desinvesteringsbetalingen achterwege zouden blijven.
+
+3.8. Dienaangaande is van belang dat genoemde brief op dit punt het volgende inhoudt: "Gezien BNB 1982/128 kan desinvesteringsbetaling achterwege blijven.". Hoewel een dergelijke mededeling de indruk kon wekken dat desinvesteringsbetalingen te allen tijde achterwege zouden blijven, moet in casu worden aangenomen dat de gemachtigde van belanghebbende, aan wie de brief was gericht, gelet op zijn fiscale deskundigheid en op het feit dat in de brief naar BNB 1982/128 werd verwezen, de woorden "kan desinvesteringsbetaling achterwege blijven" niet zonder meer de in de middelen voorgestane wijze heeft mogen uitleggen. Kennelijk heeft het Hof, hiervan uitgaande, geoordeeld dat deze woorden bij de gemachtigde van belanghebbende in redelijkheid niet het vertrouwen hebben kunnen wekken dat ook in een geval als het onderhavige, waarin belanghebbendes echtgenote voor de helft van het ondernemingsvermogen werd gecrediteerd, geen desinvesteringsbetalingen verschuldigd zouden worden. Dit oordeel is niet in strijd met enige rechtsregel en kan, als verweven met waarderingen van feitelijke aard, voor het overige in cassatie niet op zijn juistheid worden getoetst. Het is ook niet onbegrijpelijk.
+
+3.9. Ten slotte wordt in de middelen erover geklaagd dat het Hof ten onrechte niet is ingegaan op de door belanghebbende in zijn beroepschrift ingenomen stelling dat hijzelf en zijn echtgenote alsnog het recht behoren te krijgen een zodanige creditering te kiezen dat de desinvesteringsbetalingsgevolgen achterwege blijven.
+
+3.10. Hoewel het Hof inderdaad op bedoelde stelling had moeten ingaan en de klacht dus in zoverre gegrond is, kan deze niet tot cassatie leiden, nu immers 's Hofs uitspraak en de stukken van het geding geen andere gevolgtrekking toelaten dan dat belanghebbende, nadat zijn standpunt door de Inspecteur was verworpen, het aldus verworpen standpunt heeft gehandhaafd en derhalve welbewust heeft gekozen voor een vennootschap onder firma met een ondernemingsvermogen dat voor de helft op naam van zijn echtgenote was gesteld. Een dergelijke keuze kan voor de belastingheffing niet met terugwerkende kracht ongedaan worden gemaakt. 3.11. Uit het vorenstaande volgt dat de middelen niet tot cassatie kunnen leiden.
+
+3.12. Dit betekent tevens dat de klacht volgens welke het Hof ten onrechte de uitspraak van de Inspecteur heeft bevestigd en in verband daarmee ten onrechte heeft nagelaten de Inspecteur te gelasten het griffierecht te vergoeden, eveneens faalt.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad verwerpt het beroep.
+
+Dit arrest is op 24 augustus 1995 vastgesteld door de vice-president R.J.J. Jansen als voorzitter en de raadsheren Van der Linde, Bellaart, C.H.M. Jansen en Van der Putt-Lauwers, in tegenwoordigheid van de waarnemend griffier Van Hooff, en op die datum in het openbaar uitgesproken.Nr. 30.138                                          Mr Van Soest
+
+Derde Kamer A                                   Conclusie inzake:
+
+Inkomstenbelasting/premieheffing 1990  X
+
+Parket,   januari 1995                           tegen de staatssecretaris van Financiën
+
+Edelhoogachtbaar College,
+
+1. Korte beschrijving van de zaak.
+
+1.1. Het beroep in cassatie is gericht tegen de schriftelijke uitspraak van het gerechtshof te Amsterdam (hierna te noemen het Hof) van 16 februari 1994, nr. 92/4213, FED 1994/ 249 . Het is ingesteld door de belanghebbende, X. Van het beroep in cassatie is melding gemaakt in Fiscaal up to date 30 juni 1994, blz. 28, punt 94-1040 .
+
+1.2. De belanghebbende is in algehele gemeenschap van goederen gehuwd met X-Y (hierna te noemen X-Y).
+
+1.3. De belanghebbende drijft een detailhandel in aardappelen, groente en fruit zowel in een winkel als vanuit een standplaats op markten. De belanghebbende is persoonlijk werkzaam op de markten. X-Y bedient de winkel.
+
+1.4. De belanghebbende en X-Y hebben besloten de samenwerking vast te leggen in een vennootschap onder firma. De desbetreffende akte is opgemaakt in de loop van 1990 en per 1 januari 1990 is de helft van het ondernemingsvermogen in de balans op naam van X-Y gesteld.
+
+1.5. In geschil is, of een en ander aanleiding geeft tot desinvesteringsbetalingen en, zo ja, of deze in 1990 vallen.
+
+1.6. Het Hof heeft het geschil in beide opzichten ten nadele van de belanghebbende beslecht.
+
+1.7. Het tijdig en op juiste wijze ingestelde beroep in cassatie steunt op een middel van cassatie.
+
+1.8. De staatssecretaris van Financiën (hierna te noemen de Staatssecretaris) heeft bij vertoogschrift in cassatie het middel bestreden met een betoog dat uit vier, met Arabische cijfers genummerde, onderdelen bestaat.
+
+2. In gemeenschap van goederen gehuwde ondernemers.
+
+2.1. HR 10 oktober 1923, Beslissingen in belastingzaken (B.) 3362, overwoog voor de heffing van de gemeentelijke inkomstenbelasting 1921/1922 (blz. 291),
+
+"(...) dat (...) de stelling, dat de in de goederengemeenschap vallende inkomsten te beschouwen zijn voor de eene helft als inkomsten van den man, voor de andere helft als inkomen van de vrouw, (...) is onjuist; dat toch het wezen dier gemeenschap, welke de bezittingen en inkomsten der echtelieden tot ééne eenheid (...) samenvoegt, een dergelijke splitsing niet toelaat, maar veeleer gebiedt dat het inkomen der gemeenschap, ook in zaken van belasting, aan te merken is als het inkomen van den man, die de gemeenschap beheert en over hare inkomsten de volledige beschikking heeft (...)"
+
+2.2.1. Art. 17, lid 1, Besluit op de Inkomstenbelasting 1941 (Besluit IB 1941) hield in:
+
+"Opbrengst van (...) bedrijf genieten degenen, voor wier rekening het bedrijf wordt uitgeoefend (...)"
+
+2.2.2. HR 15 november 1950, B. 8888, overwoog (blz. 208),
+
+"(...) dat, wil een belastingplichtige wegens de opbrengst van een bron van inkomen belastingplichtig zijn, die opbrengst hem rechtstreeks moet toevloeien; dat het feit, dat tussen een belastingplichtige en diens echtgenote (...) een gemeenschap van goederen bestaat, wel ten gevolge heeft dat de opbrengst van eigen onderneming (...) van dien belastingplichtige het gemeenschapsvermogen vermeerdert, doch dat niet gezegd kan worden dat dientengevolge die opbrengst rechtstreeks ten dele aan zijn echtgenote (...) toevloeit (...)"
+
+2.3. HR 9 december 1953, nr. 11.536, BNB 1954/9, overwoog (blz. 14, regels 35-42),
+
+"dat de omstandigheid, dat de echtgenoten in algehele gemeenschap van goederen waren gehuwd, (...) niet medebracht, dat de helft van de opbrengst van het bedrijf van den man - al vermeerderde de opbrengst van diens onderneming (...) het gemeenschapsvermogen - rechtstreeks aan de echtgenote toevloeide, zodat voor haar zou kunnen worden gesproken van opbrengst van eigen onderneming, waarover in art. 17 van het Besluit op de Inkomstenbelasting 1941 wordt gehandeld (...)"
+
+2.4. HR 29 september 1954, nr. 11.987, BNB 1954/333 met noot M. A. Wisselink, overwoog (blz. 791, regels 28-31),
+
+"(...) dat, ook al neemt een in algehele gemeenschap van goederen gehuwde vrouw met haar man deel aan de uitoefening van het tot de gemeenschap behorende bedrijf, dit bedrijf niet voor de helft voor rekening van de vrouw wordt uitgeoefend, doch rechtens niet anders is dan het bedrijf van den man (...)"
+
+2.5. HR 15 december 1965, nr. 15.506, BNB 1966/54 met noot H. J. Hellema, overwoog voor de heffing van inkomstenbelasting 1962 (ik geef nadere vindplaatsen tussen haakjes aan),
+
+"(blz. 143, van regel 53 af) dat (...) belanghebbende en zijn echtgenote ook na hun huwelijk tezamen het bedrijf, hetwelk op dezelfde voet werd voortgezet, als hun eigen onderneming hebben gevoerd en door hun gezamenlijk beleid de winst hebben behaald; dat (...) ook na het huwelijk belanghebbende en zijn echtgenote de winst rechtstreeks hebben genoten en niet via (blz. 144, tot en met regel 13) het deelgenootschap in de huwelijksgemeenschap, en (...) ook na het huwelijk het bedrijf voor hun gezamenlijke rekening is uitgeoefend; dat (...) het (...) bedrijfsvermogen, als van weerszijden in de gemeenschap gevallen, onder het bestuur van de beide echtgenoten kwam te staan, met het gevolg dat niet alleen belanghebbende, maar ook zijn echtgenote de bedrijfswinst rechtstreeks bleef genieten en mitsdien ook na het huwelijk het bedrijf voor de helft voor rekening van de vrouw werd uitgeoefend (...)"
+
+2.6. Art. 6, lid 1, Wet op de inkomstenbelasting 1964 (Wet IB 1964) houdt in:
+
+"Winst uit onderneming geniet hij voor wiens rekening een onderneming wordt gedreven (...)"
+
+2.7. In mijn antwoord op rechtsvraag IV in het Weekblad voor Privaatrecht, Notaris-ambt en Registratie 1974/5254, blz. 173, betoog ik:
+
+"De maatschapsovereenkomst is vormloos, maar de enkele medewerking van de vrouw in de onderneming van haar echtgenoot is niet voldoende om aan te nemen, dat er (stilzwijgend) een maatschapsovereenkomst is aangegaan. (...)"
+
+2.8. HR 17 oktober 1979, nr. 19.462, BNB 1979/294 , overwoog voor de heffing van inkomstenbelasting 1971 van een in gemeenschap van goederen gehuwde man (blz. 1453, regels 31-43),
+
+"dat (...) de (...) fysiotherapeutenpraktijk (...) niet mede voor rekening van belanghebbendes echtgenote werd uitgeoefend; dat (...) met voormeld oordeel niet onverenigbaar is dat belanghebbendes echtgenote op eigen naam bij de ziekenfondsen declareerde en ook overigens naar buiten zelfstandig optrad; dat immers te dezen voor het antwoord op de vraag, voor wiens rekening de onderneming werd gedreven, de interne financiële verhouding tussen belanghebbende en zijn echtgenote beslissend is; dat dit niet anders wordt indien (...) alleen voor zelfstandig de praktijk uitoefenende fysiotherapeuten de mogelijkheid bestaat te declareren bij de ziekenfondsen en op hun naam patiënten te laten inschrijven (...)"
+
+2.9. Hof Amsterdam 16 september 1980, nr. 2677/78, BNB 1981/317, overwoog,
+
+"(blz. 1714, van regel 55 af) dat (...) de huwelijksband die echtgenoten samenbindt, niet verhindert dat zij daarnaast met elkaar kunnen zijn verenigd in een zakelijke verhouding, zoals een vennootschap onder firma; dat (...) het evenwel niet uitsluitend erop aan- (blz. 1715, tot en met regel 5) komt welke formele regelingen de echtgenoten in dit opzicht hebben getroffen, doch van doorslaggevende betekenis is of de feitelijke bemoeienis van de echtgenote met het behangersbedrijf verder reikt dan het enkel door haar verrichten van werkzaamheden en of deze van zodanige aard is, dat aangenomen moet worden dat daarin het lopen van ondernemersrisico ligt besloten (...)"
+
+2.10.1. Hof Arnhem 20 december 1982, te kennen uit HR 23 november 1983, nr. 21.992, BNB 1984/16, overwoog,
+
+"(blz. 105, van regel 50 af) (...) dat de tekst van de firma-akte aanleiding geeft aan het ondernemerschap van belanghebbendes echtgenote te twijfelen. Als grond voor het aangaan van de firma wordt immers voor wat betreft belanghebbendes echtgenote vermeld: het recht hebben op een financiële verzorging zodra zij weduwe mocht worden. (...) Voorts mag belanghebben- (blz. 106, tot en met regel 18) des echtgenote in de firma zoveel arbeidskracht inbrengen als haar goeddunkt. (...) Het komt aannemelijk voor dat belanghebbendes echtgenote in feite in 1977 een volle dagtaak op het gebied van inkoop, verkoop en onderhoud heeft vervuld. Het hof neemt echter (...) aan, dat belanghebbendes echtgenote slechts taken heeft vervuld in het kader van de feitelijk door haar man gedreven onderneming."
+
+2.10.2. Uw Raad verwierp het beroep in cassatie.
+
+2.11. A. C. Rijkers in "Fiscale aspecten van ondernemingen" (Meeles-bundel), 1985, onder 7, betoogt:
+
+"(blz. 131) (...) in (...) de term "rechtstreeks" (...) schuilt (...) een zeer gewichtig subjectief aspect van het fiscaal ondernemerschap, te weten de intentie van het handelen van een belastingplichtige. De intentie van de huwelijksovereenkomst is niet gericht op de verwerving van de fiscale ondernemersstatus. Hoewel de echtgenote een relatie heeft met een objectieve onderneming kan voor haar geen onderneming als bron van inkomen worden aangenomen. Een essentieel bronvereiste (het oogmerk) ontbreekt. (...) (blz. 132) (...) Een en ander leidt ertoe dat het geval, waarin een vrouw "meewerkt", op grond van een vennootschapscontract dat uitzicht biedt op een eigen aandeel in de perioderesultaten en stille reserves en/of goodwill tot fiscaal ondernemerschap dient te leiden ook al komt er geen wijziging in de aard der werkzaamheden. (...) Door het vennootschaps- of maatschapscontract wordt deze intentie geuit. (...)"
+
+2.12. VN 16 augustus 1986, blz. 1811, punt 46, geeft een vraag weer betreffende in algehele gemeenschap van goederen gehuwde echtgenoten, van wie de vrouw tot dusver meewerkte in de onderneming van de man en die een vennootschap onder firma willen aangaan met verdeling van het ondernemingsvermogen bij helften. VN antwoordt (blz. 1812):
+
+"1. (...) Nu er (...) sprake is van in gemeenschap van goederen gehuwde firmanten en bovendien kan worden gesteld dat het sluiten van het firmacontract in feite de formalisering van een reeds lang bestaande situatie is, hoeft er naar onze mening op pragmatische gronden geen bezwaar te worden gemaakt tegen de door u voorgestelde splitsing van het eigen vermogen. (...) 2. Het bestaan van een huwelijksgoederengemeenschap verhindert niet dat het ondernemingsvermogen van de eenmanszaak fiscaal toebehoorde aan de man. De vorming van de firma houdt wel degelijk een vervreemding van een evenredig deel van de onderneming in. In feite brengt de vrouw in casu "slechts" arbeid, kennis en vlijt in, zodat gelet op HR 10 maart 1982, BNB 1982/128*, onzes inziens kan worden aangenomen dat de man ter zake van de inbreng van de eenmanszaak in de firma geen desinvesteringsbetaling verschuldigd wordt . (...)"
+
+2.13. J. F. M. Giele in "Belastingbeschouwingen" (Christiaanse-bundel), 1989, blz. 87, betoogt:
+
+"(...) de vrouw deelt staande huwelijk slechts indirect in winst en verlies van de onderneming en ook indirect in het ondernemingsvermogen. Haar medeëigendom is slechts formeel maar niet economisch van aard. (...)"
+
+2.14. E. Aardema in Gielebundel, 1990, betoogt:
+
+"(blz. 42) (...) Voor de vraag of een echtgenote al dan niet ondernemer is, is fiscaal niet van belang in welke mate zij actief is in de onderneming. (...) De mate van activiteit is echter wel vereist voor de civielrechtelijke vraagstelling of de betrokken echtgenoot (...) de gemeenschapsgoederen die dienstbaar zijn aan de onderneming mede bestuurt. Dan pas kan van hem gezegd worden dat hij al (blz. 43) besturend voor zijn helft rechtstreeks de winst geniet. (...) Wil van een dubbel ondernemerschap sprake zijn, dan dienen beide echtgenoten (...) het bestuur over het firmavermogen te voeren. (...) Mijn beschouwingen (...) rond ik (...) af met de mededeling, dat ik de (...) jurisprudentie (...) hiervoor slechts beschreven heb, doch bepaald zonder instemming. Centraal dient naar mijn mening te blijven staan, dat het ondernemerschap afhankelijk is van de vraag of een onderneming mede voor rekening van de betrokkene wordt gedreven. (...) Ongeacht het bestuur binnen de huwelijksgemeenschap wordt de onderneming in economische zin voor rekening van beide echtgenoten gezamenlijk gedreven en ik vermag niet in te zien, dat dit bestuur daartoe nog een onderscheidend criterium van enige relevantie kan bijdragen. Daarbij voegt zich dan nog, dat deze traditionele benadering (...) een niet te onderschatten lek voor de fiscus oplevert. (blz. 44) Als voorbeeld hanteer ik de situatie, waarin een man naar de heersende leer de ondernemer is met betrekking tot een zich in de huwelijksgemeenschap bevindende onderneming. Stel de onderneming staat te boek voor ƒ 500.000, doch de werkelijke waarde beloopt ƒ 900.000. Indien nu tijdens het huwelijk de man een firma aangaat met zijn echtgenote [gaat] De man (...) de helft van het ondernemingsvermogen verliezen, omdat zijn subjectieve onderneming voortaan immers slechts zal bestaan uit de door hem nog bestuurde helft van het ondernemingsvermogen, zulks tegen een boekwaarde van ƒ 250.000. De echtgenote als startende onderneemster vangt aan met een openingsbalans, waarop zij haar onderneming zal noteren tegen de waarde in het economisch verkeer. (...) Niet wel valt (...) in te zien, hoe deze stille reserve bij de man belast zou moeten worden, nu hij immers te dier zake niets realiseert. In de overgang van het bestuur van (...) het halve ondernemingsvermogen van hem naar zijn echtgenote is toch bepaald geen realisatie te zien. (...)"
+
+2.15. J. W. Zwemmer in Gielebundel, blz. 725 e. v., onder 5.2.2, betoogt,
+
+"(blz. 727) (...) dat de als gevolg van het aangaan van een vennootschap tussen echtgenoten plaatsvindende partiële overgang van de gerechtigdheid van de stille reserves naar de toetredende echtgenoot fiscaalrechtelijk (...) als een onttrekking moet worden aangemerkt. (...) (blz. 728) (...) Indien (...) een reeds bestaande onderneming door een der echtgenoten gedreven werd en het de bedoeling is dat de andere echtgenoot, met wie de ondernemer in algehele gemeenschap van goederen is gehuwd, als vennoot toetreedt, [bestaat] Civielrechtelijk (...) de belangrijkste verandering hierin dat het bestuur over het tot de onderneming behorende vermogen niet langer berust bij de ene echtgenoot voor wiens rekening de onderneming oorspronkelijk gedreven werd, doch bij beide echtgenoten gezamenlijk gaat berusten. Aangezien in de eigendomsverhoudingen niets verandert, moet het ondernemingsvermogen vanaf dat moment aan beide echtgenoten gezamenlijk worden toegerekend. Dat geldt ook voor de op het moment van inbreng bestaande stille reserves. Deze fiscaalrechtelijke gedeeltelijke overgang van gerechtigdheid tot de stille reserves, leidt als gevolg van het ontbreken van een civielrechtelijke overgang niet tot een partiële staking en moet dus voor de inbrengende ondernemer in zoverre als een onttrekking worden aangemerkt. (...)"
+
+2.16. A. J. van den Bos, Weekblad voor fiscaal recht (WFR) 1990/5926, blz. 1195, onder 3, betoogt:
+
+"(...) De (...) geconstateerde overdracht bij inbreng van een onderneming in een firma berust op de overweging dat (...) het belang bij het ingebrachte vermogen deels overgaat van de inbrenger op de toetreder. Indien echter de toetreder niet slechts door de toetreding in relatie staat tot de inbrenger, maar tevens de in algehele gemeenschap van goederen gehuwde echtgenoot van de inbrenger is, komt de zaak anders te liggen. Een verschuiving van belang bij het ingebrachte vermogen treedt dan niet op. De toetredende echtgenoot was immers vóór toetreding gerechtigd tot het door de inbrenger ingebrachte vermogen op grond van het huwelijksgoederenregime. Het aangaan van de firma brengt in die gerechtigdheid geen verandering. Een overdracht is dus niet aanwezig. (...)"
+
+2.17. P. H. J. Essers, WFR 1990/5933, blz. 1454, onder 3.3, betoogt:
+
+"(...) De feitelijke gang van zaken en in dit verband de fiscaal relevante, is (...) dat a de man de helft van zijn onderneming heeft onttrokken van zijn ondernemingsvermogen naar zijn privé-vermogen, dat b hij deze helft ter beschikking van zijn vrouw heeft gesteld (lees: het bestuur aan haar heeft overgedragen), waarna c zij deze helft overeenkomstig haar intentie heeft ingebracht in de firma met haar man. (...) Het totale winstbegrip van art. 7 Wet IB 1964 vereist in dat geval dat een winstcorrectie plaatsvindt. Hieraan doet niet af, dat de man via het huwelijksgoederenregime gerechtigd blijft tot het onttrokken gedeelte van de onderneming. Het feit dat de ondernemer in algehele gemeenschap is gehuwd, is een privé-aangelegenheid, die niets met zijn onderneming te maken heeft. (...) Dit is bij uitstek een situatie waarin een zelfstandige fiscaalrechtelijke kwalificatie op zijn plaats is: omdat een gedeelte van de onderneming van de man niet meer voor zijn rekening wordt gedreven in de zin van art. 6 Wet IB 1964, wordt zijn onderneming voor dat gedeelte in fiscaalrechtelijke zin gestaakt. (...)"
+
+(de geciteerde passage is ook opgenomen in de bijdrage van Essers in "Man/vrouw-firma", 1991, onder 3.4.2, blz. 64 v.).
+
+2.18. Een mededeling van de Staatssecretaris, nr. DB92/ 1312, VN 23 april 1992, blz. 1154, punt 9, onder 2, b, houdt in (blz. 1155):
+
+"de na de inbreng ontstane rechtstreekse mede-eigendom van de echtgenoten op het ondernemingsvermogen rechtvaardigt voor de bepaling van de fiscale aanspraken op het ingebrachte vermogen een creditering van beide vennoten. De opvattingen  van de vennoten worden gerespecteerd, indien en voor zover de toetredende echtgenoot niet voor een hoger bedrag wordt gecrediteerd dan overeenkomt met zijn of haar feitelijk aandeel op grond van huwelijksvermogensrecht (...)"
+
+3. Desinvesteringsbetalingen.
+
+3.1. Art. 61b Wet IB 1964, tekst geldend voor 1989, hield in (ik nummer waar daar aanleiding toe is, de volzinnen):
+
+"1. (1e volzin) Ingeval bij het drijven van een onderneming (...) zaken worden vervreemd, wordt van de overdrachtsprijzen een (...) percentage als (...) desinvesteringsbetaling aangemerkt. 2. Met vervreemding wordt gelijkgesteld: a. het onttrekken van een zaak aan de onderneming; (...)"
+
+3.2. Art. VII, lid 1, Wet van 28 december 1989, Stb. 601, houdt in:
+
+"Met betrekking tot investeringen die zijn verricht in boekjaren die voorafgaan aan (...) boekjaren [die aanvangen op (...) 1 januari 1990] blijven de artikelen (...) gelden zoals deze luidden onmiddellijk vóór het tijdstip van inwerkingtreding van deze wet (...)"
+
+4. De aangevallen uitspraak.
+
+Het Hof heeft overwogen:
+
+"(blz. 5 ) 5.2. (...) Eerst vanaf het moment dat belanghebbende en zijn echtgenote afspraken dienaangaande maken of hebben gemaakt, kunnen aan het ontstaan en het bestaan van een v.o.f. fiscale gevolgen worden verbonden. Gesteld noch gebleken is dat reeds in 1989 een afspraak als hier bedoeld (...) is gemaakt. (...) 5.5. (...) (blz. 6) (...) vanuit fiscaalrechtelijk oogpunt [is] belanghebbende de oorspronkelijk voor het geheel door hem beheerde en bestuurde onderneming in 1990 in vennootschappelijk verband (...) gaan beheren en besturen tezamen met zijn echtgenote, (...) en [heeft hij het tot zijn oorspronkelijke onderneming behorende vermogen voor de helft] aan de oorspronkelijke onderneming onttrokken, welke onttrokken vermogenshelft door c.q. ten behoeve van zijn echtgenote is ingebracht in de v.o.f. (...) 5.6. (...) Naar 's Hofs oordeel heeft de gemachtigde (...) in de brief (...) in redelijkheid niet kunnen lezen dat hoe dan ook met betrekking tot de aanvaarding van een v.o.f. desinvesteringsbetalingen achterwege zouden blijven, ongeacht de wijze waarop [de belanghebbende] en diens echtgenote de v.o.f. zouden tot stand brengen. (...)"
+
+5. Het middel.
+
+Naar het middel inhoudt:
+
+"(blz. 2) (...) is steeds het standpunt ingenomen (...), dat de onderneming met ingang van 1990 in een 50/50 verhouding werd gedreven voor rekening van ondergetekende en zijn echtgenote. Met dit standpunt is de inspecteur accoord gegaan zonder enig voorbehoud. (...) het voor gezamenlijke rekening gaan drijven van een onderneming met in stand houden van een huwelijksgemeenschap [kan] slechts bij wetsfictie worden aangemerkt als een onttrekking. Een dergelijke wetsfictie bestaat niet. (...) (blz. 3) (...) Ten onrechte heeft het Hof (...) overwogen dat (...) het gepretendeerde vertrouwen niet daadwerkelijk is gewekt (...) Ten onrechte is het Hof niet ingegaan op de (...) stelling dat ondergetekende en zijn vrouw alsnog het recht moeten krijgen om een zodanige creditering te kiezen dat de desinvesteringsbetalingsgevolgen achterwege blijven. (...)"
+
+6. Toerekening aan 1989; verweer 1.
+
+6.1. Voor de toerekening aan het aan 1990 voorafgaande jaar beroept de belanghebbende zich er niet op dat de vennootschap onder firma daadwerkelijk in 1989 tot stand gekomen zou zijn, maar slechts daarop dat de belastingadministratie ermee ingestemd zou hebben de werking van de vennootschap onder firma met ingang van 1 januari 1990 te erkennen.
+
+6.2. Het Hof heeft overwogen:
+
+"(blz. 2) 2.2. Bij brief van 2 juni 1990 schreef de gemachtigde van belanghebbende (...): "(...) Ter voorkoming van de noodzaak om de aangifte inkomstenbelasting 1989 te herzien, zou ik het zeer op prijs stellen indien U er mee kunt instemmen dat met ingang van 1 januari 1990 de heffing van inkomstenbelasting van de heer en mevrouw X aansluit bij de de facto tussen hen bestaande man-vrouw-firma met een 50/50 winstverdeling. (...)" 2.3. Bij brief van 14 juni 1990 antwoordde de inspecteur (...): "(...) 2. (...) Er moet worden gehandeld alsof de firma op zakelijke basis met een derde zou zijn aangegaan: de vrouw brengt geen kapitaal in en wordt dus niet gecrediteerd op de openingsbalans van de firma. (...)" (...) (blz. 3) (...) 2.5. Bij brief van 27 september 1990 deelde de inspecteur (...) mede: "Ik hoop u zo spoedig mogelijk mijn beslissing over de uitwerking van de man/ vrouw-firma te kunnen meedelen." Vervolgens stelde de inspecteur de (...) aanslag vast waarbij (...) de volgende (...) toelichting werd verstrekt: "(...) Nu de eerstgenoemde is gecrediteerd heeft naar mijn mening overdracht van ½ bedrijf plaatsgevonden tegen vervreemdingsprijs, derhalve is de des-WIR op zijn plaats." (...) 4. (...) Ter zitting hebben partijen (...) toegevoegd: gemachtigde: (blz. 4) (...) Als van staking moet worden gesproken, ligt deze vóór 1 januari 1990. (...) de inspecteur: (...) Uit welwillendheid is toegestaan dat de winstverdeling reeds vanaf 1 januari 1990 kan worden toegepast. Dit houdt niet in dat voordien is gestaakt. (...)"
+
+6.3. Naar het mij voorkomt, heeft het Hof in deze discussie, waarvan de weergave en de uitlegging aan het Hof overgelaten is, niet behoeven te lezen dat de belanghebbende er een beroep op deed dat de belastingadministratie ermee ingestemd zou hebben de, eventuele, rechtsgevolgen van het aangaan van de vennootschap onder firma aan 1989 toe te rekenen. Het uitgangspunt van de correspondentie was immers dat de "aangifte" - dus de heffing - over 1989 niet gecorrigeerd zou behoeven te worden. De draagwijdte van de correspondentie kan niet anders dan tegen de achtergrond van dit uitgangspunt begrepen worden.
+
+7. Vervreemding - staking - onttrekking; verweer 2.
+
+7.1. Het Besluit IB 1941, oorspronkelijke tekst, hield in:
+
+"(...) Art. 9. 1. De winst (...) wordt, voor belastingplichtigen, die (...) boekhouden (...), gesteld op het verschil tusschen het [bedrijfsvermogen] bij het einde van het boekjaar en het [bedrijfsvermogen] bij het begin van dat jaar, dit verschil verhoogd met het geldelijk beloop van de onttrekkingen (...) 2. (1e volzin) Onder "onttrekkingen" wordt verstaan geld en alle andere zaken, in den loop van het boekjaar door den eigenaar of door een medegerechtigde tot het [bedrijfsvermogen] aan hetzelve onttrokken voor doeleinden, aan het bedrijf (...) vreemd (...) 6. Als [bedrijfsvermogen] bij het begin van het boekjaar geldt het [bedrijfsvermogen] bij het einde van het vorige boekjaar (...)"
+
+7.2. De sterk vereenvoudigde omschrijving van het begrip "in een kalenderjaar genoten winst" in art. 9 Wet IB 1964 kan nog steeds opgevat worden met behulp van de zojuist geciteerde voorschriften (zie HR 16 februari 1955, nr. 12.103, BNB 1955/ 107). Met name kunnen veranderingen van het ondernemingsvermogen niet tussen twee jaren in vallen en moet ondernemingsvermogen dat door de ondernemer aangewend is voor andere doeleinden dan die van de onderneming, als onttrekking in de loop van het jaar behandeld worden.
+
+7.3. De onderneming die in zaken als de onderhavige tot uitgangspunt genomen moet worden, is de onderneming van de man, zoals die vóór de totstandkoming van de vennootschap onder firma bestond.
+
+7.4. Die onderneming had volgens de fiscale balans per 31 december 1989 een boekwaarde van, stel, ƒ a.
+
+7.5. Aangezien nu aan het begin, dat is dus in de loop, van 1990 het halve ondernemingsvermogen ten name van X-Y is gesteld, zulks ter nadere regeling van de vermogensrechtelijke relaties tussen de belanghebbende en X-Y, is van de onderneming van de man ƒ ½a verdwenen voor andere doeleinden dan die van die (zijn) onderneming.
+
+7.6. Dat is een onttrekking in 1990.
+
+7.7. Uit het vorenstaande volgt dat het Hof op goede gronden het halve ondernemingsvermogen van de man als onttrokken heeft aangemerkt.
+
+8. Vertrouwen dat geen desinvesteringsbetaling toegepast zou worden; verweer 3.
+
+8.1. Het Hof heeft overwogen:
+
+"(blz. 2) 2.2. Bij brief van 2 juni 1990 schreef de gemachtigde van belanghebbende (...): "(...) Ten aanzien van desinvesteringsbetalingen (...) meen ik dat, doordat beide echtgenoten per 1 januari 1990 voor de helft van het ondernemingsvermogen worden gecrediteerd (...), X geen desinvesteringsbetaling verschuldigd wordt (...)" 2.3. Bij brief van 14 juni 1990 antwoordde de inspecteur (...): "(...) 2. (...) Er moet worden gehandeld alsof de firma op zakelijke basis met een derde zou zijn aangegaan: de vrouw brengt geen kapitaal in en wordt dus niet gecrediteerd op de openingsbalans van de firma. 3. Gezien BNB 1982/128 kan desinvesteringsbetaling achterwege blijven. (...)" 2.4. Bij brief van 13 juli 1990 reageerde de gemachtigde (...) als volgt: "(...) (blz. 3) (...) Creditering van X-Y is (...) voorgeschreven: het is haar vermogen en het wordt in haar onderneming gebruikt (...)" 2.5. Bij brief van 27 september 1990 deelde de inspecteur (...) mede: "Ik hoop u zo spoedig mogelijk mijn beslissing over de uitwerking van de man/vrouw-firma te kunnen meedelen." Vervolgens stelde de inspecteur de (...) aanslag vast waarbij (...) de volgende (...) toelichting werd verstrekt: "(...) Nu de eerstgenoemde is gecrediteerd heeft naar mijn mening overdracht van ½ bedrijf plaatsgevonden tegen vervreemdingsprijs, derhalve is de des-WIR op zijn plaats." (...)"
+
+8.2. Hetgeen het Hof dienaangaande heeft overwogen (zie het hiervóór onder 4 opgenomen citaat, onder 5.6), is van feitelijke aard en niet onbegrijpelijk.
+
+8.3. Met name acht ik aanvaardbaar dat onderdeel 3 van de brief van 14 juni 1990, gelezen in verband met onderdeel 2 en met de verwijzing naar BNB, niet inhoudt dat bij overboeking van het halve ondernemingsvermogen naar X-Y geen desinvesteringsbetaling verschuldigd zou zijn.
+
+9. Subsidiaire herziening van de creditering; verweer 4.
+
+9.1. In het beroepschrift betoogde de belanghebbende (onder 2.2, blz. 7),
+
+"(...) dat mijn vrouw en ik alsnog het recht moeten krijgen om een zodanige creditering te kiezen, dat de door mij niet gewenste en niet bedoelde desinvesteringsbetalingsgevolgen achterwege blijven. (...)"
+
+9.2. De inspecteur van de Belastingdienst Particulieren/Ondernemingen P (hierna te noemen de Inspecteur) betoogde in zijn vertoogschrift, blz. 5, Ad 3:
+
+"(...) Naar mijn mening zou dit betekenen dat belanghebbende dan uitsluitend met het oog op dit aspect een verandering wil aanbrengen, in afwijking van hetgeen partijen (m/v) eerder zijn overeengekomen, blijkens door hen ingeleverde jaarstukken en de  nadien overgelegde akte van v.o.f. Het komt mij voor dat dit niet acceptabel is."
+
+9.3. Naar ik meen, is de weerlegging door de Inspecteur juist en behoefde het Hof niet uitdrukkelijk op dit punt, dat van rechtskundige aard is, in te gaan.
+
+9.4. De creditering is één van de vele feiten die door de oprichters van een vennootschap onder firma worden overeengekomen en die de belastingadministratie als gegeven heeft te aanvaarden. Herziening daarvan vormt een nieuw gegeven dat pas kan werken van het ogenblik af waarop zij geschiedt.
+
+9.5. Leggen de aspirant-vennoten bij voorbaat aan de belastingadministratie voor hetgeen zij van plan zijn, dan kan de reactie aanleiding geven het voorgenomene nog in het voorbereidende stadium te herzien en dan zal het herziene concept gaan gelden. Hebben zij daarbij de belastingadministratie verkeerd begrepen, dan kan de belastingrechter daar niets meer aan doen: ook deze is aan het overeengekomene gebonden.
+
+10. Conclusie.
+
+Het middel ongegrond bevindende, concludeer ik tot verwerping van het beroep.
+
+De Procureur-Generaal bij de Hoge Raad der Nederlanden,
