@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA6115"
-published_in: ["Rechtspraak.nl", "PW 2000, 21221", "BNB 2000/231", "FED 2000/313", "WFR 2000/924, 2", "V-N 2000/27.4 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "PW 2000, 21221", "BNB 2000/231", "FED 2000/313", "WFR 2000/924, 2", "V-N 2000/27.4 met annotatie van Redactie", "NTFR 2000/813 met annotatie van mr. J.C.L. Zuiderwijk"]
 cites_law: ["netherlands/national/acts/successiewet-1956/art-024.md"]
 ---
 
