@@ -96,7 +96,7 @@ Weigering om de zaaksofficier op te roepen als getuige
 
 13. Met dit laatste argument ziet het hof klaarblijkelijk op de vragen van de raadsman of men het normaal vond geen processen-verbaal op te maken en of de pro-actieve fase een proeftuin was, en wat de visie van het OM daarop is. Dat het hof deze vragen heeft opgevat als vragen naar de juridische opvattingen van de officier van justitie over de geoorloofdheid van een en ander is bepaald niet onbegrijpelijk. Voor zover het middel hierover klaagt is het tevergeefs voorgesteld.
 
-14. Ook voor het overige faalt het middel. Het hof achtte zich omtrent de feitelijke gang van zaken in het vooronderzoek voldoende ingelicht, zulks mede gelet op de ter terechtzitting van 23 december 1994 afgelegde zeer uitgebreide verklaring van de hoofdinspecteur [verbalisant]. Deze verklaring houdt onder meer in:
+14. Ook voor het overige faalt het middel. Het hof achtte zich omtrent de feitelijke gang van zaken in het vooronderzoek voldoende ingelicht, zulks mede gelet op de ter terechtzitting van 23 december 1994 afgelegde zeer uitgebreide verklaring van de hoofdinspecteur [verbalisant] . Deze verklaring houdt onder meer in:
 
 - (blz. 10) dat in overleg met de officier van justitie voor wat betreft de pro-actieve fase is gekozen voor het deugdelijk vastleggen van de onderzoekshandelingen en -resultaten in dagrapporten en journaals;
 
@@ -122,7 +122,7 @@ Gelet op het voorgaande acht ik de afwijzing van het hof bepaald niet onbegrijpe
 
 ‘’Het was en is geen gebruik of afspraak dat van alles een proces-verbaal wordt opgemaakt; een praktijk die allengs zo is gegroeid. Er is in verband met de oprichting van een nieuw team wel overleg geweest over de opbouw van het dossier. Het niet verbaliseren van de thans besproken acties is daarbij geen onderwerp van discussie geweest. Wel is afgesproken dat alles deugdelijk zou worden vastgelegd, zodat, indien nodig, later alsnog zou kunnen worden geverbaliseerd.’’
 
-Bovendien is dit ‘’verzuim’’ geheeld door het nadere, uitvoerig toegelichte, proces-verbaal van hoofdinspecteur [verbalisant]. De relevantie van het verzoek om ook de officier van justitie op dat punt nog eens te horen, ontgaat mij en wordt in de toelichting op het middel in elk geval niet overtuigend gedemonstreerd. Dat geldt ook voor de aan de officier van justitie te stellen vragen over de creativiteit van betrokkenen over mogelijke meningsverschillen over de toe te passen methoden en technieken. Het is immers de rechter die beslist over de toelaatbaarheid van het vooronderzoek zoals dat heeft plaatsgevonden, een en ander aan de hand van hetgeen daaromtrent bekend is ten tijde van zijn beslissing. Als een officier van justitie daarop geen nieuw licht (meer) kan werpen, kan van zijn verhoor worden afgezien.
+Bovendien is dit ‘’verzuim’’ geheeld door het nadere, uitvoerig toegelichte, proces-verbaal van hoofdinspecteur [verbalisant] . De relevantie van het verzoek om ook de officier van justitie op dat punt nog eens te horen, ontgaat mij en wordt in de toelichting op het middel in elk geval niet overtuigend gedemonstreerd. Dat geldt ook voor de aan de officier van justitie te stellen vragen over de creativiteit van betrokkenen over mogelijke meningsverschillen over de toe te passen methoden en technieken. Het is immers de rechter die beslist over de toelaatbaarheid van het vooronderzoek zoals dat heeft plaatsgevonden, een en ander aan de hand van hetgeen daaromtrent bekend is ten tijde van zijn beslissing. Als een officier van justitie daarop geen nieuw licht (meer) kan werpen, kan van zijn verhoor worden afgezien.
 
 Dubbele strafbaarheid
 
@@ -252,7 +252,7 @@ Het niet-ontvankelijkheidsverweer concentreerde zich namelijk rond de stelling d
 
 De eerste poot van het verweer is door het hof op juiste gronden ondeugdelijk geoordeeld. Uitgaande van het oordeel dat de toegepaste methoden rechtens toelaatbaar waren, heeft het hof vervolgens terecht overwogen (ik parafraseer het gestelde op blz. 8 en 9 van het arrest) dat de toepassing van methoden aan de uitvoering waarvan de wet geen bijzondere eisen stelt, niet onrechtmatig wordt doordat van het OM daarvoor geen toestemming is verkregen en dat zulks a fortiori geldt indien die niet-vereiste toestemming wel is gegeven.
 
-42. Nu — op een enkele uitzondering na, waarover later meer — geen beroep is gedaan op de schending van verzoekers persoonlijke levenssfeer of van enig ander fundamenteel recht, terwijl de mogelijkheid van die schending ook niet voortvloeit uit 's hofs arrest, kunnen uitspraken of bespiegelingen over de grenzen die de politie op grond van de Grondwet en/of mensenrechtenverdragen bij de uitoefening van haar bevoegdheid tot opsporing (in ruime zin) in acht heeft te nemen, achterwege blijven. Die uitspraken zouden bovendien slechts zeer algemeen kunnen luiden en daardoor tamelijk nietszeggend zijn. Ik herinner aan de opmerking van mijn ambtgenoot mr Mok in zijn conclusie bij HR NJ 1980, 356 (https://www.navigator.nl/document/id341979120470743nj1980356dosred) inzake het inzetten van een undercover agent:
+42. Nu — op een enkele uitzondering na, waarover later meer — geen beroep is gedaan op de schending van verzoekers persoonlijke levenssfeer of van enig ander fundamenteel recht, terwijl de mogelijkheid van die schending ook niet voortvloeit uit 's hofs arrest, kunnen uitspraken of bespiegelingen over de grenzen die de politie op grond van de Grondwet en/of mensenrechtenverdragen bij de uitoefening van haar bevoegdheid tot opsporing (in ruime zin) in acht heeft te nemen, achterwege blijven. Die uitspraken zouden bovendien slechts zeer algemeen kunnen luiden en daardoor tamelijk nietszeggend zijn. Ik herinner aan de opmerking van mijn ambtgenoot mr Mok in zijn conclusie bij HR NJ 1980, 356 inzake het inzetten van een undercover agent:
 
 ‘’Het lijkt mij onmogelijk in abstracto regels te geven waarbij voor alle denkbare gevallen wordt aangegeven wat nog rechtmatig is en wat niet.’’
 
@@ -360,7 +360,7 @@ Scannen van autotelefoons
 
 72. Bovendien verliest het middel bij zijn uiteenzettingen (toelichting sub 2.11) over de reikwijdte van het afluisterverbod van art. 139c lid 1 onder 1° Sr uit het oog dat deze bepaling pas op 1 maart 1993 in werking is getreden, terwijl de bewezenverklaarde feiten zich ten laatste hebben voorgedaan op 29 juni 1992.
 
-Uit de stukken blijkt voorts dat de scanneractiviteiten plaatsvonden in februari 1992; zie proces-verbaal van de zitting van 23 december 1994, blz. 11 en het nader proces-verbaal van de hoofdinspecteur [verbalisant], blz. 5.
+Uit de stukken blijkt voorts dat de scanneractiviteiten plaatsvonden in februari 1992; zie proces-verbaal van de zitting van 23 december 1994, blz. 11 en het nader proces-verbaal van de hoofdinspecteur [verbalisant] , blz. 5.
 
 Dat het groot verschil maakt of de politie vóór dan wel ná 1 maart 1993 mobiel telefoonverkeer aftapte, wordt uiteengezet in de conclusie die ik op heden neem in de zaak nr. 101.302. De relevante passages luiden als volgt:
 
@@ -470,9 +470,9 @@ te weten
 
 ‘’dat het strafproces onder druk komt te staan van gegevens, die verkregen zijn door gedrag dat niet anders dan als crimineel kan worden beschouwd’’.
 
-82. Voorts ziet het middel over het hoofd dat de toetsing van de betrouwbaarheid van gegevens en de rechtmatigheid van hun verkrijging ook dan door de rechter geschiedt indien deze daarbij afgaat op mededelingen van een derde, in casu de hoofdinspecteur [verbalisant], omtrent hetgeen hem bij onderzoek is gebleken. Zo kan de rechter zich heel wel een oordeel vormen omtrent de betrouwbaarheid van de verklaringen die getuigen in het vooronderzoek hebben afgelegd, zonder zelf ook maar één getuige gehoord te hebben.
+82. Voorts ziet het middel over het hoofd dat de toetsing van de betrouwbaarheid van gegevens en de rechtmatigheid van hun verkrijging ook dan door de rechter geschiedt indien deze daarbij afgaat op mededelingen van een derde, in casu de hoofdinspecteur [verbalisant] , omtrent hetgeen hem bij onderzoek is gebleken. Zo kan de rechter zich heel wel een oordeel vormen omtrent de betrouwbaarheid van de verklaringen die getuigen in het vooronderzoek hebben afgelegd, zonder zelf ook maar één getuige gehoord te hebben.
 
-83. Evenmin kan het hof met vrucht verweten worden dat het de verklaring van de hoofdinspecteur [verbalisant], dat hij niets heeft aangetroffen dat wijst op onrechtmatigheden bij het vergaren van CID-informatie, betrouwbaar heeft geacht. Dit oordeel is immers aan de feitenrechter voorbehouden.
+83. Evenmin kan het hof met vrucht verweten worden dat het de verklaring van de hoofdinspecteur [verbalisant] , dat hij niets heeft aangetroffen dat wijst op onrechtmatigheden bij het vergaren van CID-informatie, betrouwbaar heeft geacht. Dit oordeel is immers aan de feitenrechter voorbehouden.
 
 Bovendien moeten — anders dan de stellers van het middel doen — 's hofs overwegingen worden bezien in het licht van het gevoerde verweer dat het relaas in het proces-verbaal zodanig onvolledig was dat geen controle mogelijk was op de opsporingsactiviteiten in de pro-actieve fase. Dat bezwaar is door het hof beredeneerd ongegrond bevonden.
 
@@ -506,7 +506,7 @@ Het opmaken van proces-verbaal (art. 152 Sv)
 
 a) art. 152 en art. 153 lid 2 Sv strekken tot het mogelijk maken van rechterlijke controle op de bruikbaarheid en betrouwbaarheid van al hetgeen in het proces-verbaal is gerelateerd en de rechtmatigheid van eventuele inbreuken op rechten en vrijheden van burgers,
 
-b) van een aantal verrichtingen en bevindingen is, blijkens de verklaring van de hoofdinspecteur [verbalisant], geen proces-verbaal opgemaakt om – mogelijke – verdachten niet voortijdig op de hoogte te stellen van de inhoud en werkwijze in de opsporing en niet om de rechter in zijn controlerende taak te belemmeren;
+b) van een aantal verrichtingen en bevindingen is, blijkens de verklaring van de hoofdinspecteur [verbalisant] , geen proces-verbaal opgemaakt om – mogelijke – verdachten niet voortijdig op de hoogte te stellen van de inhoud en werkwijze in de opsporing en niet om de rechter in zijn controlerende taak te belemmeren;
 
 c) afspraak was dat het opmaken van processen-verbaal slechts nodig was indien sprake was van voor het OM in de latere strafzaak bruikbare gegevens;
 
