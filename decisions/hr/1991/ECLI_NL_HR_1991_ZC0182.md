@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1991:ZC0182"
-published_in: ["Rechtspraak.nl", "NJ 1992, 214", "RvdW 1991, 89", "V-N 1992/2672, 24 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NJ 1992, 214", "RvdW 1991, 89", "V-N 1992/2672, 24", "AA19920290 met annotatie van Kortmann S.C.J.J. Bas"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1991:6"]]
 ---
 
