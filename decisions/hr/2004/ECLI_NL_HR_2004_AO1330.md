@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO1330"
-published_in: ["Rechtspraak.nl", "JOL 2004, 159", "RvdW 2004, 54", "NJ 2009, 340 met annotatie van F.C.B. van Wijmen", "VR 2004, 105", "AV&S 2004, 38 met annotatie van L.E. Kalkman-Bogerd, W.M.A. Kalkman", "JWB 2004/124", "JBPR 2004/37 met annotatie van CJMK", "GJ 2005/103"]
+published_in: ["Rechtspraak.nl", "JOL 2004, 159", "RvdW 2004, 54", "NJ 2009, 340 met annotatie van F.C.B. van Wijmen", "VR 2004, 105", "AV&S 2004, 38 met annotatie van L.E. Kalkman-Bogerd, W.M.A. Kalkman", "JWB 2004/124", "JBPr 2004/37 met annotatie van prof. mr. C.J.M. Klaassen", "GJ 2005/103", "FJR 2026/46.20"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2004:AO1330"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-198.md"]
 ---
