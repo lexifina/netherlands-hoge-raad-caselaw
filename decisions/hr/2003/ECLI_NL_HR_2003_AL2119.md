@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AL2119"
-published_in: ["Rechtspraak.nl", "BNB 2004/7", "FED 2003/527", "WFR 2003/1565", "V-N 2003/49.2 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "BNB 2004/7", "FED 2003/527", "WFR 2003/1565", "V-N 2003/49.2", "NTFR 2003/1670 met annotatie van mr. dr. M.M. Kors"]
 cites_law: ["netherlands/national/acts/awr/art-025.md", "netherlands/national/acts/awr/art-027e.md", "netherlands/national/acts/awr/art-047.md"]
 ---
 
