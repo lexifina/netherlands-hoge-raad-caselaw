@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AD6775"
-published_in: ["Rechtspraak.nl", "FED 2002/28 met annotatie van R. DEN OUDEN", "FED 2001/687", "BNB 2002/96 met annotatie van P.H.J. Essers", "WFR 2001/1867, 1", "V-N 2001/64.16 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "FED 2002/28 met annotatie van R. DEN OUDEN", "FED 2001/687", "BNB 2002/96 met annotatie van P.H.J. Essers", "WFR 2001/1867, 1", "V-N 2001/64.16", "NTFR 2001/1732 met annotatie van drs. P.A. Visser"]
 ---
 
 # ECLI:NL:HR:2001:AD6775 Hoge Raad , 07-12-2001 / 36255
