@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2003:AD9784"
-published_in: ["Rechtspraak.nl", "BNB 2003/249 met annotatie van R.H. Happé", "FED 2003/180", "WFR 2003/477", "V-N 2003/16.21"]
+published_in: ["Rechtspraak.nl", "BNB 2003/249 met annotatie van R.H. Happé", "FED 2003/180", "WFR 2003/477", "V-N 2003/16.21 met annotatie van Redactie", "NTFR 2002/332"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2003:AD9784"]]
 ---
 
