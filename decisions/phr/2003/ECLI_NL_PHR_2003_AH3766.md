@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2003:AH3766"
-published_in: ["Rechtspraak.nl", "BNB 2004/97", "FED 2003/544", "WFR 2003/1651", "V-N 2003/51.30", "NTFR 2003/1058"]
+published_in: ["Rechtspraak.nl", "BNB 2004/97", "FED 2003/544", "WFR 2003/1651", "V-N 2003/51.30 met annotatie van Redactie", "NTFR 2003/1058"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2003:AH3766"]]
 cites_law: ["netherlands/national/acts/wet-op-de-belasting-van-personenauto-s-en-motorrijwielen-1992/art-003.md"]
 ---
