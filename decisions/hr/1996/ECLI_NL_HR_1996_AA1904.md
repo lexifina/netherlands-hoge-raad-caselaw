@@ -1,0 +1,31 @@
+---
+ecli: "ECLI:NL:HR:1996:AA1904"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "30913"
+decided: "1996-02-28"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1996:AA1904"
+published_in: ["Rechtspraak.nl", "BNB 1996/326", "FED 1996/642", "WFR 1996/1181, 2", "V-N 1996/3132, 8 met annotatie van Redactie"]
+---
+
+# ECLI:NL:HR:1996:AA1904 Hoge Raad , 28-02-1996 / 30913
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Amsterdam van 18 november 1994 betreffende de hem voor het jaar 1990 opgelegde aanslag inkomstenbelasting/premie volksverzekeringen.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1990 een aanslag inkomstenbelasting/premie volksverzekeringen opgelegd, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is verminderd tot een aanslag naar een belastbaar inkomen van ƒ 60.207,--. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft die uitspraak vernietigd en de aanslag verminderd tot een berekend naar een belastbaar inkomen van ƒ 50.263,--.
+
+2. Geding in cassatie Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld en daarbij enige klachten aangevoerd. De Staatssecretaris van Financiën heeft een vertoogschrift ingediend.
+
+3. Beoordeling van de klachten 3.1. In cassatie kan van het volgende worden uitgegaan. Belanghebbende was in het onderhavige jaar als docent in dienstbetrekking werkzaam bij een H.B.O.-instelling in Q terwijl hij woonde in R. Belanghebbende heeft in dat jaar bij de Rabobank een geldlening afgesloten tot een bedrag van ƒ 108.000,--, ter zake waarvan hij een zogenoemde positieve en negatieve hypotheekverklaring heeft afgegeven met betrekking tot een aantal hem toebehorende onroerende zaken. Het geleende geld heeft hij gebruikt voor de aankoop van een perceel bouwgrond, bestemd voor de bouw van een eigen woning. De afsluitprovisie en de in 1990 betaalde rente op de geldlening bedroegen te zamen ƒ 6.310,11. Voor zijn werkzaamheden als docent maakte belanghebbende gebruik van een studeerkamer in zijn woning. De kosten die hierop betrekking hebben heeft hij in aftrek gebracht. Naast zijn werkzaamheden als docent heeft belanghebbende wetenschappelijk onderzoek verricht, welk onderzoek naar verwachting zal leiden, of inmiddels wellicht heeft geleid, tot een promotie. In verband met dat onderzoek heeft belanghebbende in het onderhavige jaar reizen naar Zuid- en Midden-Amerika gemaakt en daartoe onder andere kosten ter zake van een reisverzekering, inentingen, malariamedicijnen en de aanschaf van een internationaal rijbewijs gemaakt. Tevens heeft hij in verband met dat onderzoek fotoapparatuur aangeschaft. 3.2. Het Hof heeft met juistheid geoordeeld dat de zogenoemde positieve en negatieve hypotheekverklaring geen hypotheek is en daarmee ook niet op één lijn te stellen is. Daarvan uitgaande heeft het Hof terecht geoordeeld dat de door belanghebbende betaalde afsluitprovisie en rente ten bedrage van te zamen ƒ 6.310,11 niet is aan te merken als rente als bedoeld in artikel 47a, lid 4, van de Wet op de inkomstenbelasting 1964 (hierna te noemen: de Wet). In zoverre falen de klachten. 3.3. De klachten stellen voorts de vraag aan de orde of voor de toepassing van artikel 36, lid 1, letter b, onder 1, van de Wet, de reistijd verbonden aan het woon- werkverkeer en de reistijd tussen de verschillende werkplekken moeten worden gerekend tot de duur van de werkzaamheden die elders dan in de kantoorruimte thuis worden verricht. 3.4. Indien ingevolge de arbeidsovereenkomst de reistijd voor het woon-werkverkeer en de reistijd tussen de diverse werkplekken wordt gerekend tot de tijd waarvoor de arbeid is bedongen en het overeengekomen loon daarop dan ook mede is afgestemd, moet die reistijd voor de toepassing van artikel 36, lid 1, letter b, onder 1, van de Wet gerekend worden tot de duur van de werkzaamheden die elders dan in de kantoorruimte thuis worden verricht. 3.5. Doet zich die situatie niet voor, dan kunnen ook geen inkomsten uit arbeid worden toegerekend aan die reistijd en is er dus ook geen reden die reistijd te rekenen tot de duur van werkzaamheden die elders dan in de kantoorruimte thuis worden verricht. 3.6. Het Hof heeft de reistijd voor het woon- werkverkeer en de reistijd tussen de verschillende werkplekken gerekend tot de duur van de werkzaamheden die elders dan in de kantoorruimte thuis worden verricht, doch heeft omtrent de vraag of ingevolge belanghebbendes arbeidsovereenkomst die reistijd wordt gerekend tot de tijd waarvoor de arbeid is bedongen en of het overeengekomen loon daarop dan ook mede is afgestemd, niets vastgesteld. Dit brengt met zich mede dat 's Hofs uitspraak te dezen niet naar de eis der wet met redenen is omkleed. In zoverre zijn de klachten derhalve gegrond. 3.7. De overige klachten kunnen niet tot cassatie leiden. Zulks behoeft, gezien artikel 101a van de Wet op de rechterlijke organisatie, geen nadere motivering nu deze klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling. 3.8. De uitspraak van het Hof kan niet in stand kan blijven. Verwijzing moet volgen.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad vernietigt de uitspraak van het Hof, behoudens de beslissingen omtrent het griffierecht en de proceskosten, verwijst het geding naar het Gerechtshof te 's-Gravenhage ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, en gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie gestorte griffierecht ten bedrage van ƒ 300,--.
+
+Dit arrest is op 28 februari 1996  vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Zuurmond, Herrmann, C.H.M. Jansen en Fleers, in tegenwoordigheid van de waarnemend griffier Loen, en op die datum in het openbaar uitgesproken.
