@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO7707"
-published_in: ["Rechtspraak.nl", "BNB 2004/219", "FED 2004/365 met annotatie van E. THOMAS", "WFR 2004/664", "FED 2004/227", "Belastingadvies 2004/9.10", "V-N 2004/21.18 met annotatie van Redactie", "FutD 2004-0710"]
+published_in: ["Rechtspraak.nl", "BNB 2004/219", "FED 2004/365 met annotatie van E. THOMAS", "WFR 2004/664", "FED 2004/227", "Belastingadvies 2004/9.10", "V-N 2004/21.18", "NTFR 2004/596 met annotatie van drs. M. Schuver-Bravenboer"]
 cites_law: ["netherlands/national/acts/wet-arbeidsongeschiktheidsverzekering-zelfstandigen/art-003.md"]
 ---
 
