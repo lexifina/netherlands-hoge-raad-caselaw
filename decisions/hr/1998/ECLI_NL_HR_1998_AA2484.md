@@ -1,0 +1,40 @@
+---
+ecli: "ECLI:NL:HR:1998:AA2484"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "32880"
+decided: "1998-03-18"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2484"
+published_in: ["Rechtspraak.nl", "BNB 1998/179 met annotatie van R.E.C.M. Niessen", "FED 1998/203", "FED 1998/255 met annotatie van G.Th.K. Meussen", "WFR 1998/471, 1", "V-N 1998/15.5 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/awr/art-011.md"]
+---
+
+# ECLI:NL:HR:1998:AA2484 Hoge Raad , 18-03-1998 / 32880
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Arnhem van 13 november 1996 betreffende de hem voor het jaar 1989 opgelegde aan slag inkomstenbelasting.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1989 een aanslag inkomstenbelasting opgelegd, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is verminderd tot een aanslag naar een belastbaar inkomen van f 195.678,--. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft die uitspraak bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft een vertoog schrift ingediend.
+
+3. Uitgangspunten in cassatie 3.1. Aan belanghebbende is een aangiftebiljet A voor de inkomstenbelasting/premies volksverzekeringen voor het jaar 1989 uitgereikt door de Belastingdienst/Particulieren P. Op 29 maart 1990 is door de gemachtigde van belanghebbende aan de inspecteur der directe belastingen te Q, als kantoorinspecteur van de gemachtigde, in het kader van de uitstelregeling P- aangiften uitstel verzocht tot 1 januari 1991. Dit uitstel is conform de geldende uitstelregeling verleend.
+
+Nadat geconstateerd was dat de aangifte nog niet was gedaan, is door de Belastingdienst/Particulieren P op 14 januari 1991 aan belanghebbende een aanmaning verzonden. Op 15 januari 1991 heeft belanghebbende telefonisch contact opgenomen met een ambtenaar van de Belastingdienst/Particulieren P. Daarvan is door die ambtenaar een telefoonnotitie gemaakt. De aangifte is gedaan op 5 maart 1991. Het aanslagbiljet is gedagtekend 26 november 1993; er is geen verhoging toegepast wegens het te laat doen van aangifte. 3.2. Belanghebbende is directeur/grootaandeelhouder van B B.V. Deze vennootschap is in een fiscale eenheid als bedoeld in artikel 15 van de Wet op de vennootschapsbelasting 1969 verbonden met haar dochtervennootschap A B.V. Belanghebbende heeft per 1 oktober 1989 een tot zijn privé-vermogen behorend bedrijfspand verhuurd aan A B.V. alsmede aan D B.V.; beide rechtspersonen zijn ten opzichte van de verhuurder hoofdelijk aansprakelijk voor alle uit de huurovereenkomst voortvloeiende verbintenis sen. De per 1 oktober 1989 overeengekomen huur beloopt f 84.000,-- per jaar, bij vooruitbetaling in twaalf maandelijkse termijnen van f 7.000,-- te voldoen. Op 27 december 1989 heeft belanghebbende de huurtermijnen over de periode 1 januari 1990 tot en met 31 december 1991 verkocht aan B B.V. voor f 153.000,--. Deze vennootschap heeft uit dien hoofde in 1990 en 1991 in totaal f 172.346,-- aan huuropbrengsten ontvangen.
+
+4. Ambtshalve aanwezig bevonden grond voor cassatie Nu tussen partijen niet in geschil was dat de Inspecteur bij zijn uitspraak op het bezwaar belanghebbende ten onrechte niet-ontvankelijk heeft verklaard, had het Hof die uitspraak niet mogen bevestigen, maar (ambtshalve) moeten vernietigen, om vervolgens alsnog op het bezwaar  te beslissen. Reeds hierom kan 's Hofs uitspraak niet in stand blijven.
+
+5. Beoordeling van de middelen van cassatie 5.1. Belanghebbende heeft zich voor het Hof primair op het standpunt gesteld dat de aanslag niet tijdig is opgelegd; subsidiair heeft hij het standpunt ingenomen dat op de verkoopopbrengst van de huurtermijnen het tarief van artikel 57, lid 2, (tekst 1989) van de Wet op de inkomstenbelasting 1964 van toepassing is. 5.2. Het Hof heeft geoordeeld dat de onderhavige aan slag is opgelegd binnen de termijn, neergelegd in artikel 11, lid 3, van de Algemene wet inzake rijksbelastingen. Aan dit oordeel heeft het Hof ten grondslag gelegd dat aannemelijk is dat belanghebbende in het na ontvangst van de aanmaning met de Belastingdienst/Particulieren P gevoerde telefoongesprek erop heeft gewezen dat het aanmerken van zijn aangifte als ondernemers aangifte tot gevolg had dat hem uitstel verleend moest worden tot 1 maart 1991. De notitie en de handelwijze van de belastingdienst zijn daarmee naar 's Hofs oordeel in overeenstemming. 5.3. Ter beantwoording van de vraag of de onderhavige aanslag tijdig is opgelegd, diende het Hof te onderzoeken of belanghebbende voor het indienen van zijn aangifte uitstel heeft gevraagd tot 1 maart 1991 en, zo ja, of dit uitstel hem duidelijk kenbaar is verleend. Nu uit 's Hofs uitspraak niet blijkt dat met name dit laatste is onderzocht, is deze ontoereikend gemotiveerd. Derhalve slagen de middelen in zoverre zij zich tegen het hiervóór in 5.2 vermelde oordeel richten. 5.4. Bij de beantwoording van de vraag of terecht toepassing van het bijzondere tarief is geweigerd, heeft het Hof het primaire en subsidiaire standpunt van de Inspecteur dienaangaande onbesproken gelaten en diens meer subsidiaire standpunt gehonoreerd op grond van zijn oordeel dat toepassing van een bijzonder tarief "onder deze omstandigheden" in  strijd is met doel en strekking van de wet. Met de verwijzing naar "deze omstandigheden" doelt  het Hof kennelijk op de onder 4.4 van zijn uitspraak vermelde omstandigheid  dat belanghebbende de huurtermijnen betreffende een nog niet aangevangen periode van twee jaar heeft verkocht aan een door hem beheerste koper die een fiscale eenheid vormde met de vennootschap die zich als huurder hoofdelijk voor de huurbetaling ten opzichte van belanghebbende had verbonden, en de omstandigheid dat, zoals het Hof onder 4.5 en 4.6 heeft vastgesteld, het doorslaggevende motief van belanghebbende voor de onderhavige rechtshandeling is geweest te bereiken dat over de door hem in de naaste toekomst te ontvangen huurpenningen een bijzonder tarief zou worden toegepast in plaats van het tabeltarief. Ook als veronderstellenderwijs wordt uitgegaan van de juistheid van 's Hofs vaststellingen te dier zake valt zonder nadere motivering, welke echter ontbreekt, niet in te zien waarom de genoemde omstandigheden het oordeel rechtvaardigen dat het gebruikmaken door belanghebbende van de in de wet neergelegde regeling dat een bijzonder tarief van toepassing is op inkomsten die worden genoten ter vervanging van te derven inkomsten, in strijd is met doel en strekking van de wet. Voorzover de middelen klagen over onvoldoende motivering van 's Hofs evenvermeld oordeel zijn zij derhalve gegrond. Voor het overige behoeven zij geen behandeling.
+
+6. Slotsom Gelet op het hiervóór overwogene, kan 's Hofs uitspraak niet in stand blijven. Verwijzing dient te volgen.
+
+7. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+8. Beslissing De Hoge Raad: - vernietigt de uitspraak van het Hof, - verwijst het geding naar het Gerechtshof te 's-Hertogenbosch ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest, - gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van f 300,--.
+
+Dit arrest is op 18 maart 1998 vastgesteld door de raadsheer Zuurmond als voorzitter, en de raadsheren Fleers, Pos, Beukenhorst en Monné, in tegenwoordigheid van de waarnemend griffier Boorsma, en op die datum in het openbaar uitgesproken.
