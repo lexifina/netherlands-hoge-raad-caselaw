@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1983:AG4521"
-published_in: ["Rechtspraak.nl", "NJ 1983, 597 met annotatie van B. Wachter", "RvdW 1983, 27", "AA19840220 met annotatie van Schilfgaarde van P. Peter"]
+published_in: ["Rechtspraak.nl", "NJ 1983, 597 met annotatie van B. Wachter", "RvdW 1983, 27", "AA19840220 met annotatie van Schilfgaarde van P. Peter", "JOR 2021/234 met annotatie van prof. mr. S.C.J.J. Kortmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1983:AG4521"]]
 ---
 
