@@ -1,0 +1,36 @@
+---
+ecli: "ECLI:NL:HR:1996:AA1773"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "31409"
+decided: "1996-11-27"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1996:AA1773"
+published_in: ["Rechtspraak.nl", "BNB 1997/26", "FED 1996/983", "V-N 1996/4904, 31 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/wet-belastingen-op-milieugrondslag/art-020.md", "netherlands/national/acts/wet-belastingen-op-milieugrondslag/art-021.md"]
+---
+
+# ECLI:NL:HR:1996:AA1773 Hoge Raad , 27-11-1996 / 31409
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de vennootschap onder firma X te Z tegen de uitspraak van het Ge- rechtshof te 's-Gravenhage van 28 juni 1995 betref- fende na te melden haar opgelegde naheffingsaanslag.
+
+1. Naheffingsaanslag, bezwaar en geding voor het Hof Aan belanghebbende is over het tijdvak 1 april 1991 tot en met 31 december 1993 een naheffingsaan- slag opgelegd in de heffing op, dan wel de verbruiks- belasting van vloeibare brandstoffen als bedoeld in de Wet algemene bepalingen milieuhygiëne, dan wel de Wet milieubeheer ten bedrage van ƒ 345.276,--, zonder verhoging, welke aanslag, na daartegen gemaakt be- zwaar, bij uitspraak van de Inspecteur is gehand- haafd. Belanghebbende is tegen de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft deze uitspraak bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak be- roep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft een vertoogschrift ingediend.
+
+3. Beoordeling van de middelen 3.1. In cassatie kan van het volgende worden uitgegaan. Belanghebbende exploiteert een inrichting voor de vervaardiging van chemische produkten. Zij gebruikt een installatie die aardgas omzet in metha- nol waarbij als restprodukt foezelolie ontstaat. Foezelolie bestaat uit ongeveer 60-65% methanol, 5% ethanol, 5% propanol, 3% butanol, 0,5% alkanen en 25- 30% water en leent zich niet voor verkoop omdat daar- voor geen economisch interessante aanwendingsmoge- lijkheden bestaan. Belanghebbende benut de foezelolie voor energie-opwekking. Daarbij komen verontreinigen- de stoffen in de buitenlucht terecht. Belanghebbende heeft aangifte gedaan van de hoeveelheid foezelolie die zij in het onderhavige tijdvak (1 april 1991 tot en met 31 december 1993) heeft verbrand. Zij heeft daarbij opgemerkt dat zij geen heffing verschuldigd is over de verbrande foezelolie. De Inspecteur heeft belanghebbendes standpunt niet gevolgd en heeft uit- gaande van de door belanghebbende verstrekte gege- vens, de onderhavige naheffingsaanslag opgelegd. 3.2. De Wet algemene bepalingen milieuhygiëne (hierna: Wabm), sedert 1 maart 1993 de Wet milieube- heer, is met ingang van 1 juli 1992 in dier voege gewijzigd, dat de oorspronkelijke brandstofheffing heeft plaatsgemaakt voor een verbruiksbelasting van brandstoffen, geheven naar een milieugrondslag. Een en ander heeft tot gevolg gehad dat - zonder wijzi- ging van de inhoud - de nummering van de te dezen van belang zijnde artikelen in het onderhavige tijdvak diverse malen is gewijzigd. 3.3. In de Wabm en de Wet milieubeheer, ingevol- ge welke wetten de onderhavige naheffingsaanslag is opgelegd, wordt onder brandstoffen verstaan:
+
+een stof - met inbegrip van alle daaraan toegevoegde stoffen - dienende voor verbranding met het doel de daarbij ontstane energie te benutten, bij welke verbranding verontreinigende stoffen in de buitenlucht kunnen geraken.
+
+3.4. Het Hof heeft geoordeeld dat de door be- langhebbende verbrande foezelolie voldoet aan alle voorwaarden zoals vervat in deze definitie zodat foezelolie voor de toepassing van de financiële bepa- lingen in de Wabm en de Wet milieubeheer als brand- stof dient te worden aangemerkt. 3.5. Middel I bestrijdt dit oordeel met een betoog dat erop neerkomt dat de wetgever bij het begrip brandstoffen niet in het algemeen het oog had en heeft op stoffen die, achteraf gezien, verbrand worden, maar op volwaardige brandstoffen die op grond van inherente kenmerken als zodanig worden aangemerkt en dat foezelolie die bij de produktie van methanol vrijkomt, niet daartoe kan worden gerekend. Dit be- toog kan echter niet als juist worden aanvaard. 3.6. De in 3.3 vermelde omschrijving van het begrip brandstoffen is woordelijk ontleend aan de Wet inzake de luchtverontreiniging van 26 november 1970, Stb. 580. 3.7. Met die wet werd beoogd een wettelijke grondslag te geven voor het treffen van maatregelen tot het voorkomen en het tegengaan van luchtveront- reiniging in zeer uiteenlopende sectoren van de sa- menleving (Kamerstukken II 1968/69, 9816, Memorie van Toelichting, blz. 19, r.k.) en de basis te leggen voor een effectieve bestrijding van de luchtveront- reiniging (aldaar blz. 25, r.k.), terwijl in de wets- geschiedenis herhaaldelijk tot uitdrukking komt dat de wetgever hier vooral ook het oog had op de lucht- verontreiniging door het gebruik van brandstoffen voor energie-opwekking. Wanneer dit een en ander in aanmerking wordt genomen, ligt het voor de hand het begrip brandstoffen in die wet ruim uit te leggen en daaronder ook te begrijpen een vloeibaar, bij ver- branding luchtverontreinigend, restproduct als het onderhavige dat blijkens 's Hofs vaststelling ge- schikt is om zo te worden verbrand dat de bij de ver- branding ontstane energie kan worden benut. Met die door de strekking van de wet geboden ruime uitleg strookt het niet bovendien - zoals belanghebbende verdedigt - te eisen dat deze benutting van energie het enige of hoofddoel van de verbranding is dan wel aan de omstandigheid dat speciale voorzieningen voor de verbranding zijn getroffen de gevolgtrekking te verbinden dat geen sprake is van een brandstof in deze zin. 3.8. Uit de geschiedenis van de totstandkoming van de financiele bepalingen van de Wet algemene bepalingen milieuhygiëne en van de Wet milieubeheer blijkt niet dat de wetgever, wat betreft de bestrij- ding van luchtverontreiniging door het gebruik van brandstoffen voor energie-opwekking, waartoe die wet- ten mede strekken, een beperkter begrip brandstoffen op het oog had dan de Wet inzake de luchtverontreini- ging. Er is dan geen grond het begrip brandstoffen in de financiële bepalingen van eerstgenoemde wetten anders uit te leggen dan als voormeld. Ook de strek- king van die wetten levert daartoe geen grond op. 3.9. Middel I faalt derhalve. 3.10. Middel II dat zich met een motiverings- klacht richt tegen het in 3.4 vermelde oordeel van het Hof faalt omdat dat oordeel een rechtsoordeel is en zodanig oordeel niet met vrucht met een motive- ringsklacht kan worden bestreden.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in arti- kel 5a van de Wet administratieve rechtspraak belas- tingzaken.
+
+5. Beslissing De Hoge Raad verwerpt het beroep.
+
+Dit arrest is op 27 november 1996 vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Urlings, C.H.M. Jansen, Fleers en Pos, in tegenwoordigheid van de waarnemend griffier Boorsma en op die datum in het openbaar uitgesproken.
