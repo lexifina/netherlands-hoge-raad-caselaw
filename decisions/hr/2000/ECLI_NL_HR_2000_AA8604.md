@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA8604"
-published_in: ["Rechtspraak.nl", "Belastingblad 2001/58", "FED 2000/675", "BNB 2001/39", "FED 2000/676", "FED 2001/152 met annotatie van Redactie", "BNB 2001/52 met annotatie van W.J.N.M. SNOIJINK", "WFR 2000/1776", "WFR 2000/1776, 1", "V-N 2001/3.24 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2001/58", "FED 2000/675", "BNB 2001/39", "FED 2000/676", "FED 2001/152 met annotatie van J.A. MONSMA", "WFR 2000/1776", "WFR 2000/1776, 1", "V-N 2001/3.24", "NTFR 2000/1787 met annotatie van mr. A.P. Eeltink"]
 ---
 
 # ECLI:NL:HR:2000:AA8604 Hoge Raad , 29-11-2000 / 35785
