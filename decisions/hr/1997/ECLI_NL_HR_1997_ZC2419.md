@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1997:ZC2419"
-published_in: ["Rechtspraak.nl", "NJ 1998, 437 met annotatie van P. van Schilfgaarde", "RvdW 1997, 165", "V-N 1997/3282, 23 met annotatie van Redactie", "AA19990564 met annotatie van Vriesendorp R.D. Reinout"]
+published_in: ["Rechtspraak.nl", "NJ 1998, 437 met annotatie van P. van Schilfgaarde", "RvdW 1997, 165", "V-N 1997/3282, 23", "AA19990564 met annotatie van Vriesendorp R.D. Reinout"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1997:17"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-020.md", "netherlands/national/acts/faillissementswet/art-024.md", "netherlands/national/acts/faillissementswet/art-182.md"]
 ---
