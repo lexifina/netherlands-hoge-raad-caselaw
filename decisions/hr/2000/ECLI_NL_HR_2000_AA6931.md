@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA6931"
-published_in: ["Rechtspraak.nl", "Belastingblad 2000/1115", "BNB 2000/345 met annotatie van G.J. van Leijenhorst", "FED 2000/590 met annotatie van J.A. MONSMA", "FED 2000/485", "FED 2000/467", "WFR 2000/1323, 1", "V-N 2000/48.21 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2000/1115", "BNB 2000/345 met annotatie van Van Leijenhorst", "FED 2000/590 met annotatie van J.A. MONSMA", "FED 2000/485", "FED 2000/467", "WFR 2000/1323, 1", "V-N 2000/48.21 met annotatie van Redactie", "NTFR 2000/1335 met annotatie van mr. J.F. Kastelein MRE MRICS RV"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2000:AA6931"]]
 cites_law: ["netherlands/national/acts/wet-waardering-onroerende-zaken/art-017.md"]
 ---
