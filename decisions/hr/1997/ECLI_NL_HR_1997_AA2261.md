@@ -1,0 +1,30 @@
+---
+ecli: "ECLI:NL:HR:1997:AA2261"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "29360"
+decided: "1997-07-02"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1997:AA2261"
+published_in: ["Rechtspraak.nl", "BNB 1997/289 met annotatie van P. Kavelaars", "FED 1997/587", "FED 1998/271 met annotatie van J. VAN DE MERWE", "WFR 1997/1053", "V-N 1997/2825, 12 met annotatie van Redactie"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1997:AA2261"]]
+---
+
+# ECLI:NL:HR:1997:AA2261 Hoge Raad , 02-07-1997 / 29360
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z, België tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 11 december 1992 betreffende het over na te melden tijdvak van hem als loonbelasting ingehouden bedrag.
+
+1. Inhouding, bezwaar en geding voor het Hof Van belanghebbende is over de vierde vierwekenperiode van 1990 een bedrag van f 49,62 als loonbelasting ingehouden. Het tegen het ingehouden bedrag gemaakte bezwaar is bij uitspraak van de Inspecteur afgewezen. Belanghebbende is tegen de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft de uitspraak van de Inspecteur bevestigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Staatssecretaris van Financiën heeft een vertoogschrift ingediend. De Advocaat-Generaal Van den Berge heeft op 26 mei 1997 geconcludeerd tot vernietiging van de uitspraak van het Hof, alsmede van die van de Inspecteur.
+
+3 Beoordeling van de klachten 3.1. In cassatie kan van het volgende worden uitgegaan. Belanghebbende is woonachtig te Z, België. In het onderhavige tijdvak was hij enig directeur van A N.V., een Belgische vennootschap, gevestigd te R, eveneens in België, welke vennootschap in Nederland over een vaste inrichting beschikte. Belanghebbende heeft ten behoeve van deze vaste inrichting in Nederland werkzaamheden verricht. Over de vierde vierwekenperiode van 1990 is over het aan die werkzaamheden toe te rekenen loon van belanghebbende, voorzover vallend in de eerste tariefschrijf, op grond van artikel 20b van de Wet op de loonbelasting 1964 (hierna: de Wet) 25 percent loonbelasting ingehouden. Op belanghebbende waren uitsluitend de Belgische sociale verzekeringswetten van toepassing. Het Nederlandse inkomen van belanghebbende bedroeg in 1990 minder dan 90% van zijn wereldinkomen. 3.2. Belanghebbende heeft voor het Hof de toepassing van artikel 20b van de Wet te zijnen aanzien onder meer bestreden met een beroep op artikel 48 van het EG-verdrag (hierna: het Verdrag). Het Hof heeft geoordeeld dat laatstgenoemd artikel niet aan de toepassing van het 25%-tarief in de weg staat. Tegen dit oordeel keert zich het tweede onderdeel van de klacht. 3.3. Bij de beoordeling van dit onderdeel van de klacht dient te worden voorop gesteld dat belanghebbende, die - naar het Hof overeenkomstig het gemeenschappelijke standpunt van partijen kennelijk heeft aangenomen - onderdaan is van een Lidstaat van de EG en als directeur van de N.V. in de hoedanigheid van werknemer in Nederland werkzaamheden verricht van zijn woonplaats in België uit, tegenover Nederland een beroep kan doen op de bepalingen van artikel 48 van het Verdrag. Uit 's Hofs uitspraak en de stukken van het geding blijkt niet dat belanghebbende tevens aandeelhouder is van de N.V. 3.4. Op grond van de uiteenzettingen door het Hof van Justitie van de Europese Gemeenschappen gegeven in de rechtsoverwegingen 35 tot en met 61 in zijn arrest van 27 juni 1996, nr C-107/94, BNB 1996/350, moet de vraag of een wettelijke regeling als ook in deze zaak aan de orde is verenigbaar is met artikel 52 van het Verdrag, ontkennend worden beantwoord (HR 11 juni 1997, nr. 28 946, VN 19 juni 1997, punt 7). Nu - voor zover hier van belang - artikel 48 van het Verdrag, zoals ook door het Hof van Justitie van de Europese Gemeenschappen in rechtsoverweging 29 van genoemd arrest gepreciseerd, op dezelfde beginselen is gebaseerd als artikel 52 van het Verdrag, moet worden geoordeeld dat ook artikel 48 van het Verdrag zich verzet tegen de bedoelde tariefstoepassing. 3.5. Uit het onder 3.3 overwogene volgt dat terecht wordt geklaagd over schending van artikel 48 van het Verdrag. Dit brengt mee dat artikel 20b van de Wet ten aanzien van belanghebbende buiten toepassing moet blijven en dat zijn loon moet worden belast op de voet van artikel 20a van de Wet. Het tweede onderdeel van de klacht is derhalve gegrond. 3.6. De uitspraak van het Hof kan niet in stand blijven. De klachten behoeven voor het overige geen behandeling. De Hoge Raad kan de zaak zelf afdoen.
+
+4. Proceskostenveroordeling De Hoge Raad acht, gelet op de inhoud van het procesdossier, termen aanwezig om ten aanzien van de proceskosten die belanghebbende in verband met de behandeling van het geding in cassatie redelijkerwijs heeft moeten maken, te beslissen zoals hierna zal worden vermeld.
+
+5. Beslissing De Hoge Raad -    vernietigt de uitspraak van het Hof alsmede die van de Inspecteur; -    bepaalt dat aan belanghebbende een bedrag van ƒ 23,82,-- aan teveel ingehouden loonbelasting wordt teruggegeven; -    veroordeelt de Staatssecretaris van Financiën in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op ƒ 710,-- voor beroepsmatig verleende rechtsbijstand; en -    gelast dat door de Staatssecretaris van Financiën aan belanghebbende wordt vergoed het door deze ter zake van de behandeling van het beroep in cassatie verschuldigd geworden griffierecht ten bedrage van ƒ 75,-- alsmede het bij het Hof gestorte griffierecht ten bedrage van ƒ 75,--, derhalve in totaal ƒ 150,--. Dit arrest is gewezen door de vice-president Stoffer als voorzitter, en de raadsheren Zuurmond, Fleers, Pos en Beukenhorst, in tegenwoordigheid van de waarnemend griffier Reijngoud, in raadkamer van 2 juli 1997
