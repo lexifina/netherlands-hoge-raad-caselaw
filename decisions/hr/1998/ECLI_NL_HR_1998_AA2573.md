@@ -1,0 +1,32 @@
+---
+ecli: "ECLI:NL:HR:1998:AA2573"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33944"
+decided: "1998-11-25"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1998:AA2573"
+published_in: ["Rechtspraak.nl"]
+cites_law: ["netherlands/national/acts/gemeentewet/art-273.md"]
+---
+
+# ECLI:NL:HR:1998:AA2573 Hoge Raad , 25-11-1998 / 33944
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Directeur der gemeentebelastingen Amsterdam tegen de uitspraak van het Gerechtshof te Amsterdam van 9 oktober 1997 betreffende na te melden aan X voor het jaar 1993 opgelegde aanslag in de onroerendezaakbelastingen van de gemeente Amsterdam.
+
+1. Aanslag, bezwaar en geding voor het Hof Aan belanghebbende is voor het jaar 1993 wegens het feitelijk gebruik van een onroerende zaak aan de a- straat te Z met het kadastrale nummer 1111 een aanslag in de onroerendezaakbelastingen van de gemeente Amsterdam opgelegd naar een heffingsgrondslag van f 30.000,--, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur der gemeentebelastingen Amsterdam is gehandhaafd. Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Hof. Het Hof heeft die uitspraak, alsmede de aanslag, vernietigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+2. Geding in cassatie De Directeur der gemeentebelastingen Amsterdam heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft een vertoogschrift ingediend.
+
+3. Beoordeling van het middel 3.1. In cassatie kan van het volgende worden uitgegaan. Op 1 januari 1993 was op een bouwterrein een appartementengebouw in aanbouw. Het terrein met de in aanbouw zijnde opstal was op die datum reeds gesplitst in appartementsrechten. Belanghebbende heeft reeds vóór die datum met de bij deze bouw betrokken projectontwikkelaar een koop- en aannemingsovereenkomst gesloten waarbij hij een appartementsrecht heeft verworven met betrekking tot een woning in het gebouw. De bouw was op 1 januari 1993 nog niet zover gevorderd dat het door belanghebbende gekochte appartement gereed was voor bewoning. 3.2. Het Hof heeft, ervan uitgaande dat het terrein met de in aanbouw zijnde opstal moet worden aangemerkt als een gebouwd eigendom in de zin van artikel 1, aanhef en letter c, onder 1o, van het Besluit gemeentelijke onroerende-zaakbelastingen zoals dit voor het jaar 1993 gold (hierna: het Besluit), geoordeeld dat belanghebbende op 1 januari 1993 weliswaar was gerechtigd tot een onverdeeld aandeel in het terrein met in aanbouw zijnde opstal, maar (nog) geen zakelijk gebruiksrecht had van een aanwijsbaar gedeelte daarvan, ook al was in de splitsingsakte zijn aandeel nauwkeurig omschreven. Het heeft daaraan de gevolgtrekking verbonden dat de Inspecteur ten onrechte niet één aanslag voor de gehele onroerende zaak heeft opgelegd maar afzonderlijke aanslagen voor de onverdeelde aandelen van de appartementseigenaren in de grond, zodat de aanslag wegens onjuiste objectafbakening moet worden vernietigd. Dit oordeel en deze gevolgtrekking worden in het middel bestreden. 3.3. Een opstal die nog in aanbouw is kan, anders dan het Hof tot uitgangspunt heeft genomen, niet worden aangemerkt als een gebouwd eigendom in de zin van het Besluit. De grond waarop die opstal wordt gebouwd kan dan ook niet worden aangemerkt als ondergrond van een gebouwd eigendom, maar moet, zoals bij het opleggen van de aanslag terecht is gebeurd, worden aangemerkt als een ongebouwd eigendom, te weten een bouwterrein. 3.4. Ingevolge artikel 1, aanhef en letter c, onder 3°, van het Besluit worden als afzonderlijke onroerende zaken aangemerkt gedeelten van (gebouwde of ongebouwde) eigendommen die blijkens hun indeling zijn bestemd om als een afzonderlijk geheel te worden gebruikt. Met betrekking tot het onderhavige eigendom heeft reeds vóór 1 januari 1993 - kennelijk op de voet van artikel 5:107 BW - splitsing in appartementsrechten plaatsgevonden, waarbij in de desbetreffende akte ingevolge artikel 5:111 BW een nauwkeurige omschrijving moet zijn opgenomen van de gedeelten die bestemd zijn om als afzonderlijk geheel te worden gebruikt, terwijl daarin voorts voor elk van die gedeelten moet zijn vermeld tot welk appartementsrecht de bevoegdheid tot gebruik daarvan behoort, met vermelding van de kadastrale aanduiding van de appartementsrechten en de vermelding van de appartementseigenaar. Die nauwkeurige omschrijving en vermeldingen bij de splitsing moeten worden opgevat als een indeling van het eigendom in gedeelten die zijn bestemd om als een afzonderlijk geheel te worden gebruikt in de zin van het Besluit. Daaraan staat niet in de weg dat het op het terrein te realiseren gebouw op 1 januari 1993 nog niet was voltooid, noch dat de appartementseigenaren toen - evenmin als na de voltooiing van het gebouw - niet van een aanwijsbaar gedeelte van de ondergrond het zakelijk gebruiksrecht hadden. Voor de heffing van de onroerendezaakbelastingen moet elk aldus tot gebruik als afzonderlijk geheel bestemd gedeelte worden aangemerkt als een afzonderlijke onroerende zaak. De appartementseigenaren, die op 1 januari 1993 doende waren de bouw en de inrichting van het gebouw en de daarbij behorende grond tot stand te brengen, maakten aldus ook metterdaad gebruik van die gedeelten. 3.5. Uit het vorenoverwogene volgt dat het middel gegrond is. De uitspraak kan niet in stand blijven. Nu het Hof niet aan behandeling van het in zijn uitspraak als tweede vermelde geschilpunt is toegekomen, dient verwijzing te volgen opdat dit alsnog wordt onderzocht.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad: -    vernietigt de uitspraak van het Hof, behoudens de beslissing omtrent het griffierecht, en -    verwijst het geding naar het Gerechtshof te 's-Gravenhage ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dit arrest.
+
+Dit arrest is op 25 november 1998 vastgesteld door de vice - president Stoffer als voorzitter, en de raadsheren Zuurmond, Fleers, Beukenhorst en Monné in tegenwoordigheid van de waarnemend griffer Dekker - Barendse     en op die datum in het openbaar uitgesproken.
