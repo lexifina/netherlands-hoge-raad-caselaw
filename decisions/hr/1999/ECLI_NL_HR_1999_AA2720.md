@@ -1,0 +1,38 @@
+---
+ecli: "ECLI:NL:HR:1999:AA2720"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33427"
+decided: "1999-03-31"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2720"
+published_in: ["Rechtspraak.nl", "PW 1999, 21072", "Belastingblad 1999/335", "BNB 1999/221 met annotatie van G.J. van Leijenhorst", "FED 1999/260", "WFR 1999/458", "V-N 1999/19.29 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/gemeentewet/art-229.md"]
+---
+
+# ECLI:NL:HR:1999:AA2720 Hoge Raad , 31-03-1999 / 33427
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van de Directeur der Gemeentebelastingen van de gemeente Amsterdam tegen de uitspraak van het Gerechtshof te 's-Gravenhage van 18 juni 1997 betreffende na te noemen aan X te Z voor het jaar 1992 opgelegde aanslagen in het riool- recht/aansluitrecht riolering van de gemeente Amsterdam.
+
+1. Aanslagen en bezwaar Aan belanghebbende zijn voor het jaar 1992 terzake van de objecten a-straat 1, 2, 3, 4 en b-straat 1 te Q vijf, op één aanslagbiljet verenigde, aanslagen in het rioolrecht/aansluitrecht riolering van de gemeente Amsterdam opgelegd, elk ten bedrage van f 126,--, welke aanslagen, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur der Gemeentebelastingen van de gemeente Amsterdam zijn gehandhaafd.
+
+2. Tot verwijzing leidend geding Belanghebbende is van de uitspraak van de Inspecteur in beroep gekomen bij het Gerechtshof te Amsterdam. De uitspraak van dit hof van 14 oktober 1994 is op het beroep van belanghebbende bij arrest van de Hoge Raad van 15 juli 1996, nr. 30845, BNB 1996/331, vernietigd, met verwijzing van het geding naar het Gerechtshof te 's-Gravenhage ter verdere behandeling en beslissing van de zaak in meervoudige kamer met inachtneming van dat arrest.
+
+3. Geding na verwijzing Het Gerechtshof te 's-Gravenhage - hierna: het Hof - heeft de uitspraak van de Inspecteur alsmede de aansla- gen vernietigd. De uitspraak van het Hof is aan dit arrest gehecht.
+
+4. Geding in cassatie De Directeur der Gemeentebelastingen van de gemeente Amsterdam - hierna: de Directeur - heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. Belanghebbende heeft een vertoogschrift ingediend.
+
+5. Beoordeling van de middelen 5.1. Voor de feiten van het geding wordt verwezen naar voornoemd arrest van 15 juli 1996, alsmede naar de uitspraak van het Hof. 5.2. Partijen hebben de verwijzingsopdracht in het arrest van 15 juli 1996 terecht aldus opgevat dat moet worden nagegaan of de geraamde opbrengst van het riool- aansluitrecht niet uitgaat boven de geraamde uitgaven welke aan dat aansluitrecht mogen worden toegerekend. 5.3. Bij de beantwoording van die vraag moet worden vooropgesteld dat rioolrecht kan worden geheven ter zake van het gebruik overeenkomstig de bestemming van de gemeentelijke riolering en dat onder zodanig gebruik, op te vatten in de betekenis die daaraan toekomt in artikel 229, lid 1, letter a, van de Gemeentewet (voor het jaar waarop deze zaak betrekking heeft artikel 277, lid 1, letter b, onder 1e) valt het genot dat de eigenaar (Hoge Raad 5 maart 1980, nr. 19441, BNB 1980/103) en de gebruiker (Hoge Raad 22 juli 1983, nr. 22051, BNB 1983/290) ontlenen aan de aanwezigheid van een afvoer- mogelijkheid naar de gemeentelijke riolering doordat die afvoermogelijkheid de gebruikswaarde van het perceel verhoogt. 5.4. Indien een gemeente, zoals in het onderhavige geval, naast elkaar de eigenaar en de gebruiker belast, ligt het in de rede, anders dan in het verwijzingsarrest zou kunnen worden gelezen, dat aangezien de mate van het genot voor de eigenaar ten opzichte van dat voor de gebruiker moeilijk is te kwantificeren, de gemeente een zekere vrijheid heeft bij de beantwoording van de vraag welk deel van de rioleringskosten zij wil dekken door middel van de eigenaarsheffing en welk deel door middel van de gebruikersheffing. Een strikt onderscheid in die zin dat alleen investeringskosten mogen worden gedekt door de eigenaarsheffing - zoals door belanghebbende voor het Hof is bepleit - en alleen exploitatiekosten door middel van de gebruikersheffing, is daarbij niet geboden. Nog ervan afgezien dat een dergelijke verdeling voor sommige kostensoorten niet trefzeker kan worden gemaakt, een onderscheid in die zin zou ook niet verenigbaar zijn met het gegeven dat zowel de eigenaar als de gebruiker hun genot ontlenen aan een goed functionerende gemeentelijke riolering. 5.5. Dat gemeenten die zowel eigenaars als gebruikers belasten, een zekere vrijheid hebben bij de toedeling van uitgaven aan eigenaars- en gebruikersheffingen, betekent echter niet dat zij zijn ontheven van de plicht - met het oog op de toetsing of de geraamde opbrengst van elk van de heffingen niet uitgaat boven de geraamde uitgaven terzake - op controleerbare wijze vast te leggen welke uitgaven zij in welke mate door elk van de heffingen beogen te dekken. Aan deze eis is in dit geval met betrekking tot de in cassatie omstreden bagger- en grondwatercontrolekosten voldaan doordat - naar na de verwijzing voor het Hof is komen vast te staan - deze kosten geheel aan de eigenaarsheffing zijn toegerekend. 5.6. Die vrijheid betekent evenmin dat zij kosten die slechts zijdelings met de riolering samenhangen omdat zij nagenoeg geheel andere doeleinden dienen, door middel van een rioolrecht mogen dekken. Met betrekking tot (het onder de kosten opgenomen deel van) de baggerkosten en de kosten van controle van de grondwaterstand heeft het Hof niet aannemelijk geoordeeld dat deze verband houden met de aanwezigheid van de aansluiting op de riolering, als onderscheiden van het gebruik van die aansluiting. Door zijn onderzoek tot deze vraag te beperken en aldus betekenis te hechten aan de vraag op welk aspect van de riolering de omstreden uitgaven betrekking hebben, heeft het Hof, gelet op hetgeen onder 5.4 is overwogen, een onjuiste maatstaf aangelegd. Tot cassatie leidt dit echter niet. De door het Hof in zijn uitspraak onder 3.3 en 3.4 vastgestelde feiten laten immers geen andere gevolgtrekking toe dan dat zowel de baggerkosten als de kosten van controle van de grondwaterstand niet alleen met de aansluiting op de riolering maar met de riolering als geheel slechts zijdelings verband houden en nagenoeg geheel andere doeleinden dienen, waaronder wat de baggerkosten betreft in de eerste plaats de bevaarbaar- heid van de grachten. De door de Inspecteur aangevoerde omstandigheden met betrekking tot deze kosten die het Hof in 6.4 en 6.5 van zijn uitspraak heeft besproken, doen daaraan niet af. Ook als die omstandigheden in de beoordeling worden betrokken, houden de hiermee gemoeide kosten onvoldoende verband met de riolering om verhaal daarvan door middel van een rioolrecht te rechtvaardigen. De middelen falen derhalve.
+
+6. Proceskosten De Directeur zal worden veroordeeld in de kosten van het geding in cassatie.
+
+7. Beslissing De Hoge Raad: -    verwerpt het beroep, -    veroordeelt de Directeur in de kosten van het geding in cassatie aan de zijde van belanghebbende, vastgesteld op f 355,-- voor beroepsmatig verleende rechtsbijstand, en -    wijst de gemeente Amsterdam aan als de rechtspersoon die deze kosten moet vergoeden.
+
+Dit arrest is op 31 maart 1999 vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Zuurmond, Fleers, Pos en Beukenhorst, in tegenwoordig- heid van de waarnemend griffier Dekker-Barendse, en op die datum in het openbaar uitgesproken.
+
+Van de Directeur wordt terzake van het door hem ingestelde beroep in cassatie een recht geheven van f 340,--
