@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO1505"
-published_in: ["Rechtspraak.nl", "BNB 2004/129", "WFR 2004/79, 2", "FED 2004/40", "V-N 2004/6.23 met annotatie van Redactie", "FutD 2004-0055"]
+published_in: ["Rechtspraak.nl", "BNB 2004/129", "WFR 2004/79, 2", "FED 2004/40", "V-N 2004/6.23", "NTFR 2004/43 met annotatie van MR. E. THOMAS"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2002:AE9850"]]
 ---
 
