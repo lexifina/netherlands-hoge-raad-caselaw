@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2001:AB0166"
-published_in: ["Rechtspraak.nl", "FED 2001/166", "BNB 2001/152", "WFR 2001/262, 1", "V-N 2001/19.29 met annotatie van Redactie", "FutD 2001-0351"]
+published_in: ["Rechtspraak.nl", "FED 2001/166", "BNB 2001/152", "WFR 2001/262, 1", "V-N 2001/19.29", "NTFR 2001/341 met annotatie van mr. J.F. Kastelein MRE MRICS RV"]
 cites_law: ["netherlands/national/acts/wet-waardering-onroerende-zaken/art-024.md"]
 ---
 
