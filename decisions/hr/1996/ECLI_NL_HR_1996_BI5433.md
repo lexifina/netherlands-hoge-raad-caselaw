@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1996:BI5433"
-published_in: ["Rechtspraak.nl", "PW 1996, 20698", "Belastingblad 1996/430", "BNB 1996/250 met annotatie van G.J. van Leijenhorst", "FED 1996/465", "FED 1996/661 met annotatie van W.J.N.M. SNOIJINK", "WFR 1996/861, 1", "V-N 1996/2750, 32", "Futd 1996-1235"]
+published_in: ["Rechtspraak.nl", "PW 1996, 20698", "Belastingblad 1996/430", "BNB 1996/250 met annotatie van G.J. van Leijenhorst", "FED 1996/465", "FED 1996/661 met annotatie van W.J.N.M. SNOIJINK", "WFR 1996/861, 1", "V-N 1996/2750, 32"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1995:13"]]
 ---
 
