@@ -1,0 +1,221 @@
+---
+ecli: "ECLI:NL:PHR:1997:AA3352"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "32216"
+decided: "1997-12-17"
+published: "2013-04-04"
+type: "conclusie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:1997:AA3352"
+published_in: ["Rechtspraak.nl", "BNB 1998/67 met annotatie van P. Kavelaars", "FED 1998/28", "WFR 1998/49", "V-N 1998/4.9"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:1997:AA3352"]]
+---
+
+# ECLI:NL:PHR:1997:AA3352 Parket bij de Hoge Raad , 17-12-1997 / 32216
+
+## Conclusie
+
+Nr. 32.216                          Mr Van Soest
+
+Derde Kamer A                   Conclusie inzake:
+
+Inkomstenbel./premie 1992  X
+
+Parket, 30 juli 1997             tegen
+
+de staatssecretaris van Financiën
+
+Edelhoogachtbaar College,
+
+I. . Korte beschrijving van de zaak.
+
+A. . Het beroep in cassatie is gericht tegen de schriftelijke uitspraak van het gerechtshof te Amsterdam (hierna te noemen het Hof) van 28 maart 1996, nr. 94/6032. Het is ingesteld door de belanghebbende, X.
+
+B. . De belanghebbende, die Nederlander is en in Nederland woont, is, in dienstbetrekking bij een in Nederland gevestigde werkgever, werkzaam als kapitein op een "diving support
+
+vessel" voor de "offshore-industrie".
+
+C. . Het vaartuig vaart onder Nederlands-Antilliaanse vlag. Het heeft R als thuishaven. Voor het vaartuig is een zeebrief afgegeven.
+
+D. . De belanghebbende was van 1 april tot en met 27 augustus 1992 werkzaam op het Engelse deel van het continentale plat en van 28 augustus tot en met 31 december 1992 op het Noorse deel van het continentale plat. Hij bracht zijn verlofperioden in het algemeen in Nederland door.
+
+E. . In geschil is met betrekking tot de aanslag in de inkomstenbelasting/premie volksverzekeringen 1992 of de belanghebbende over de periode 1 april tot en met 31 december 1992 premieplichtig is voor de Nederlandse volksverzekeringen.
+
+F. . Het Hof heeft het geschil ten nadele van de belanghebbende beslecht.
+
+G. . Het beroep in cassatie is in overeenstemming met de desbetreffende voorschriften ingesteld. Het steunt op vijf, met Romeinse cijfers genummerde, middelen van cassatie.
+
+H. . De staatssecretaris van Financiën (hierna te noemen de Staatssecretaris) heeft zich bij vertoogschrift in cassatie gerefereerd aan het oordeel van Uw Raad.
+
+I. . Min of meer vergelijkbare zaken zijn bij Uw Raad aanhangig onder de nrs. 32.003, 32.004 en 32.217. In de zaak nr. 32.003 neem ik heden eveneens conclusie.
+
+II. . Premieplicht.
+
+A. . Art. 6 Wet financiering volksverzekeringen houdt in:
+
+"Premieplichtig voor de volksverzekeringen is de verzekerde."
+
+B. . De Algemene Ouderdomswet (AOW) houdt in:
+
+"(...) Art. 2. Ingezetene (...) is degene, die in Nederland woont. Art. 3. 1. Waar iemand woont (...) wordt naar de omstandigheden beoordeeld. 2. Voor de toepassing van het eerste lid worden schepen (...) welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd. 3. Hij die Nederland metterwoon heeft verlaten en binnen een jaar nadien metterwoon terugkeert zonder inmiddels in de Nederlandse Antillen, Aruba of op het grondgebied van een andere Mogendheid te hebben gewoond, wordt ook voor de duur van zijn afwezigheid geacht in Nederland te hebben gewoond. (...) Art. 6. 1. Verzekerd (...) is degene, die nog niet de leeftijd van 65 jaar heeft bereikt, en a. ingezetene is; b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen. 2. Bij (...) algemene maatregel van bestuur kan, in afwijking van het eerste lid, uitbreiding dan wel beperking worden gegeven aan de kring der verzekerden. (...)"
+
+C. . Aan art. 6, lid 2, AOW is uitvoering gegeven bij Koninklijk besluit (KB) van 20 december 1956, Stb. 624 (uitbreiding en beperking kring der verzekerden; hierna te noemen het KB van 1956), dat inhield:
+
+"(...) Artikel 1. Als verzekerde (...) wordt aangemerkt (...): (...) i. de Nederlander, die, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zeevaartuig, dat niet binnen het Rijk zijn thuishaven heeft, mits hij woont aan boord van dat vaartuig; (...) Artikel 2. In afwijking van het bepaalde in het eerste lid van artikel 6 van de Algemene Ouderdomswet wordt niet als verzekerde (...) aangemerkt: a. de ingezetene, die buiten het Rijk in dienstbetrekking arbeid verricht en terzake van die arbeid krachtens een in het land, waar hij werkt, geldende wettelijke regeling inzake ouderdomspensioen verzekerd is; (...)"
+
+D. . Ter gelegenheid van de inwerkingtreding van de Algemene Weduwen- en Wezenwet werd het KB van 1956 vervangen door het KB van 10 juli 1959, Stb. 230 (uitbreiding en beperking kring der verzekerden; hierna te noemen het KB van 1959), inhoudend:
+
+"(...) Artikel 1. 1. Als verzekerde wordt aangemerkt: (...) i. de Nederlander, die, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zeevaartuig, dat niet binnen het Rijk zijn thuishaven heeft, mits hij woont aan boord van dat vaartuig; (...) Artikel 2. In afwijking van het bepaalde in het eerste lid van artikel 6 van de Algemene Ouderdomswet (...) wordt niet als verzekerde (...) aangemerkt: a. de ingezetene, die buiten het Rijk in dienstbetrekking arbeid verricht en ter zake van die arbeid krachtens een in het land, waar hij werkt, geldende wettelijke regeling inzake geldelijke gevolgen van ouderdom en overlijden verzekerd is; (...)"
+
+E. . Hof 's-Gravenhage 20 september 1960, nr. 43/1960 E II, BNB 1961/174 , betrof de premieheffing AOW 1957  ten laste van een in Nederland wonende, op een buitenlands zeeschip werkende, zeeman.
+
+. Hof 's-Gravenhage overwoog (blz. 496, regels 3-45 ):
+
+"(...) In art. 2, sub a, van het Besluit wordt (...) buiten den kring der verzekerden gesteld de buiten Nederland in dienstbetrekking arbeid verrichtende verzekerde naar het recht van het land, waar hij werkt. Letterlijk gelezen valt onder de uitzondering dus niet de buiten Nederland in dienstbetrekking arbeid verrichtende verzekerde naar het recht van een vreemd land, op een zeeschip van welks nationaliteit hij werkt. De vraag is gerezen, of in het Besluit met voordacht een onderscheid is gemaakt, dan wel de redactie onwillekeurig wat te eng is uitgevallen, in welk laatste geval termen zouden bestaan den in het buitenland verzekerde, die niet werkt in het land waar hij verzekerd is, doch op een zeeschip van de nationaliteit van dat land, onder de uitzondering te begrijpen. Alsdan zou het standpunt van den belangh., die niet in Zweden, doch op zee heeft gewerkt, moeten worden gevolgd. Omtrent de evengenoemde vraag heeft het Hof voorlichting verzocht en verkregen van den Staatssecretaris van Sociale Zaken en Volksgezondheid. Deze bewindsman heeft (...) medegedeeld dat uit de niet openbaar gemaakte geschiedenis van art. 2, onder a, van het Besluit blijkt, dat beoogd is slechts den grensarbeider, die in Nederland woont, doch in het buitenland werkt en aldaar tegen geldelijke gevolgen van den ouderdom verzekerd is, ter voorkoming van dubbele verzekering buiten de Nederlandse ouderdomsverzekering te houden en voorts dat zeelieden doelbewust in het onderhavige artikel niet werden genoemd, op welke mededeling de Staatssecretaris nog de volgende toelichting heeft laten volgen: "Een zeeman kan namelijk terecht op schepen van allerlei nationaliteit. Indien hij dan verzekerd is ingevolge de wetgeving van een land, waarmede geen verdrag is gesloten, en art. 2, sub a, van het meergenoemde Koninklijk besluit ook op hem van toepassing zou zijn, dan zou de Algemene Ouderdomswet moeten wijken, ongeacht de hoogte van de pensioenrechten ingevolge de buitenlandse regeling. Voorts zou het in vele gevallen moeilijk zijn hier te lande vast te stellen of betrokkenen verzekerd zijn ingevolge de wetgeving van een ander land". Vermits het Besluit is gecontrasigneerd door den toenmaligen Minister van Sociale Zaken en Volksgezondheid, kan de vorengeciteerde interpretatie als een authentieke worden aangemerkt, die bovendien in overeenstemming blijkt te zijn met de bewuste bedoeling van den besluitgever. Hierbij komt nog, dat zij nauwkeurig strookt met de bewoordingen van het Besluit (...) Dit alles in aanmerking nemende, bestaat er voor het Hof alle reden deze interpretatie tot de zijne te maken. Hieruit volgt dat de opvatting van den belangh., dat hij (...) niet tot den kring der verzekerden zou hebben behoord (...) moet worden verworpen (...)";
+
+en oordeelde derhalve premie verschuldigd.
+
+1. . Geppaart betoogt (ik geef nadere vindplaatsen tussen haakjes aan):
+
+"(blz. 43) (...) 2. (blz. 44) (...) b. (...) (blz. 47) (...) De taalkundige uitlegging door de rechter sluit een enkele maal aan bij een door de wetgever gegeven omschrijving. (...) Biedt de tekst van de wet geen uitkomst, dan worden soms inlichtingen gevraagd aan de wetgever (...); tegen deze methode bestaan - naar hierna zal worden uiteengezet - enige bedenkingen. (...) (blz. 53) (...) 3. (...) (blz. 56) (...) c. (...) (blz. 58) (...) Tegen het vragen van inlichtingen aan een wetgever, die niet is de formele wetgever, bestaan m.i. bezwaren; vooreerst bestaat de mogelijkheid dat de wetgever op het tijdstip waarop de inlichtingen worden gevraagd, niet de wetgever is van het tijdstip waarop de regeling werd gegeven; in de tweede plaats (...); in de derde plaats (...); niet uitgesloten is voorts dat het wetgevend orgaan waaraan inlichtingen worden gevraagd, in een later stadium van de procedure het bestuursorgaan is dat partij is tegenover de burger, waardoor in ieder geval de onpartijdigheid bij het geven van inlichtingen in gevaar kan worden gebracht; (...); en tenslotte kan tegen deze methode worden aangevoerd dat daardoor aan de regeling een element wordt toegevoegd, dat de belastingplichtige - die op grond van de voor hem kenbare regelingen beslissingen neemt - niet dan met veel moeite kan kennen. Het vragen van dergelijke inlichtingen blijft dan ook uitzondering. (...) Vreest de belastingrechter zonder toelichting over de bedoeling van de wetgever in het duister te tasten, dan verdient het m.i. overweging de Procureur-Generaal - die een andere positie inneemt dan de rechter - te verzoeken een conclusie te nemen. (...)"
+
+F. . HR 29 november 1961, nr. 21, BNB 1962/32 met noot P. den Boer, betrof een aanvraag van weduwenpensioen, ingediend door de weduwe van een overleden zeeman die in overeenkomstige omstandigheden had verkeerd als de hiervóór onder 2.5 beschreven zeeman.
+
+1. . Centrale Raad van Beroep 25 juli 1961 overwoog in gelijke zin als Hof 's-Gravenhage en oordeelde derhalve de weduwe gerechtigd tot de uitkering.
+
+2. . Uw Raad overwoog (blz. 77, regels 9-14),
+
+"dat de beslissing nopens het recht op weduwenpensioen te dezen afhankelijk is van het antwoord op de vraag of X tijdens zijn leven al dan niet viel onder de omschrijving van [artikel 2, onder a, KB van 1959]; dat deze vraag ontkennend moet worden beantwoord, daar geen voldoende grond bestaat in deze bepaling met arbeid in een land arbeid verricht op een schip dat in dat land thuis behoort gelijk te stellen (...)"
+
+G. . Met werking, ingaande 1 januari 1968, werd het KB van 1959 vervangen door het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen, Stb. 1968, 575 (Besluit uitbr. bep. 1968), dat inhield:
+
+"(...) Artikel 1. 1. Als verzekerde wordt aangemerkt: (...) h. de Nederlander, die, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zeevaartuig, dat niet binnen het Rijk zijn thuishaven heeft, mits hij voor de heffing van de loonbelasting geacht wordt zijn dienstbetrekking binnen het Rijk te vervullen (...) Artikel 2. 1. In afwijking van het bepaalde in het eerste lid van [artikel] 6 van de Algemene Ouderdomswet (...) wordt niet als verzekerde (...) aangemerkt: a. de ingezetene, die buiten het Rijk in dienstbetrekking arbeid verricht en ter zake van die arbeid krachtens een in het land, waar hij werkt, geldende wettelijke regeling inzake uitkering wegens ouderdom en overlijden alsmede inzake kinderbijslag verzekerd is; (...)"
+
+H. . Met ingang van 1 oktober 1976 werd het Besluit uitbr. bep. 1968 vervangen door het Besluit uitbr. bep. 1976, Stb. 557, inhoudende:
+
+"(...) Artikel 1. 1. Als verzekerde wordt aangemerkt: (...) h. de Nederlander, die, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zeevaartuig, dat niet binnen het Rijk zijn thuishaven heeft, mits hij voor de heffing van de loonbelasting geacht wordt zijn dienstbetrekking binnen het Rijk te vervullen (...) Artikel 2. 1. In afwijking van het bepaalde in het eerste lid van [artikel] 6 van de Algemene Ouderdomswet (...) wordt niet als verzekerde (...) aangemerkt: a. de ingezetene, die buiten het Rijk in dienstbetrekking arbeid verricht en ter zake van die arbeid krachtens een in het land, waar hij werkt, geldende wettelijke regelingen  inzake uitkeringen wegens ouderdom, overlijden en langdurige arbeidsongeschiktheid alsmede inzake kinderbijslag verzekerd is; (...)"
+
+I. . Wijziging met ingang van 1 januari 1980.
+
+1. . Bij KB van 1 juli 1980, Stb. 388, werden in art. 2, lid 1, letter a, Besluit uitbr. bep. 1976 de woorden "in het land, waar hij werkt, geldende wettelijke regelingen" vervangen door de woorden
+
+"buitenlandse wettelijke regeling".
+
+. De in het Stb. opgenomen Nota van toelichting hield in (blz. 4, 2e al .):
+
+"Artikel 2, eerste lid, onderdeel a (...) kan niet worden toegepast op zeelieden, omdat deze immers niet in een land  werkzaam zijn. Deze opvatting is door de rechtspraak bevestigd. Gebleken is echter dat er zich vele gevallen voordoen, waarin hier te lande wonende zeelieden als gevolg van die bepaling dubbel verzekerd zijn en zich dientengevolge ook geplaatst zien voor dubbele premiebetaling. (...) Wij achten het bestaande onderscheid tussen zeelieden en niet-zeelieden niet langer gewenst."
+
+J. . Ter voorbereiding van een integrale herziening van het Besluit uitbr. bep. 1976 verscheen het "Inventarisatierapport KB 557" (Probleempunten etc. in het "Besluit uitbreiding en beperking kring verzekerden volksverzekeringen" van 19 oktober 1976, Stb. 557), uitgave stafafdeling externe betrekkingen Sociale Verzekeringsraad, juli 1983. Het hield in:
+
+"(blz. 62) (...) Artikel 2, eerste lid (...) 15 Onderdeel a (...) 15.2 (...) (blz. 63) (...) De bedoeling van de bepaling is het voorkomen van dubbele verzekering. Oorspronkelijk had zij alleen het oog op de in het buitenland werkende, doch in Nederland wonende, grensarbeiders. De tekst van de bepaling is echter zodanig ruim geformuleerd, dat deze van toepassing kan zijn bij werken en verzekerd zijn in elk land waar ter wereld ook. (...) Hoewel het in het kader van de toepassing van onderdeel a, zeker ten aanzien van de grensarbeiders, wel niet zal voorkomen, kan in dit verband meer in het algemeen worden opgemerkt, dat indien één van de takken van verzekering ontbreekt, daarmede de gehele uitsluiting vervalt, dus ook voor die risico's welke elders wèl gedekt zijn. Het resultaat is dan dat in een dergelijke situatie toch dubbele verzekering voor bepaalde takken ontstaat, met daaraan verbonden dubbele premiebetaling. (...)"
+
+K. . Met ingang van 1 juli 1989 werd het Besluit uitbr. bep. 1976 vervangen door het Besluit uitbr. bep. 1989, Stb. 164.
+
+1. . Het Besluit uitbr. bep. 1989, oorspronkelijke tekst, hield in:
+
+"(...) Artikel 4. Verzekerd ingevolge de volksverzekeringen is de Nederlander, die in dienstbetrekking staat tot een in Nederland wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zeevaartuig en woont aan boord van dat vaartuig. (...) Artikel 10. Niet verzekerd ingevolge de volksverzekeringen is de ingezetene, die uitsluitend buiten Nederland arbeid verricht. (...)"
+
+2. . De in het Stb. bij het Besluit uitbr. bep. 1989 afgedrukte Nota van Toelichting hield in (ik geef nadere vindplaatsen tussen haakjes aan):
+
+"(blz. 15, 5e al.) Uitbreiding van de kring van verzekerden (...) (blz. 20, 4e al.) Artikel 4 De verzekeringsplicht ingevolge de volksverzekeringen van zeelieden wordt primair bepaald door de hoofdregels. Verzekerd hier te lande zijn de zeelieden, die in Nederland wonen of aan boord van een schip, dat in Nederland zijn thuishaven heeft. In het onderhavige artikel wordt voorgesteld de verzekering uit te breiden tot aan boord van een schip wonende Nederlandse zeelieden die in dienstbetrekking staan tot een in Nederland wonende of gevestigde werkgever. Het kan niet anders gaan dan om schepen die niet in Nederland hun thuishaven hebben. Indien immers sprake is van een Nederlandse thuishaven, waren de aan boord wonende zeelieden reeds verzekerd ingevolge artikel 3, tweede lid, van de AOW (...) De toevoeging van de voorwaarde van een buitenlandse thuishaven is derhalve overbodig. (5e al.) Voorts is in artikel 4 de oorspronkelijke bedoeling van de wetgever hersteld, dat de uitbreiding betrekking moet hebben op aan boord wonende zeelieden. Indien zeelieden in een ander land wonen, bestaat geen aanleiding hen voor de volksverzekeringen te verzekeren. (...) (blz. 25, laatste al.) Beperking van de kring van verzekerden Artikel 10 (...) (blz. 26, 1e al.) (...) Uit de omschrijving van artikel 10 volgt, dat de arbeid buiten Nederland reeds voldoende is om betrokkene van de Nederlandse verzekering uit te sluiten. In feite draagt primair het land waar wordt gewerkt de verantwoordelijkheid voor een voorziening voor het geval de arbeid en daarmee de inkomensvoorziening door bepaalde risico's wegvalt. (2e al.) Door de voorgestelde formulering wordt voorkomen dat wijzigingen in de personele werkingssfeer van buitenlandse wettelijke sociale zekerheidsstelsels automatisch tot gevolg hebben dat verzekering ingevolge de volksverzekeringen ontstaat. (4e al.) Het is (...) niet van belang of de werkzaamheden in dienstbetrekking dan wel in de zelfstandige uitoefening van een beroep of bedrijf worden verricht. (...)"
+
+L. . Bij herdruk van 12 juli 1989, nr. IFZ 89-720, Vakstudie Nieuws (VN) 27 juli 1989, blz. 2199, punt 19, werd in de resolutie van de Staatssecretaris van 4 december 1984, nr. 084-3048, opgenomen:
+
+"(...) Op grond van (...) artikel [10 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989] zijn ingezetenen die uitsluitend buiten Nederland arbeid (al dan niet in loondienst) verrichten, vanaf [1 juli 1989] niet verzekerd ingevolge de volksverzekeringen. Hierbij is het niet van belang of betrokkenen in het werkland al dan niet (...) verzekerd zijn."
+
+M. . De resolutie van de Staatssecretaris van 5 maart 1969, nr. B69/721, punt 1, zoals gewijzigd bij resoluties tot en met die van 26 juli 1989, nr. IFZ 89-738, inzake toepassing van supranationale, multilaterale en bilaterale regelingen op het gebied van de sociale verzekering, Fiscale encyclopedie de Vakstudie, deel 4, onderdeel Premie volksverzekeringen 1990, bijlage 7 (Suppl. 650 (maart 1996)), houdt in (blz. 1):
+
+"Degenen die zeevarend zijn, kunnen worden verdeeld in de volgende drie groepen: 1. Zeevarenden die in Nederland wonen; 2. Zeevarenden die in een ander land dan Nederland wonen; 3. Zeevarenden die aan boord van een schip wonen (...) 1. Zeevarenden die in Nederland wonen A. (...) Zeevarenden, ongeacht hun nationaliteit, die in Nederland wonen, zijn in beginsel hier te lande verzekerd. (...)"
+
+N. . Hof Amsterdam 11 januari 1995, nr. 93/2315, VN 21 september 1995, blz. 3165, punt 15, overwoog voor de inkomstenbelasting en de premieheffing 1991:
+
+"(blz. 3165) (...) 2.1. Belanghebbende is werkzaam (...) in dienstbetrekking (...) Als zodanig verricht belanghebbende zijn werkzaamheden op het buiten de territoriale wateren gelegen Nederlandse deel van het continentale plat. Zijn rooster houdt in dat hij aldaar een of twee weken werkt en de andere een of twee weken in Nederland verblijft. (...) 2.2. Belanghebbende is tevens lid van de vrijwillige brandweer (...) In het onderhavige jaar heeft hij uit dien hoofde (...) ongeveer 33 oefenuren en ongeveer 3 blus- en hulpverleningsuren gemaakt. (blz. 3166) (...) 5.1. (...) Het geheel van de omstandigheden waaronder de werkzaamheden worden verricht, leidt tot de conclusie dat sprake is van werkzaamheden in het economische verkeer. Alsdan kan niet worden gezegd dat belanghebbende uitsluitend buiten Nederland arbeid heeft verricht. (...)"
+
+O. . Bij KB van 20 december 1991, Stb. 761, werd het Besluit uitbr. bep. 1989 met ingang van 1 januari 1992 gewijzigd.
+
+1. . Art. 10 Besluit uitbr. bep. 1989 werd geredigeerd:
+
+"1. Niet verzekerd ingevolge de volksverzekeringen is de ingezetene die gedurende een aaneengesloten periode van ten minste drie maanden uitsluitend buiten Nederland arbeid verricht. (...) 4. Voor de toepassing van het eerste lid wordt onder arbeid buiten Nederland niet verstaan arbeid verricht op het buiten de territoriale zee onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk der Nederlanden daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, mits deze arbeid plaatsvindt op installaties en andere inrichtingen die in, op of boven dat gebied aanwezig zijn ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen van dat gebied."
+
+2. . De in het Stb. bij het wijzigingsbesluit afgedrukte Nota van toelichting hield in:
+
+"(blz. 3, 1e al.) Algemeen 1. (...) (2e al.) Aan de term "uitsluitend" wordt in het besluit  geen nadere invulling gegeven. (...) (3e al.) In de uitvoeringspraktijk is gebleken dat artikel 10 in een aantal situaties moeilijk toepasbaar is. Op grond daarvan achten wij het noodzakelijk artikel 10 te vervangen door een nieuw artikel, waarin duidelijker wordt aangegeven in welke gevallen de verzekerings- en premieplicht ter zake van in het buitenland verrichte arbeid dient te vervallen. (4e al.) Het Nederlands deel van het continentaal plat buiten de territoriale wateren behoort niet tot het grondgebied van Nederland. Gevolg daarvan is, dat de verzekerings- en premieplicht ingevolge de volksverzekeringen van personen die wonen in Nederland, maar werken op dit deel van het continentaal plat, op dit moment vervalt indien aan de voorwaarden van artikel 10 (...) is voldaan. Wij achten deze situatie niet wenselijk. De exploratie en exploitatie van de natuurlijke rijkdommen van het continentaal plat vallen (...) onder de soevereine macht van de kuststaat. In onze visie heeft Nederland met betrekking tot de rechtspositie van ingezetenen werkzaam op het Nederlands deel van het continentaal plat een zekere zorgplicht. Deze zienswijze (...) noopt ons aan artikel 10 een vierde lid toe te voegen, welk lid (...) ten doel heeft zeker te stellen dat de verzekerings- en premieplicht ingevolge de volksverzekeringen van ingezetenen die in verband met de mijnbouw op de Noordzee werkzaam zijn op het Nederlands deel van het continentaal plat buiten de territoriale wateren gehandhaafd blijft. (blz. 4, 4e al.) Artikelsgewijs Artikel 10, eerste lid (...) Is eenmaal vast komen te staan dat aan de voorwaarden voor het toepassen van dit eerste lid is voldaan, dan vervalt de verzekerings- en premieplicht gedurende de gehele periode waarover men - aaneengesloten - buiten Nederland heeft gewerkt (...) Niet van belang is of de arbeid buiten Nederland in dienstbetrekking wordt verricht of in de zelfstandige uitoefening van beroep of bedrijf, noch of aan de werkzaamheden verzekering ingevolge een buitenlands stelsel kan worden ontleend. Onder "arbeid" wordt verstaan werkzaamheden in het economische verkeer. (blz. 6, 1e al.) Vierde lid (...) (2e al.) (...) Het begrip installaties en andere inrichtingen dient (...) ruim te worden geïnterpreteerd. Zo dienen onder dit begrip mede verstaan te worden schepen zoals pijpenleggers, kraanschepen en bevoorradingsschepen."
+
+P. . De resolutie van de Staatssecretaris van 10 september 1992, nr. DB92/3817, VN 24 september 1992, blz. 2738, punt 9, hield in:
+
+"(blz. 2738) 1. Inleiding (...) Om uitdrukking te geven aan de internationaal aanvaarde regel dat men is aangewezen op de verzekering van het land waarin men werkt, werd in [het Besluit uitbr. bep. 1989] artikel 10 (...) opgenomen (...) Aangezien het Nederlandse deel van het continentale plat, dat buiten de territoriale wateren gelegen is, voor de bepaling van de verzekerings- en premieplicht niet tot het grondgebied van Nederland behoort, zijn personen die in Nederland wonen en op dit (blz. 2739) deel van het continentale plat werken sinds de inwerkingtreding van het BUB 1989 niet meer verzekerd. Dit werd niet wenselijk geacht. In verband hiermee is artikel 10 van het BUB 1989 per 1 januari 1992 gewijzigd. (...) 3.1. Premieheffing (...) Indien (vanaf 1 juli 1989) geen verzekerings- en premieheffing  aanwezig is, kunnen op verzoek de ten onrechte ingehouden c.q. betaalde premies volksverzekeringen worden teruggegeven. (...)"
+
+III. . De ontwikkeling van de rechtsstrijd.
+
+A. . In de aanvulling van het beroepschrift werd betoogd:
+
+"(blz. 2) (...) ad. 1 (...) De Belastingdienst knoopt de verzekeringsplicht vast aan de thuishaven, welke (...) in dit geval in Nederland zou zijn gelegen. Belanghebbende heeft echter noch in één der sociaal-zekerheidsverdragen noch in nationale wetgeving de plaats kunnen vinden waar ter zake van belanghebbende deze toewijzingsregel vandaan komt. ad. 2 Indien geen der sociaal zekerheidsverdragen de toepasselijke wetgeving aanwijst wordt de sociale zekerheidsplicht uitsluitend bepaald door artikel 6 Algemene Ouderdomswet (...) Ter zake van belanghebbende is geen sociaal zekerheidsverdrag van toepassing (...) (blz. 3) (...) het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen van 1 juli 1989 (...) is ten aanzien van belanghebbende (...) van toepassing. (...) Conclusie Naar de mening van belanghebbende wordt zijn premieplicht bepaald door artikel 10 BUB 1989. Belanghebbende is van 1 april 1992 tot en met 31 december 1992 uitsluitend werkzaam geweest buiten Nederland en derhalve komt hij in (blz. 4) aanmerking voor de vrijstelling voor de Premie Volksverzekeringen voor deze periode. In de eerste plaats is van belang dat belanghebbende gedurende de genoemde periode zijn werkzaamheden uitsluitend heeft verricht op het continentale plat van Groot-Brittannië en Noorwegen. In de tweede plaats is van belang dat belanghebbende gedurende de genoemde periode werkzaam was op een vaartuig met Nederlands-Antilliaanse vlag. (...)"
+
+B. . Het vertoogschrift van de inspecteur van de Belastingdienst Particulieren/Ondernemingen P hield in:
+
+"(blz. 2) (...) Belanghebbende verricht zijn beroepswerkzaamheden aan boord van vaartuigen waarvoor een zeebrief is afgegeven en die vallen onder de scheepvaartinspectie. Hieruit volgt dat hij zeevarende is (...) Voor de verzekeringspositie van zeevarenden die in Nederland wonen baseer ik mij op de Resolutie van 5 maart 1969, nr. B69/721 zoals deze laatstelijk is gewijzigd bij de Resolutie van 26 juli 1989 nr. IFZ 89-738. (blz. 3) Deze resolutie gaat uit van het beginsel dat zeevarenden, die in Nederland wonen, hier te lande verzekerd zijn. (...) Zoals gemachtigde terecht concludeert heeft Nederland geen verdrag inzake sociale zekerheid gesloten met de Nederlandse Antillen (...) De EEG verordening 1408/71 is niet van toepassing (...) Evenmin zijn de verdragen inzake sociale zekerheid, die Nederland met Groot-Brittannië en Noorwegen gesloten heeft, van toepassing (...) Anders dan gemachtigde trek ik hieruit de conclusie dat nog twee elementen over zijn die leiden tot verplichte verzekering in Nederland nl. het ingezetenschap en het feit dat de werkgever hier te lande is gevestigd. Op de hoofdregel dat ingezeten werknemers steeds hier te lande verzekerd zijn, (...) maakt KB 164 (BUB 1989) alleen in art. 10 eerste lid een uitzondering door te bepalen dat wanneer de werkzaamheden gedurende een periode van tenminste 3 maanden uitsluitend buiten Nederland plaatsvinden, de verzekeringsplicht wordt toegewezen aan de werkstaat. Deze formulering sluit aan bij de internationale doelstelling dat men verzekerd is in het land waar arbeid wordt verricht. Supranationale en internationale regelingen zijn bedoeld om één stelsel van sociale zekerheid aan te wijzen (...) en om aldus dubbele verzekering te voorkomen. Het kan niet de bedoeling zijn dat nergens verzekeringsplicht ontstaat. Nu de verdragen inzake sociale zekerheid met Groot-Brittannië en Noorwegen niet leiden tot verzekering aldaar (...), blijft de verzekeringsplicht in het woonland Nederland in stand. De beperking van de Nederlandse kring van verzekerden betreft ingezetenen die geacht worden een vergelijkbare bescherming van een buitenlands stelsel inzake sociale zekerheid te genieten. Dit staat weliswaar sinds 1 juli 1989 niet meer letterlijk in art. 10 (...) maar ik betwijfel of hiermee een materiële wijziging bedoeld is met het oude BUB (KB 557). Het kan niet de bedoeling van de wetgever zijn om Nederlandse ingezetenen, die nergens anders ter wereld verzekerd zijn, uit te sluiten van sociale zekerheid. (blz. 4) Indien uitsluitend gekeken wordt naar de nationale wetgeving inzake sociale zekerheid dan ben ik van mening dat belanghebbende verplicht verzekerd is op grond van art. 6 lid 1 letter a in samenhang met art. 3 lid 2 van de Algemene Ouderdomswet. Hij verricht zijn arbeid immers aan boord van een vaartuig met een Nederlandse thuishaven. Ik ben van mening dat de beperking krachtens art. 10 BUB 1989 niet aan de orde komt als verzekeringsplicht ontstaat op grond van art. 3 lid 2 van de Algemene Ouderdoms Wet. (...) Nu sprake is van het slechts tijdelijk werkzaam zijn in het buitenland in opdracht van een Nederlandse onderneming ben ik subsidiair van mening dat sprake is van detachering waardoor de verzekeringsplicht in het woonland in stand blijft. (...)"
+
+C. . De conclusie van repliek hield in:
+
+"(blz. 2) (...) De resolutie mist (...) zelfstandige betekenis omdat het (...) een overzicht geeft van de uitkomsten van EG-verordening 1408/71, enige multilaterale overeenkomsten waarbij Nederland partij is en de sociale verzekeringsverdragen welke Nederland met een aantal staten heeft gesloten. Mochten deze verdragen zelf tot een andere uitkomst leiden dan heeft die voorrang. Mocht een verdrag ten aanzien van een bepaalde situatie geen toepasselijke wetgeving aanwijzen dan wijst ook de resolutie geen wetgeving aan. De inspecteur meldt dat de resolutie uitgaat van het beginsel dat zeevarenden, die in Nederland wonen, hier te lande verzekerd zijn. Deze bepaling is naar de mening van ondergetekende niet in de resolutie opgenomen om een uitzondering te geven op artikel 10 B.U.B. 1989 (...), evenmin om dit besluit niet van toepassing te laten zijn. De resolutie legt immers genoemde sociale verzekeringsverdragen uit en de resolutie mist elke verwijzing naar nationale regelgeving. (blz. 3) De bepaling is uitsluitend in de resolutie opgenomen om in de resolutie een systeem aan te brengen, namelijk een opsomming van uitzonderingsregels. (...) De inspecteur meldt dat verzekeringsplicht ontstaat op grond van artikel 3 lid 2 A.O.W. Dit artikel stelt echter de woonplaats vast, welke niet in geding is. Voor een onderbouwing van het subsidiaire standpunt van de inspecteur heeft ondergetekende geen wettelijke basis kunnen vinden."
+
+D. . De conclusie van dupliek hield in:
+
+"(blz. 1) (...) Het geschil concentreert zich op slechts enkele basis vragen (...) Deze vragen zijn: 1. Is de beperking van de kring van Verzekerden voor de Volksverzekeringen zoals geformuleerd in art. 10 van het Besluit uitbreiding en beperking Kring verzekerden Volksverzekeringen ook van toepassing op zeevarenden welke ingezetene zijn van Nederland ? (...) (blz. 2) De Coördinatiecommissie Sociale Verzekeringsaangelegenheden heeft een beleidsbeslissing genomen en bepaald dat een baggerschip geen zeeschip is Hieruit volgt dat werknemers in de baggerindustrie geen zeelieden zijn zodat zij vallen onder de werking van art. 10 B.U.B. 89 (...) Deze beslissing zou niet genomen hoeven worden als het antwoord op vraag 1 ja zou zijn, dan zouden immers alle zeevarenden (ingezetenen) onder de werking van het B.U.B. 89 vallen. Voor hulpschepen op het continentale plat is een dergelijke beleidsbeslissing niet genomen zodat ik er vooralsnog van uit ga dat dergelijke schepen zeeschepen zijn en de opvarenden zeelieden. In mijn vertoogschrift ben ik er primair van uit gegaan dat de EEG Vo 1408/71 niet van toepassing is omdat belanghebbende zijn werkzaamheden aan boord van een schip verricht dat niet de vlag van een EU land voert en niet op het grondgebied van een EU land werkt. Dit laatste hangt echter af van het begrip grondgebied in het Europese recht. Als men er van uit gaat dat het grondgebied van een staat het gebied is waarover deze staat, in overeenstemming met het internationale recht, soevereine rechten kan uitoefenen, dan behoort ook het continentale plat tot het grondgebied. Belanghebbende, ingezetene van Nederland, heeft arbeid verricht op het Britse continentale plat zodat in deze opvatting de EEG Vo 1408/71 wel van toepassing is. De verzekeringsplicht wordt toegewezen aan het werkland Groot Brittannië tenzij sprake is van tijdelijke werkzaamheden in opdracht van een Nederlandse werkgever (...) In dat geval is sprake van detachering woordoor  de verzekeringsplicht in het woonland in stand blijft. Belanghebbende heeft in het jaar 1992 zowel op het Nederlandse, Britse als Noorse continentale plat arbeid verricht zodat ik van mening ben dat de arbeid op een bepaalde plaats in het buitenland van tijdelijke aard is. In het Verdrag inzake sociale zekerheid met Noorwegen is ook een detacheringsbepaling opgenomen vergelijkbaar met die in de EEG Vo. (...)"
+
+IV. . De bestreden uitspraak.
+
+Het Hof heeft overwogen:
+
+"(blz. 4) (...) 2.4. Verzekerd ingevolge de volksverzekeringen is de Nederlander, die in dienstbetrekking staat tot een in Nederland wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zeevaartuig en woont aan boord van dat vaartuig. (Artikel 4 van het BUB 1989). (blz. 5) 2.5. Niet verzekerd ingevolge de volksverzekeringen is de ingezetene die gedurende een aaneengesloten periode van ten minste drie maanden uitsluitend buiten Nederland arbeid verricht. (Artikel 10, lid 1, van het BUB 1989. 2.6. Zeevarenden, ongeacht hun nationaliteit, die in Nederland wonen, zijn in beginsel hier te lande verzekerd (Resolutie van de staatssecretaris van Financiën van 5 maart 1969, nr. B 69/721, punt I, laatstelijk gewijzigd bij Resolutie van 26 juli 1989, nr. IFZ 89-738, inzake toepassing van supranationale, multilaterale en bilaterale regelingen op het gebied van de sociale verzekering, hierna: de Resolutie verdragstoepassing ten aanzien van zeevarenden). 2.7. Nederland heeft met de vlagstaat (Nederlandse Antillen) geen verdrag inzake sociale zekerheid gesloten. 2.8. Volgens de onder 2.1. tot en met 2.5. aangehaalde bepalingen, was belanghebbende, als zeevarende (belanghebbende moet, ondanks het bijzondere karakter van het vaartuig, als zodanig worden beschouwd) met de Nederlandse nationaliteit die in Nederland woont en tot een in Nederland gevestigde werkgever in dienstbetrekking staat, gedurende het gehele jaar 1992 verplicht verzekerd voor de volksverzekeringen. Gelet op de samenhang tussen de verschillende bepalingen, in het bijzonder tussen artikel 3 van de Algemene Ouderdomswet en artikel 4 van het BUB 1989, ligt het niet voor de hand dat artikel 10, lid 1, van het BUB 1989 ook is bedoeld voor zeevarenden die behoudens het feit dat zij in Nederland wonen in plaats van aan boord van hun vaartuig, voldoen aan de omschrijving van artikel 4 van het BUB 1989. De onder 2.6. aangehaalde zinsnede uit de Resolutie verdragstoepassing ten aanzien van zeevarenden is dus (nog steeds) in overeenstemming met de wettelijke regeling. (blz. 6) 2.9. EEG-verordening nr. 1408/71 brengt in dit geval geen wijziging in de situatie. Het continentaal plat (buiten de territoriale wateren) behoort, in de zin van de Verordening, niet tot het grondgebied van de lid-staten. 2.10. Het verdrag met Noorwegen (Verdrag van 13 april 1989, Trb. 1990, 25) brengt, voor een opvarende van een vaartuig als het onderhavige, evenmin wijziging in de situatie. (...)"
+
+V. . De middelen en de beoordeling ervan.
+
+A. . De middelen IV en V zijn gericht tegen 's Hofs overweging 2.8 (blz. 5), die erop neerkomt dat art. 10, lid 1, Besluit uitbr. bep. 1989 niet geldt voor personen die in dienst van een in Nederland gevestigde werkgever deel uitmaken van de bemanning van een zeevaartuig.
+
+B. . Ik stel voorop dat het Hof, dat zijn uiteenzetting klaarblijkelijk doelbewust onder 2.1-5, blz. 4 v., aanvangt met een letterlijke weergave van de naar zijn oordeel relevante wettelijke voorschriften, in overweging 2.6, blz. 5, voortgaat met een stelling die ontleend is aan de gewijzigde resolutie van 1969. De daardoor gewekte indruk dat het Hof aldus de resolutie als een geldingsbron van recht zou aanvaarden, wordt weerlegd door de zelfstandige argumentatie die het Hof in overweging 2.8 voor de stelling geeft.
+
+C. . Die argumentatie steunt evenwel in belangrijke mate op een opvatting van art. 4 Besluit uitbr. bep. 1989 die noch door zijn woorden, noch door zijn toelichting, noch door zijn systematiek wordt gerechtvaardigd.
+
+1. . Door zijn woorden niet omdat het vereiste dat de betrokkene aan boord van het vaartuig woont, daarvan een wezenlijk onderdeel uitmaakt, zodat het voorschrift geen betekenis heeft voor de belanghebbende, van wie vaststaat dat hij in Nederland woont.
+
+2. . Door zijn geschiedenis niet omdat de toelichting uitwijst dat het voorschrift alleen betrekking kan hebben op vaartuigen die niet in Nederland hun thuishaven hebben, en het Hof in overweging 1.2, blz. 2, tot de vaststaande feiten heeft gerekend dat het vaartuig R als thuishaven heeft.
+
+3. . Door zijn systematiek niet omdat het voorschrift behoort tot de rubriek van bepalingen die de kring van verzekerden uitbreiden, terwijl het in de thans te beslissen zaak uitsluitend gaat om de vraag of een beperking al dan niet van toepassing is.
+
+D. . Het is immers buiten kijf dat de belanghebbende volgens de wetgeving in formele zin (dus het Besluit uitbr. bep. 1989 buiten beschouwing gelaten) in Nederland premieplichtig is.
+
+E. . Vervolgens is het de vraag - de enige vraag - of de bepalingen die de kring van verzekerden beperken, een zodanige beperking inhouden. Daarbij gaat het uitsluitend om art. 10 Besluit uitbr. bep. 1989.
+
+F. . Nu hield art. 2, lid 1, aanhef en letter a, Besluit uitbr. bep. 1976 een regeling in, waarin het verzekerd zijn in het buitenland een vereiste vormde voor de beperking.
+
+G. . In 1989 werd daarin wijziging gebracht doordat in art. 10 Besluit uitbr. bep. 1989 het vereiste niet werd opgenomen. Deze wijziging werd blijkens de toelichting doelbewust aangebracht op grond dat eventuele verzekering ter zake van arbeid buiten Nederland voor de verantwoordelijkheid van het betrokken buitenland werd gelaten.
+
+H. . Uit niets blijkt dat daarbij zeevarenden, of sommigen van hen, buiten de regeling van 1976, zoals in 1980 gewijzigd, en/of de wijziging van 1989 zouden blijven.
+
+I. . De situatie van het continentale plat werd bij een en ander, zij het eerst in 1991, uitdrukkelijk onder ogen gezien. Daarbij was het consequent dat de Kroon, als wetgeefster in materiële zin, de regeling beperkte tot het Nederlandse deel van het continentale plat: aldus werd (eventuele) verzekering ter zake van arbeid op buitenlandse delen van het continentale plat voor de verantwoordelijkheid van het betrokken buitenland gelaten.
+
+J. . Ik meen dan ook dat de belanghebbende voor het omstreden tijdvak door art. 10, lid 1, Besluit uitbr. bep. 1989 buiten de kring van in Nederland verzekerden wordt gebracht en dat noch art. 4 Besluit uitbr. bep. 1989, noch art. 10, lid 4, Besluit uitbr. bep. 1989 daaraan afdoet.
+
+K. . Derhalve gaan de middelen IV en V, voorzover zij klagen over verkeerde toepassing van de artt. 4 en 10 Besluit uitbr. bep. 1989, op.
+
+L. . Middel V (beroepschrift in cassatie, blad 3 ) houdt nog een beroep in op het vertrouwen, opgewekt door de resolutie van 1992.
+
+M. . Naar mijn oordeel kan het in zoverre niet slagen, aangezien die resolutie uitsluitend betrekking heeft op werkzaamheden op het Nederlandse deel van het continentale plat en het in de thans te beslissen zaak daar niet om gaat.
+
+N. . Middel V behoeft voor het overige geen bespreking.
+
+O. . In mijn opvatting dat de middelen IV en V ten dele slagen, behoeven ook de middelen I-III niet aan de orde te komen. Volledigheidshalve merk ik het volgende op.
+
+P. . Middel I betwist hetgeen het Hof heeft vastgesteld omtrent de havens in Nederland, Groot-Brittannië en Noorwegen. Deze vaststellingen, afgeleid uit de gedingstukken en/of hetgeen de partijen overigens verklaard hebben, zijn evenwel voorbehouden aan het Hof en kunnen niet met vrucht in cassatie aangevallen worden.
+
+Q. . Middel II keert zich tegen 's Hofs overweging 2.4 (blz. 4). In die overweging staat evenwel niet meer dan de tekst van art. 4 Besluit uitbr. bep. 1989. Een desbetreffende klacht moet dus falen.
+
+R. . Middel III bespreekt 's Hofs behandeling van de gewijzigde resolutie van 1969. Ik liet hiervóór onder 5.2 zien dat het Hof aan de resolutie geen zelfstandige betekenis toekent, zodat de desbetreffende klacht niet tot cassatie kan leiden.
+
+VI. . Conclusie.
+
+De middelen IV en V ten dele gegrond bevindende, concludeer ik tot vernietiging van de bestreden uitspraak en van de uitspraak van de Inspecteur en tot vermindering van de aanslag tot een waarin ƒ 2.267,- premie volksverzekeringen begrepen is, met handhaving van de overige bestanddelen.
+
+De Procureur-Generaal bij de Hoge Raad der Nederlanden,
