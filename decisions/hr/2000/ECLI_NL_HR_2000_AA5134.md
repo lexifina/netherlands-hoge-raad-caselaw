@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2000:AA5134"
-published_in: ["Rechtspraak.nl", "RSV 2000, 100", "BNB 2000/161", "WFR 2000/458", "V-N 2000/16.17 met annotatie van Redactie", "USZ 2000/116", "NTFR 2000/383 met annotatie van MR. J. VAN DE MERWE"]
+published_in: ["Rechtspraak.nl", "RSV 2000, 100", "BNB 2000/161", "WFR 2000/458", "V-N 2000/16.17", "USZ 2000/116", "NTFR 2000/383 met annotatie van MR. J. VAN DE MERWE"]
 cites_law: ["netherlands/national/acts/algemene-ouderdomswet/art-006.md"]
 ---
 
