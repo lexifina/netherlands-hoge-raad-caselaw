@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2004:AI0739"
-published_in: ["Rechtspraak.nl", "BNB 2004/142 met annotatie van G.T.K. Meussen", "FED 2004/61", "WFR 2004/153", "Belastingadvies 2004/4.5", "V-N 2004/9.13"]
+published_in: ["Rechtspraak.nl", "BNB 2004/142 met annotatie van G.T.K. Meussen", "FED 2004/61", "WFR 2004/153", "Belastingadvies 2004/4.5", "V-N 2004/9.13", "NTFR 2003/1339"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSHE:2002:AE3740"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2004:AI0739"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-008.md"]
 ---
