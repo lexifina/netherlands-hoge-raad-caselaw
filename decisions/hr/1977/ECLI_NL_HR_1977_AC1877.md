@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1977:AC1877"
-published_in: ["Rechtspraak.nl", "NJ 1977, 521 met annotatie van G.J. Scholten", "RV 2014/24 met annotatie van Redactie van Rechtspraak Vermogensrecht", "AA19770589 met annotatie van Grinten van der W.C.L. Wim"]
+published_in: ["Rechtspraak.nl", "NJ 1977, 521 met annotatie van G.J. Scholten", "RV 2014/24 met annotatie van mr. A.J. van der Lely, prof. mr. A.I.M. van Mierlo, prof. mr. S.E. Bartels", "AA19770589 met annotatie van Grinten van der W.C.L. Wim", "JOR 2026/209 met annotatie van prof. mr. S.C.J.J. Kortmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1977:AC1877"]]
 ---
 
