@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2002:AE3796"
-published_in: ["Rechtspraak.nl", "JOL 2002, 319", "NJ 2002, 608 met annotatie van J.B.M. den Vranken", "RvdW 2002, 95", "TvI 2002, p. 328 met annotatie van J. den Engelsman", "Ondernemingsrecht 2003, 14 met annotatie van R.J. van Galen", "JWB 2002/213", "JOR 2002/147 met annotatie van G.A.J. Boekraad"]
+published_in: ["Rechtspraak.nl", "JOL 2002, 319", "NJ 2002, 608 met annotatie van J.B.M. Vranken", "RvdW 2002, 95", "TvI 2002, p. 328 met annotatie van J. den Engelsman", "Ondernemingsrecht 2003, 14 met annotatie van R.J. van Galen", "JWB 2002/213", "JOR 2002/147 met annotatie van G.A.J. Boekraad"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2002:AE3796"]]
 ---
 
