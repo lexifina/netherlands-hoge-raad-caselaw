@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1990:AC2325"
-published_in: ["Rechtspraak.nl", "NJ 1990, 662 met annotatie van P. van Schilfgaarde", "RvdW 1990, 25"]
+published_in: ["Rechtspraak.nl", "NJ 1990, 662 met annotatie van P. van Schilfgaarde", "RvdW 1990, 25", "JOR 2021/309"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:1990:AC2325"]]
 ---
 
@@ -83,7 +83,9 @@ De conclusie van de Advocaat-Generaal Biegman-Hartogh strekt tot verwerping van 
 
 [eiser] is op 3 juli 1939 in dienst getreden van de naamloze vennootschap [A] ( [A] ).
 
-[A] is op 18 augustus 1981 in staat van faillissement verklaard met benoeming van Mrs. De Kort en Grosheide tot curatoren. De curatoren hebben [eiser] op 30 november 1981 aangezegd zich genoodzaakt te zien voor hem een ontslagvergunning aan te vragen en hebben vervolgens na, zoals toen vereist, een ontslagvergunning te hebben verkregen de dienstbetrekking van [eiser] tegen 1 september 1982 opgezegd.Tussen [A] enerzijds en een zestal werknemersorganisaties anderzijds was voordien een regeling gesloten, genaamd "regeling bij ontslag wegens bedrijfsredenen", hierna aan te duiden als: het sociaal plan. De laatste (herziene) versie van het sociaal plan is in werking getreden op 1 januari 1980.
+[A] is op 18 augustus 1981 in staat van faillissement verklaard met benoeming van Mrs. De Kort en Grosheide tot curatoren. De curatoren hebben [eiser] op 30 november 1981 aangezegd zich genoodzaakt te zien voor hem een ontslagvergunning aan te vragen en hebben vervolgens na, zoals toen vereist, een ontslagvergunning te hebben verkregen de dienstbetrekking van [eiser] tegen 1 september 1982 opgezegd.
+
+Tussen [A] enerzijds en een zestal werknemersorganisaties anderzijds was voordien een regeling gesloten, genaamd "regeling bij ontslag wegens bedrijfsredenen", hierna aan te duiden als: het sociaal plan. De laatste (herziene) versie van het sociaal plan is in werking getreden op 1 januari 1980.
 
 Blijkens artikel 3 van het sociaal plan is dit van toepassing op werknemers die aan bepaalde voorwaarden voldoen, waarvan in deze zaak in het bijzonder van belang is de voorwaarde dat de betreffende werknemers "wegens bedrijfstechnische redenen worden ontslagen". Blijkens artikel 1 van het plan moeten onder "bedrijfstechnische redenen" worden verstaan "bedrijfseconomische omstandigheden, op grond waarvan tot ontslag en/of overplaatsing van personeel moet worden overgegaan", waarbij nader is bepaald dat onder "bedrijfseconomische omstandigheden" met name worden verstaan "herstrukturering, afstoten van activiteiten, fusie en bedrijfssluiting".
 
