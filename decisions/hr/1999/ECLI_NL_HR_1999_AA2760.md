@@ -1,0 +1,32 @@
+---
+ecli: "ECLI:NL:HR:1999:AA2760"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "33286"
+decided: "1999-05-12"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1999:AA2760"
+published_in: ["Rechtspraak.nl", "Belastingblad 1999/566", "BNB 1999/257 met annotatie van G.J. van Leijenhorst", "FED 1999/349", "WFR 1999/697, 1", "V-N 1999/26.28 met annotatie van Redactie"]
+cites_law: ["netherlands/national/acts/besluit-gemeentelijke-parkeerbelastingen/art-002.md", "netherlands/national/acts/besluit-gemeentelijke-parkeerbelastingen/art-005.md", "netherlands/national/acts/gemeentewet/art-232.md", "netherlands/national/acts/gemeentewet/art-235.md", "netherlands/national/acts/grondwet/art-120.md"]
+---
+
+# ECLI:NL:HR:1999:AA2760 Hoge Raad , 12-05-1999 / 33286
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te Amsterdam van 14 maart 1997  betreffende na te melden aan hem opgelegde naheffingsaanslag in de parkeerbelasting en beschikking kosten wielklem van de gemeente Amsterdam.
+
+1. Naheffingsaanslag, bezwaar en geding voor het Hof Aan belanghebbende is ter zake van het parkeren op 22 oktober 1994 een naheffingsaanslag in de parkeerbelasting van de gemeente Amsterdam opgelegd ten bedrage van ƒ 62,50  bestaande uit ƒ 4,-- aan enkelvoudige belasting en ƒ 58,50 aan kosten terzake van het opleggen van die aanslag. Tevens is bij beschikking een bedrag van ƒ 60,-- van belanghebbende gevorderd ter zake van de kosten van het aanbrengen en verwijderen van een wielklem. De aanslag en de beschikking zijn, na daartegen gemaakt bezwaar, bij uitspraak van de Directeur van de dienst Parkeerbeheer van de gemeente Amsterdam (hierna: de Directeur) gehandhaafd. Belanghebbende is van die uitspraak in beroep gekomen bij het Hof. De uitspraak van het Hof is aan dit arrest gehecht. Het Hof heeft die uitspraak bevestigd.
+
+2. Geding in cassatie Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld en daarbij enige klachten aangevoerd. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit. De Directeur Gemeentebelastingen Amsterdam heeft een vertoogschrift ingediend.
+
+3. Beoordeling van de klachten 3.1. De klacht onder I is in zoverre gegrond dat het Hof niet is ingegaan op belanghebbendes betoog dat artikel 235 van de Gemeentewet (tekst 1994), waarop de bevoegdheid van Burgemeester en Wethouders tot het doen aanbrengen van een wielklem en het verhalen van de kosten daarvan berust, in strijd is met artikel 10 van de Grondwet en artikel 1 van het Eerste Protocol bij het EVRM. Dat kan echter niet tot cassatie leiden omdat, wat artikel 10 van de Grondwet betreft, de vraag of genoemde wetsbepaling in strijd komt met de Grondwet niet ter beoordeling van de rechter staat, wat artikel 1 van het Eerste Protocol bij het EVRM betreft omdat dit artikel uitdrukkelijk niet het recht van de verdragsluitende staten aantast om die wetten toe te passen die zij nodig achten om de betaling van belastingen te verzekeren. Niet gezegd kan worden dat de wetgever de onderhavige maatregel in redelijkheid niet nodig heeft kunnen achten om de betaling van parkeerbelastingen te verzekeren, noch dat een redelijke verhouding tussen de gekozen maatregel en het daarmee beoogde doel ontbreekt. 3.2. Onder het onmiddellijk laden en lossen zoals bedoeld in artikel 226 van de Gemeentewet (tekst 1994) dient te worden verstaan het onmiddellijk nadat het voertuig tot stilstand is gebracht bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht, gedurende de tijd die daarvoor nodig is. Anders dan belanghebbende in zijn klacht onder II aanvoert, geeft 's Hofs oordeel onder 5.2, waarin besloten ligt dat in het onderhavige geval geen sprake was van het onmiddellijk lossen van goederen in bovengenoemde zin, geen blijk van een onjuiste opvatting van dit begrip. Dat oordeel is evenmin ontoereikend gemotiveerd, zodat ook deze klacht faalt. 3.3. Het Hof heeft geoordeeld dat belanghebbende niet heeft betwist dat Burgemeester en Wethouders (op de voet van artikel 232 van de Gemeentewet in verbinding met artikel 8 van de Verordening Parkeerbelastingen 1994) hun bevoegdheid met betrekking tot de heffing en invordering van parkeerbelastingen hebben overgedragen aan de Directeur. Dit oordeel is in het licht van de gedingstukken niet onbegrijpelijk en kan voor het overige als berustend op de aan het Hof voorbehouden uitleg van de standpunten van partijen in cassatie niet met vrucht worden bestreden. Tegen deze achtergrond is 's Hofs - kennelijk mede op het tot de gedingstukken behorende aanstellingsbesluit berustende - oordeel dat de als controleur A aangestelde ambtenaar die de naheffingsaanslag heeft opgelegd, hiertoe ook bevoegd was - waarmee het Hof tot uitdrukking heeft gebracht dat die ambtenaar daarbij handelde uit naam van de Directeur - niet onvoldoende gemotiveerd. Voor het overige berust het op de aan het Hof voorbehouden keuze en waardering van de bewijsmiddelen, zodat het in cassatie moet worden geërbiedigd. Anders dan belanghebbende aanvoert was het Hof niet gehouden de zaak naar een meervoudige kamer te verwijzen. De klacht onder III faalt eveneens. 3.4. Voor zover belanghebbende in de klacht onder IV aanvoert dat hij ter zitting van het Hof van 12 november 1996 bezwaar heeft gemaakt tegen het overleggen van een stuk door zijn wederpartij, faalt dit betoog reeds wegens gebrek aan feitelijk grondslag, nu uit de uitspraak van het Hof hiervan niet blijkt. Het oordeel van het Hof dat aannemelijk is gemaakt dat de geraamde kosten niet hoger zijn dan is toegestaan ingevolge de artikelen 2 en 5 van het Besluit gemeentelijke parkeerbelastingen berust op de aan het Hof voorbehouden keuze en waardering van de bewijsmiddelen en is niet onbegrijpelijk zodat het in cassatie niet met vrucht kan worden bestreden. De klacht onder IV faalt ook voor het overige.
+
+4. Proceskosten De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+5. Beslissing De Hoge Raad verwerpt het beroep.
+
+Dit arrest is op 12 mei 1999 vastgesteld door de vice-president Stoffer als voorzitter, en de raadsheren Fleers, Pos, Beukenhorst en Monné, in tegenwoordigheid van de waarnemend griffier De Bruin,   en op die datum in het openbaar uitgesproken.
