@@ -8,7 +8,7 @@ published: "2019-03-07"
 type: "conclusie"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:1997:5"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BNB 1971/105 met annotatie van H.J. Hofstra"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:1998:ZC2553, Gevolgd"]]
 ---
 
@@ -361,7 +361,7 @@ Wat betreft de hoofdvraag (uitleg van het rechterlijk vonnis) zijn in de literat
 
 Om de volgende redenen schijnt het mij toe dat deze laatste opvatting de voorkeur verdient boven de eerste.
 
-(i) De objectieve opvatting past het best bij de wils-vertrouwensleer van titel 3.2 BW, die krachtens art. 3:59 (https://www.navigator.nl/document/id922a9055dec673b9a7771a7972d3bc8d) BW ook buiten het vermogensrecht van overeenkomstige toepassing is voorzover de aard van de rechtshandeling of de rechtsbetrekking zich daartegen niet verzet.
+(i) De objectieve opvatting past het best bij de wils-vertrouwensleer van titel 3.2 BW, die krachtens art. 3:59 BW ook buiten het vermogensrecht van overeenkomstige toepassing is voorzover de aard van de rechtshandeling of de rechtsbetrekking zich daartegen niet verzet.
 
 (ii) De bedoeling van de vonniswijzende rechter is voor partijen niet anders kenbaar dan uit dat vonnis zelf. Over die bedoeling zal men slechts nader worden geïnformeerd als een tussen partijen betwiste overweging onderdeel uitmaakt van een tussenvonnis dat in een volgend vonnis door de rechter wordt uitgewerkt. Is van een eindvonnis sprake, dan moet men die steun missen. Hetzelfde geldt als van het tussenvonnis direkt wordt geappelleerd. Ook op pragmatische gronden is de subjectieve opvatting daarom weinig aantrekkelijk. Al dan niet onder het mom de bedoeling van de rechter vast te stellen, hebben de appèl- en cassatierechter in dergelijke gevallen geen andere keus dan de objectieve leer toe te passen.
 
