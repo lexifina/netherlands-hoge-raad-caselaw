@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AT1089"
-published_in: ["Rechtspraak.nl", "JOL 2005, 423", "NJ 2005, 457 met annotatie van P. van Schilfgaarde", "RvdW 2005, 89", "JOL 2005, 433", "TvI 2005, 43 met annotatie van F.P. van Koppen", "NTBR 2006, 8 met annotatie van A.J. Verdaas", "V-N 2005/45.17 met annotatie van Redactie", "JWB 2005/274", "JOR 2005/230 met annotatie van JJvH"]
+published_in: ["Rechtspraak.nl", "JOL 2005, 423", "NJ 2005, 457 met annotatie van P. van Schilfgaarde", "RvdW 2005, 89", "JOL 2005, 433", "TvI 2005, 43 met annotatie van F.P. van Koppen", "NTBR 2006, 8 met annotatie van A.J. Verdaas", "V-N 2005/45.17", "JWB 2005/274", "JOR 2005/230 met annotatie van Mr. J.J. van Hees"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AT1089"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-042.md"]
 ---
