@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AT7799"
-published_in: ["Rechtspraak.nl", "JOL 2005, 439", "NJ 2006, 230 met annotatie van P. van Schilfgaarde", "RvdW 2005, 92", "TvI 2006, 22 met annotatie van C.M. Harmsen", "Ondernemingsrecht 2005, 184 met annotatie van S-J. Spanjaard", "V-N 2005/45.15 met annotatie van Redactie", "JWB 2005/279", "JOR 2005/257"]
+published_in: ["Rechtspraak.nl", "JOL 2005, 439", "NJ 2006, 230 met annotatie van P. van Schilfgaarde", "RvdW 2005, 92", "TvI 2006, 22 met annotatie van C.M. Harmsen", "Ondernemingsrecht 2005, 184 met annotatie van S.J. Spanjaard", "V-N 2005/45.15", "JWB 2005/279", "JOR 2005/257"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AT7799"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-013.md"]
 ---
