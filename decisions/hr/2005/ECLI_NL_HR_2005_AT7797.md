@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AT7797"
-published_in: ["Rechtspraak.nl", "JWB 2005/306", "AA20060732 met annotatie van S.C.J.J. Kortmann, N.S.G.J. Vermunt", "JA 2005/109 met annotatie van F.M.J. Verstijlen", "JOR 2006/52 met annotatie van SCJJK"]
+published_in: ["Rechtspraak.nl", "JWB 2005/306", "AA20060732 met annotatie van S.C.J.J. Kortmann, N.S.G.J. Vermunt", "JA 2005/109 met annotatie van F.M.J. Verstijlen", "JOR 2006/52 met annotatie van prof. mr. S.C.J.J. Kortmann", "RvdW 2005, 101", "NJ 2006, 311 met annotatie van P. van Schilfgaarde"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AT7797"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-042.md", "netherlands/national/acts/faillissementswet/art-068.md"]
 ---
