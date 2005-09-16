@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AU2776"
-published_in: ["Rechtspraak.nl", "BNB 2005/354", "Belastingadvies 2005/20.13", "V-N 2005/46.19 met annotatie van Redactie", "FutD 2005-1747"]
+published_in: ["Rechtspraak.nl", "BNB 2005/354", "Belastingadvies 2005/20.13", "V-N 2005/46.19 met annotatie van Redactie", "NTFR 2005/1180 met annotatie van MR. E. THOMAS", "FutD 2005-1747", "Viditax (FutD) 2005091603"]
 ---
 
 # ECLI:NL:HR:2005:AU2776 Hoge Raad , 16-09-2005 / 38825
