@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AO9013"
-published_in: ["Rechtspraak.nl", "BNB 2006/111 met annotatie van M.W.C. FETERIS", "V-N 2005/48.9 met annotatie van Redactie", "FutD 2005-1744"]
+published_in: ["Rechtspraak.nl", "BNB 2006/111 met annotatie van M.W.C. Feteris", "V-N 2005/48.9", "NTFR 2005/1191 met annotatie van MR. J. VAN DE MERWE", "FutD 2005-1744", "Viditax (FutD) 2005091610"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AO9013"]]
 cites_law: ["netherlands/national/acts/awr/art-016.md", "netherlands/national/acts/awr/art-047.md"]
 ---
