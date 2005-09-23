@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2005:AU3140"
-published_in: ["Rechtspraak.nl", "BNB 2006/21 met annotatie van G.J.M.E. de Bont", "V-N 2005/46.5", "Ondernemingsrecht 2005, 211 met annotatie van Arjan Peeters en Pieter van Uchelen"]
+published_in: ["Rechtspraak.nl", "BNB 2006/21 met annotatie van G.J.M.E. de Bont", "V-N 2005/46.5", "Ondernemingsrecht 2005, 211 met annotatie van P.J. van Uchelen"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2002:AF1395"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2005:AU3140"]]
 cites_law: ["netherlands/national/acts/awr/art-027e.md", "netherlands/national/acts/awr/art-047.md"]
 ---
