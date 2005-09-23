@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AU3140"
-published_in: ["Rechtspraak.nl", "BNB 2006/21 met annotatie van G.J.M.E. DE BONT", "V-N 2005/46.5 met annotatie van Redactie", "Ondernemingsrecht 2005, 211 met annotatie van Arjan Peeters en Pieter van Uchelen", "FutD 2005-1802 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "BNB 2006/21 met annotatie van G.J.M.E. de Bont", "V-N 2005/46.5", "Ondernemingsrecht 2005, 211 met annotatie van P.J. van Uchelen", "NTFR 2005/1233 met annotatie van Dr. E.B. Pechler", "FutD 2005-1802", "Viditax (FutD) 2005092308"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AU3140"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2002:AF1395"]]
 cites_law: ["netherlands/national/acts/awr/art-027e.md", "netherlands/national/acts/awr/art-047.md"]
 ---
