@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AT7542"
-published_in: ["Rechtspraak.nl", "AB 2006, 205 met annotatie van R. Ortlep", "JOL 2005, 630", "NJ 2006, 149", "JWB 2005/381", "AA20070066 met annotatie van L.J.A. Damen", "JV 2006/2 met annotatie van prof.mr. G.R. de Groot", "RV20050035 met annotatie van Red. Rechtspraak Vreemdelingenrecht"]
+published_in: ["Rechtspraak.nl", "AB 2006, 205 met annotatie van R. Ortlep", "JOL 2005, 630", "NJ 2006, 149", "JWB 2005/381", "AA20070066 met annotatie van Damen L.J.A. Leo", "JV 2006/2 met annotatie van prof.mr. G.R. de Groot", "RV20050035 met annotatie van Red. Rechtspraak Vreemdelingenrecht"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2005:AT7542"]]
 ---
 
