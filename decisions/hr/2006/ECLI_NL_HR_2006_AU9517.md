@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AU9517"
-published_in: ["Rechtspraak.nl", "BNB 2006/203 met annotatie van R.H. Happé", "V-N 2006/6.5 met annotatie van Redactie", "FutD 2006-0063"]
+published_in: ["Rechtspraak.nl", "BNB 2006/203 met annotatie van R.H. Happé", "V-N 2006/6.5 met annotatie van Redactie", "NTFR 2006/75 met annotatie van mr. E. van Waaijen", "FutD 2006-0063", "Viditax (FutD) 2006011309"]
 cites_law: ["netherlands/national/acts/wet-arbeidsongeschiktheidsverzekering-zelfstandigen/art-003.md"]
 ---
 
