@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2006:AR6478"
-published_in: ["Rechtspraak.nl", "BNB 2006/191 met annotatie van G.J.M.E. de Bont", "FED 2006/47", "V-N 2006/9.3"]
+published_in: ["Rechtspraak.nl", "BNB 2006/191 met annotatie van G.J.M.E. de Bont", "FED 2006/47 met annotatie van A.K.H. KLEIN SPROKKELHORST", "V-N 2006/9.3", "NTFR 2004/1768"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AR6478"]]
 cites_law: ["netherlands/national/acts/awr/art-027e.md", "netherlands/national/acts/awr/art-047.md", "netherlands/national/acts/awr/art-049.md", "netherlands/national/acts/awr/art-052.md"]
 ---
