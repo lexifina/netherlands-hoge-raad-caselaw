@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2006:AT7672"
-published_in: ["Rechtspraak.nl", "BNB 2006/253 met annotatie van I.J.J. Burgers", "FED 2006/66", "V-N 2006/21.15", "FutD 2005-1197"]
+published_in: ["Rechtspraak.nl", "BNB 2006/253 met annotatie van I.J.J. Burgers", "FED 2006/66 met annotatie van S. Wolvers", "V-N 2006/21.15", "FutD 2005-1197", "Viditax (FutD) 2005062002", "Viditax (FutD) 2006041407"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2003:AH9395"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AT7672"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-028.md"]
 ---
