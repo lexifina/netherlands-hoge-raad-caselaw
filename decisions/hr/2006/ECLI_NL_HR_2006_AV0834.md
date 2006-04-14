@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AV0834"
-published_in: ["Rechtspraak.nl", "Ondernemingsrecht 2006, 128 met annotatie van Q.W.J.C.H. Kok", "BNB 2006/254 met annotatie van D. Juch", "Belastingadvies 2006/10.8", "V-N 2006/20.14 met annotatie van Redactie", "FutD 2006-0680 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "Ondernemingsrecht 2006, 128 met annotatie van Q.W.J.C.H. Kok", "BNB 2006/254 met annotatie van D. Juch", "Belastingadvies 2006/10.8", "V-N 2006/20.14", "NTFR 2006/543 met annotatie van Drs. N.M. Ligthart", "FutD 2006-0680", "Viditax (FutD) 2006041401"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AV0834"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2005:AS8912"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-013.md"]
 ---
