@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AT7672"
-published_in: ["Rechtspraak.nl", "BNB 2006/253 met annotatie van I.J.J. Burgers", "FED 2006/66 met annotatie van S. Wolvers", "V-N 2006/21.15 met annotatie van Redactie", "FutD 2006-0683", "AA20060642 met annotatie van J.W. Zwemmer"]
+published_in: ["Rechtspraak.nl", "BNB 2006/253 met annotatie van I.J.J. Burgers", "FED 2006/66 met annotatie van S. Wolvers", "V-N 2006/21.15", "AA20060642 met annotatie van J.W. Zwemmer", "FutD 2006-0683", "Viditax (FutD) 2006041407"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AT7672"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2003:AH9395"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-028.md"]
 ---
