@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AV0054"
-published_in: ["Rechtspraak.nl", "NJ 2007, 551 met annotatie van G.R. de Groot", "AB 2006, 335 met annotatie van R. Ortlep", "JOL 2006, 424", "RvdW 2006, 669", "JWB 2006/226", "JB 2006/242", "JV 2006/314 met annotatie van Prof. mr. H.U. Jessurun d’ Oliveira", "RV20060095 met annotatie van Groot de G.R. Gerard-René"]
+published_in: ["Rechtspraak.nl", "NJ 2007, 551 met annotatie van G.R. de Groot", "AB 2006, 335 met annotatie van R. Ortlep", "JOL 2006, 424", "RvdW 2006, 669", "JWB 2006/226", "JB 2006/242", "JV 2006/314 met annotatie van Prof. mr. H.U. Jessurun d’ Oliveira", "RV20060095 met annotatie van Groot de G.R. Gerard-René", "AA20070066 met annotatie van Damen L.J.A. Leo"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AV0054"]]
 ---
 
