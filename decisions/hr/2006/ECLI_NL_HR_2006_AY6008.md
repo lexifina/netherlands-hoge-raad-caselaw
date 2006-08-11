@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AY6008"
-published_in: ["Rechtspraak.nl", "BNB 2006/322 met annotatie van R.H. Happé", "Belastingadvies 2006/16.10", "V-N 2006/41.3 met annotatie van Redactie", "FutD 2006-1488"]
+published_in: ["Rechtspraak.nl", "BNB 2006/322 met annotatie van R.H. Happé", "Belastingadvies 2006/16.10", "V-N 2006/41.3", "NTFR 2006/1158 met annotatie van mr. C.J.M. van Hassel", "FutD 2006-1488", "Viditax (FutD) 2006081112"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2005:AU0059"]]
 ---
 
