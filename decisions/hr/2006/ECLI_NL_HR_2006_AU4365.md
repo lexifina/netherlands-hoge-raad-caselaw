@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AU4365"
-published_in: ["Rechtspraak.nl", "RN 2007, 24", "FED 2007/5 met annotatie van W.A.P. VAN ROIJ", "BNB 2007/72 met annotatie van R.M. FREUDENTHAL", "Belastingadvies 2006/19.3", "V-N 2006/46.5 met annotatie van Redactie", "Vp-bulletin 2006, 50 met annotatie van Redactie", "FutD 2006-1633 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "RN 2007, 24", "FED 2007/5 met annotatie van W.A.P. VAN ROIJ", "BNB 2007/72 met annotatie van R.M. Freudenthal", "Belastingadvies 2006/19.3", "V-N 2006/46.5", "Vp-bulletin 2006, 50", "NTFR 2006/1291 met annotatie van mr. J.A.W. Vrolijks", "FutD 2006-1633", "Viditax (FutD) 2006090802"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AU4365"], ["Formele relatie", "In cassatie op : ECLI:NL:GHLEE:2005:AS2230"]]
 ---
 
