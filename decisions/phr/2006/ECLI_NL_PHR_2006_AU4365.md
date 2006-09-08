@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2006:AU4365"
-published_in: ["Rechtspraak.nl", "RN 2007, 24", "FED 2007/5", "BNB 2007/72 met annotatie van R.M. Freudenthal", "Belastingadvies 2006/19.3", "V-N 2006/46.5", "Vp-bulletin 2006, 50", "FutD 2005-1991"]
+published_in: ["Rechtspraak.nl", "RN 2007, 24", "FED 2007/5 met annotatie van W.A.P. VAN ROIJ", "BNB 2007/72 met annotatie van R.M. Freudenthal", "Belastingadvies 2006/19.3", "V-N 2006/46.5", "Vp-bulletin 2006, 50", "NTFR 2005/1358", "FutD 2005-1991", "Viditax (FutD) 2005101414", "Viditax (FutD) 2006090802"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHLEE:2005:AS2230"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AU4365"]]
 ---
 
