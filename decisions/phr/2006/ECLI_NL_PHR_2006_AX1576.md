@@ -9,7 +9,7 @@ type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2006:AX1576"
 published_in: ["Rechtspraak.nl", "IER 2005, 56", "JWB 2006/302", "JGR 2006/54 met annotatie van Vollebregt"]
-relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2005:AT9410"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AX1576"]]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AX1576"]]
 ---
 
 # ECLI:NL:PHR:2006:AX1576 Parket bij de Hoge Raad , 22-09-2006 / C05/128HR
