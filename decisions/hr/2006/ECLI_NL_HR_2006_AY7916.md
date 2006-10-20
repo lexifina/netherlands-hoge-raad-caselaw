@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AY7916"
-published_in: ["Rechtspraak.nl", "JOL 2006, 622", "NJ 2007, 2 met annotatie van J.M.M. Maeijer", "RO 2007, 1", "RvdW 2006, 971", "Ondernemingsrecht 2007, 5 met annotatie van J.B. Wezeman", "Belastingadvies 2007/4.13", "JRV 2007, 6 met annotatie van Redactie", "JWB 2006/362", "JOR 2006/288 met annotatie van Y. Borrius"]
+published_in: ["Rechtspraak.nl", "JOL 2006, 622", "NJ 2007, 2 met annotatie van J.M.M. Maeijer", "RO 2007, 1", "RvdW 2006, 971", "Ondernemingsrecht 2007, 5 met annotatie van J.B. Wezeman", "Belastingadvies 2007/4.13", "JRV 2007, 6", "JWB 2006/362", "JOR 2006/288 met annotatie van Y. Borrius"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AY7916"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2004:806"]]
 ---
 
