@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AX8838"
-published_in: ["Rechtspraak.nl", "JOL 2006, 671", "NJ 2007, 155 met annotatie van P. van Schilfgaarde", "RvdW 2006, 1033", "Ondernemingsrecht 2007, 91 met annotatie van R.J. van Galen", "WR 2007, 12", "NTBR 2008, 56 met annotatie van R.M. Wibier", "JWB 2006/368", "AA20070233 met annotatie van R.D. Vriesendorp", "JOR 2007/76 met annotatie van SCJJK  en S.E. Bartels"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AX8838"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2005:AT8070, (Gedeeltelijke) vernietiging met verwijzen"]]
+published_in: ["Rechtspraak.nl", "JOL 2006, 671", "NJ 2007, 155 met annotatie van P. van Schilfgaarde", "RvdW 2006, 1033", "Ondernemingsrecht 2007, 91 met annotatie van R.J. van Galen", "WR 2007, 12", "NTBR 2008, 56 met annotatie van R.M. Wibier", "JWB 2006/368", "AA20070233 met annotatie van R.D. Vriesendorp", "JOR 2007/76 met annotatie van prof. mr. S.C.J.J. Kortmann, prof. mr. S.E. Bartels"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AX8838"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-026.md", "netherlands/national/acts/faillissementswet/art-037.md", "netherlands/national/acts/faillissementswet/art-108.md"]
 ---
 
