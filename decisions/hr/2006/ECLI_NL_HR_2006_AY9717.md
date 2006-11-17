@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AY9717"
-published_in: ["Rechtspraak.nl", "RZA 2007, 31 met annotatie van F.H.E. van der Moolen", "JOL 2006, 705", "NJ 2007, 202 met annotatie van M.M. Mendel", "RvdW 2006, 1077", "VR 2007, 72", "JWB 2006/399"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AY9717"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2005:AU0284, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "RZA 2007, 31 met annotatie van F.H.E. van der Moolen", "JOL 2006, 705", "NJ 2007, 202 met annotatie van M.M. van der Mendel", "RvdW 2006, 1077", "VR 2007, 72", "JWB 2006/399"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AY9717"]]
 ---
 
 # ECLI:NL:HR:2006:AY9717 Hoge Raad , 17-11-2006 / C05/199HR
