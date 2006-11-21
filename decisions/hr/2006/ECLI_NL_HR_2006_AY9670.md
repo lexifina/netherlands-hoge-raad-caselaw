@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AY9670"
-published_in: ["Rechtspraak.nl", "JOL 2006, 741", "NJ 2006, 653", "RvdW 2006, 1120", "VR 2007, 79", "NJB 2007, 28", "NBSTRAF 2006/455", "Jwr 2007/19", "NbSr 2006/455"]
+published_in: ["Rechtspraak.nl", "JOL 2006, 741", "NJ 2006, 653", "RvdW 2006, 1120", "VR 2007, 79", "NJB 2007, 28", "Jwr 2007/19", "NbSr 2006/455"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2006:AY9670"]]
 cites_law: ["netherlands/national/acts/wegenverkeerswet-1994/art-160.md", "netherlands/national/acts/wetboek-van-strafvordering/art-348.md", "netherlands/national/acts/wetboek-van-strafvordering/art-359a.md"]
 ---
