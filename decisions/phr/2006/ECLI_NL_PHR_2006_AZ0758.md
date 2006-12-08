@@ -8,8 +8,8 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2006:AZ0758"
-published_in: ["Rechtspraak.nl", "JOL 2006, 779", "NJ 2006, 659", "RN 2007, 12", "RO 2007, 12", "RvdW 2006, 1139", "NJB 2007, 19", "Ondernemingsrecht 2007, 36 met annotatie van J.B. Wezeman", "V-N 2007/11.23", "JRV 2007, 8", "JWB 2006/425", "FutD 2006-2305", "JOR 2007/38"]
-relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHARN:2005:AV3070"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AZ0758"]]
+published_in: ["Rechtspraak.nl", "JOL 2006, 779", "NJ 2006, 659", "RN 2007, 12", "RO 2007, 12", "RvdW 2006, 1139", "NJB 2007, 19", "Ondernemingsrecht 2007, 36 met annotatie van J.B. Wezeman", "V-N 2007/11.23", "JRV 2007, 8", "JWB 2006/425", "JOR 2007/38", "FutD 2006-2305", "Viditax (FutD) 2006121206"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2006:AZ0758"]]
 ---
 
 # ECLI:NL:PHR:2006:AZ0758 Parket bij de Hoge Raad , 08-12-2006 / C05/256HR
