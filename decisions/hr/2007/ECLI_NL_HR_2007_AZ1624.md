@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ1624"
-published_in: ["Rechtspraak.nl", "JOL 2007, 43", "NJ 2007, 73", "RFR 2007, 42", "RvdW 2007, 120", "NJB 2007, 373", "JWB 2007/28", "AA20070354 met annotatie van A.J.M. Nuytinck", "JV 2007/163", "RV20070093 met annotatie van Groot de G.R. Gerard-René"]
+published_in: ["Rechtspraak.nl", "JOL 2007, 43", "NJ 2007, 73", "RFR 2007, 42", "RvdW 2007, 120", "NJB 2007, 373", "JWB 2007/28", "AA20070354 met annotatie van Nuytinck A.J.M. André", "JV 2007/163", "RV20070093 met annotatie van Groot de G.R. Gerard-René"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:AZ1624"]]
 ---
 
