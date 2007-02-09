@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2007:AW3876"
-published_in: ["Rechtspraak.nl", "NJB 2007, 789", "Belastingblad 2007/367", "FED 2007/33", "BNB 2007/155 met annotatie van W.J.N.M. Snoijink", "V-N 2007/14.31", "Belastingblad 2006/665", "FutD 2006-0795"]
+published_in: ["Rechtspraak.nl", "NJB 2007, 789", "Belastingblad 2007/367", "FED 2007/33 met annotatie van G. GROENEWEGEN", "BNB 2007/155 met annotatie van W.J.N.M. Snoijink", "V-N 2007/14.31", "Belastingblad 2006/665", "FutD 2006-0795", "Viditax (FutD) 2006050103", "Viditax (FutD) 2007020901"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSGR:2004:AR0669"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2007:AW3876"]]
 ---
 
