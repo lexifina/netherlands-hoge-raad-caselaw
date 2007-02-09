@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AW3876"
-published_in: ["Rechtspraak.nl", "NJB 2007, 789", "Belastingblad 2007/367", "FED 2007/33 met annotatie van G. GROENEWEGEN", "BNB 2007/155 met annotatie van W.J.N.M. SNOIJINK", "V-N 2007/14.31 met annotatie van Redactie", "FutD 2007-0242 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "NJB 2007, 789", "Belastingblad 2007/367", "FED 2007/33 met annotatie van G. GROENEWEGEN", "BNB 2007/155 met annotatie van W.J.N.M. Snoijink", "V-N 2007/14.31", "NTFR 2007/400 met annotatie van mr. dr. G. Groenewegen", "FutD 2007-0242", "Viditax (FutD) 2007020901"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:AW3876"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2004:AR0669, Bekrachtiging/bevestiging"]]
 ---
 
