@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ9673"
-published_in: ["Rechtspraak.nl", "NJB 2007, 1172", "FED 2007/82 met annotatie van J.H.M. ARTS", "BNB 2007/240 met annotatie van E.J.W. Heithuis", "V-N 2007/14.17 met annotatie van Redactie", "FutD 2007-0413 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "NJB 2007, 1172", "FED 2007/82 met annotatie van J.H.M. ARTS", "BNB 2007/240 met annotatie van E.J.W. Heithuis", "V-N 2007/14.17", "NTFR 2007/380 met annotatie van mr. Chr.Th.P.M. Zandhuis", "FutD 2007-0413", "Viditax (FutD) 2007030203"]
 ---
 
 # ECLI:NL:HR:2007:AZ9673 Hoge Raad , 02-03-2007 / 42144
