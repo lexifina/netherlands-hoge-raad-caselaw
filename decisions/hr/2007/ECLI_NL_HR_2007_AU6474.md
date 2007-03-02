@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AU6474"
-published_in: ["Rechtspraak.nl", "NJB 2007, 1171", "FED 2007/81 met annotatie van J.H.M. ARTS", "BNB 2007/239 met annotatie van E.J.W. Heithuis", "Belastingadvies 2007/7.4", "V-N 2007/14.15 met annotatie van Redactie", "FutD 2007-0413 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "NJB 2007, 1171", "FED 2007/81 met annotatie van J.H.M. ARTS", "BNB 2007/239 met annotatie van E.J.W. Heithuis", "Belastingadvies 2007/7.4", "V-N 2007/14.15", "NTFR 2007/379 met annotatie van mr. Chr.Th.P.M. Zandhuis", "FutD 2007-0413", "Viditax (FutD) 2007030202"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:AU6474"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2004:AR5893, Bekrachtiging/bevestiging"]]
 ---
 
