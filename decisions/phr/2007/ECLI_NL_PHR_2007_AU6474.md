@@ -8,7 +8,7 @@ published: "2013-04-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2007:AU6474"
-published_in: ["Rechtspraak.nl", "NJB 2007, 1171", "FED 2007/81", "BNB 2007/239 met annotatie van E.J.W. Heithuis", "Belastingadvies 2007/7.4", "V-N 2007/14.15", "FutD 2005-2242"]
+published_in: ["Rechtspraak.nl", "NJB 2007, 1171", "FED 2007/81 met annotatie van J.H.M. ARTS", "BNB 2007/239 met annotatie van E.J.W. Heithuis", "Belastingadvies 2007/7.4", "V-N 2007/14.15", "NTFR 2005/1557", "FutD 2005-2242", "Viditax (FutD) 2005111811", "Viditax (FutD) 2007030202"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2004:AR5893"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2007:AU6474"]]
 ---
 
