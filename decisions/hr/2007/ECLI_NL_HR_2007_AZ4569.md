@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ4569"
-published_in: ["Rechtspraak.nl", "JOL 2007, 408", "NJ 2007, 419 met annotatie van P. van Schilfgaarde", "RvdW 2007, 552", "NTBR 2008, 14 met annotatie van D.M.A. Gerdes", "NJB 2007, 1365", "V-N 2007/30.23 met annotatie van Redactie", "JWB 2007/210", "AA20080128 met annotatie van R.D. Vriesendorp", "JOR 2007/221 met annotatie van A. Steneker"]
+published_in: ["Rechtspraak.nl", "JOL 2007, 408", "NJ 2007, 419 met annotatie van P. van Schilfgaarde", "RvdW 2007, 552", "NTBR 2008, 14 met annotatie van D.M.A. Gerdes", "NJB 2007, 1365", "V-N 2007/30.23", "JWB 2007/210", "AA20080128 met annotatie van R.D. Vriesendorp", "JOR 2007/221 met annotatie van A. Steneker"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:AZ4569"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2005:AU1828, Bekrachtiging/bevestiging"]]
 ---
 
