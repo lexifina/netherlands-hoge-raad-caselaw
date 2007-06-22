@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:BA2511"
-published_in: ["Rechtspraak.nl", "NJ 2007, 520 met annotatie van Redactie", "JOL 2007, 440", "RvdW 2007, 606", "NTBR 2007, 58 met annotatie van A.J. Verdaas", "NJB 2007, 1473", "JWB 2007/224", "AA20070972 met annotatie van S.E.  Bartels", "JOR 2007/222 met annotatie van JJvH"]
+published_in: ["Rechtspraak.nl", "NJ 2007, 520 met annotatie van Redactie", "JOL 2007, 440", "RvdW 2007, 606", "NTBR 2007, 58 met annotatie van A.J. Verdaas", "NJB 2007, 1473", "JWB 2007/224", "AA20070972 met annotatie van S.E.  Bartels", "JOR 2007/222 met annotatie van Mr. J.J. van Hees"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:BA2511"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-058.md"]
 ---
