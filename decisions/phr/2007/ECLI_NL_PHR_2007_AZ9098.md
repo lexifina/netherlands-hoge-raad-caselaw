@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2007:AZ9098"
-published_in: ["Rechtspraak.nl", "AB 2008, 1 met annotatie van R.J.G.M. Widdershoven", "NJB 2008, 25", "FED 2008/6", "BNB 2008/40 met annotatie van O.C.R. Marres", "V-N 2007/47.2", "FutD 2007-0368", "JB 2007/217 met annotatie van NV"]
+published_in: ["Rechtspraak.nl", "AB 2008, 1 met annotatie van R.J.G.M. Widdershoven", "NJB 2008, 25", "FED 2008/6 met annotatie van J.A.R. van Eijsden", "BNB 2008/40 met annotatie van O.C.R. Marres", "V-N 2007/47.2", "JB 2007/217 met annotatie van N. Verheij", "NTFR 2007/357", "FutD 2007-0368", "Viditax (FutD) 2007022305", "Viditax (FutD) 2007100502"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2007:AZ9098"]]
 ---
 
