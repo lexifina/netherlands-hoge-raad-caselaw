@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ9098"
-published_in: ["Rechtspraak.nl", "AB 2008, 1 met annotatie van R.J.G.M. Widdershoven", "NJB 2008, 25", "FED 2008/6 met annotatie van J.A.R. van Eijsden", "BNB 2008/40 met annotatie van O.C.R. MARRES", "V-N 2007/47.2 met annotatie van Redactie", "FutD 2007-1870", "JB 2007/217 met annotatie van NV"]
+published_in: ["Rechtspraak.nl", "AB 2008, 1 met annotatie van R.J.G.M. Widdershoven", "NJB 2008, 25", "FED 2008/6 met annotatie van J.A.R. van Eijsden", "BNB 2008/40 met annotatie van O.C.R. Marres", "V-N 2007/47.2", "JB 2007/217 met annotatie van N. Verheij", "NTFR 2007/1829 met annotatie van mr. dr. M.M. Kors", "FutD 2007-1870", "Viditax (FutD) 2007100502"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:AZ9098"]]
 cites_law: ["netherlands/national/acts/awb/art-06-007.md", "netherlands/national/acts/awr/art-065.md"]
 ---
