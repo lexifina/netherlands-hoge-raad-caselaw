@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AY5991"
-published_in: ["Rechtspraak.nl", "RN 2008, 2", "NJB 2008, 26", "FED 2008/23 met annotatie van J.P. BOER", "BNB 2008/122 met annotatie van R.M. FREUDENTHAL", "Belastingadvies 2007/22.4", "V-N 2007/49.8 met annotatie van Redactie", "FutD 2007-2018 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "RN 2008, 2", "NJB 2008, 26", "FED 2008/23 met annotatie van J.P. BOER", "BNB 2008/122 met annotatie van R.M. Freudenthal", "Belastingadvies 2007/22.4", "V-N 2007/49.8", "NTFR 2007/2036 met annotatie van mr. M.B. Lucas Luijckx", "FutD 2007-2018", "Viditax (FutD) 2007102601"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2007:AY5991"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2005:AU1967, Bekrachtiging/bevestiging"]]
 ---
 
