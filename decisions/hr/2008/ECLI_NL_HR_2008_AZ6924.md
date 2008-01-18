@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:AZ6924"
-published_in: ["Rechtspraak.nl", "RN 2008, 19", "FED 2008/32 met annotatie van J.C. VAN STRAATEN", "BNB 2008/60 met annotatie van I.J.F.A. van Vijfeijken", "Belastingadvies 2008/3.12", "V-N 2008/7.26 met annotatie van Redactie", "FutD 2008-0137"]
+published_in: ["Rechtspraak.nl", "RN 2008, 19", "FED 2008/32 met annotatie van J.C. VAN STRAATEN", "BNB 2008/60 met annotatie van I.J.F.A. van Vijfeijken", "Belastingadvies 2008/3.12", "V-N 2008/7.26 met annotatie van Redactie", "NTFR 2008/259 met annotatie van mr. D. van Beelen", "FutD 2008-0137", "Viditax (FutD) 2008011807"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:AZ6924"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2006:AV6380, Bekrachtiging/bevestiging"]]
 ---
 
