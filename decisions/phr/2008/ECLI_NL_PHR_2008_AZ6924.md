@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2008:AZ6924"
-published_in: ["Rechtspraak.nl", "RN 2008, 19", "FED 2008/32", "BNB 2008/60 met annotatie van I.J.F.A. van Vijfeijken", "Belastingadvies 2008/3.12", "V-N 2008/7.26", "FutD 2007-0170"]
+published_in: ["Rechtspraak.nl", "RN 2008, 19", "FED 2008/32 met annotatie van J.C. VAN STRAATEN", "BNB 2008/60 met annotatie van I.J.F.A. van Vijfeijken", "Belastingadvies 2008/3.12", "V-N 2008/7.26 met annotatie van Redactie", "FutD 2007-0170", "Viditax (FutD) 2008011807", "Viditax (FutD) 2007012616"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHARN:2006:AV6380"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2008:AZ6924"]]
 ---
 
