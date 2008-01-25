@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BB3438"
-published_in: ["Rechtspraak.nl", "FED 2008/94 met annotatie van J.H.M. ARTS", "FED 2008/85", "BNB 2008/104 met annotatie van P. KAVELAARS", "Belastingadvies 2008/4.9", "V-N 2008/7.20 met annotatie van Redactie", "FutD 2008-0171 met annotatie van Fiscaal up to Date", "JAR 2008/184"]
+published_in: ["Rechtspraak.nl", "FED 2008/94 met annotatie van J.H.M. ARTS", "FED 2008/85", "BNB 2008/104 met annotatie van P. Kavelaars", "Belastingadvies 2008/4.9", "V-N 2008/7.20", "JAR 2008/184", "NTFR 2008/195 met annotatie van mr. J.C.L.M. Fijen", "FutD 2008-0171", "Viditax (FutD) 2008012502"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BB3438"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2006:AX9322, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
