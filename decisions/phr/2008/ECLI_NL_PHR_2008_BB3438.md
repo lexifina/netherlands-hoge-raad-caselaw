@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2008:BB3438"
-published_in: ["Rechtspraak.nl", "FED 2008/94", "FED 2008/85", "BNB 2008/104 met annotatie van P. Kavelaars", "Belastingadvies 2008/4.9", "V-N 2008/7.20", "FutD 2007-1753", "JAR 2008/184"]
+published_in: ["Rechtspraak.nl", "FED 2008/94 met annotatie van J.H.M. ARTS", "FED 2008/85", "BNB 2008/104 met annotatie van P. Kavelaars", "Belastingadvies 2008/4.9", "V-N 2008/7.20", "JAR 2008/184", "FutD 2007-1753", "Viditax (FutD) 2008012502", "Viditax (FutD) 2007091415"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSGR:2006:AX9322"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2008:BB3438"]]
 ---
 
