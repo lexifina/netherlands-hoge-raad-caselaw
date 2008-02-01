@@ -10,7 +10,7 @@ procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BC1486"
 published_in: ["Rechtspraak.nl", "RI 2008, 24", "NJ 2009, 343 met annotatie van J. Hijma", "JOL 2008, 70", "RvdW 2008, 175", "NJB 2008, 445", "JWB 2008/51", "JOR 2008/115 met annotatie van R.I.V.F. Bertrams"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BC1486"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2005:AV2307, (Gedeeltelijke) vernietiging met verwijzen"]]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BC1486"]]
 cites_law: ["netherlands/national/acts/overgangswet-nieuw-burgerlijk-wetboek/art-220.md"]
 ---
 
