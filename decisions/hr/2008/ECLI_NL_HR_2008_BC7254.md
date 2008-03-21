@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BC7254"
-published_in: ["Rechtspraak.nl", "BNB 2008/206 met annotatie van M.W.C. FETERIS", "FED 2008/42 met annotatie van J.A. SMIT", "V-N 2008/15.3 met annotatie van Redactie", "FutD 2008-0612 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "BNB 2008/206 met annotatie van M.W.C. FETERIS", "FED 2008/42 met annotatie van J.A. SMIT", "V-N 2008/15.3", "FutD 2008-0612", "Viditax (FutD) 2008032104"]
 ---
 
 # ECLI:NL:HR:2008:BC7254 Hoge Raad , 21-03-2008 / 43695
