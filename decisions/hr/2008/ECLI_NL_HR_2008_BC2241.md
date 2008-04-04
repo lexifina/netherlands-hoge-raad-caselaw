@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BC2241"
-published_in: ["Rechtspraak.nl", "NJ 2008, 494 met annotatie van J. de Boer", "JOL 2008, 260", "RvdW 2008, 385", "RFR 2008, 66", "EB 2008, 55", "NJB 2008, 922", "JWB 2008/159", "SJP 2008/210", "JPF 2008/91 met annotatie van PVl"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BC2241"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2007:BB2386, (Gedeeltelijke) vernietiging met terugwijzen"]]
+published_in: ["Rechtspraak.nl", "NJ 2008, 494 met annotatie van J. de Boer", "JOL 2008, 260", "RvdW 2008, 385", "RFR 2008, 66", "EB 2008, 55", "NJB 2008, 922", "JWB 2008/159", "SJP 2008/210", "JPF 2008/91 met annotatie van prof. mr. P. Vlaardingerbroek", "FJR 2023/38.3", "FJR 2024/42.43"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BC2241"]]
 ---
 
 # ECLI:NL:HR:2008:BC2241 Hoge Raad , 04-04-2008 / R07/119HR
