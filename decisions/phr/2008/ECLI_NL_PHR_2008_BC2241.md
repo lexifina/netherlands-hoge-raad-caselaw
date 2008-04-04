@@ -8,8 +8,8 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2008:BC2241"
-published_in: ["Rechtspraak.nl", "NJ 2008, 494 met annotatie van J. de Boer", "JOL 2008, 260", "RvdW 2008, 385", "RFR 2008, 66", "EB 2008, 55", "NJB 2008, 922", "JWB 2008/159", "SJP 2008/210", "JPF 2008/91 met annotatie van PVl"]
-relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2007:BB2386"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2008:BC2241"]]
+published_in: ["Rechtspraak.nl", "NJ 2008, 494 met annotatie van J. de Boer", "JOL 2008, 260", "RvdW 2008, 385", "RFR 2008, 66", "EB 2008, 55", "NJB 2008, 922", "JWB 2008/159", "SJP 2008/210", "JPF 2008/91 met annotatie van prof. mr. P. Vlaardingerbroek"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2008:BC2241"]]
 ---
 
 # ECLI:NL:PHR:2008:BC2241 Parket bij de Hoge Raad , 04-04-2008 / R07/119HR
