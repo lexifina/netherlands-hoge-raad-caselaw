@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BC5977"
-published_in: ["Rechtspraak.nl", "JOL 2008, 344", "NJ 2008, 313 met annotatie van P. Mevis", "RvdW 2008, 498", "NJB 2008, 1085", "NBSTRAF 2008/203", "VA 2009/13 met annotatie van J. Silvis"]
+published_in: ["Rechtspraak.nl", "JOL 2008, 344", "NJ 2008, 313 met annotatie van P.A.M. Mevis", "RvdW 2008, 498", "NJB 2008, 1085", "VA 2009/13 met annotatie van J. Silvis", "NbSr 2008/203"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BC5977"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-288.md", "netherlands/national/acts/wetboek-van-strafvordering/art-410.md", "netherlands/national/acts/wetboek-van-strafvordering/art-418.md"]
 ---
