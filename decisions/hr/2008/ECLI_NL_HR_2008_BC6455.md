@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BC6455"
-published_in: ["Rechtspraak.nl", "NJB 2008, 1188", "BNB 2008/220 met annotatie van R.F.C. SPEK", "FED 2008/77 met annotatie van P.G.M. JANSEN", "V-N 2008/26.5 met annotatie van Redactie", "FutD 2008-1037 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "NJB 2008, 1188", "BNB 2008/220 met annotatie van R.F.C. Spek", "FED 2008/77 met annotatie van P.G.M. JANSEN", "V-N 2008/26.5 met annotatie van Redactie", "NTFR 2008/952 met annotatie van MR. J. VAN DE MERWE", "FutD 2008-1037", "Viditax (FutD) 2008051601"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BC6455"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2007:BB4858, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
