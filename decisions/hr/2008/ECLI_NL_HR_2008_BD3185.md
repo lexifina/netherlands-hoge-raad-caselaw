@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BD3185"
-published_in: ["Rechtspraak.nl", "BNB 2008/224", "V-N 2008/27.8 met annotatie van Redactie", "FutD 2008-1207"]
+published_in: ["Rechtspraak.nl", "BNB 2008/224", "V-N 2008/27.8", "NTFR 2008/1116 met annotatie van MR. E. THOMAS", "FutD 2008-1207", "Viditax (FutD) 2008060613"]
 ---
 
 # ECLI:NL:HR:2008:BD3185 Hoge Raad , 06-06-2008 / 43716
