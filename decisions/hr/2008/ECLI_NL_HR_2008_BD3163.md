@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BD3163"
-published_in: ["Rechtspraak.nl", "BNB 2009/47 met annotatie van CH.J. LANGEREIS", "FED 2008/78 met annotatie van J.J. VETTER", "Belastingadvies 2008/14/15.1", "V-N 2008/27.4 met annotatie van Redactie", "FutD 2008-1199 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "BNB 2009/47 met annotatie van CH.J. LANGEREIS", "FED 2008/78 met annotatie van J.J. VETTER", "Belastingadvies 2008/14/15.1", "V-N 2008/27.4", "FutD 2008-1199", "Viditax (FutD) 2008060606"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2006:AY0306, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
