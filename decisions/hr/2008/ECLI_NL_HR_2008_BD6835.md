@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BD6835"
-published_in: ["Rechtspraak.nl", "BNB 2008/247", "V-N 2008/34.4 met annotatie van Redactie", "FutD 2008-1497"]
+published_in: ["Rechtspraak.nl", "BNB 2008/247", "V-N 2008/34.4", "NTFR 2008/1445 met annotatie van mr. B.E.M. den Boer-Drinkenburg", "FutD 2008-1497", "Viditax (FutD) 2008071113"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2007:BA4984, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
