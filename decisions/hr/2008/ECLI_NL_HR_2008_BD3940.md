@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BD3940"
-published_in: ["Rechtspraak.nl", "NJ 2008, 521", "RvdW 2008, 890", "NJB 2008, 1810", "JWB 2008/383", "JBPR 2009/1 met annotatie van mr. Evelyne Groot"]
+published_in: ["Rechtspraak.nl", "NJ 2008, 521", "RvdW 2008, 890", "NJB 2008, 1810", "JWB 2008/383", "JBPr 2009/1 met annotatie van mr. Evelyne Groot"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BD3940"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2007:BB3959, (Gedeeltelijke) vernietiging met terugwijzen"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-186.md"]
 ---
