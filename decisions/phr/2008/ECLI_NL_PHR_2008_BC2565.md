@@ -1,0 +1,349 @@
+---
+ecli: "ECLI:NL:PHR:2008:BC2565"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "43387"
+decided: "2008-12-19"
+published: "2013-04-05"
+type: "conclusie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2008:BC2565"
+published_in: ["Rechtspraak.nl", "BNB 2009/73 met annotatie van A.L. Mertens", "FutD 2008-0185"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2008:BC2565"]]
+---
+
+# ECLI:NL:PHR:2008:BC2565 Parket bij de Hoge Raad , 19-12-2008 / 43387
+
+## Inhoudsindicatie
+
+Artikel 34 van de Invorderingswet 1990 (Inlenersaansprakelijkheid). Betekenis van verklaringen van de Ontvanger over het betalingsgedrag van de uitlener (atikel 35, § 15, lid 5, van de Leidraad Invordering 1990).
+
+## Conclusie
+
+Nr. 43.387
+
+Derde kamer A
+
+Invordering 2000 - 2001
+
+PROCUREUR-GENERAAL BIJ DE HOGE RAAD DER NEDERLANDEN
+
+MR. C.W.M. VAN BALLEGOOIJEN
+
+ADVOCAAT-GENERAAL
+
+Conclusie van 21 december 2007 inzake:
+
+X B.V.
+
+tegen
+
+De Minister van Financiën
+
+1. Feiten en procesverloop
+
+1.1. X B.V. (belanghebbende) oefent een schildersbedrijf uit. In de jaren 2000 en 2001 heeft zij werknemers ingeleend van A Limited (A), een in het Verenigd Koninkrijk gevestigde vennootschap die over kantoorruimte in Nederland beschikte. A heeft werknemers aan belanghebbende ter beschikking gesteld om onder haar toezicht in Nederland werkzaamheden te verrichten.
+
+1.2. Begin 1998 startte de Inspecteur(1) een onderzoek naar de belasting- en inhoudingsplicht van A in Nederland. Daarvoor heeft hij derdenonderzoek verricht bij diverse opdrachtgevers van A. Op grond van de resultaten concludeerde de Inspecteur dat A in Nederland ter zake van uitlening van werknemers inhoudingsplichtig was voor de loonbelasting. Op 7 december 1999 vond een boekenonderzoek bij A plaats naar haar inhouding en afdracht van loonbelasting. A verleende daarbij geen dan wel onvoldoende medewerking. Een aansluiting tussen de loonstaten en de volgens de bankafschriften uitbetaalde lonen kon niet worden gemaakt.(2) Het boekenonderzoek heeft geleid tot een rapport, gedateerd op 9 november 2000, naar aanleiding waarvan een naheffingsaanslag in de loonbelasting(3) met dagtekening 5 december 2000 is opgelegd over de periode 10 november 1997 tot en met 30 september 2000. De naheffing resulteerde in een te betalen bedrag van € 3.921.490, inclusief een boete van 100% van de nageheven belasting en rente.(4) Over dezelfde periode had A ƒ 749.889 op aangifte afgedragen.(5) Nadat A bezwaar tegen de naheffingsaanslag had gemaakt, is deze verminderd tot € 3.168.001. Het door A ingestelde beroep tegen de uitspraak op bezwaar is ingetrokken.
+
+1.3. De Ontvanger(6) heeft op 31 juli en 9 november 2000 een verklaring inzake het betalingsgedrag van A afgegeven.(7) In de verklaringen is het algemene voorbehoud opgenomen dat de belastingdienst niet aansprakelijk is voor eventuele nadelige gevolgen die voortvloeien uit het gebruik van de verklaring.(8)
+
+Tot de gedingstukken behoren een premienota van 4 oktober 1999, afgegeven door het Sociaal Fonds Bouwnijverheid (SFB), waarin is vermeld dat A geen premie verschuldigd is, en verklaringen van de Inland Revenue van 16 augustus en 5 december 2000 dat A in Engeland alle belasting en premies tot de in de verklaringen genoemde data heeft afgedragen.
+
+1.4. Medio 2002 heeft de Inspecteur bij A een aanvullend onderzoek ingesteld over de periode 1 oktober 2000 tot en met 31 mei 2002. Ook over die periode bleek geen aansluiting te bestaan tussen de volgens de loonstaat betaalde bedragen en de volgens de bankafschriften betaalde lonen. Dit onderzoek leidde tot het opleggen van een naheffingsaanslag in de loonbelasting met dagtekening 25 juli 2002 over die periode. De naheffingsaanslag bedroeg € 1.299.463 (exclusief rente). Daartegen heeft A geen rechtsmiddel ingesteld.
+
+1.5. Belanghebbende heeft geen bedragen op de geblokkeerde rekening van A overgemaakt en evenmin rechtstreekse betalingen aan de belastingdienst gedaan.
+
+1.6. Nadat was gebleken dat A gedeeltelijk met de betaling van voormelde naheffingsaanslagen in gebreke was gebleven, heeft de Ontvanger belanghebbende bij beschikking van 24 oktober 2002 voor de nageheven bedragen aansprakelijk gesteld voor zover die zagen op door werknemers van A ten behoeve van belanghebbende gewerkte uren. De aansprakelijkstelling strekt zich uit over de jaren 2000 en 2001 en het bedrag ervan beloopt € 19.471. Het bezwaar tegen de beschikking heeft de Ontvanger(9) ongegrond verklaard. Bij ambtshalve genomen beschikking van 9 mei 2003 is het bedrag van de aansprakelijkstelling verminderd met € 813,06. Belanghebbende heeft tegen de uitspraak van de Ontvanger beroep ingesteld bij het gerechtshof 's-Hertogenbosch (het Hof).
+
+1.7. Bij uitspraak van 19 april 2004, met kenmerk 03/02778(10), heeft de voorzieningenrechter van het Hof, in een zaak betreffende de aansprakelijkstelling van een andere inlener van A, de Ontvanger gelast bepaalde op de zaak betrekking hebbende stukken aan die inlener te verstrekken.(11) Deze stukken zijn in de uitspraak opgesomd. Dat geding ging om het verzoek van die inlener aan de Ontvanger om inzage van stukken ter zake van haar aansprakelijkstelling. Volgens een brief van 24 februari 2005 van de Ontvanger aan het Hof (in de zaak betreffende die andere inlener, maar waarvan een afschrift kennelijk door de griffier is gevoegd in het onderhavige dossier(12)) is belanghebbende naar aanleiding van die uitspraak in de gelegenheid gesteld gebruik te maken van haar recht van inzage in de op haar zaak betrekking hebbende stukken. Vele van deze stukken ontbreken in het dossier.
+
+2. Uitspraak van het Hof en klacht
+
+2.1. Het Hof heeft het beroep van belanghebbende bij uitspraak van 24 mei 2006(13) gegrond verklaard, de bestreden uitspraak vernietigd en het bedrag van de aansprakelijkstelling zoals deze bij beschikking door de Ontvanger ambtshalve is verminderd (zie 1.6) gehandhaafd.
+
+2.2. Tegen de uitspraak van het Hof heeft belanghebbende op regelmatige wijze beroep in cassatie ingesteld. De Minister van Financiën (de Minister) heeft een verweerschrift ingediend. Bij brief van 12 februari 2007 is namens belanghebbende een schriftelijke toelichting ingediend.
+
+2.3. In deze conclusie beperk ik mij tot bespreking van de klacht in het beroepschrift die zich richt tegen het oordeel van het Hof betreffende het in 3.1 onder b van zijn uitspraak geformuleerde geschilpunt. Dit geschilpunt luidt:
+
+3.1. (...)
+
+b. Staat aan aansprakelijkheid van belanghebbende ingevolge artikel 34 van de Invorderingswet 1990 in de weg dat aan A zogenoemde schone verklaringen betalingsgedrag zijn afgegeven, toen het onderzoek bij A al twee jaren gaande was (niet-verwijtbaarheid van belanghebbende)?
+
+2.4. Het Hof heeft deze vraag ontkennend beantwoord in r.o. 4.2.3 op grond van de daaraan vooafgaande overweging:
+
+4.2.2. (...) De door de ontvanger afgegeven verklaring heeft alleen betrekking op de loonbelasting en premies volksverzekeringen die bekend zijn op het moment van de afgifte van de verklaring. De verklaring geeft geen garantie of de materieel verschuldigde loonbelasting en premies volksverzekeringen zijn voldaan. Verder is in de verklaring de standaardbepaling opgenomen dat "de belastingdienst niet aansprakelijk is voor eventuele nadelige gevolgen die voortvloeien uit het gebruik van deze verklaring". Belanghebbende had risicoaansprakelijkheid van artikel 34 van de Invorderingswet 1990 kunnen afweren door (gedeelten van) bedragen van facturen van A op de G-rekening van A te storten, of door stortingen als bedoeld te doen op de rekening van de ontvanger of op de rekening van het Centraal Betaalkantoor in Apeldoorn, ten gunste van A. Belanghebbende, die ervan op de hoogte was dat zij zich tegen die risicoaansprakelijkheid kon beschermen, heeft een en ander nagelaten.
+
+2.5. De klacht houdt in dat 's Hof oordeel onvoldoende gemotiveerd is. Belanghebbende heeft reeds in 2000 overleg gevoerd met het UWV en de belastingdienst en diverse gegevens opgevraagd zoals verklaringen inzake het betalingsgedrag bij A, premienota's van het SFB en verklaringen van de Inland Revenue zodat het oordeel in de laatste volzin van de rechtsoverweging dat belanghebbende 'een en ander' heeft nagelaten onbegrijpelijk is, aldus belanghebbende.
+
+2.6. Bij deze conclusie hoort een bijlage die tevens ziet op de nummers 43.282, 43.382 en 43.622. Bij de bespreking van de klacht verwijs ik naar deze bijlage.
+
+3. Beoordeling van de klacht
+
+3.1. Het Hof heeft geoordeeld dat het afgeven van 'schone' verklaringen aan A, terwijl het onderzoek bij haar al twee jaren gaande was, niet aan aansprakelijkstelling in de weg stond. De klacht richt zich tegen dit oordeel en in het bijzonder tegen de aanname dat belanghebbende onvoldoende heeft gedaan om de aansprakelijkstelling te voorkomen. Belanghebbende wijst erop dat zij reeds in 2000 overleg voerde met het UWV en de belastingdienst en dat zij aan A vroeg om verklaringen inzake het betalingsgedrag. Ik versta belanghebbendes klacht aldus dat het Hof ten onrechte aan de afgegeven verklaringen geen gevolgen heeft verbonden voor haar aansprakelijkstelling.(14)
+
+3.2. 's Hofs beslissing in r.o. 4.2.3 gaat naar mijn opvatting uit van een onjuiste rechtsopvatting. In de eerste plaats overweegt het Hof in r.o. 4.2.2 dat de verklaringen waren voorzien van een algemeen voorbehoud ("de standaardbepaling") en verbindt het daaraan kennelijk het gevolg dat de belastingdienst niet aansprakelijk is voor zijn fouten. Een dergelijk algemeen voorbehoud kan mijns inziens door de Ontvanger niet worden ingeroepen ter voorkoming van aansprakelijkheid voor schade door onzorgvuldig handelen aan zijn kant (zie onderdeel 3.2 van de bijlage). Voorts overweegt het Hof in de genoemde overweging dat belanghebbende zich tegen aansprakelijkheid had kunnen beschermen door bedragen over te maken op de g-rekening of door rechtstreekse stortingen. Hoewel deze constatering van het Hof op zichzelf juist is, kan de omstandigheid dat belanghebbende dit om haar moverende redenen niet heeft gedaan, niet onzorgvuldig handelen van de Ontvanger goedpraten. Ook een inlener die ervoor kiest geen gebruik te maken van deze mogelijkheden om aansprakelijkheid te voorkomen, mag erop vertrouwen dat de Ontvanger bij het afgegeven van verklaringen inzake het betalingsgedrag zorgvuldig te werk gaat. Als de Ontvanger ten onrechte een verklaring afgeeft en de inlener op die verklaring is afgegaan en daardoor geen voorzorgsmaatregelen trof, moet dit leiden tot een vermindering van de aansprakelijkstelling (zie onderdeel 5 van de bijlage).
+
+3.3. De Ontvanger heeft in ieder geval tot en met 9 november 2000 'schone' verklaringen inzake het betalingsgedrag aan A afgegeven. Op 7 december 1999 startte de Inspecteur bij A een boekenonderzoek naar de inhouding en afdracht door haar en begin 2000 constateerde hij dat aanzienlijke verschillen bestonden tussen de loonbetalingen en de lonen volgens de loonadministratie. Nadat het boekenonderzoek bij A was afgerond, maakte de controlerend ambtenaar zijn rapport op met dagtekening 9 november 2000 en stelde hij zich op het standpunt dat A een deel van de verschuldigde loonbelasting niet op aangifte heeft afgedragen. Dit resulteert in het opleggen van een naheffingsaanslag met dagtekening 5 december 2000 van € 3.921.490, inclusief een boete van 100%. De dag waarop het rapport verschijnt, dat was 9 november 2000, geeft de Ontvanger een 'schone' verklaring inzake het betalingsgedrag af. Hier is de vraag aan de orde of de Ontvanger onzorgvuldig handelde door 'schone' verklaringen af te geven terwijl tijdens het boekenonderzoek bij de uitlener het vermoeden van fraude is gerezen.
+
+3.4. Natuurlijk moet de inspecteur een redelijke termijn worden gegund om de resultaten van een boekenonderzoek aan de ontvanger bekend te maken (zie onderdeel 3.8 van de bijlage). Niet alleen moet het rapport worden beoordeeld door de kantoortoetser, maar ook worden verzonden. Omdat het rapport vermeldt dat A niet meewerkte aan het boekenonderzoek, dat de boekhouding onbetrouwbaar was en dat een grote naheffingsaanslag zal worden opgelegd, was snel handelen voor de Inspecteur geboden; ik denk hierbij aan enkele dagen. Daarom ga ik er vanuit dat de Ontvanger in ieder geval enkele dagen na het opmaken van het rapport wist, of althans behoorde te weten, dat de Inspecteur voornemens was de door A niet aangegeven en afgedragen loonbelasting na te heffen.
+
+3.5. Wat betreft de verklaring van 9 november 2000, die verstrekt is op de dag waarop het rapport verscheen, en die van 31 juli 2000, vraag ik mij af of deze afgegeven hadden mogen worden. Hoewel het Hof op dit punt geen onderzoek heeft verricht, komt uit de gedingstukken naar voren dat gedurende zijn boekenonderzoek bij de controlerend ambtenaar op enig moment het vermoeden moet zijn ontstaan dat sprake was van ernstige tekortkomingen in de nakoming van de aangifte- en administratieverplichtingen. Zo is reeds begin 2000 verzocht een aansluiting te maken tussen de loonbetalingen en de loonstaat en werd aan dit verzoek niet voldaan; het ging daarbij om aanzienlijke verschillen. A verleende bovendien geen of althans onvoldoende medewerking aan het boekenonderzoek. Ik neem aan dat de controlerend ambtenaar reeds vóór het einde van zijn boekenonderzoek het vermoeden had een omvangrijke belastingontduiking te hebben ontdekt. Onder die omstandigheden was de Inspecteur mijns inziens gehouden de Ontvanger op de hoogte te stellen van het vermoeden en had de Ontvanger vervolgens vanaf dat moment geen verklaringen meer mogen afgeven (zie onderdeel 3.9 van de bijlage). Het Hof heeft niet onderzocht op welk moment gedurende het boekenonderzoek naar A bij de Inspecteur het vermoeden van fraude is ontstaan. Naar mijn mening dient, afhankelijk van de beantwoording van de vraag of belanghebbende afging op door de Ontvanger verstrekte verklaringen, welke vraag ik onder 3.6 behandel, een verwijzingshof op dit punt nader onderzoek te verrichten.
+
+3.6. Het is tot slot van belang te weten of belanghebbende kennis nam van de onjuiste dan wel onterecht afgegeven verklaringen en of zij daarop af ging. Slechts in dat geval heeft het onzorgvuldig handelen van de Ontvanger invloed op de hoogte van de aansprakelijkstelling van belanghebbende, omdat zij afgaande op die verklaringen geen maatregelen heeft genomen om haar aansprakelijkstelling te beperken. Het Hof heeft op dit punt niets vastgesteld. Belanghebbende heeft bij haar beroepschrift twee verklaringen inzake het betalingsgedrag van A gevoegd. Uit de gedingstukken kan niet met zekerheid worden afgeleid of belanghebbende regelmatig verklaringen bij A opvroeg. Een volledig debat tussen partijen heeft op dit punt niet plaats gevonden, omdat het Hof een beslissing op de vraag of belanghebbende de verklaringen bij A opvroeg, niet nodig achtte voor de beoordeling van het geschil; het Hof heeft op dit punt dan ook geen onderzoek verricht. Nu het beantwoorden van die vraag mijns inziens van cruciaal belang is om te beoordelen of aan onzorgvuldig handelen van de Ontvanger gevolgen verbonden moeten worden voor de aansprakelijkstelling, acht ik het noodzakelijk dat een verwijzingshof het onderzoek voortzet om hierover helderheid te verkrijgen. Dit betekent dat de klacht terecht is voorgesteld; ik stel de Raad voor de zaak te verwijzen voor nader onderzoek om te bepalen of belanghebbende de verklaringen inzake het betalingsgedrag regelmatig bij A opvroeg en of zij aan de verklaringen betekenis toekende. Bij een positieve beantwoording van die vraag dient het gerechtshof tevens te onderzoeken op welk moment gedurende het boekenonderzoek bij de Inspecteur een vermoeden van fraude is ontstaan (zie 3.5).
+
+4. Conclusie
+
+Mijn conclusie strekt tot gegrondverklaring van het beroep, vernietiging van de uitspraak van het Hof en verwijzing van de zaak.
+
+De Procureur-Generaal bij de Hoge Raad der Nederlanden
+
+Advocaat-Generaal
+
+1 Het Hoofd van de eenheid Ondernemingen P.
+
+2 Aldus het rapport van 24 september 2002 van een ingesteld boekenonderzoek bij belanghebbende; blz. 2 van productie 3 bij het verweerschrift van 15 september 2003.
+
+3 Er is geen premie volksverzekeringen nageheven, zie r.o. 2.4 van de nader te noemen hofuitspraak.
+
+4 Verweerschrift van 15 september 2003, blz. 2.
+
+5 Aldus het rapport van 24 september 2002; blz. 4 van productie 3 bij het verweerschrift van 15 september 2003.
+
+6 Het hoofd van de eenheid Ondernemingen P.
+
+7 Productie 4 bij het beroepschrift van 15 juli 2003.
+
+8 Zie r.o. 4.2.2 van de nader te noemen uitspraak van het gerechtshof 's-Hertogenbosch.
+
+9 Inmiddels de voorzitter van het managementteam van het onderdeel P.
+
+10 Gepubliceerd in V-N 2004/38.2.
+
+11 Die andere inlener is belanghebbende in de zaak 43.622 waarin ik heden ook concludeer.
+
+12 Opmerkelijk is wel dat de bij die brief behorende stukken niet in het dossier van belanghebbende zijn gevoegd en dat die brief vermoedelijk niet is doorgezonden aan belanghebbende.
+
+13 Gerechtshof 's-Hertogenbosch 24 april 2006, 03/01495, (nog) niet gepubliceerd.
+
+14 Zie over het aanvullen van klachten en beleidsregels 2.10 van de bijlage.
+
+Procureur-Generaal bij de Hoge Raad der Nederlanden
+
+MR. C.W.M. VAN BALLEGOOIJEN
+
+ADVOCAAT-GENERAAL
+
+Bijlage bij de conclusies van 21 december 2007 inzake de nummers 43.282, 43.382, 43.387 en 43.622.
+
+1. De inlenersaansprakelijkheid; een inleiding
+
+1.1. Artikel 34 van de Invorderingswet 1990 (Invorderingswet) regelt de aansprakelijkheid van inleners van arbeidskrachten. Ingevolge lid 1 van het artikel is een inlener hoofdelijk aansprakelijk ingeval een werknemer met instandhouding van de dienstbetrekking tot zijn inhoudingsplichtige, de uitlener, door deze ter beschikking is gesteld aan de inlener om onder diens toezicht of leiding werkzaam te zijn. De inlener is aansprakelijk voor de loonbelasting, premie volksverzekeringen, premies werknemersverzekeringen(1) en omzetbelasting. De inlener loopt het risico om jaren later geconfronteerd te worden met veelal aanzienlijke bedragen aan alsnog verschuldigde belasting en premies, die hij eerder - verdisconteerd in de prijs voor het inlenen - heeft betaald. Maar hij kan zich op een aantal manieren vrijwaren en zo een aansprakelijkstelling voorkomen of beperken.
+
+1.2. Artikel 34, lid 3, Invorderingswet bevat een wettelijke vrijwaring voor de inlener, indien en voor zover hij bedragen heeft overgemaakt op een g-rekening van de uitlener. In de Uitvoeringsregeling inlenersaansprakelijkheid(2) zijn regels gesteld voor het gebruik van de g-rekening. Zo moet een overeenkomst conform de bijlage bij de Uitvoeringsregeling worden gesloten tussen de betrokken partijen, te weten de uitlener, de inlener, de kredietinstelling, de fiscus en - tot 1 januari 2006 - de uitvoerings-instelling. De uitlener moet zijn bedrijf uitsluitend of nagenoeg uitsluitend maken van het tegen vergoeding uitlenen van personeel. Daarnaast moeten vereisten in acht worden genomen die gesteld zijn aan de factuur en de betaling van het inlenen en aan de administratie van de inlener.
+
+Aan het gebruik van de g-rekening zijn nadelen verbonden. Naast de omstandigheid dat het gebruik een flinke administratieve last met zich brengt, zo moet de inlener een deugdelijke schaduwloonadministratie met betrekking tot het ingeleende personeel voeren, kan hij door de vele voorwaarden en formaliteiten gemakkelijk iets over het hoofd zien met mogelijk desastreuze gevolgen. Een nadeel is ook dat het blokkeren van de op de g-rekening gestorte bedragen een beperking van de liquiditeit van de onderneming van de uitlener oplevert.(3) Desalniettemin heeft de wetgever kennelijk gemeend dat hij met het systeem van de g-rekening een goede mogelijkheid aan inleners biedt om aansprakelijkstelling te voorkomen.
+
+1.3. In de uitvoeringspraktijk is goedgekeurd dat een inlener als alternatief voor de g-rekening ervoor kiest bedragen rechtstreeks over te maken aan de belastingdienst of uitvoeringsinstelling. De overmaking, mits voldoende gespecificeerd, vermindert het bedrag van de eventuele aansprakelijkstelling.(4) Deze zogenoemde rechtstreekse storting neemt een aantal nadelen van het systeem van de g-rekening weg. Voor dit systeem geldt uiteraard dat de uitlener bereid moet zijn in te stemmen met de rechtstreekse stortingen; ook de rechtstreekse stortingen hebben een ongunstige invloed op zijn liquiditeitspositie.
+
+1.4. Artikel 34, lid 4, Invorderingswet voorziet in een disculpatiemogelijkheid voor de inlener. Voor disculpatie is vereist dat het niet betalen van de belasting en premies niet aan de inlener en evenmin aan de uitlener te wijten is. De bewijslast voor de niet verwijtbaarheid aan beide kanten rust op de inlener. Met name de voorwaarde dat ook de uitlener geen verwijt valt te maken, zorgt er voor dat de inlener zich niet snel met succes op deze bepaling zal kunnen beroepen.(5)
+
+1.5. De inlener van arbeidskrachten kan nog een andere maatregel treffen om te voorkomen dat de ontvanger hem aansprakelijk stelt: zijn wederpartij zorgvuldig selecteren. Zo kan hij alvorens in zee te gaan met een bepaalde uitlener informatie over het bedrijf inwinnen door het opvragen van gegevens bij de Kamer van Koophandel, navraag te doen in de branche en het opvragen van referenties. Veelal zal hij daarmee niet of nauwelijks zicht krijgen op het fiscale gedrag van de uitlener. Een manier waarop dit inzicht - tot op zekere hoogte - wel kan worden verkregen is het zich laten informeren over het belastingbetaalgedrag van de uitlener. Hij vraagt dan aan de uitlener om inzage in de verklaringen inzake het betalingsgedrag die de belastingdienst aan de uitlener op verzoek pleegt af te geven.
+
+1.6. De wetgever heeft met de invoering van de inlenersaansprakelijkheid het risico van verlies van belastinginkomsten, dat de Staat loopt bij wanbetaling door de uitlener, verlegd naar degene die gebruik maakt van de diensten van de in gebreke blijvende belastingbetaler. Aangezien daarmee de invorderingsmogelijkheden van de ontvanger zijn toegenomen ten koste van de inleners, hebben zowel de wetgever als de belastingdienst zorg besteed aan het gerechtvaardigde belang van de aansprakelijken om zich te kunnen vrijwaren.(6) De wetgever heeft dat gedaan door de invoering van de g-rekening en door de disculpatiemogelijkheid; de belastingdienst doet dat door het rechtstreekse overmaken mogelijk te maken en door het afgeven van verklaringen omtrent het betalingsgedrag. De zorg van de belastingdienst voor de belangen van de inlener vindt zijn grondslag in het zorgvuldigheidsbeginsel. Deze zorgplicht herinnert aan de verbintenis van de schuldeiser tegenover de borg. Ik citeer uit Asser-Van Schaick:(7)
+
+Het subsidiaire karakter van de principale verbintenis uit de overeenkomst van borgtocht brengt mee dat aan deze overeenkomst inherent is de bedoeling van partijen dat de schuldeiser in beginsel geen nakoming van deze principale verbintenis zal vorderen, tenzij de hoofdschuldenaar in de nakoming van de gewaarborgde verbintenis tekortschiet. Uit de névenverbintenis uit de overeenkomst van borgtocht die de schuldeiser verplicht om rekening te houden met de gerechtvaardigde belangen van de borg (art. 6:248 lid 1 BW), volgt dan onder meer dat de schuldeiser gehouden is om, voorzover dat althans in redelijkheid van hem gevergd kan worden, maatregelen te treffen die voorkómen dat hij de borg moet aanspreken. Dat kan inhouden dat hij de borg op de hoogte brengt van ontwikkelingen in zijn rechtsverhouding met de hoofdschuldenaar, vooral wanneer deze het risico creëren of vergroten dat de borg wordt aangesproken tot nákoming van de subsidiaire verbintenis dan wel tot betaling van een groter bedrag dan strikt genomen noodzakelijk was, vooropgesteld dat de schuldeiser redenen heeft om aan te nemen dat de borg het wellicht in zijn macht heeft om dergelijke risico's weg te nemen of te verkleinen of om andere, gerechtvaardigde redenen belang heeft bij informatie van de schuldeiser. Om dezelfde redenen kan de schuldeiser gehouden zijn om de borg te waarschuwen als diens mogelijkheden van verhaal op de borg gefrustreerd worden of dreigen te worden.
+
+2. Verklaring inzake het betalingsgedrag; de Leidraad
+
+2.1. Bij de behandeling van het ontwerp van de Wet Ketenaansprakelijkheid hebben kamerleden aangedrongen op informatieverstrekking over de betaling van premies en belastingen ten behoeve van aansprakelijken.(8) De bewindspersonen hebben hierop de toezegging gedaan dat verklaringen inzake het betalingsgedrag afgegeven worden, zij het uitsluitend aan de onderaannemer of uitlener zelf en niet aan derden vanwege de geheimhoudingsplicht van de belastingdienst. De staatssecretaris van Sociale Zaken heeft opgemerkt dat de fiscus een verklaring kan afgeven met de volgende inhoud:(9)
+
+Op ........ verklaar ik.........(de inspecteur van de belastingen) dat de .........(betrokken werkgever) over de laatst verstreken twaalf maanden, casu quo over de laatste verstreken vier kalenderkwartalen de in zijn aangiften vermelde premies volksverzekeringen, loonbelasting en omzetbelasting alsmede de over dat tijdvak nageheven premie volksverzekeringen, loonbelasting en omzetbelasting heeft betaald.
+
+De staatssecretaris merkte vervolgens op dat de bedrijfsvereniging een soortgelijke verklaring kan afgeven.(10) De bewindspersonen hebben aangekondigd dat zij richtlijnen met betrekking tot de verklaring inzake het betalingsgedrag zullen opstellen.(11) Deze richtlijnen zijn als regels van beleid neergelegd in de Leidraad Invordering 1990 (de Leidraad).(12)
+
+2.2. Artikel 35, paragraaf 15, Leidraad, dat als opschrift draagt 'verklaring inzake de nakoming van fiscale verplichtingen' is geheel gewijd aan de verklaring inzake het betalingsgedrag. Dit artikel heeft betrekking op de ketenaansprakelijkheid, maar volgens artikel 34, paragraaf 4, lid 2, is het bepaalde in artikel 35, paragraaf 15, lid 2 tot en met 11, en paragraaf 16 van overeenkomstige toepassing op de inlenersaansprakelijkheid. Artikel 35, paragraaf 15, lid 3, Leidraad, omschrijft het karakter van de verklaring:(13)
+
+De door de ontvanger afgegeven verklaring heeft betrekking op de loonbelasting en premies volksverzekeringen die bekend zijn op het moment van afgifte van de verklaring. De verklaring geeft geen garantie dat de materieel verschuldigde loonbelasting en premies volksverzekeringen ten volle zijn voldaan en evenmin dat de onderaannemer de loonbelasting en premies volksverzekeringen die hij na afgifte van de verklaring verschuldigd zal worden, zal voldoen.(14)
+
+2.3. Er bestaan volgens lid 5 van paragraaf 15 drie soorten verklaringen:
+
+a. de volgens aangifte verschuldigde loonbelasting en premies volksverzekeringen alsmede de nageheven loonbelasting en premies volksverzekeringen zijn voldaan (de zogenaamde 'schone verklaring');
+
+b. de volgens aangifte verschuldigde loonbelasting en premies volksverzekeringen alsmede de nageheven loonbelasting en premies volksverzekeringen zijn voldaan met uitzondering van de bedragen waarvoor uitstel van betaling is verleend in verband met ingediend bezwaar c.q. beroep (de zogenaamde 'voorbehoudverklaring');
+
+c. de volgens aangifte verschuldigde loonbelasting en premies volksverzekeringen alsmede de nageheven loonbelasting en premies volksverzekeringen zijn voldaan met uitzondering van de bedragen waarvoor (in verband met liquiditeitsproblemen) een betalingsregeling is getroffen, die tot het tijdstip van afgifte van de verklaring wordt nagekomen (de zogenaamde 'voorbehoudverklaring').
+
+2.4. Een 'schone' verklaring wordt afgegeven als zich met betrekking tot de betaling van belasting en/of premies geen problemen voordoen. Dit betekent niet dat alle tot dan toe materieel verschuldigde belasting en premies voldaan of afgedragen zijn, doch dat dit slechts is gebeurd voor zover deze door de inlener zelf op aangifte zijn verantwoord danwel zijn nageheven. Er vindt door de ontvanger geen inhoudelijke toetsing van de juistheid van de aangiften plaats. Hij geeft dan ook zonder voorbehoud aan de koppelbaas verklaringen af zolang deze zijn valse aangiftes maar betaalt. Het slot van de verklaring dat de werkgever ook 'de over dat tijdvak nageheven premie volksverzekeringen, loonbelasting en omzetbelasting heeft betaald' doet het voorkomen alsof over het tijdvak een controle door de fiscus zou hebben plaatsgevonden. De verklaring biedt de uitlener echter geen garantie dat hij niet zal worden aangesproken voor belasting of premies die ten onrechte niet zijn aangegeven. Misleidend is dan ook het opschrift van paragraaf 15 van artikel 35 Leidraad ('verklaring inzake de nakoming van fiscale verplichtingen'). Het gebruik van de woorden 'fiscale verplichtingen' suggereert dat meer is beoordeeld dat louter de betaling van de aangegeven en nageheven bedragen.
+
+2.5. In paragraaf 15, lid 4, is opgenomen dat de ontvanger een algemeen voorbehoud voor aansprakelijkheid van de belastingdienst vermeldt in de verklaring:
+
+De ontvanger meldt in de verklaring dat (...) de Belastingdienst niet aansprakelijk kan worden gesteld voor enig nadeel van welke aard dan ook dat eventueel voortvloeit uit het gebruik van de verklaring.
+
+Dit algemeen voorbehoud brengt naar de letter mee dat zelfs als de ontvanger een verklaring afgeeft die in strijd is met de werkelijkheid, dit nimmer ten nadele van hem kan werken.
+
+2.6. Ingevolge artikel 35, paragraaf 15, lid 7, Leidraad geeft de ontvanger geen verklaring af als:
+
+- achterstand bestaat in de betaling van loonbelasting en premies volksverzekeringen en voor de desbetreffende belastingaanslagen geen uitstel van betaling is verleend in verband met ingesteld bezwaar c.q. beroep;
+
+- achterstand bestaat in de betaling van loonbelasting en premies volksverzekeringen en voor de desbetreffende belastingaanslagen geen betalingsregeling is getroffen;
+
+- een betalingsregeling is getroffen die niet wordt nagekomen.
+
+Volgens het slot van lid 7 geschiedt de weigering een verklaring af te geven bij beschikking onder vermelding van de reden.
+
+2.7. Paragraaf 15, lid 8, bepaalt dat wanneer het de ontvanger bekend is dat de inspecteur van plan is binnen afzienbare tijd één of meer naheffingsaanslagen op te leggen, het verzoek om een verklaring af te geven buiten behandeling blijft tot de naheffingsaanslagen zijn opgelegd:
+
+Als het de ontvanger bekend is dat de inspecteur van plan is binnen afzienbare tijd één of meer naheffingsaanslagen op te leggen, blijft het verzoek buiten behandeling tot die naheffingsaanslagen zijn opgelegd, waarna de verklaring slechts wordt afgegeven wanneer alsnog is voldaan aan de in deze paragraaf gestelde voorwaarden met betrekking tot de afgifte van een verklaring inzake het betalingsgedrag. De ontvanger deelt de reden van de opschorting schriftelijk aan de onderaannemer mee.
+
+In de Leidraad is niet geregeld op welke wijze de inspecteur deze informatie aan de ontvanger bekend maakt; de termijnstelling 'binnen afzienbare tijd' is evenmin toegelicht. Deze termijnstelling verving per 1 juli 1991 de tekst 'binnen vier weken na ontvangst van de aanvraag'.
+
+2.8. Is de inspecteur van mening dat tot te lage bedragen aangifte is gedaan, dan zal dit leiden tot het opleggen van een naheffingsaanslag, mogelijk gevolgd door bezwaar en beroep. In dat geval wordt geen 'schone' verklaring afgegeven, tenzij de naheffingsaanslag inmiddels is betaald of zekerheid wordt gesteld voor de betaling van de belastingaanslag. Dit is opgenomen in lid 10 van paragraaf 15 van voormeld artikel van de Leidraad:
+
+Als de onderaannemer aangifte heeft gedaan, maar - naar het oordeel van de inspecteur - tot te lage bedragen kan dit leiden tot het opleggen van één of meer naheffingsaanslagen. De onderaannemer kan tegen deze belastingaanslagen bezwaar en beroep aantekenen. Bovengenoemde situatie kan zich bijvoorbeeld voordoen als de onderaannemer en de inspecteur van mening verschillen over de vraag of sprake is van belastbaar loon.
+
+De schone verklaring zal in deze gevallen slechts worden afgegeven als de inhoudingsplichtige de naheffingsaanslag(en) betaalt of tot het bedrag van de belastingaanslag(en) zekerheid verstrekt aan de ontvanger bijvoorbeeld in de vorm van een bankgarantie, een en ander in afwachting van een onherroepelijke uitspraak met betrekking tot de hoogte van de belastingaanslag(en).
+
+Tevens vermeldt hij dat de onderaannemer voor deze belastingaanslagen zekerheid heeft gesteld.
+
+Als de uitlener geen zekerheid stelt, zal de Ontvanger een voorbehoudverklaring als bedoeld in lid 5, onderdeel b, afgeven (zie 2.3). In de Leidraad is echter niet geregeld hoe de Ontvanger behoort te handelen in de periode ná het opleggen van de naheffingsaanslag en vóór de ontvangst van een bezwaarschrift. De Ontvanger kan in zo'n geval geen 'schone' verklaring afgeven omdat niet is voldaan aan de voorwaarde dat de nageheven loonbelasting is voldaan. Mijn inziens ligt het in de rede dat de Ontvanger in dat geval het afgeven van een verklaring opschort - conform lid 8 (zie 2.7) -, tenzij de uitlener voor het bedrag van de naheffingsaanslag zekerheid stelt.
+
+2.9. Mede met behulp van deze regels uit de Leidraad heeft de belastingdienst invulling gegeven aan zijn zorgplicht ten opzichte van de inleners. Het afgeven van verklaringen inzake het betalingsgedrag biedt hen echter in zeer beperkte mate hulp bij het voorkomen van een aansprakelijkstelling. De koppelbaas die zijn valse aangiftes betaalt ontvangt een verklaring en dat geldt ook voor het uitzendbureau dat zonder zekerheidsstelling uitstel van betaling van een naheffingsaanslag geniet in verband met een ingediend bezwaar. Onder deze omstandigheden loopt de inlener het reële risico van een aansprakelijkstelling. Pas nadat de ontvanger geen verklaring meer verstrekt, zal een inlener, die daarnaar pleegt te informeren, gewaarschuwd zijn. De vraag rijst of het in de Leidraad neergelegde beleid niet te kort schiet, of daarmee wel voldoende recht wordt gedaan aan het zorgvuldigheidsbeginsel. Als dat niet zo is, dan kan de ontvanger rechtens onzorgvuldig handelen, hoewel hij zich houdt aan de Leidraad. Dat onderzoek ik in onderdeel 3 aan de hand van de jurisprudentie van de Centrale Raad van Beroep, die de algemene beginselen van behoorlijk bestuur uitlegt en niet verwijst naar de Leidraad.
+
+2.10. Hoewel de richtlijnen van de Leidraad geen algemeen verbindende voorschriften zijn, zij binden de belastingdienst, vormen zij recht in de zin van artikel 79 van de Wet op de rechterlijke organisatie (RO).(15) De rechter is echter niet verplicht om de Leidraad ambtshalve toe te passen; hij is slechts gehouden zich over de schending ervan uit te laten als daarover is geklaagd. Blijft over de vraag of de cassatierechter bij gebreke van een klacht over de schending van een beleidsregel zich daarover zou mogen uitlaten. De Hoge Raad heeft dit in een aantal gevallen uit eigen beweging gedaan.(16) In de literatuur wordt hier verschillend tegen aan gekeken.(17) De vraag komt echter niet aan de orde als een klacht een beleidsregel betreft, zodat ervan moet worden uitgegaan dat belanghebbende zich daarop beroept, zelfs al noemt hij de geschonden beleidsregel niet met zoveel woorden. De Hoge Raad vult in dat geval de onduidelijk geformuleerde klacht aan. Daartoe is hij bevoegd op grond van artikel 29e, lid 2 van de Algemene wet inzake rijksbelastingen (AWR). Het aanvullen van klachten over beleid door de Hoge Raad houdt dus niet in dat hij beleidsregels ambtshalve toepast. Het afgeven van verklaringen inzake het betalingsgedrag is een kwestie van beleid, zodat klachten daarover niet de wetgeving in materiële zin, maar beleidsregels tot onderwerp van het geschil maken. Naar mijn mening staat dan niets aan uitlegging door de Hoge Raad van de Leidraad in de weg. Die uitleg bestaat uit het toetsen of de beleidsregels zijn nageleefd door de ontvanger en het nagaan of het geschreven beleid niet in strijd komt met de algemene beginselen van behoorlijk bestuur.
+
+3. Zorgplicht van de ontvanger tegenover inleners
+
+Verklaringen in strijd met de werkelijkheid
+
+3.1. De Centrale Raad van Beroep heeft zich in 1991 uitgesproken over een 'schone' verklaring inzake het betalingsgedrag die in strijd met de werkelijkheid is afgegeven. De verklaring vermeldde dat alle premies, voorzover opeisbaar, waren voldaan, terwijl de aannemer in werkelijkheid een betalingsachterstand had. De aansprakelijkgestelde eigenbouwer had bouwopdrachten verstrekt aan het aannemersbedrijf. Nadat de aannemer failliet was verklaard werd de eigenbouwer (gedaagde) aansprakelijk gesteld door de bedrijfsvereniging (eiser) voor de niet betaalde premieschulden. De Centrale Raad overwoog:(18)
+
+De Raad is, evenals de eerste rechter, van oordeel dat het afgeven van een "schone'' verklaring in strijd met de werkelijkheid, gelet op de plaats en de waarde die het verkrijgen van verklaringen inzake betalingsgedrag terecht innemen in de procedures welke in het bedrijf van gedaagde gelden ter voorkoming van aansprakelijkheid, een dermate ernstige inbreuk vormt op het vertrouwen dat gedaagde in de juistheid van die verklaringen mag hebben, dat onder de gegeven omstandigheden een aansprakelijkstelling van gedaagde geen rechtsplicht meer kan zijn. Eiser heeft aan gedaagde daardoor immers de mogelijkheden onthouden om passende maatregelen te treffen.
+
+Gedaagde had haar best had gedaan om aansprakelijkstelling te voorkomen. Zo had zij, naast het opvragen van de verklaringen inzake het betalingsgedrag, van te voren uitvoerig onderzoek naar de aannemer laten verrichten door een bedrijfsinformatiebureau, had zij stortingen gedaan op een g-rekening en had zij per week mandagenregisters opgevraagd en gecontroleerd. Deze inspanningen om een aansprakelijkstelling te voorkomen lijken te hebben meegespeeld bij het oordeel van de Raad. Of een minder zorgvuldige aannemer dezelfde bescherming van de Raad zou krijgen, valt niet uit de uitspraak op te maken.(19)
+
+3.2. In deze zaak had de bedrijfsvereniging (eiser) tevens een beroep gedaan op het onder de verklaring opgenomen algemeen voorbehoud (die sterk lijkt op het algemeen voorbehoud van artikel 35, paragraaf 15, lid 4, Leidraad). De aantekening op de uitspraak in Vakstudie Nieuws geeft de tekst van het voorbehoud weer:(20)
+
+Aan de inhoud ervan kan geen vrijwaring worden ontleend t.a.v. de aansprakelijkheid ex art. 16 Coördinatiewet Sociale verzekeringen. Degene die zich van deze verklaring bedient, dan wel zich deze laat overleggen is ermee bekend dat de bedrijfsvereniging niet aansprakelijk kan worden gesteld voor enig nadeel van welke aard dan ook dat eventueel voortvloeit uit het gebruik van deze verklaring.
+
+De Centrale Raad wijst het beroep van eiser op dit voorbehoud af:
+
+De Raad wil volledigheidshalve in dit verband nog opmerken dat de hier door de Raad aangenomen gang van zaken met zulk een vergaand aan de zijde van eiser liggend falen in redelijkheid niet geëxcuseerd kan worden door het aan de voet van de verklaring opgenomen voorbehoud. Een dergelijk voorbehoud acht de Raad op zijn plaats voor bijvoorbeeld het geval dat er achteraf sprake blijkt te zijn geweest van onjuiste loonopgaven, zodat de premienota's op te lage bedragen waren vastgesteld.
+
+Het oordeel van de Raad dat de bedrijfsvereniging die onzorgvuldig heeft gehandeld zich niet kan beroepen op het algemene voorbehoud lijkt mij juist. Moeite kost het voorbeeld van de Raad. Het spreekt voor zich dat het afgeven van een 'schone' verklaring niet aan aansprakelijkstelling in de weg staat in geval van onjuiste loonopgaven en ten gevolge daarvan te lage premienota's. De verklaringen geven immers slechts aan dat de premienota's zijn betaald en niet dat onjuist aangifte is gedaan. In een dergelijke situatie is een beroep op het algemene voorbehoud niet nodig.
+
+Mijns inziens is het opnemen van een algemeen voorbehoud onbetamelijk. Als het voorbehoud bedoeld is om hoe dan ook inleners aansprakelijk te kunnen stellen, zelfs als de verklaring aangeeft dat aan de betalingsverplichtingen is voldaan, dan vraag ik mij af waarom verklaringen afgegeven worden. Het zou betekenen dat inleners aan de verklaring geen enkele waarde kunnen hechten.
+
+3.3. Een opvallende uitspraak deed de rechtbank Breda. Belanghebbende had personeel ingeleend van A, een startende onderneming. De belastingdienst had aan A een verklaring inzake het betalingsgedrag verstrekt, hoewel zij nog geen belasting had betaald (en artikel 35, paragraaf 16, lid 1, Leidraad bepaalt dat de ontvanger aan een nieuwe ondernemer geen verklaring afgeeft). De rechtbank oordeelt dat de ontvanger in strijd met het vertrouwensbeginsel handelt door belanghebbende aansprakelijk te stellen voor belasting en premies verschuldigd over de periode voorafgaande aan de afgifte van de verklaring:(21)
+
+Onder deze omstandigheden is naar het oordeel van de rechtbank door de afgifte van de verklaring bij belanghebbende de schijn gewekt dat zij erop mocht vertrouwen dat [A] voor de tot 12 juli 2000 aan belanghebbende gefactureerde bedragen aan haar fiscale verplichtingen had voldaan en dat belanghebbende derhalve met aansprakelijkstelling over deze periode geen rekening hoefde te houden. De ontvanger handelt dan in strijd met algemene beginselen van behoorlijk bestuur, in het bijzonder het vertrouwensbeginsel, door belanghebbende ook voor de belasting en premies over de aan 12 juli 2000 voorafgaande periode aansprakelijk te stellen. Dit leidt tot het oordeel dat belanghebbende gevrijwaard is tot en met de factuur van 4 juli 2000, zijnde de laatste vóór 12 juli 2000 ontvangen factuur.
+
+Opvallend is dat de rechtbank aan het afgeven van de verklaring gevolgen verbindt voor het verleden.
+
+Afgifte van verklaring ondanks het vermoeden dat fiscale verplichtingen niet zijn nagekomen
+
+3.4. De Centrale Raad van Beroep heeft zich ook uitgesproken over verklaringen die waren afgegeven, terwijl de uitvoeringsinstelling wist dat nog aanvullende premies verschuldigd waren. Voor die aanvullende premies was juist op het moment van afgifte van de verklaringen (5 november 1987) een jaarnota over 1986 verzonden. De aansprakelijk gestelde aannemer stelde dat de onderaannemer (DIS) de verschuldigde premies over 1986 heeft voldaan, gelet op het feit dat (op 30 juli 1987 en) op 5 november 1987 'schone' verklaringen inzake het betalingsgedrag aan DIS waren afgegeven door het bestuur van de uitvoeringsinstelling. De Raad overwoog over de jaarnota:(22)
+
+Deze was evenwel nog niet op diezelfde dag opeisbaar, zodat strict genomen met het oog op de clausule opgenomen op het formulier, niet gezegd kan worden dat ten onrechte op 5 november 1987 een 'schone' verklaring inzake het betalingsgedrag is verstrekt. Wel signaleert de Raad dat op dat moment bij het bestuur bekend was dat er nog aanvullend premie verschuldigd was over 1986, maar niet is gebleken dat het bestuur op dat moment gerede aanleiding had om te veronderstellen dat DIS, dat tot die tijd steeds aan zijn verplichtingen had voldaan, niet aan zijn premieverplichtingen zou gaan voldoen.
+
+Belangrijk is dat de Centrale Raad zijn oordeel motiveert met de overweging dat het bestuur op moment van afgifte van de verklaringen geen gerede aanleiding had om te veronderstellen dat de onderaannemer niet aan zijn premieverplichtingen zou voldoen.
+
+3.5. In een recente uitspraak kwam de Centrale Raad tot het oordeel dat het afgeven van verklaringen na het moment waarop het bestuursorgaan bij een looncontrole heeft geconstateerd dat sprake is van ernstige tekortkomingen (en vooruitlopend op het controlerapport) onjuist was en in de weg stond aan aansprakelijkstelling:(23)
+
+Zolang een onderneming de vervallen termijnen van de op basis van de loonopgave afgegeven voorschotnota voldoet en (nog) geen sprake is van het opleggen van een correctienota, handelt het bestuursorgaan in beginsel niet onzorgvuldig door een verklaring omtrent het betalingsgedrag aan die onderneming af te geven, ook niet indien tijdens het uitvoeren van een looncontrole bij de looninspecteur het vermoeden rijst dat het bedrag van de werkelijk verschuldigde premies niet overeenkomt met het bedrag van de op de loonopgave gebaseerde voorschot.
+
+In het onderhavige geval deed zich echter de bijzondere situatie voor dat de looninspecteur al tijdens de looncontrole, die een aanvang nam op 23 juli 1998 en preventief werd uitgevoerd naar aanleiding van door de rechtsvoorgangers van X gepleegde fraude, heeft geconstateerd dat door X in het geheel geen administratie werd overgelegd, dat geen daadwerkelijke looncontrole op het kantoor van X mogelijk was, dat telefonisch contact met X en met de moedermaatschappij die over de administratie zou beschikken niets opleverde, en dat bij onderzoek van de op de G-rekening gestorte bedragen bleek dat de lonen over een aantal jaren slechts voor een gering gedeelte waren verantwoord. Gelet op de ernst van de tijdens de looncontrole geconstateerde tekortkomingen had naar het oordeel van de Raad van het bestuursorgaan een meer adequate en voortvarende reactie mogen worden verwacht in die zin, dat vooruitlopend op het looncontrole rapport geen verklaringen omtrent het betalingsgedrag aan X meer werden afgegeven. De voorbehouden welke in de verklaring van 2 oktober 1998 zijn gemaakt zijn gelet op de aan het bestuursorgaan ter beschikking staande informatie niet afdoende en kunnen de vennootschap niet worden tegengeworpen. De Raad is met de rechtbank van oordeel dat bedoelde verklaring het gedrag van de vennootschap in zoverre kan hebben bepaald dat zij op grond daarvan heeft besloten ook na 2 oktober 1998 personeel van X in te lenen. Gezien het vorenstaande heeft de rechtbank terecht geoordeeld dat de aansprakelijkstelling voorzover het de periode vanaf 2 oktober 1998 betreft niet in stand kan blijven.
+
+3.6. De Raad formuleert de regel dat wanneer er geen betaalachterstanden zijn en nog geen sprake is van het opleggen van correctie nota's, het bestuursorgaan in beginsel niet onzorgvuldig handelt door een verklaring inzake het betalingsgedrag aan de onderneming af te geven, zelfs als het tijdens het uitvoeren van een looncontrole vermoedt dat het bedrag van de verschuldigde premies niet overeenkomt met het op loonopgave gebaseerde voorschot. De woorden 'in beginsel' duiden op een algemene regel; in de volgende alinea van de uitspraak volgt de uitzondering: als sprake is van een bijzondere situatie. De bijzonderheid is hier de ernst van de tijdens de looncontrole geconstateerde tekortkomingen. In dat geval, aldus de Centrale Raad, handelt het bestuursorgaan onzorgvuldig als het verklaringen inzake het betalingsgedrag blijft afgeven en kan deze onzorgvuldigheid leiden tot een vermindering van de aansprakelijkstelling. Ik wijs er op dat de CRvB in zijn jurisprudentie geen beroep doet op de Leidraad, maar op de algemene beginselen van behoorlijk bestuur. Het blijkt dat deze rechter andere, strengere eisen aan het bestuur stelt dan de Leidraad.
+
+Geen waarschuwings-, wel een zorgplicht
+
+3.7. Op grond van de geheimhoudingsplicht van artikel 67, lid 1, Invorderingswet(24) is de ontvanger genoodzaakt om zich van het waarschuwen van inleners te onthouden. Blijkens de jurisprudentie heeft de het gerechtshof 's-Gravenhage tweemaal ontkend dat de ontvanger inleners of aannemers zou moeten waarschuwen.(25) Hier wijkt het fiscale recht af van het civiele recht, waar de schuldeiser onder omstandigheden gehouden is om de borg te waarschuwen.(26) De inleners kunnen zich wel op indirecte wijze gewaarschuwd weten, want een frauderende uitlener kan hen geen schone verklaring tonen of slechts een verklaring met voorbehoud. De ontvanger moet immers het afgeven van een verklaring inzake het betalingsgedrag aan een uitlener opschorten, zodra de resultaten van een boekenonderzoek bij hem voor de inspecteur aanleiding geven om binnen afzienbare tijd een naheffingsaanslag op te leggen (zie artikel 35, paragraaf 15, lid 8, Leidraad). De ontvanger moet trouwens, nadat is nageheven naar aanleiding van een boekenonderzoek, een verklaring onder voorbehoud afgeven (zie paragraaf 15, leden 7 en 10) en ook daarmee wordt indirect een waarschuwing gegeven aan tenminste de inlener die inzage van verklaringen inzake het betalingsgedrag pleegt te vragen van zijn uitlener.
+
+3.8. Uit de Leidraad (paragraaf 15, lid 8) volgt dat de inspecteur gegevens aangaande het opleggen van naheffingsaanslagen ter kennis van de ontvanger brengt. Na het begin van de jaren negentig, toen inspectie en ontvangkantoor werden geïntegreerd, tot 1 januari 2003 bepaalde artikel 19 van de Uitvoeringsregeling Belastingdienst dat de hoofden van de eenheden van de belastingdienst inspecteur en ontvanger zijn. In zijn arrest van 26 oktober 2001, nr. C99/194, NJ 2002/94, heeft de Hoge Raad geoordeeld dat hoewel de functies van inspecteur en ontvanger verenigd zijn in de persoon van het hoofd van de belastingeenheid, dit niet mee brengt dat die functies kunnen worden vereenzelvigd. Hieruit leid ik af dat informatie die bij de inspecteur bekend is, daarmee nog niet automatisch bekend is bij de ontvanger en aan hem kan worden toegerekend. Aan de belastingdienst moet een redelijke termijn worden gegund om de informatie waarover de inspecteur, met name de afdeling boekenonderzoek, beschikt en die van belang is voor de ontvanger, binnen die dienst te verspreiden. In het arrest van 27 mei 1992, nr. 28.101, BNB 1992/303 oordeelde de Hoge Raad in deze zin bij de beantwoording van de vraag of een ambtelijk verzuim navordering verhinderde:
+
+In de organisatie van een uitgebreide dienst als de belastingdienst is het onvermijdelijk dat administratieve gegevens een aantal bewerkingen moeten ondergaan en door verschillende handen moeten gaan alvorens zij degene kunnen bereiken die daarmede rekening moet houden. Dit brengt mede dat, ook al moeten de belastingplichtigen erop kunnen rekenen dat degenen in de belastingdienst die hierin een taak hebben te vervullen dat met een redelijke spoed doen, aan die dienst een redelijke termijn moet worden gegund voor de bewerking en verwerking van die gegevens. Dit geldt niet alleen bij de werkzaamheden binnen de eenheid waarvoor de Inspecteur de verantwoording draagt, maar ook voor de FIOD voor zover die uit doelmatigheidsoverwegingen door het voor de belastingdienst verantwoordelijke Ministerie van Financiën is aangewezen als centraal punt waar gegevens moeten worden aangeleverd. Die situatie doet zich, naar het Hof in cassatie onbestreden heeft vastgesteld, hier voor. Bij de beantwoording van de vraag of hier sprake was van een navordering verhinderend ambtelijk verzuim heeft het Hof dan ook terecht rekening gehouden met een redelijke termijn voor de sortering en de verwerking van de gegevens, zowel bij de FIOD als ter inspectie.
+
+3.9. Het regime van de inlenersaansprakelijkheid eist van de ontvanger dat hij doorgaat met het afgeven van verklaringen omtrent het betalingsgedrag, zolang het voor de inspecteur nog niet duidelijk is dat een inlener ernstig te kort is geschoten in de nakoming van zijn administratie- of aangifteverplichtingen. Het zorgvuldigheidsbeginsel brengt naar mijn mening mee dat zodra bij de inspecteur het vermoeden ontstaat dat een uitlener in ernstige mate deze verplichtingen niet is nagekomen, hij de ontvanger met een redelijke spoed (termen uit voornoemd arrest BNB 1992/303) informeert, opdat deze niet langer verklaringen inzake het betalingsgedrag verstrekt. Deze normstelling ontleen ik aan de jurisprudentie van de Centrale Raad van Beroep. Doorgaan met verklaringen afgeven zou de inlener op het verkeerde been kunnen zetten. Het uitblijven van de verklaringen is voor een inlener die regelmatig het betalingsgedrag van de uitlener verifieert, aanleiding tot waakzaamheid.(27)
+
+De zorgplicht van de belastingdienst brengt mijn inziens in het bijzonder mee dat indien de controlerend ambtenaar op enig moment gedurende zijn boekenonderzoek bij een uitlener een vermoeden heeft dat sprake is van fraude, het op zijn weg ligt de ontvanger daarvan op de hoogte te stellen en niet af te wachten tot de gehele fraude in kaart is gebracht en het controlerapport is opgemaakt. Een dergelijk voortvarende werkwijze ziet men trouwens wel bij tijdens boekenonderzoek gebleken fraudes en dan opgekomen vrees voor verduistering van verhaalsobjecten.
+
+Het naderhand afgeven van een verklaring onder het voorbehoud dat bezwaar of beroep tegen een naheffingsaanslag is gemaakt, acht ik in geval van het vermoeden van fraude (het in ernstige mate niet voldoen aan administratie- en/of aangifteverplichtingen) in strijd met het zorgvuldigheidsbeginsel. In zoverre schiet het beleid zoals dit is neergelegd in lid 5, onderdeel b, van paragraaf 15 van de Leidraad te kort. De enkele vermelding in de verklaring dat een rechtsmiddel is aangewend kan door inleners gemakkelijk worden opgevat dat sprake is van een verschil van juridisch inzicht tussen de uitlener en de fiscus; bij een vermoeden van fraude lijkt mij dit een ontoereikende vorm van zorg voor de inleners. Het is wenselijk dat aan artikel 35, paragraaf 15, lid 7 (zie 2.6) een vierde gedachtestreepje wordt toegevoegd: het vermoeden bestaat dat de onderaannemer ernstig tekort schiet in de nakoming van zijn administratie- of aangifteverplichting.
+
+4. Onzorgvuldig handelen en gewekt vertrouwen
+
+4.1. Indien de ontvanger onzorgvuldig handelt doordat hij onterecht een verklaring inzake het betalingsgedrag afgeeft, rijst de vraag welke consequenties daaraan verbonden moeten worden. De onzorgvuldigheid bestaat uit het verstrekken van een verkeerde inlichting. Hoewel de ontvanger de inlichting niet rechtstreeks aan de inlener verstrekt, kan deze naar mijn idee daarmee wel op een lijn worden gesteld. De verklaring wordt immers juist voor hem afgegeven. Deze inlichting is naar ik meen niet te beschouwen als een toezegging van de ontvanger dat hij de inlener niet aansprakelijk zal stellen; evenmin is sprake van een handeling waaraan de inlener het gerechtvaardigd vertrouwen mocht ontlenen dat de ontvanger hem niet aansprakelijk zou stellen (een impliciete standpuntbepaling). Toch kan aan de inlichting onder omstandigheden in rechte te beschermen vertrouwen worden ontleend. Dit is het geval als voldaan is aan twee voorwaarden. De inlichting is niet zo duidelijk in strijd met de wet dat de belanghebbende deze onjuistheid had kunnen en moeten beseffen én de inlener heeft, afgaande op de inlichting, een handeling verricht of nagelaten, ten gevolge waarvan hij niet alleen de wettelijke verschuldigde belasting heeft te betalen, maar daarenboven schade lijdt (het dispositievereiste), aldus volgt uit onder meer Hoge Raad 26 september 1979, nr. 19.250, BNB 1979/311.
+
+4.2. De inlener die stelt dat hij vanwege de (ten onrechte) afgegeven verklaring inzake het betalingsgedrag geen maatregelen heeft genomen om het risico van aansprakelijkstelling te beperken, moet dat bewijzen. Hij moet bewijzen dat de verklaring in die zin gedragsbepalend is geweest. Er zijn situaties denkbaar waarin een inlener nalaat om voorzorgsmaatregelen te treffen, wat er zij van de onzorgvuldigheid van de ontvanger, en hij dus het risico moet dragen voor de niet-betaalde belastingen en premies. Dit gaat op voor de inlener die gewoonlijk geen kennis neemt van verklaringen of die te kwader trouw is en beseft dat zijn uitlener de fiscale voorschriften niet nakomt en dat de verklaring onjuist is. In zijn uitspraak van 5 maart 1998 oordeelde de Centrale Raad van Beroep dat het onzorgvuldig verstrekken van de verklaring niet gedragsbepalend was geweest; de inlener had zelf ook al ernstige twijfel over de betrouwbaarheid van de uitlener.(28) Het is ook mogelijk dat een inlener tracht maatregelen te treffen, doch deze pogingen geen effect hadden omdat de uitlener daaraan niet wilde meewerken. In al deze gevallen ontkomt de inlener niet aan een aansprakelijkstelling, omdat er niet voldoende causaal verband bestaat tussen de onzorgvuldige gedraging van de ontvanger en schade die de inlener lijdt als gevolg van het nalaten van het treffen van maatregelen. Mijns inziens moeten de gevolgen van het onzorgvuldig handelen van de zijde van de ontvanger die onjuiste verklaringen afgaf, slechts dan voor zijn rekening komen, indien komt vast te staan dat de aansprakelijkgestelde vanwege de (onjuiste) verklaringen geen maatregelen heeft genomen. In zo'n geval helpt het algemeen voorbehoud van paragraaf 15, lid 4, Leidraad (zie 2.5) de belastingdienst niet.(29) De bewijslast van het bestaan van een causale relatie tussen de onzorgvuldigheid van de ontvanger en het niet nemen van voorzorgsmaatregelen ligt bij de inlener. Naar mijn mening geldt hier een bewijsvermoeden. Indien een inlener aannemelijk maakt dat hij de verklaringen bij zijn uitlener pleegt op te vragen, kan er vanuit worden gegaan dat hij daaraan waarde hecht en daarom geen voorzorgsmaatregelen treft. Het is vervolgens aan de ontvanger om dit vermoeden te ontzenuwen. Hij slaagt daarin bijvoorbeeld als blijkt dat de inlener later, toen niet langer verklaringen zijn afgegeven, nog steeds geen maatregelen ter voorkoming van aansprakelijkheid heeft genomen. Dan bewijst hij dat er geen causaal verband heeft bestaan tussen de afgegeven onjuiste verklaringen en het niet-nemen van voorzorgsmaatregelen door hem.
+
+4.3. Wat betreft de schade van de aansprakelijkgestelde inlener is het van belang te bepalen of het bedrag van de aansprakelijkstelling kwalificeert als andere schade dan 'de wettelijk verschuldigde belasting' in de zin van het dispositievereiste. De inlener die aansprakelijk wordt gesteld, moet de wettelijk verschuldigde belasting van een ander persoon betalen. Voor hem gaat het om een extra kostenpost. Hij wordt aangesproken voor bedragen die hij eerder - verdisconteerd in de prijs voor het inlenen - heeft betaald. De met die bedragen verschuldigd geworden belasting is niet op een lijn te stellen met de (eigen) wettelijk verschuldigde belasting in de zin van het dispositievereiste.
+
+4.4. Er bestaat een vergelijking met de schade die zelfstandigen lopen in de vorm van dubbele premiebetaling nadat de inspecteur hen onjuiste informatie heeft verstrekt bij de uitvoering van de Ziekenfondswet. Aan belanghebbende in het arrest van 25 februari 2005, nr. 40.157, BNB 2005/172, was een voorlopige aanslag in de premie ingevolge de Ziekenfondswet opgelegd die na bezwaar werd verminderd tot nihil. Vervolgens heeft belanghebbende zich particulier verzekerd. De inspecteur realiseerde zich later dat belanghebbende wel verzekerd was en stelde opnieuw een voorlopige aanslag vast. Door het handelen van de inspecteur werd belanghebbende geconfronteerd met dubbele premieplicht. Dit nadeel mocht volgens de Hoge Raad niet buiten aanmerking blijven op grond van de overweging dat bezwaren tegen voorlopige aanslagen in een massaproces worden afgehandeld. De zelfstandige heeft immers een zwaarwegend belang bij zekerheid, wanneer de inspecteur hem (al dan) niet aanmerkt als ziekenfondsverzekeringsplichtige.(30)
+
+Het massaproces van de voorlopige aanslagregeling brengt mee dat de inspecteur nog geen standpunt heeft ingenomen - ook niet impliciet - waaraan een belastingplichtige in rechte te beschermen vertrouwen kan ontlenen(31), maar als de belanghebbende naast de wettelijk verschuldigde premie andere schade ten gevolge van het feitelijk handelen van de inspecteur lijdt, zoals hier de schade van dubbele premieplicht veroorzaakt door een gewijzigde zienswijze van de inspecteur, dan is sprake van een handelen waaraan vertrouwen mag worden ontleend en heeft dit gevolgen voor de hoogte van de aanslag.
+
+5. Samenvatting
+
+Het vorenstaande vat ik samen. Als de ontvanger verklaart al dan niet onder voorbehoud dat de uitlener aan zijn betalingsverplichtingen heeft voldaan, terwijl hij ervan op de hoogte is (of door de inspecteur op de hoogte had moeten zijn gebracht), dat sprake is van ernstige tekortkomingen in de nakoming van administratieve of aangifteverplichtingen, handelt de ontvanger onzorgvuldig, ook al is zijn gedraging conform de Leidraad. Dit gedrag moet er toe leiden dat de inlener die van deze verklaring kennis heeft genomen en daarop afgaande geen maatregelen heeft getroffen om zich te vrijwaren van aansprakelijkheid, niet aangesproken wordt voor de vanaf dat moment opeisbaar geworden vorderingen. Deze invulling van de zorgplicht van de ontvanger met behulp van het leerstuk van het vertrouwen dat een inlener in rechte kan ontlenen aan de verklaringen inzake het betalingsgedrag, komt overeen met de invulling van de zorgplicht welke de Centrale Raad van Beroep in de uitspraken, genoemd in de onderdelen 3.1 en 3.5, daaraan geeft. Hoewel de Centrale Raad geen gebruik maakt van de in fiscale jurisprudentie ontwikkelde toetsingsmodellen inzake het gewekt vertrouwen, leidt de toepassing ervan tot hetzelfde resultaat.
+
+1 Thans ingevolge artikel 60, lid 2, van de Wet financiering sociale verzekeringen (Wfsv) juncto artikel 34 Invorderingswet en voorheen ingevolge artikel 16a van de Coördinatiewet Sociale Verzekering (CSV).
+
+2 Besluit van 17 juni 1998, nr. WDB 98/209M-SV/AVF98/2642, Scrt. 113, V-N 1998/33.19. Het betreft een gezamenlijk besluit van de staatssecretaris van Financiën en die van Sociale Zaken en Werkgelegenheid. De grondslag van het besluit is artikel 34, lid 6, Invorderingswet en artikel 16a, lid 10, CSV.
+
+3 J.J. Vetter, P.J. Wattel, M.H.M. van Oers, m.m.v. W. de Wit, Hoofdzaken invordering, Deventer 2005, blz. 50. Bij de invoering van de Invorderingswet gaven de bewindslieden daarentegen aan niet te zien dat deze beperking economisch erg bezwaarlijk kan zijn, zie Kamerstukken II 1987/88, 20 588, nr. 3 (MvT), blz. 95. Hetzelfde is destijds opgemerkt bij de behandeling van de Wet ketenaansprakelijkheid, waarbij het systeem van de g-rekening is ingevoerd; zie de toelichting bij de tweede nota van wijzing, Kamerstukken II 1980/81, 15 697, nr. 12, blz. 3.
+
+4 Besluit van 25 februari 1997, AFZ 96/4390H, V-N 1997/1139 en artikel 34, paragraaf 3, lid 5, Leidraad invordering 1990.
+
+5 Volgens Feteris doet de uitzondering zich zelden voor; M.W.C. Feteris, Formeel belastingrecht, Deventer 2007, blz. 213. In andere literatuur is hetzelfde opgemerkt over de vergelijkbare bepaling bij de ketenaansprakelijkheid; J.H.P.M. Raaijmaakers, Aansprakelijkheid in belastingzaken, Deventer 2007, blz. 210; Vetter/Wattel/Van Oers, a.w., blz. 45.
+
+6 In de jurisprudentie over de bestuurdersaansprakelijkheid is de zorgplicht van de ontvanger ten opzichte van bestuurders aan de orde: Hoge Raad 25 september 1991, nr. 27.606, BNB 1992/162; Hoge Raad 6 februari 1998, NJ 1998/587; Hoge Raad 27 april 2001, nr. C99/242, NJ 2001/363 en Hoge Raad 24 mei 2002, nr. C00/203HR, NJ 2002/413.
+
+7 Asser-Van Schaick, Bijzondere overeenkomsten, deel IV, pt. 203, blz. 164.
+
+8 Kamerstukken II 1980/81, 15 697, nrs. 18 en 19.
+
+9 Handelingen II 24 maart 1981, blz. 4207, kolom 3. In de Memorie van Antwoord bij de behandeling in de Eerste Kamer heeft de staatssecretaris de toezegging inzake het afgeven van de verklaringen nog eens bevestigd, Kamerstukken I 1980/81, 15 697, nr. 124b.
+
+10 Handelingen II 24 maart 1981, blz. 4207, kolom 3.
+
+11 Handelingen I, 2 juni 1981, blz. 1078-1079.
+
+12 In het Besluit incasso en invordering van het Landelijk instituut sociale verzekeringen (besluit van 18 april 2000, Stcrt. 2000, 81) is neergelegd dat de invordering van de sociale premies namens het Lisv door de belastingdienst geschiedt en dat de belastingdienst daarbij de Leidraad in acht neemt.
+
+13 De hierna opgenomen teksten van de Leidraad golden - tenzij anders aangegeven - in de periode 1999 tot en met 2002. Nadien zijn enkele passages op ondergeschikte punten gewijzigd per 1 januari 2003, per 1 januari 2005 en per 1 januari 2006.
+
+14 Vanaf 1 januari 2002 is de omschrijving van het karakter van de verklaring ook opgenomen in artikel 34, paragraaf 4, lid 2, Leidraad.
+
+15 Hoge Raad 28 maart 1990, BNB 1990/194; in het Avanti-arrest, Hoge Raad 11 oktober 1985, 12.538, NJ 1986, 322, is uitgemaakt dat gepubliceerde beleidsregels onder omstandigheden als recht in de zin van - toen - artikel 99 RO worden aangemerkt.
+
+16 Hoge Raad 14 april 1999, nr. 34.359, BNB 1999/309, 24 juli 2001, nr. 36.245, BNB 2001/347, 10 augustus 2001, nr. 36.317, BNB 2001/361, 10 februari 2006, nr. 39.879, BNB 2006/206. Ik merk op dat in de laatste drie arresten sprake was van een beleidsregel die dateerde van ná de Hofuitspraak, zodat belanghebbende daarop geen beroep heeft kunnen doen bij de feitenrechter.
+
+17 Zie daarvoor: L.A. de Blieck c.s., Algemene wet inzake rijksbelastingen, Deventer 2004, blz. 208; M.W.C. Feteris, Formeel belastingrecht, Deventer 2007, blz. 440; R.E.C.M. Niessen en C.M. Bergman, Cassatie in belastingzaken, Deventer 2006, blz. 66.
+
+18 CRvB 23 oktober 1991, nr. premie 1991/64, V-N 1992/1458.
+
+19 De rechtbank Almelo oordeelde (minder genuanceerd) dat de enkele onzorgvuldigheid van de ontvanger voldoende was voor uitsluiting van een aansprakelijkstelling door hem; rechtbank Almelo 21 december 1994 en 4 oktober 1995, nr. 372/HAZA 92-801, V-N 1995/4254.
+
+20 V-N 1992/1458.
+
+21 Rechtbank Breda 30 mei 2006, nr. 05/1560, V-N 2007/6.22.
+
+22 CRvB 25 november 1992, premie 1992/34, Rechtspraak Sociale Verzekering (RSV) 1993/199.
+
+23 CRvB 8 december 2005, 03/5765 en 03/5819, LJN: AU8257, RSV 2006/78, Uitspraken Sociale Zekerheid (USZ) 2006/62. Tot eenzelfde oordeel kwam de Centrale Raad eerder in zijn uitspraak van 26 juni 1997, 95/682 en 95/675, USZ 1997/174. In dat geval was in de verklaringen opgenomen dat een achterstand in premiebetaling bestond, maar wist het uitvoeringsorgaan al dat ernstig te kort was geschoten in het volledig verantwoorden van de betaalde lonen en bestond het voornemen tot ingrijpende correcties over te gaan. De Raad achtte de gemaakte voorbehouden, dat niet alle (voorschot)premies waren voldaan, in dit geval ontoereikend in het licht van de informatie waarover het uitvoeringsorgaan beschikte. Nu het uitvoeringsorgaan geen onderzoek had verricht naar de vraag of de aansprakelijkgestelden kennis namen van de verklaringen en of zij ook na die kennisname hun contractuele relatie hebben voortgezet, kon de aansprakelijkstelling niet in stand blijven.
+
+24 Een vergelijkbare bepaling is te vinden in artikel 67, lid 1, AWR.
+
+25 Gerechtshof 's-Gravenhage 10 november 2006, BK-04/02790, LJN: AZ1930, NTFR 2006/1695 en Gerechtshof 's-Gravenhage 29 augustus 2006, nr. BK-03/01762, LJN: AY9788, V-N 2007/10.23. Zie ook Rechtbank 's-Gravenhage 12 mei 1993, nr. 92/6503, V-N 1993/1844. De redactie van V-N lijkt in haar noot op Hoge Raad 21 november 1997, nr. 16 486, V-N 1997/4738 niet uit te sluiten dat een waarschuwingsplicht geldt.
+
+26 Zie het citaat uit Asser-Van Schaick in onderdeel 1.6.
+
+27 Het niet ontvangen van verklaringen kunnen voor een uitlener een belemmering vormen bij het verkrijgen van nieuwe opdrachten en zelfs tot beëindiging van zijn activiteiten leiden; zie bijvoorbeeld CRvB 25 november 1987, WW 1986/256, RSV 1988/157.
+
+28 CRvB 5 maart 1998, nr. 95/4018 CSV, RSV 1998/176.
+
+29 Vgl. CRvB 23 oktober 1991, nr. premie 1991/64, V-N 1992/1458, genoemd in 3.2.
+
+30 Zie ook Hoge Raad 13 januari 2006, nr. 41.129, BNB 2006/203, waarbij de Hoge Raad oordeelde dat de voorlopige aanslag premie Ziekenfondswet niet in stand kon blijven omdat de inspecteur ten onrechte geen verklaring had afgegeven dat belanghebbende als verzekerde in de zin van de Ziekenfondswet werd aangemerkt. Om die reden had belanghebbende zijn particuliere verzekering gecontinueerd. Omdat belanghebbende ingevolge de Ziekenfondswet van rechtswege verzekerd was ging de inspecteur nadat hij zulks constateerde over tot het opleggen van een voorlopige aanslag. De juiste toepassing van de wet moest aldus wijken voor het vertrouwen dat de inspecteur had gewekt door geen verklaring af te geven. Het  nadeel van dubbele premiebetaling is daarmee weggenomen.
+
+31 Zie Hoge Raad 17 januari 2003, nr. 37.463, BNB 2003/188.
