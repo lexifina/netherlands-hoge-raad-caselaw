@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2008:BG1680"
-published_in: ["Rechtspraak.nl", "RCR 2009, 18", "JOL 2008, 1008", "RvdW 2009, 82", "NJ 2011/4 met annotatie van J. Hijma", "NJB 2009, 69", "JWB 2008/507"]
+published_in: ["Rechtspraak.nl", "RCR 2009, 18", "JOL 2008, 1008", "RvdW 2009, 82", "NJ 2011/4 met annotatie van Jac. Hijma", "NJB 2009, 69", "JWB 2008/507"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2008:BG1680"]]
 ---
 
