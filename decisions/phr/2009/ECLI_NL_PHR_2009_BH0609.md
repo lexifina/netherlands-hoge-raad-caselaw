@@ -1,0 +1,277 @@
+---
+ecli: "ECLI:NL:PHR:2009:BH0609"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "07/10946"
+decided: "2009-01-23"
+published: "2013-04-05"
+type: "conclusie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2009:BH0609"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BH0609"]]
+---
+
+# ECLI:NL:PHR:2009:BH0609 Parket bij de Hoge Raad , 23-01-2009 / 07/10946
+
+## Inhoudsindicatie
+
+Conclusie PG
+
+(Geen) toerekening kwade trouw gemachtigde aan belastingplichtige bij navordering.
+
+Deze zaken betreffen navorderingsaanslagen en boetebeschikkingen voor 1999, 2000 en 2002 en hangen samen met zaak 07/10944 waarin de A.-G. Wattel heden eveneens concludeert. Alle zaken komen uit hetzelfde feitencomplex voort, maar zaak 07/10944 (2001) betreft uitsluitend de boetebeschikking, omdat het bezwaar tegen de navorderingsaanslag 2001 niet-ontvankelijk was. De laatstgenoemde zaak gaat over de omvang van de rechterlijke toetsing van de boetebeschikking, gegeven de formele rechtskracht van de navorderingsaanslag. In deze drie zaken staan juist de navorderingaanslagen ter discussie in verband met de vraag naar de toelaatbaarheid van toerekening van eventuele kwade trouw van de gemachtigde aan de belanghebbende.
+
+Vaststaat dat door de gemachtigde fouten zijn gemaakt in de aangifte, dat geen sprake is van een 'nieuw feit' (art. 16, lid 1, AWR) en dat het dus aankomt op goede of kwade trouw van de belanghebbende.
+
+Het Hof heeft geoordeeld (i) dat de belanghebbende zelf niet te kwader trouw was, (ii) niet behoefde te twijfelen aan de deskundigheid van haar gemachtigde en (iii) haar geen verwijt treft ter zake van de keuze van haar gemachtigde. Eventuele kwade trouw van de gemachtigde kon daarom volgens het Hof in het midden blijven.
+
+De Staatssecretaris betoogt primair dat het Hof eventuele kwade trouw van de gemachtigde had moeten onderzoeken met het oog op toerekening aan de belanghebbende, nu het 'fiscale IJzerdraad-arrest' HR BNB 2007/151, dat toerekening van subjectieve delictsbestanddelen uitsluit, slechts ziet op boeten en niet op enkelvoudige belasting, en subsidiair dat het Hof niet kon oordelen dat de belanghebbende niet hoefde te twijfelen aan zijn gemachtigde en de gedane aangifte.
+
+Conclusie: op grond van het civiele arrest HR NJ 2007, 231 (Ontvanger tegen V.) en het fiscale arrest HR 29 februari 2008, 43 274, V-N 2008/12.10, onderscheidt de A.-G. Wattel drie categorieën gevallen in de relatie tussen de gemachtigde en de belastingplichtige bij navordering van enkelvoudige belasting ingeval van ontbreken van een nieuw feit:
+
+(i) de belastingplichtige is zelf te kwader trouw (heeft minimaal voorwaardelijk opzet op onjuiste of onvolledige informering van de fiscus); aan toerekening van kwade trouw van de gemachtigde bestaat geen behoefte;
+
+(ii) de belastingplichtige is niet te kwader trouw, maar (a) had reden tot twijfel (moeten hebben) aan de aanvaardbaarheid van het doen of nalaten van zijn gemachtigde en hield daar onvoldoende toezicht en greep op, of (b) treft een verwijt in de keuze van zijn gemachtigde; in deze categorie bestaat ruimte voor toerekening van kwade trouw van de gemachtigde, maar hoe groot die ruimte is, is nog onduidelijk. De A.-G. suggereert in deze categorie congruentie te zoeken met het gebied van de 'grove schuld' voor beboetingsdoeleinden: de belastingplichtige had weliswaar geen (voorwaardelijk) opzet, maar hem treft wel een substantieel verwijt van onzorvuldigheid of onachtzaamheid;
+
+(iii) de belastingplichtige is niet te kwader trouw en hoefde evenmin te twijfelen aan de aanvaardbaarheid van het doen of nalaten of de kundigheid van zijn gemachtigde; in deze categorie is eventuele kwade trouw van de gemachtigde niet toerekenbaar aan de belastingplichtige.
+
+Volgens de A.-G. houdt in cassatie stand 's Hofs feitelijke oordeel dat de belanghebbende niet te kwader trouw was en impliceren 's Hofs (juiste) maatstaf (de belanghebbende hoefde niet te twijfelen en heeft voldoende zorg besteed aan de keuze van zijn gemachtigde) en de door hem vastgestelde feiten dat hij ook categorie (ii) heeft uitgesloten, zodat eventuele kwade trouw van de gemachtigde niet ter zake doet, omdat van toerekening geen sprake kan zijn.
+
+Conclusie: beroep ongegrond.
+
+## Conclusie
+
+Nrs. 07/10942, 10943 en 10946
+
+16 mei 2008
+
+Mr. P.J. Wattel
+
+Procureur-Generaal bij de Hoge Raad der Nederlanden
+
+Derde kamer A
+
+Vennootschapsbelasting 1999, 2000 en 2002
+
+Conclusie inzake
+
+Staatssecretaris van Financiën
+
+tegen
+
+X B.V.
+
+Kernvraag; samenhang met zaak rolnr. 07/10944
+
+Deze zaken betreffen navorderingsaanslagen en boetebeschikkingen voor de jaren 1999, 2000 en 2002 en hangen samen met de zaak met rolnr. 07/10944 waarin ik heden eveneens concludeer. Alle zaken komen uit hetzelfde feitencomplex voort, maar de laatstgenoemende zaak (jaar 2001) betreft uitsluitend de boetebeschikking omdat het bezwaar tegen de navorderingsaanslag voor dat jaar niet-ontvankelijk was wegens termijnoverschrijding, zodat die aanslag formele rechtskracht heeft verkregen zonder rechterlijke beoordeling. De laatstgenoemde zaak gaat over de omvang van de rechterlijke toetsing van de boetebeschikking, gegeven de formele rechtskracht van de navorderingsaanslag. In de thans te behandelen drie zaken staan juist de navorderingaanslagen ter discussie in verband met de vraag naar de toelaatbaarheid van toerekening van eventuele kwade trouw van de gemachtigde aan de belanghebbende.
+
+1. Feiten en loop van het geding
+
+1.1 Het Gerechtshof Amsterdam (hierna: het Hof) heeft de volgende feiten vastgesteld:(1)
+
+"2.5.1. (...) C dreef in de vorm van een eenmanszaak een handel in kantoormeubilair. D, die een administratiekantoor heeft, stelde de jaarstukken samen en verzorgde de aangiften inkomstenbelasting voor C. Op aanraden van D heeft C E om advies gevraagd over de inbreng van de eenmanszaak in een besloten vennootschap. E heeft een geruisloze inbreng geadviseerd en heeft C respectievelijk belanghebbende - de in dit kader opgerichte BV - begeleid in het overleg met de Belastingdienst. Belanghebbende is opgericht op 31 maart 1999 met C als enig aandeelhouder en directeur. Op 7 april 1999 heeft C namens belanghebbende ingestemd met de door de Belastingdienst gestelde voorwaarden voor de geruisloze overgang. Het overgangstijdstip is vastgesteld op 1 januari 1998. Op 17 april 2000 heeft E de aangifte inkomstenbelasting 1998 ten name van C (hierna: de stakingsaangifte) ingediend. Ook heeft E jaarrapporten 1998 en 1999 voor belanghebbende (i.o.) opgesteld. Daarmee waren de werkzaamheden van E beëindigd. Op 3 juli 2001 heeft D de aangifte vennootschapsbelasting 1999 ten name van belanghebbende ingediend. Als boekjaar is vermeld "1999". Het resultaat over het kalenderjaar 1998 is niet in die aangifte begrepen. In de aangifte is rekening gehouden met een afschrijving van 20% op de goodwill van ƒ 250.000. In de aangiften vennootschapsbelasting voor de jaren 2000, 2001 en 2002, die eveneens door D zijn verzorgd, is diezelfde afschrijving toegepast. De aanslagen vennootschapsbelasting voor de jaren 1999 tot en met 2001 zijn conform de ingediende aangiften vastgesteld. Bij de behandeling van een bezwaarschrift tegen de aanslag voor het jaar 2002 (het bezwaar betrof de correctie ter zake van een hier niet relevante aangelegenheid) heeft dossieronderzoek plaatsgevonden en daarbij zijn de fouten in de aangiften aan het licht gekomen. (...)."
+
+1.2 De Inspecteur heeft naar aanleiding van de geconstateerde fouten voor elk jaar een navorderingsaanslag opgelegd, alsmede een vergrijpboete ad 50% van de nagevorderde belasting.
+
+1.3 De thans te beoordelen navorderingsaanslagen en boetebeschikkingen betreffen de belastingjaren 1999, 2000 en 2002.(2) Ook over 2001 is nagevorderd en een boete opgelegd. In de zaak over dat jaar (uw rolnr. 07/10944) concludeer ik heden separaat, omdat in die zaak mede een ander probleem aan de orde is: de verhouding tussen een niet-ontvankelijk bezwaar tegen de navorderingsaanslag, die daardoor zonder rechterlijke toetsing formele rechtskracht verkrijgt, en de rechterlijke beoordeling van een boetebeschikking die op de grondslag van die formeel verschuldigde belasting is gebaseerd. De belanghebbende heeft tegen de navorderingsaanslagen en boetebeschikkingen bezwaar aangetekend. De Inspecteur heeft bij uitspraken van 29 juni 2005 de beroepen ongegrond verklaard, maar zag voor 1999 en 2000 niettemin aanleiding om de enkelvoudige belasting en (daarmee) de boete van ambtswege te verminderen.(3)
+
+2. Het geschil in de feitelijke instanties
+
+2.1 De belanghebbende heeft tegen de uitspraken op bezwaar beroep ingesteld bij de Rechtbank Haarlem (hierna: de Rechtbank), die op 14 juni 2006 het beroep ten aanzien van 1999 ongegrond oordeelde en de boete voor dat jaar "passend en geboden" achtte.(4) De beroepen voor de jaren 2000 en 2002 werden in zoverre gegrond bevonden dat de boeten werden gematigd, omdat sprake was van "een repeterende fout".(5) De Rechtbank stelde vast dat geen sprake was van een nieuw feit in de zin van art. 16, lid 1, Algemene wet inzake rijksbelastingen (hierna: AWR), maar achtte navordering niettemin mogelijk op grond van aan de belanghebbende toerekenbare kwade trouw van de gemachtigde van de belanghebbende. De Rechtbank overwoog daartoe:(6)
+
+"4.7. Aannemelijk is dat het doen van [deze] onjuiste aangifte te wijten is aan voorwaardelijk opzet van eiseres. In dit verband wijst de rechtbank op de volgende omstandigheden. Eiseres heeft de fiscale begeleiding van de geruisloze inbreng van meet af aan geheel overgelaten aan D. Omdat D op het gebied van (geruisloze) inbreng niet terzake kundig was, schakelde hij E in. In de wetenschap dat hij niet over de nodige kennis beschikte, heeft D toch de aangifte over het boekjaar van de geruisloze inbreng [en de daarop volgende boekjaren] zelf verzorgd en ingediend. Hierdoor heeft hij welbewust de aanmerkelijke kans aanvaard dat hij vanwege zijn gebrek aan kennis fouten zou maken ten aanzien van met de geruisloze inbreng samenhangende zaken, zoals hier [het verantwoorden van de winst over het eerste kalenderjaar van het verlengde boekjaar en] het verwerken van fiscaal niet toegestane afschrijvingen [op goodwill]. Aldus is sprake van voorwaardelijk opzet aan de zijde van D. Dit voorwaardelijk opzet dient aan eiseres te worden toegerekend, nu eiseres D opdracht heeft gegeven tot het verzorgen en indienen van de aangifte vennootschapsbelasting [na inbreng], terwijl zij wist, mede gelet op de inschakeling van E door D, dat de laatste niet deskundig was op het punt van voornoemde geruisloze inbreng. Gelet op het voorgaande is navordering terzake van [de over het kalenderjaar 1998 behaalde winst en] de ten onrechte in aftrek gebrachte afschrijving over het kalenderjaar [...] toegestaan."
+
+2.2 De belanghebbende heeft tegen deze uitspraken hoger beroep ingesteld bij het Hof Amsterdam dat bij uitspraken van 11 juli 2007 de beroepen gegrond verklaarde en de navorderingsaanslagen en de boetebeschikkingen vernietigde, daartoe als volgt overwegende:(7)
+
+"2.5.3. Belanghebbende heeft in hoger beroep (...) onder meer aangevoerd dat het verzorgen van belastingaangiften - ook vennootschapsbelasting - tot het reguliere werkterrein van D behoorde; dat deze vóór de geruisloze inbreng al jaren de administratie (het Hof begrijpt: de samenstelling van de jaarstukken) en de belastingaangiften van (de eenmanszaak van) C had verzorgd; dat de gang van zaken waarbij E adviseerde over de geruisloze inbreng en de stakingsaangifte verzorgde waarna D weer de verzorging van de aangiften vennootschapsbelasting op zich nam in de praktijk niet ongebruikelijk is; en dat deze gang van zaken op zichzelf onvoldoende grond biedt voor de aanname dat D met het verzorgen van de aangiften vennootschapsbelasting een aanmerkelijk risico op fouten heeft genomen, laat staan dat hij dat welbewust zou hebben gedaan.
+
+Wat betreft de toerekening van (vermeende) kwade trouw van D aan belanghebbende is aangevoerd dat C als directeur van belanghebbende geen aanleiding heeft gehad te veronderstellen dat het verzorgen en indienen van de aangiften vennootschapsbelasting bij D niet in goede handen zou zijn en dat het feit dat D had geadviseerd om voor de geruisloze inbreng E in te schakelen voor C veeleer een aanwijzing was dat D de grenzen van zijn kunnen en kennen wist.
+
+2.5.4. De door C ter zitting op vragen van het Hof gegeven antwoorden houden in dat C de fouten in de aangiften niet eerder heeft onderkend dan nadat de Belastingdienst - na de constatering van die fouten bij een dossieronderzoek in het kader van de behandeling van [een] bezwaarschrift tegen de aanslag vennootschapsbelasting voor het jaar 2002 - daarvan mededeling aan belanghebbende had gedaan. Het Hof heeft onvoldoende redenen om aan de juistheid van de verklaring van C te twijfelen. De tegenwerping van de inspecteur dat uit de jaarrapporten 1998 en 1999, alsmede uit de balans ultimo 2000, duidelijk was hoeveel vennootschapsbelasting over 1998 en 1999 materieel was verschuldigd, is in dit verband onvoldoende omdat daaruit - zonder meer - niet volgt dat C zich van het verschil tussen die bedragen en de aangiften, respectievelijk de conform de aangiften opgelegde, aanslagen, ook (daadwerkelijk) bewust moet zijn geweest. Hetzelfde geldt, mutatis mutandis, voor de vrijval van [de] desbetreffende vennootschapsbelastingschuld in de balans ultimo 2001.
+
+2.5.5. Bij de beoordeling dient als toetsingskader te worden gehanteerd dat voor het constateren van kwade trouw als bedoeld in artikel 16, eerste lid, tweede volzin, AWR, bij belanghebbende ten minste sprake moet zijn van voorwaardelijk opzet op het doen van een onjuiste aangifte. Daarvoor is vereist dat zij daadwerkelijk wist of vermoedde dat van een onjuiste aangifte sprake was. In casu dient ervan te worden uitgegaan - de rechtbank heeft het overwogen in 4.7., belanghebbende heeft het in hoger beroep bevestigd en voorzover de inspecteur het heeft willen betwisten heeft hij daartoe onvoldoende feiten gesteld en aannemelijk gemaakt - dat belanghebbende het verzorgen en indienen van de aangiften vennootschapsbelasting geheel aan D overliet. In een dergelijk geval dient de inspecteur te stellen en bij betwisting aannemelijk te maken dat (de directie van) belanghebbende door de verzorging van de aangifte geheel aan D over te laten welbewust de aanmerkelijke kans heeft aanvaard een onjuiste aangifte te doen. In een geval als het onderhavige kan daarvan sprake zijn indien belanghebbende zich van meet af aan bewust is geweest van een zodanige ondeskundigheid bij D dat er een aanmerkelijke kans op fouten was, dan wel indien belanghebbende zich op enig moment ervan bewust is geworden dat door D foutieve aangiften waren ingediend en niettemin D [opnieuw] een [(onjuiste)] aangifte heeft laten verzorgen.
+
+2.5.6. Het Hof is van oordeel dat de inspecteur het van hem te vergen bewijs niet heeft geleverd. Tegenover het gemotiveerde verweer van belanghebbende - erop neerkomende dat zij meende dat de aangiften vennootschapsbelasting bij D in goede handen waren - heeft de inspecteur onvoldoende feiten gesteld en aannemelijk gemaakt waaruit volgt dat belanghebbende zich ervan bewust was dat D onvoldoende deskundig was om die aangiften te verzorgen. Naar 's Hofs oordeel - in zoverre in afwijking van dat van de rechtbank - kan die bewustheid niet worden afgeleid uit de enkele omstandigheid dat op advies van D E was ingeschakeld voor advisering over de geruisloze inbreng, het opstellen van jaarrapporten 1998 en 1999 voor belanghebbende (i.o.) en het doen van de stakingsaangifte. Hetgeen de inspecteur overigens heeft aangevoerd is in dit verband evenmin voldoende en kan niet tot het oordeel leiden dat belanghebbende overigens bij de keuze van D niet de zorg heeft betracht die met het oog op de voorkoming van het doen van onjuiste aangiften redelijkerwijs van haar kon worden gevergd. Voorts heeft de inspecteur tegenover het gemotiveerde verweer van belanghebbende niet aannemelijk gemaakt dat de in de aangiften gemaakte fouten reeds op een aan de constatering daarvan door de Belastingdienst voorafgaand moment aan belanghebbende bekend waren (zie ook 2.5.4.). Nu het bewijs van bewustheid bij belanghebbende (in de in 2.5.5. gedefinieerde zin) niet is geleverd, kan kwade trouw van D - zo daarvan sprake is, hetgeen in het midden kan blijven - niet aan belanghebbende worden toegerekend.
+
+2.5.7. Nu een nieuw feit ontbreekt, en het bewijs van kwade trouw van belanghebbende niet is geleverd, moet de slotsom zijn dat de onderhavige navorderingsaanslag in strijd komt met de daaraan op grond van artikel 16, eerste lid, AWR, te stellen eisen. De navorderingsaanslag dient te worden vernietigd. Daarmee komt ook de grond aan de opgelegde vergrijpboete te ontvallen.(...)"
+
+3. Het geschil in cassatie
+
+3.1 De Staatssecretaris heeft tegen de hofuitspraken tijdig en regelmatig cassatieberoepen ingesteld. De belanghebbende heeft verweer gevoerd. De partijen hebben elkaar van repliek en dupliek gediend.
+
+3.2 De Staatssecretaris draagt in alle drie de zaken als cassatiemiddel voor:
+
+"Schending van het Nederlandse recht, met name van artikel 16, eerste lid, van de Algemene wet inzake rijksbelastingen en/of van artikel 8:77 van de Algemene wet bestuursrecht, doordat het Hof geen kwade trouw van belanghebbende zelf aanneemt en in het midden laat of gemachtigde te kwader trouw was ter zake van het feit dat grond voor navordering oplevert, zulks ten onrechte, althans op gronden die de beslissing niet kunnen dragen."
+
+3.3 Het middel is dus niet gericht tegen de vernietiging van de boetebeschikkingen.
+
+3.4 De Staatssecretaris betoogt dat, hoewel ingevolge uw rechtspraak (voorwaardelijk) opzet van de gemachtigde niet aan de belastingplichtige kan worden toegerekend voor beboetingsdoeleinden, kwade trouw van de gemachtigde wel degelijk aan de belastingplichtige kan worden toegerekend voor de heffing van de enkelvoudige belasting. Nu navordering van enkelvoudig verschuldigde belasting geen straf is in de zin van art. 6, lid 2, van het Europees verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: EVRM), doet de daarin vervatte onschuldpresumptie niet ter zake en bestaat er geen aanleiding tot terughoudendheid bij toerekening van kwade trouw van de door de belastingplichtige ingeschakelde gemachtigde. Het Hof heeft daarom zijns inziens ten onrechte niet onderzocht of de gemachtigde te kwader trouw was en of die eventuele kwade trouw toegerekend kon worden aan de belanghebbende.
+
+4. Beoordeling van het middel
+
+4.1 Art. 16, lid 1, AWR luidt als volgt
+
+"Indien enig feit grond oplevert voor het vermoeden dat een aanslag ten onrechte achterwege is gelaten of tot een te laag bedrag is vastgesteld, dan wel dat een in de belastingwet voorziene vermindering, ontheffing, teruggaaf of heffingskorting ten onrechte of tot een te hoog bedrag is verleend, kan de inspecteur de te weinig geheven belasting dan wel de ten onrechte of tot een te hoog bedrag verleende heffingskorting navorderen. Een feit, dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor navordering opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is."
+
+4.2 Buiten geschil staat dat in casu geen nieuw feit voorhanden was in de zin van de laatste volzin van het citaat, zodat navordering slechts mogelijk is indien de belanghebbende te kwader trouw was ten aanzien van de onjuistheid van de ingediende aangiften. Het Hof heeft geoordeeld dat de belanghebbende zelf niet te kwader trouw was (geen (voorwaardelijk) opzet op onjuiste aangiften had). In cassatie is, blijkens de schrifturen van de Staatssecretaris, in geschil (i) of het Hof eventuele kwade trouw bij de gemachtigde had moeten onderzoeken, met het oog op toerekening daarvan aan de belanghebbende; (ii) of het Hof kon oordelen dat de belanghebbende zelf niet te kwader trouw was; althans (iii) dat de belanghebbende niet hoefde te twijfelen aan de verrichtingen van haar gemachtigde of aan de juistheid van de aangiften.
+
+4.3 'Kwade trouw' in de zin van art. 16, lid 1, AWR wordt door u gedefinieerd als opzet op onjuiste gegevensverstrekking aan de inspecteur of op onthouding van de juiste gegevens aan de inspecteur.(8)
+
+4.4 Art. 2:1 Algemene wet bestuursrecht (hierna: Awb) biedt de belastingplichtige de mogelijkheid zich tegenover de fiscus te laten vertegenwoordigen door een gemachtigde.(9) Het luidt als volgt:
+
+"1. Een ieder kan zich ter behartiging van zijn belangen in het verkeer met bestuursorganen laten bijstaan of door een gemachtigde laten vertegenwoordigen.
+
+2. Het bestuursorgaan kan van een gemachtigde een schriftelijke machtiging verlangen."
+
+4.5 Op de relatie tussen de belastingplichtige en diens gemachtigde zijn, via de schakelbepaling van art. 3:79 Burgerlijk Wetboek (hierna: BW), de algemene regels van volmacht ex titel 3:3 BW van toepassing. De bestuursrechtelijke figuur 'gemachtigde' is hierdoor weliswaar vergelijkbaar met de privaatrechtelijke figuur 'gevolmachtigde', maar zij zijn niet identiek, zoals reeds volgt uit art. 3:79 BW, dat bepaalt dat titel 3:3 BW (slechts) van overeenkomstige toepassing is "voor zover de aard van de rechtshandeling of van de rechtsbetrekking zich daartegen niet verzet." Over de twee figuren is in de Memorie van Toelichting bij de Awb het volgende opgemerkt:(10)
+
+"De door de belanghebbende ingeschakelde derde wordt in navolging van de wettelijke regelingen van bestuursprocesrecht aangeduid als gemachtigde. Met deze woordkeus komt ook tot uitdrukking dat op deze vorm van vertegenwoordiging de bepalingen van het nieuwe Burgerlijk Wetboek niet rechtstreeks van toepassing zijn. In het nieuwe Burgerlijk Wetboek wordt in Titel 3 van Boek 3 gesproken over "gevolmachtigde". Ingevolge de toepasselijke schakelbepaling, artikel 3.3.16c (thans art. 3:79 BW; PJW), vinden de bepalingen van deze titel buiten het vermogensrecht overeenkomstige toepassing, voor zover de aard van de rechtshandeling of van de rechtsbetrekking zich daartegen niet verzet. De regeling inzake volmacht uit Titel 3 van Boek 3 van het nieuwe Burgerlijk Wetboek kan dus ook voor overeenkomstige toepassing in aanmerking komen in bestuursrechtelijke verhoudingen. De bestuursrechtelijke verhoudingen vergen in het algemeen geen bijzondere regeling ten aanzien van vertegenwoordiging. Derhalve kan hier van het opnemen van bepalingen worden afgezien.
+
+De kern van vertegenwoordiging is dat handelingen van de vertegenwoordiger aan de vertegenwoordigde worden toegerekend. Men vergelijke in dit verband de uitspraak van de voorzitter van de Afdeling rechtspraak: "Verrichtingen of nalatigheden van degene, die een appellant tot zijn gemachtigde heeft gesteld, zijn voor of namens appellant verricht of nagelaten en dienen daarom de appellant te worden toegerekend". (Vz Afd. rechtspraak 12 februari 1981, tB/S, XIII, nr. 11). In dezelfde lijn liggen de uitspraken van de Centrale Raad van Beroep van 4 maart 1960, AB 1960, 875 (verklaring in strijd met de waarheid) en van de Hoge Raad 1 juli 1966, BNB 1966, 268 (intrekking beroep). Dit gevolg is inherent aan het begrip vertegenwoordiging; het komt ook tot uitdrukking in artikel 3.3.6 van het nieuwe Burgerlijk Wetboek (thans art. 3:66 BW; PJW)."
+
+4.6 De artt. 3:60, lid 1, en 3:61, lid 1, BW luiden als volgt:
+
+"Volmacht is de bevoegdheid die een volmachtgever verleent aan een ander, de gevolmachtigde, om in zijn naam rechtshandelingen te verrichten."
+
+"Een door de gevolmachtigde binnen de grenzen van zijn bevoegdheid in naam van de volmachtgever verrichte rechtshandeling treft in haar gevolgen de volmachtgever."
+
+4.7 Hieruit volgt dat in beginsel alle (rechts)handelingen die een gemachtigde binnen zijn machtiging namens een belastingplichtige verricht jegens de fiscus, (kunnen) worden toegerekend aan die belastingplichtige. Toerekening blijft slechts achterwege wanneer de gemachtigde buiten zijn volmacht treedt, tenzij sprake is van aan de volmachtgever toerekenbare schijn van toereikende volmacht.(11) Dit neemt niet weg dat een handeling die in eerste instantie buiten de volmacht valt, alsnog daaronder kan worden gebracht door bekrachtiging door de volmachtgever.(12)
+
+4.8 Hoewel de inspecteur een schriftelijke machtiging kan verlangen (art. 2:1, lid 2, Awb), hoeft een machtiging niet op schrift gesteld te zijn. Volmachtverlening is vormvrij(13) en kan zelfs stilzwijgend geschieden.(14) Een schriftelijke verklaring is, andersom, niet doorslaggevend bij de bepaling van de omvang van de volmacht. Gedragingen van en tussen departijen en (nadere) afspraken tussen hen kunnen even bepalend zijn. Het kan in de praktijk dus lastig zijn om de exacte reikwijdte van een volmacht te bepalen. In het dossier van onze zaken bevindt zich slechts de machtiging voor de proceshandelingen en niet een machtiging tot het doen van aangifte of tot algemene vertegenwoordiging jegens de fiscus.
+
+4.9 De belastingrechtspraak ging tot voor kort zo ver dat zelfs voor beboetingsdoeleinden de opzet of grove schuld van de gemachtigde op/aan onjuiste belastingheffing aan de belastingplichtige werd toegerekend, behoudens door de belastingplichtige te leveren bewijs dat hij niet hoefde te twijfelen aan de verrichtingen van zijn gemachtigde. In HR 15 juli 1988, nr. 24 483, na conclusie Van Soest, BNB 1988/270, met noot Van Dijck,(15) overwoog u:
+
+"4.6. De ingevolge artikel 18, lid 1, van de Algemene wet inzake rijksbelastingen voor het opleggen van een verhoging vereiste grondslag omvat twee bestanddelen, te weten: (1) dat te weinig belasting is geheven, en (2) dat zulks is te wijten aan opzet of grove schuld van de belastingplichtige. Voor zover deze wetsbepaling de belastingplichtige belast met het bewijs dat het sub (2) bedoelde bestanddeel niet is verwezenlijkt, is zij, gezien het vorenoverwogene, niet verenigbaar met de in artikel 6, lid 2, van het Verdrag vervatte waarborg, zodat zij in zoverre krachtens het bepaalde in artikel 94 van de Grondwet buiten toepassing moet blijven. Derhalve dient de Inspecteur bij het opleggen van een verhoging niet alleen te bewijzen dat tot het nagevorderde bedrag te weinig belasting is geheven, maar tevens dat zulks te wijten is aan opzet of grove schuld van de belastingplichtige.
+
+4.7. Aan dat bewijs kan niet afdoen de omstandigheid dat de belastingplichtige bij het doen van zijn aangifte gebruik maakte van de diensten van een adviseur en hij meende een juiste aangifte te doen en dat het aan zijn adviseur is te wijten dat te weinig belasting is geheven, tenzij de belastingplichtige aantoont dat hij in redelijkheid niet behoefde te twijfelen aan de fiscale aanvaardbaarheid van de mededelingen of adviezen van die adviseur.
+
+Aldus kan het voorkomen dat een onjuistheid in de aangifte, die is te wijten aan opzet of grove schuld van de adviseur, voor rekening van de belastingplichtige komt. Daaraan staat de inhoud van voormeld artikel 6 niet in de weg. Zou de belastingplichtige een verdergaande mogelijkheid hebben zich erop te beroepen dat hij is afgegaan op hem door zijn adviseur verstrekte mededelingen of adviezen en hem zelf geen opzet of grove schuld kan worden verweten, dan zou hij er een niet aanvaardbaar belang bij hebben de aangifte niet zelf op te stellen doch dit over te laten aan een adviseur. Hij zou dan immers, mits hij bij de keuze van zijn adviseur de nodige zorg in acht genomen heeft, de sanctie die de wet verbindt aan het doen van een onjuiste aangifte, van zich kunnen afwentelen."
+
+4.10 In HR 1 december 2006, nr. 40 369, na conclusie Niessen, BNB 2007/151, met noot De Bont (het fiscale IJzerdraad arrest)(16) herriep u dit arrest: voor beboetingsdoeleinden sloot u toerekening van opzet of grove schuld van de gemachtigde aan de belanghebbende uit,(17) zulks op grond van aansluiting bij het strafrecht (het IJzerdraadarrest; NJ 1954, 378) en van strengere toepassing van de onschuldpresumptie van art. 6, lid 2, EVRM. U overwoog:
+
+"-3.3. Voor sancties waarop het Nederlandse strafrechtstelsel van toepassing is, heeft de Hoge Raad in het zogenoemde IJzerdraadarrest (HR 23 februari 1954, NJ 1954, 378) overwogen dat 'opzet ten aanzien van enig delict of delictsbestanddeel door het Nederlandse strafrecht nergens wordt toegerekend aan een natuurlijk persoon, indien die geestesgesteldheid bij hem of haar niet persoonlijk aanwezig is geweest'.
+
+-3.4. Terugkomend van het arrest BNB 1988/270 acht de Hoge Raad het geraden ook voor (bestuursrechtelijke) fiscale vergrijpboetes de mogelijkheid van toerekening van opzet of grove schuld van een ander dan de belastingplichtige aan de belastingplichtige uit te sluiten. Zulks voorkomt dat op grond van een dergelijke toerekening strijd zou kunnen ontstaan met de in artikel 6, lid 2, EVRM neergelegde eis dat een ieder tegen wie een vervolging is ingesteld, voor onschuldig wordt gehouden totdat zijn schuld in rechte is komen vast te staan.
+
+-3.5. Opmerking verdient dat laatstbedoelde bepaling niet eraan in de weg staat dat het bewijs van opzet of grove schuld van de belastingplichtige in een voorkomend geval kan worden geleverd met behulp van vermoedens (HR 17 januari 1990, nr. 26 282, BNB 1990/193). De enkele omstandigheid dat de belastingplichtige een adviseur heeft ingeschakeld, wiens opzet of grove schuld wordt vastgesteld, rechtvaardigt evenwel niet het vermoeden dat ook bij de belastingplichtige zelf opzet of grove schuld aanwezig is geweest.
+
+-3.6. Opmerking verdient tevens dat de omstandigheid dat de belastingplichtige een adviseur heeft ingeschakeld, aan wie opzet of grove schuld kan worden verweten, kan samengaan met de mogelijkheid dat bij de belastingplichtige zelf (voorwaardelijk) opzet of grove schuld aanwezig is geweest. In dat verband kan van belang zijn of de belastingplichtige de zorg heeft betracht die redelijkerwijs van hem kan worden gevergd bij de keuze van zijn adviseur en bij de samenwerking met die adviseur. Wat in dit opzicht redelijkerwijs van de belastingplichtige kan worden gevergd, zal intussen van geval tot geval sterk kunnen verschillen, bij voorbeeld naar gelang zijn hoedanigheid en zijn kennis en ervaring omtrent de terzake relevante fiscale en andere aspecten. De inspecteur heeft van een en ander de stelplicht en de bewijslast."
+
+4.11 De Staatssecretaris betoogt dat dit fiscale IJzerdraadarrest niet in de weg staat aan toerekening van kwade trouw bij navordering, nu navordering van enkelvoudige belasting geen strafvervolging is in de zin van art. 6, lid 2, EVRM. Zijns inziens dient, wanneer is komen vast te staan dat de gemachtigde te kwader trouw was, diens kwade trouw in beginsel zonder meer te worden toegerekend aan de belanghebbende voor wat betreft de vaststelling van de wettelijk verschuldigde belasting. Hij wijst op een recente uitspraak van het Hof 's-Hertogenbosch;(18) waarin dat Hof als volgt overwoog:
+
+"4.5. (...). Vaststaat dat de inspecteur aan onder meer de toenmalige gemachtigde van belanghebbende, ruimschoots voordat de onderhavige aangifte (werd; PJW) ingediend, een brief heeft verzonden waarin nogmaals de aandacht werd gevestigd op het verplicht invullen van het vakje bij vraag 35 op het aangiftebiljet, indien er sprake was van het van toepassing zijn van een objectieve vrijstelling. Belanghebbende heeft niet gesteld dat de betreffende brief niet is ontvangen.
+
+4.6. Door het niet-invullen van vraag 35, hoewel buiten geschil is dat dit in casu wel had gemoeten, terwijl de Inspecteur ten overvloede belanghebbendes toenmalige adviseur per brief nog op de noodzaak hiertoe had gewezen en die adviseur, zeker na het ontvangen van bedoelde brief zijn administratieve systemen hierop had kunnen aanpassen, zijn, naar het oordeel van het hof, de Inspecteur opzettelijk de juiste inlichtingen onthouden en is er sprake van kwade trouw in de zin van artikel 16, lid 1, tweede volzin, AWR, aan de zijde van belanghebbende.
+
+4.7. Het hof overweegt voorts dat, anders dan in het arrest van de Hoge Raad van 1 december 2006 (nr. 40360), het in het onderhavige geval niet gaat om vergrijpboeten als bedoeld in de artikelen 67d en volgende van de Algemene wet inzake rijksbelastingen (hierna: AWR), en de betekenis daarbij en ook overigens van het EVRM, maar om het bepaalde in artikel 16 AWR, waar bedoeld arrest en ook de in dit arrest geduide bepalingen van het EVRM geen betrekking op hebben."
+
+4.12 Nu navordering van enkelvoudige belasting geen strafvervolging is in de zin van art. 6 EVRM (maar herstel van de rechtmatige toestand), staat het in 4.9 geciteerde fiscale IJzerdraadarrest inderdaad op zichzelf niet in de weg aan toerekening van kwade trouw bij de heffing van de enkelvoudige belasting.
+
+4.13 Uw rechtspraak, zowel die van de eerste als die van de derde kamer, bevat echter aanwijzingen dat u terughoudendheid betracht bij de toerekening van verwijtbaarheid (subjectieve delictsbestanddelen) van tussenpersonen/adviseurs aan belastingplichtigen c.q. belastingschuldigen, met name waar dezen niet hoefden te twijfelen aan hun adviseurs. De zaak Ontvanger tegen V.(19) betrof de aansprakelijkstelling ex art. 40 Invorderingswet 1990 van een (ex)grootaandeelhouder door de ontvanger van rijksbelastingen voor het onbelast 'verdwijnen' van een vervangingsreserve in een kasgeld-BV, waarvan de aandelen na bemiddeling van adviseurs - onder wie zijn belastingadviseur - verkocht waren aan een derde. U sloot toerekening van eventuele kennis van (fiscale) onbehoorlijkheid bij de adviseurs aan de verkoper niet geheel uit, maar maande tot terughoudendheid:
+
+"3.4 Tegen deze achtergrond voeren de onderdelen 2-5 diverse - hierna te bespreken - argumenten aan ten betoge dat het hof ten onrechte heeft geweigerd de (gestelde) kennis van de adviseurs van V. aan deze toe te rekenen. De onderdelen verdedigen achtereenvolgens
+
+- dat bij de uitvoering van een transactie als de onderhavige, de wetenschap van de adviseur in het maatschappelijk verkeer heeft te gelden als de wetenschap van degene die de aandelen vervreemdt (onderdeel 2, zulks met name met een beroep op het arrest van de Hoge Raad van 6 april 1979, nr. 11364, NJ 1980, 34);
+
+- dat de aard van de door de Ontvanger vertegenwoordigde algemene belangen de toerekening van deze wetenschap aan de opdrachtgever rechtvaardigt (onderdeel 3);
+
+- dat de regel van art. 3:66 lid 2 BW over toerekening van wetenschap bij volmacht, in het onderhavige geval overeenkomstige toepassing verdient (onderdeel 4), althans
+
+- dat in de gegeven omstandigheden ten aanzien van het bestaan van die wetenschap bij de opdrachtgever, een omkering van de bewijslast is gerechtvaardigd, zulks naar analogie van de rechtspraak van de belastingrechter in het geval van een onjuiste of onvolledige aangifte tegenover de inspecteur (onderdeel 5).
+
+3.5. Bij de beoordeling van deze onderdelen wordt vooropgesteld dat toerekening van kennis, wetenschap of (reden tot) twijfel die iemand ten aanzien van de behoorlijke afwikkeling van een transactie heeft aan een ander die deze kennis, wetenschap of (reden tot) twijfel zelf niet had, weliswaar niet onder alle omstandigheden is uitgesloten, maar dat daarbij wel terughoudendheid moet worden betracht. Dit klemt temeer als die toerekening, zoals in het onderhavige geval, wordt bepleit in het kader van een aansprakelijkheidsvraag, gezien het in het aansprakelijkheidsrecht geldende uitgangspunt dat eenieder in beginsel alleen voor zijn eigen daden en nalatigheden aansprakelijk is te houden, behoudens welomschreven, op de wet gebaseerde, uitzonderingen."
+
+Het belangrijkste verschil tussen onze zaak en Ontvanger tegen V. is dat in onze zaak de belanghebbende (kennelijk) de gemachtigde de opdracht heeft gegeven namens hem aangifte te doen en hem ook overigens te vertegenwoordigen - althans bij te staan - jegens de fiscus, zodat hij dan in beginsel ook jegens de fiscus moet instaan voor de verrichtingen van de gemachtigde, terwijl het in Ontvanger tegen V. ging om een commerciële transactie (verkoop van aandelen in een vervangingsreserve-BV door een ondernemer die geen opvolger had), na bemiddeling van diens belastingadviseur, tussen twee commerciële partijen, waarbij de fiscus slechts een (achteraf onaangenaam getroffen) derde was. De feitenrechter had in de geciteerde zaak vastgesteld (i) dat de (belasting)adviseurs niet waren opgetreden als gevolmachtigden, (ii) dat de verkopende aandeelhouder niet hoefde te twijfelen aan de berekening van de latente vennootschapsbelasting ter zake van de vervangingsreserve, (iii) dat hij niet wist dat de uiteindelijke koper de BV zou leeghalen en (iv) dat hem geen verwijt kon worden gemaakt ter zake van de keuze van zijn adviseurs. Dit civiele arrest hoeft dus nog geen aanleiding te zijn om min of meer automatische toerekening van kwade trouw in de zin van art. 16, lid 1, AWR van de gemachtigde aan de belanghebbende achterwege te laten, hoewel wellicht ook in onze zaak de aanwezigheid van een (mondelinge?) machtiging tot optreden jegens de fiscus minder ter zake doet. De belanghebbende zal haar gemachtigde immers denkelijk niet gemachtigd hebben opzettelijk onjuiste aangiften te doen. Heeft hij dat wél gedaan, dan is hij zélf al te kwader trouw en bestaat aan toerekening dus geen behoefte. Ik merk opnieuw op dat een schriftelijke machtiging tot het doen van aangiften zich niet in het dossier bevindt.
+
+4.14 Ook uw recente arrest HR 29 februari 2008, nr. 43 274, V-N 2008/12.10, geeft blijk van terughoudendheid bij kwade-trouwtoerekening, dit keer in een geval waarin wél sprake was van een expliciete opdracht tot het doen van belastingaangifte, dus waarin een gemachtigde namens de belastingplichtige en jegens de fiscus optrad. De zaak betrof een belanghebbende die na haar echtscheiding naar Spanje emigreerde en onder meer grote bedragen aan afkoop alimentatie en winst uit aanmerkelijk belang ontving. Zij had haar belastingadviseur bij Loyens & Volkmaars opdracht gegeven haar fiscaal te begeleiden en haar emigratie-aangifte te doen. Die adviseur verzocht de fiscus alle correspondentie naar hem te sturen, waarop Loyens & Volkmaars ter zake van het emigratiejaar een aangiftebiljet en een vragenformulier toegezonden kreeg. Geen van beide werd geretourneerd, vermoedelijk doordat de betrokken belastingadviseur kort daarna zijn praktijk bij Loyens & Volkmaars beëindigde. Na ontvangst van renseignementen van een verzekeraar over een lijfrentepolis-afkoop vorderde de fiscus na. Een nieuw feit ontbrak, dus het kwam aan op goede of kwade trouw. Het Hof achtte de belanghebbende te kwader trouw, omdat zij wist (haar belastingadviseur had haar zulks medegedeeld) dat de alimentatie-afkoopsom en de a.b.-winst in Nederland belastbaar waren en omdat zij door het niet-doen van aangifte en het niet-beantwoorden van de vragenbrief de aanmerkelijke kans op te lage heffing bewust had aanvaard. Het Hof achtte voorts wegens voorwaardelijk opzet een boete van 50% "passend en geboden." U vernietigde de Hofuitspraak en gebruikte dezelfde formulering voor de gegrondverklaring van zowel de grieven tegen de kwalificatie 'kwade trouw' (met betrekking tot de enkelvoudige belasting) als die tegen de kwalificatie 'voorwaardelijk opzet' (met betrekking tot de boetebeschikking). Ter zake van het verwijt 'kwade trouw' (enkelvoudige belasting) overwoog u:
+
+"3.5.1. Middel III in het principale beroep keert zich tegen het oordeel van het Hof dat belanghebbende te kwader trouw was als bedoeld in artikel 16, lid 1, slot, AWR.
+
+3.5.2. Voor zover thans van belang is sprake van kwade trouw indien de belastingplichtige de inspecteur opzettelijk de juiste inlichtingen heeft onthouden (HR 11 juni 1997, nr. 32299, BNB 1997/384).
+
+3.5.3. In dit verband heeft belanghebbende voor het Hof onder meer betoogd dat de omstandigheid dat zij zich heeft gewend tot een gerenommeerd kantoor als Loyens en Volkmaars, en haar aangiftebiljet naar dat kantoor heeft laten sturen, veeleer duidt op het tegenovergestelde, namelijk dat zij juist wel aan haar fiscale verplichtingen wenste te voldoen. Het Hof heeft dit betoog onbesproken gelaten. Daardoor heeft het zijn hiervoor in 3.5.1 weergegeven oordeel onvoldoende gemotiveerd. Immers, indien juist is dat belanghebbende Loyens en Volkmaars opdracht heeft gegeven tot het verzorgen en indienen van haar aangifte, is het vermoeden gewettigd dat zij beoogde de Inspecteur de juiste inlichtingen te verschaffen, en ligt in beginsel de veronderstelling in de rede dat haar, ter zake dat het door haar beoogde resultaat is uitgebleven, geen ernstiger verwijt treft dan dat zij geen afdoende controle heeft uitgeoefend op de voortgang van de aan Loyens en Volkmaars opgedragen werkzaamheden. Dat verwijt kan echter niet worden gekwalificeerd als opzet om de Inspecteur de juiste inlichtingen te onthouden, en slechts dan worden gekwalificeerd als daarop gericht voorwaardelijk opzet indien het achterwege laten van voortgangscontrole op Loyens en Volkmaars de aanmerkelijke kans in het leven riep dat Loyens en Volkmaars de opgedragen taak zou verzaken, dat belanghebbende wetenschap had van die aanmerkelijke kans, en dat zij die kans bewust heeft aanvaard (op de koop toe heeft genomen).
+
+3.5.4. Het middel slaagt derhalve voor zover het erover klaagt dat het Hof een essentiële stelling onbesproken heeft gelaten. Voor het overige behoeft het geen behandeling."
+
+Ter zake van het verwijt 'voorwaardelijk opzet' (boetebeschikking) overwoog u:
+
+"3.7.1. Middel V in het principale beroep keert zich ertegen dat het Hof uit het feit dat belanghebbende, bijgestaan door een fiscaal deskundige, geen aangifte heeft gedaan en geen vragen heeft beantwoord en ook anderszins geen adres heeft opgegeven aan de Belastingdienst, heeft afgeleid dat zij willens en wetens de aanmerkelijke kans heeft aanvaard dat over de hiervoor in 3.1.9 opgesomde inkomensbestanddelen geen belasting zou worden geheven, zodat zij het vergrijp heeft begaan als bedoeld in artikel 67e AWR.
+
+3.7.2. Aldus oordelend heeft het Hof onvoldoende inzicht gegeven in zijn gedachtegang. Indien het ervan is uitgegaan dat belanghebbende ervoor had in te staan dat de door haar ingeschakelde adviseur (Loyens en Volkmaars) de aangifte indiende, in die zin dat steeds sprake is van voorwaardelijk opzet van belanghebbende indien Loyens en Volkmaars dat zou nalaten, is het uitgegaan van een onjuiste rechtsopvatting. Van voorwaardelijk opzet, als ingevolge artikel 67e (minimaal) vereist, is, voor zover in dit verband van belang, eerst dan sprake indien belanghebbende geen afdoende controle heeft uitgeoefend op de voortgang van de aan Loyens en Volkmaars opgedragen werkzaamheden, het achterwege laten van voortgangscontrole op Loyens en Volkmaars de aanmerkelijke kans in het leven riep dat Loyens en Volkmaars de opgedragen taak zou verzaken en dientengevolge geen belasting zou worden geheven, belanghebbende wetenschap had van die aanmerkelijke kans, en zij die kans bewust heeft aanvaard (op de koop toe heeft genomen). Indien het Hof is uitgegaan van deze opvatting omtrent voorwaardelijk opzet, heeft het zijn oordeel dat daarvan sprake is onvoldoende gemotiveerd."
+
+4.15 Strikt genomen gaat het arrest niet over toerekening van kwade trouw van de gemachtigde aan de belastingplichtige, nu eventuele kwade trouw van de gemachtigde niet was onderzocht, maar het arrest suggereert dat het niet ter zake deed of de gemachtigde bewust de aanmerkelijke kans had aanvaard dat de aangifte niet gedaan zou worden, omdat hoe dan ook - dus ook als de gemachtigde te kwader trouw zou zijn geweest in de zin van aanvaarding van de aanmerkelijke kans dat de aangifte niet gedaan zou worden - minstens de belanghebbende verweten moest kunnen worden dat (i) zij onvoldoende toezicht had gehouden op de werkzaamheden van de gemachtigde; (ii) waardoor de aanmerkelijke kans ontstond dat de gemachtigde de aangifte niet zou doen; (iii) zij wetenschap had van die aanmerkelijke kans en (iv) die kans niettemin bewust aanvaardde (op de koop toe nam).
+
+4.16 Het komt mij voor dat de door de Staatssecretaris bepleite toerekening zonder meer van eventuele kwade trouw (voorwaardelijk opzet) van de gemachtigde aan de belastingplichtige niet strookt met dit arrest. Weliswaar volgt uit HR 31 januari 2003, nr. 37 511, na conclusie Van Kalmthout, BNB 2003/124,(20) dat toerekening van kwade trouw (opzet) bij navordering van enkelvoudige belasting niet uitgesloten is, maar kennelijk geldt de toerekeningsregel van het boven (4.9) geciteerde arrest HR BNB 1988/270 - ondanks uw herroeping voor opzettoerekening bij beboeting (zie 4.10) - nog wél voor de toerekening van kwade trouw bij navordering: een belastingplichtige kan toerekening van eventuele kwade trouw van zijn gemachtigde voorkomen door aannemelijk te maken dat hij niet hoefde te twijfelen aan de aanvaardbaarheid van het doen en laten van zijn gemachtigde. Dit kon overigens al opgemaakt worden uit HR 12 mei 1999, 34 347, BNB 1999/258, gezien de door u in dat arrest in stand gelaten uitspraak van het Hof Amsterdam, hoezeer u het cassatieberoep daartegen ook verwierp met toepassing van art. 81 RO.(21)
+
+4.17 Het Hof heeft in onze zaak geoordeeld dat de belanghebbende niet hoefde te twijfelen aan de aanvaardbaarheid van de verrichtingen van haar gemachtigde. Daarvan uitgaande, kon het Hof mijns inziens in het midden laten of de gemachtigde kwade trouw verweten kon worden. Voor zover het middel klaagt over het achterwege laten van een onderzoek daarnaar, faalt het daarom naar mijn mening.
+
+4.18 Voor zover het middel opkomt tegen 's Hofs oordeel dat de belanghebbende niet hoefde te twijfelen aan de aanvaardbaarheid van de verrichtigen van haar gemachtigde, bestrijdt het een feitelijk oordeel dat mijns inziens geen blijk geeft van een onjuiste rechtsopvatting, noch onvoldoende gemotiveerd is, zodat het in cassatie onaantastbaar is.
+
+4.19 De Staatssecretaris betoogt dat het ontbreken van een toerekeningsmogelijkheid bij navordering belastingplichtigen ertoe zou kunnen aanzetten om zich - kort gezegd - achter een gemachtigde te verschuilen. U gebruikte dit argument in r.o. 4.7 van het later door u herroepen arrest HR BNB 1988/270 voor de toerekening van opzet en grove schuld van de gemachtigde voor beboetingsdoeleinden. Zoals uit het bovenstaande blijkt, maak ik uit uw rechtspraak op dat u de toerekeningsregel van dat arrest nog steeds gebruikt, maar thans buiten de boetesfeer, nl. bij de toerekening van kwade trouw, zodat de Staatssecretaris ten onrechte vreest voor uitsluiting van toerekening daarvan.
+
+4.20 Ik leid uit de boven geciteerde jurisprudentie af dat er drie categorieën gevallen onderscheiden kunnen worden in de relatie tussen de gemachtigde en de belastingplichtige voor wat betreft de navordering van enkelvoudige belasting bij ontbreken van een nieuw feit:
+
+(i) de belastingplichtige is zelf te kwader trouw (heeft minimaal voorwaardelijk opzet op onjuiste of onvolledige informering van de fiscus; heeft dus opdracht gegeven tot of minimaal kennis van hetgeen de gemachtigde namens hem onrechtmatig doet of nalaat, en aanvaardt het of keurt het goed); aan toerekening van kwade trouw van de gemachtigde bestaat in deze categorie geen behoefte;
+
+(ii) de belastingplichtige is niet te kwader trouw (aanvaardde dus niet bewust de aanmerkelijke kans dat de fiscus onjuist geïnformeerd zou worden), maar (a) had in de omstandigheden van zijn geval reden tot twijfel (moeten hebben) aan de aanvaardbaarheid van de (niet-)verrichtingen van zijn gemachtigde en hield daar onvoldoende toezicht en greep op, of (b) treft in de omstandigheden van zijn geval een verwijt in de keuze van zijn gemachtigde (had moeten beseffen dat deze niet opgewassen was tegen de te behandelen juridische of administratieve vraagstukken); in deze categorie bestaat ruimte voor toerekening van kwade trouw van de gemachtigde (van diens bewuste aanvaarding van de aanmerkelijke kans dat zijn verrichtingen tot onjuiste of onvolledige informering van de fiscus zouden leiden), maar hoe groot die ruimte is, is nog onduidelijk. Wellicht moet hier congruentie nagestreefd worden met het gebied van de 'grove schuld' voor beboetingsdoeleinden: de belastingplichtige had weliswaar geen (voorwaardelijk) opzet, maar hem treft wel een substantieel verwijt van onzorvuldigheid of onachtzaamheid;
+
+(iii) de belastingplichtige is niet te kwader trouw en hoefde in de omstandigheden van zijn geval evenmin te twijfelen aan de aanvaardbaarheid van het doen of nalaten of de kundigheid van zijn gemachtigde; in deze categorie is eventuele kwade trouw (voorwaardelijk opzet) van de gemachtigde niet toerekenbaar aan de belastingplichtige.
+
+4.21 's Hofs - mijns inziens in cassatie stand houdende - feitelijke oordelen voeren tot de conclusie dat onze zaken zich in de derde categorie bevinden. Het moet de Staatssecretaris toegegeven worden dat 's Hofs uitspraak de indruk wekt dat het Hof alleen categorie (i) van belang achtte, maar de (juiste) maatstaf die het Hof heeft gebruikt (de belanghebbende hoefde niet te twijfelen en heeft voldoende zorg besteed aan de keuze van zijn gemachtigde) en de feiten die hij heeft vastgesteld impliceren dat hij ook categorie (ii) in casu heeft uitgesloten, zodat eventuele kwade trouw van de gemachtigde niet ter zake doet.
+
+4.22 Ik meen dat de vrees van de Staatssecretaris voor verschuilen achter een gemachtigde slechts bij uitzondering gegrond kan zijn: indien het om bewust verschuilen gaat, verwacht of vraagt de belastingplichtige dus iets van zijn gemachtigde dat niet pluis is, zodat hij zelf al te kwader trouw is. Immers: indien de belastingplichtige (minstens) weet en bovendien gedoogt, aanvaardt of goedkeurt dat zijn gemachtigde de fiscus niet of onjuist voorlicht, is hij zelf te kwader trouw (IJzerdraadcriterium) en bestaat aan toerekening geen behoefte. Ook indien hij op zichzelf weliswaar te goeder trouw is, maar had moeten twijfelen aan de aanvaardbaarheid van hetgeen de gemachtigde deed of naliet en daarop onvoldoende toezicht en greep hield, of hem een verwijt gemaakt kan worden ter zake van de keuze van een onkundige gemachtigde, is toerekening van kwade trouw bij navordering niet uitgesloten. Zoals betoogd, zou deze categorie ingevuld kunnen worden parallel aan het begrip 'grove schuld' in het fiscale-boeterecht. Buiten deze twee categorieën is toerekening van kwade touw niet mogelijk: voor 'klakkeloze' toerekening van subjectieve delictsbestanddelen is dus geen plaats. Een gemachtigde die te kwader trouw opereert zodanig dat die kwade trouw niet aldus toerekenbaar is aan de belastingplichtige (omdat die niet hoefde twijfelen), handelt per definitie buiten zijn volmacht en (vermoedelijk) onrechtmatig jegens zowel de fiscus als zijn cliënt. Een dergelijke gemachtigde zal denkelijk vrij zeldzaam zijn en door de fiscus geweigerd kunnen worden als gemachtigde wegens "ernstige bezwaren" in de zin van art. 2:2, lid 1, Awb. Door het arrest van uw eerste kamer van 8 mei 1998, nr. 16 553, Staat v. Lenger en maatschap Deloitte & Touche, na conclusie Mok, NJ 1998, 890, met noot ARB; BNB 1998/277, met noot J. den Boer, zit het er echter kennelijk niet in dat de Staat een dergelijke gemachtigde met succes wegens onrechtmatige daad kan aanspreken voor de niet van de belastingplichtige navorderbare belasting.
+
+5. Conclusie
+
+Ik geef u in overweging het beroep ongegrond te verklaren.
+
+De procureur-generaal
+
+bij de Hoge Raad der Nederlanden
+
+(A.-G.)
+
+1 Gerechtshof Amsterdam 11 juli 2007, nrs. 06/00263, 00264 & 00266.
+
+2 Gedagtekend respectievelijk 20 november 2004, 4 december 2004 en 8 januari 2005.
+
+3 Het betrof een vermindering wegens niet opgevoerde investeringsaftrek en een (kleinere) bijtelling voor niet-aftrekbare kosten.
+
+4 Rechtbank Haarlem 14 juni 2006, nr. AWB 05/3503.
+
+5 Rechtbank Haarlem 14 juni 2006, nrs. AWB 05/3504 en -3506; r.o. 4.8 resp. r.o. 4.7.
+
+6 Rechtbank Haarlem 14 juni 2006, nrs. AWB 05/3503, -04 en -06. De gedeelten tussen vierkante haken zijn niet in alle versies gelijk.
+
+7 Hof Amsterdam 11 juli 2007, nrs. 06/00263, -264 & -266. De gedeelten tussen vierkante haken zijn niet in alle versies gelijk.
+
+8 HR 11 juni 1997, nr. 32 299, na conclusie Van Soest, BNB 1997/384, met noot Happé; HR 14 juni 2000, nr. 35 263, BNB 2000/299, met noot Van Leijenhorst.
+
+9 Voor een studie naar vertegenwoordiging in belastingzaken verwijs ik naar P. van der Wal (2006); Vertegenwoordiging en bijstand in belastingzaken: Fiscale rechtsbijstandverlening naar Nederlands recht (tweede druk); Fiscale Monografieen 116, Deventer: Kluwer.
+
+10 Kamerstukken II 1988-1989, 21 221 (Algemene wet bestuursrecht), nr. 3 (MvT), p. 48.
+
+11 Vgl. art. 3:61, leden 2 en 3, BW.
+
+12 Vgl. art. 3:69, lid 1, BW.
+
+13 Art. 3:33 BW juncto art. 3:37, lid 1, BW.
+
+14 Art. 3:61, lid 1, BW.
+
+15 AB 1988/531, met noot FHvdB; Fed 1988/708, met aantekening Wattel.
+
+16 V-N 2006/5.8; Fed 2007/43, met aantekening Poelmann; JB 2007/3, met annotatie C.L.G.F.H.A.
+
+17 Zie ook het vrijwel identieke arrest HR 1 december 2006, nr. 40 518, V-N 2006/62.4.
+
+18 Hof 's-Hertogenbosch 28 juni 2007, nr. 04/02174, V-N 2007/54.7 (geen cassatie ingesteld).
+
+19 HR 11 november 2005, nr. C04/197HR, Ontvanger tegen V., na conclusie Langemeijer, NJ 2007, 231, met noot Vranken; V-N 2005/57.20.
+
+20 U overwoog in dat arrest als volgt:
+
+"-3.3. (...) Van kwade trouw is in dit verband sprake indien belanghebbende opzettelijk onjuiste of onvolledige inlichtingen heeft verstrekt. Het Hof heeft echter niet vastgesteld dat belanghebbende wist dat de aangifte op het punt van de schadevergoeding onjuist was. Evenmin heeft het vastgesteld dat, zoals voor voorwaardelijk opzet op dit punt is vereist, belanghebbende zich ervan bewust is geweest dat er een aanmerkelijke kans bestond dat de aangifte wat betreft de schadevergoeding onjuist was maar zich daardoor niet heeft laten weerhouden de aangifte te doen zoals hij heeft gedaan, en zich aldus willens en wetens heeft blootgesteld aan de aanmerkelijke kans een onjuiste aangifte te doen. Uit hetgeen het Hof wel heeft vastgesteld volgt het een of het ander evenmin. (...). Het Hof heeft wel aandacht besteed aan belanghebbendes verweer dat hij mocht afgaan op het advies van zijn accountant. Maar wat er zij van het desbetreffende oordeel van het Hof, dit verweer wordt pas van belang bij de beantwoording van de vraag of eventuele (voorwaardelijke) opzet van de gemachtigde aan belanghebbende kan worden toegerekend. Omtrent (voorwaardelijke) opzet van gemachtigde heeft het Hof echter niets vastgesteld."
+
+21 Zie ook Rechtbank Breda 24 april 2006, 05/3556, V-N 2006/58.2.2 en Hof Leeuwarden 18 april 1996, 95/0593, V-N 1997/925 pt. 9.
