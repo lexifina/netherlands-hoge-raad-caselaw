@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BD9217"
-published_in: ["Rechtspraak.nl", "RN 2009, 42", "BNB 2009/203 met annotatie van E.J.W. Heithuis", "FED 2009/47 met annotatie van S.J. Mol-Verver", "Belastingadvies 2009/7.5", "V-N 2009/11.10 met annotatie van Redactie", "Vp-bulletin 2009, 15 met annotatie van Redactie", "Vp-bulletin 2008, 46 met annotatie van Redactie", "FutD 2009-0461 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "RN 2009, 42", "BNB 2009/203 met annotatie van E.J.W. Heithuis", "FED 2009/47 met annotatie van S.J. Mol-Verver", "Belastingadvies 2009/7.5", "V-N 2009/11.10", "Vp-bulletin 2009, 15", "Vp-bulletin 2008, 46", "NTFR 2009/508 met annotatie van mr. dr. J. Ganzeveld", "FutD 2009-0461", "Viditax (FutD) 2009022701"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BD9217"], ["Formele relatie", "In sprongcassatie op: ECLI:NL:RBHAA:2007:BB3785, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
