@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2009:BD9217"
-published_in: ["Rechtspraak.nl", "RN 2009, 42", "BNB 2009/203 met annotatie van E.J.W. Heithuis", "FED 2009/47", "Belastingadvies 2009/7.5", "V-N 2009/11.10", "Vp-bulletin 2009, 15", "Vp-bulletin 2008, 46", "V-N 2008/39.11 met annotatie van Redactie", "FutD 2008-1669 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "RN 2009, 42", "BNB 2009/203 met annotatie van E.J.W. Heithuis", "FED 2009/47 met annotatie van S.J. Mol-Verver", "Belastingadvies 2009/7.5", "V-N 2009/11.10", "Vp-bulletin 2009, 15", "Vp-bulletin 2008, 46", "V-N 2008/39.11", "FutD 2008-1669", "Viditax (FutD) 2008080817"]
 relations: [["Formele relatie", "Rechtbankuitspraak waarvan sprongcassatie: ECLI:NL:RBHAA:2007:BB3785"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BD9217"]]
 ---
 
