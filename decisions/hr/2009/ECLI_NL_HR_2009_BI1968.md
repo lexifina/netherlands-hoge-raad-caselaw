@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI1968"
-published_in: ["Rechtspraak.nl", "NJB 2009, 932", "Belastingblad 2009/728 met annotatie van M.R.P. de Bruin", "BNB 2009/159 met annotatie van W.J.N.M. SNOIJINK", "V-N 2009/21.27 met annotatie van Redactie", "TBR 2009/188", "FutD 2009-0878", "JB 2009/160", "JOM 2009/521"]
+published_in: ["Rechtspraak.nl", "NJB 2009, 932", "Belastingblad 2009/728 met annotatie van M.R.P. de Bruin", "BNB 2009/159 met annotatie van W.J.N.M. SNOIJINK", "V-N 2009/21.27", "TBR 2009/188", "JB 2009/160", "JOM 2009/521", "NTFR 2009/1002 met annotatie van Mr. M.P. van der Burg", "FutD 2009-0878", "Viditax (FutD) 2009042403"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2007:BC0297, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/gemeentewet/art-229b.md"]
 ---
