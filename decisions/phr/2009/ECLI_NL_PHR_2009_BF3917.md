@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2009:BF3917"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 579", "RI 2009, 44", "NJ 2009, 416 met annotatie van P. van Schilfgaarde", "TvI 2009, 23", "NJB 2009, 922", "JWB 2009/155", "JOR 2010/22 met annotatie van NEDF"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 579", "RI 2009, 44", "NJ 2009, 416 met annotatie van P. van Schilfgaarde", "TvI 2009, 23", "NJB 2009, 922", "JWB 2009/155", "JOR 2010/22 met annotatie van prof. mr. N.E.D. Faber"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSHE:2005:AV2131"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BF3917"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-042.md", "netherlands/national/acts/faillissementswet/art-051.md", "netherlands/national/acts/faillissementswet/art-068.md"]
 ---
