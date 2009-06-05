@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BH2815"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 683", "RCR 2009, 60", "RAV 2009, 77", "NJ 2012/182 met annotatie van J.B.M. Vranken", "NJB 2009, 1206", "JE 2009, 322", "JWB 2009/203", "AA20100188 met annotatie van W.H. van Boom, S.D. Lindenbergh", "JOR 2009/199 met annotatie van C.W.M. Lieverse", "JA 2009/117"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 683", "RCR 2009, 60", "RAV 2009, 77", "NJ 2012/182 met annotatie van J.B.M. Vranken", "NJB 2009, 1206", "JE 2009, 322", "JWB 2009/203", "AA20100188 met annotatie van Boom van W.H. Willem, Lindenbergh S.D. Siewert", "JOR 2009/199 met annotatie van C.W.M. Lieverse", "JA 2009/117"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BH2815"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2008:BC9484, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
