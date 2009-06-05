@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BH2822"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 685", "NJ 2012/184 met annotatie van J.B.M. Vranken", "NJB 2009, 1205", "JE 2009, 324", "JWB 2009/202", "JA 2009/118 met annotatie van W.H. van Boom"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 685", "NJ 2012/184 met annotatie van J.B.M. Vranken", "NJB 2009, 1205", "JE 2009, 324", "JWB 2009/202", "JA 2009/118 met annotatie van W.H. van Boom", "AA20100188 met annotatie van Boom van W.H. Willem, Lindenbergh S.D. Siewert"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BH2822"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2007:BB7971, Bekrachtiging/bevestiging"]]
 ---
 
