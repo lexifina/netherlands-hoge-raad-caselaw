@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BJ1980"
-published_in: ["Rechtspraak.nl", "BNB 2009/292 met annotatie van P. KAVELAARS", "V-N 2009/43.13 met annotatie van Redactie", "FutD 2009-1442", "USZ 2009/260"]
+published_in: ["Rechtspraak.nl", "BNB 2009/292 met annotatie van P. KAVELAARS", "V-N 2009/43.13 met annotatie van Redactie", "USZ 2009/260", "NTFR 2009/1537 met annotatie van Redactie", "FutD 2009-1442", "Viditax (FutD) 2009071011"]
 relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2008:BH5599, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/besluit-uitbreiding-en-beperking-kring-verzekerden-volksverzekeringen-1999/art-026.md"]
 ---
