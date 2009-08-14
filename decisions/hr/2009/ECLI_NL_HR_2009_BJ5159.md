@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BJ5159"
-published_in: ["Rechtspraak.nl", "BNB 2009/249", "V-N 2009/42.7 met annotatie van Redactie", "FutD 2009-1702"]
+published_in: ["Rechtspraak.nl", "BNB 2009/249", "V-N 2009/42.7", "NTFR 2009/1922 met annotatie van mr. W.J. Benning", "DouaneUpdate 2009-0612", "FutD 2009-1702", "Viditax (FutD) 2009081406"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2005:AU7518, Bekrachtiging/bevestiging"]]
 ---
 
