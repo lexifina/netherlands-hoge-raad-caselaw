@@ -8,8 +8,8 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2009:BH4033"
-published_in: ["Rechtspraak.nl", "RI 2009, 78", "RvdW 2009, 995", "RO 2009, 67", "NJ 2009, 565 met annotatie van H.J. Snijders en P. van Schilfgaarde", "TvI 2010, 24", "NJB 2009, 1613", "JRV 2009, 732", "JWB 2009/318", "JOR 2009/309 met annotatie van I. Spinath"]
-relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2007:BC4579"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BH4033"]]
+published_in: ["Rechtspraak.nl", "RI 2009, 78", "RvdW 2009, 995", "RO 2009, 67", "NJ 2009, 565 met annotatie van H.J. Snijders, P. van Schilfgaarde", "TvI 2010, 24", "NJB 2009, 1613", "JRV 2009, 732", "JWB 2009/318", "JOR 2009/309 met annotatie van I. Spinath"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BH4033"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-111.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-140.md"]
 ---
 
