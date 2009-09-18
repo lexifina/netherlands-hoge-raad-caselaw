@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI5912"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 1046", "RN 2009, 98", "NJ 2009, 438", "RAV 2009, 106", "RO 2009, 75", "RI 2009, 88", "NJB 2009, 1720", "JRV 2009, 733", "JWB 2009/326", "JOR 2010/29 met annotatie van NEDF en SCJJK"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 1046", "RN 2009, 98", "NJ 2009, 438", "RAV 2009, 106", "RO 2009, 75", "RI 2009, 88", "NJB 2009, 1720", "JRV 2009, 733", "JWB 2009/326", "JOR 2010/29 met annotatie van prof. mr. N.E.D. Faber, prof. mr. S.C.J.J. Kortmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BI5912"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-053.md"]
 ---
