@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI5906"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 1045", "NJ 2009, 566 met annotatie van J.W. Zwemmer", "RAV 2009, 105", "NJB 2009, 1724", "Gst. 2010, 5 met annotatie van P.J. Huisman", "BNB 2010/21 met annotatie van J.A.R. van Eijsden", "V-N 2009/48.6 met annotatie van Redactie", "JWB 2009/332", "FutD 2009-2026 met annotatie van Fiscaal up to Date", "JB 2009/230"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 1045", "NJ 2009, 566 met annotatie van J.W. Zwemmer", "RAV 2009, 105", "NJB 2009, 1724", "Gst. 2010, 5 met annotatie van P.J. Huisman", "BNB 2010/21 met annotatie van J.A.R. van Eijsden", "V-N 2009/48.6", "JWB 2009/332", "JB 2009/230", "NTFR 2009/2048 met annotatie van mr. A.E.H. van der Voort Maarschalk", "FutD 2009-2026", "Viditax (FutD) 2009092508"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BI5906"]]
 cites_law: ["netherlands/national/acts/awr/art-047.md"]
 ---
