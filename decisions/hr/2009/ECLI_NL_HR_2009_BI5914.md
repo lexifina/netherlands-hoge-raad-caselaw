@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI5914"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 1102", "RAR 2009, 158", "NJB 2009, 1726", "TRA 2009, 99 met annotatie van J.J.M. de Laat", "JWB 2009/337", "JAR 2009/270", "AR-Updates.nl 2009-0721"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 1102", "RAR 2009, 158", "NJB 2009, 1726", "TRA 2009, 99 met annotatie van J.J.M. de Laat", "JWB 2009/337", "JAR 2009/270", "AR-Updates.nl 2009-0721", "VAAN-AR-Updates.nl 2009-0721"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BI5914"], ["Formele relatie", "In cassatie op : ECLI:NL:GHLEE:2007:BA7840, Bekrachtiging/bevestiging"]]
 ---
 
