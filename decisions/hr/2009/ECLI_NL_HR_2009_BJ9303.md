@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Herziening"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BJ9303"
-published_in: ["Rechtspraak.nl", "RvdW 2009, 1195", "NJB 2009, 1939", "NBSTRAF 2009/355"]
+published_in: ["Rechtspraak.nl", "RvdW 2009, 1195", "NJB 2009, 1939", "NbSr 2009/355"]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-457.md"]
 ---
 
