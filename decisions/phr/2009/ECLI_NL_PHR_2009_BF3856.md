@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2009:BF3856"
-published_in: ["Rechtspraak.nl", "NJB 2009, 1884", "BNB 2010/32 met annotatie van E.J.W. Heithuis", "FED 2009/102", "V-N 2009/49.16", "Vp-bulletin 2009, 62", "FutD 2008-2055"]
+published_in: ["Rechtspraak.nl", "NJB 2009, 1884", "BNB 2010/32 met annotatie van E.J.W. Heithuis", "FED 2009/102 met annotatie van J.W.J. De Kort", "V-N 2009/49.16", "Vp-bulletin 2009, 62", "FutD 2008-2055", "Viditax (FutD) 2008100308"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2007:BB3789"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BF3856"]]
 ---
 
