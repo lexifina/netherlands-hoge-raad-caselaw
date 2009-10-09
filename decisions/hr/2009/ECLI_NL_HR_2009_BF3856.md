@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BF3856"
-published_in: ["Rechtspraak.nl", "NJB 2009, 1884", "BNB 2010/32 met annotatie van E.J.W. Heithuis", "FED 2009/102 met annotatie van J.W.J. De Kort", "V-N 2009/49.16 met annotatie van Redactie", "Vp-bulletin 2009, 62 met annotatie van Redactie", "FutD 2009-2143 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "NJB 2009, 1884", "BNB 2010/32 met annotatie van E.J.W. Heithuis", "FED 2009/102 met annotatie van J.W.J. De Kort", "V-N 2009/49.16", "Vp-bulletin 2009, 62", "FutD 2009-2143", "Viditax (FutD) 2009100901"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BF3856"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2007:BB3789, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
