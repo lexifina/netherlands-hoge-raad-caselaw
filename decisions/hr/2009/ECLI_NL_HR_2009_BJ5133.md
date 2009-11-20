@@ -3,36 +3,62 @@ ecli: "ECLI:NL:HR:2009:BJ5133"
 court: "Hoge Raad"
 court_code: "HR"
 docket: "08/03521"
-decided: "2009-06-22"
+decided: "2009-11-20"
 published: "2013-04-05"
 type: "uitspraak"
-procedure: "Cassatie"
+procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BJ5133"
 published_in: ["Rechtspraak.nl"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BJ5133"]]
 ---
 
-# ECLI:NL:HR:2009:BJ5133 Hoge Raad , 22-06-2009 / 08/03521
-
-## Inhoudsindicatie
-
-Conclusie PG:
-
-Aan belanghebbende, woonachtig in Nederland is een naheffingsaanslag belasting van personenauto's en motorrijwielen opgelegd ter zake van het gebruik maken van de weg met een Jaguar die was voorzien van een Belgisch kenteken. Rechtbank Breda vernietigt de naheffingsaanslag omdat niet aannemelijk is geworden dat de auto bestemd was voor duurzaam gebruik in Nederland. Zowel belanghebbende als de Inspecteur stelt hoger beroep in. Het Hof kent aan beide ingestelde hoger beroepen een zaaknummer toe en doet twee uitspraken. De onderhavige conclusie heeft betrekking op het door belanghebbende ingestelde hoger beroep. Belanghebbende meent dat de rechtbank hem ten onrechte niet een vergoeding van de werkelijk gemaakte proceskosten heeft toegekend. Het Hof oordeelt dat een schending van het gemeenschapsrecht door de Inspecteur geen bijzondere omstandigheid oplevert voor afwijking van de forfaitaire proceskostenvergoeding. Deze regeling vormt geen ongeoorloofde beperking van de toegang tot het gemeenschapsrecht. Het Hof kent wel een hogere proceskostenvergoeding toe door uit te gaan van een hogere wegingsfactor en vanwege door de gemachtige verrichte (hulp)werkzaamheden waarvoor de rechtbank geen bedrag in aanmerking had genomen.
-
-Belanghebbende stelt beroep in cassatie in en voert drie klachten aan.
-
-A-G van Hilten memoreert eerst haar eerder ingenomen standpunt dat een procedure betreffende één naheffingsaanslag één zaak betreft waarin het Hof slechts één uitspraak kan doen (conclusie van 31 oktober 2008 voor zaaknr. 07/11210). Het Hof had het hoger beroep van belanghebbende in één uitspraak moeten behandelen tezamen met de uitspraak naar aanleiding van het door de Inspecteur ingestelde hoger beroep.
-
-Wat de eerste klacht betreft wijst de A-G op twee uitspraken van de Hoge Raad (civiele en belastingkamer) waarin hij oordeelde dat een onjuist bevonden standpunt van een bestuursorgaan op zichzelf geen bijzondere omstandigheid oplevert die een afwijking van de forfaitaire proceskostenvergoeding rechtvaardigt (HR 17 december 2004, BNB 2005/239 en HR 7 oktober 2005, BNB 2005/374). Bijkomende omstandigheden zijn nodig voor een hogere vergoeding dan de forfaitaire. Het moet dan gaan om de situatie dat een rechtzoekende belemmerd wordt zijn aan het gemeenschapsrecht ontleende rechten te effectueren. De A-G betwijfelt of deze gevallen zich in rechte voor zullen doen omdat de belastingplichtige die daadwerkelijk belemmerd wordt, geen beroep op bijzondere omstandigheden kan doen.
-
-In de zaak D (C-376/03) kwam het HvJ EG niet toe aan de beantwoording van de voorwaardelijk gestelde vraag van Hof 's-Hertogenbosch over de verenigbaarheid van de proceskosten-regeling met het Europese recht. In de zaak Clean Car Service (C-472/99) heeft het HvJ EG zich uitgelaten over de vergoeding van kosten van partijen in het hoofdgeding die zijn gemaakt in verband met de prejudiciële procedure. De getoetste Oostenrijkse regeling voorzag daar niet in. Het HvJ EG overwoog dat dit bij gebreke van een gemeenschapsregeling een aangelegenheid is van het interne recht van de lidstaten. De nationale rechter moet wel het gelijkwaardigheids- en doeltreffendheidsbeginsel in acht nemen. Volgens de A-G zal het oordeel van het HvJ EG niet anders zijn als het gaat om vergoeding van de kosten in verband met de nationale procedure.
-
-De tweede klacht faalt eveneens. Het Hof was anders dan belanghebbende meent niet verplicht te motiveren waarom het nu niet en destijds (in de zaak D) wel prejudiciële vragen stelde. Het Hof is sowieso niet verplicht om vragen te stellen aan het HvJ EG omdat tegen zijn uitspraak een rechtsmiddel kan worden aangewend (art. 234 EG).
-
-De derde klacht tot slot ziet op het door het Hof geschatte bedrag voor de (hulp)werkzaamheden van de gemachtigde. Het betreft een feitelijk oordeel dat in cassatie niet op zijn juistheid kan worden getoetst. De klachten kunnen niet tot cassatie leiden.
+# ECLI:NL:HR:2009:BJ5133 Hoge Raad , 20-11-2009 / 08/03521
 
 ## Uitspraak
 
-Uitspraak wordt niet gepubliceerd.
+Hoge Raad der Nederlanden
+
+Derde Kamer
+
+Nr. 08/03521
+
+20 november 2009
+
+Arrest
+
+gewezen op het beroep in cassatie van [X] te [Z] , België (hierna: belanghebbende) tegen de uitspraak van het Gerechtshof te 's-Hertogenbosch van 9 juli 2008, nr. 06/00412, betreffende een naheffingsaanslag in de belasting van personenauto's en motorrijwielen.
+
+1. Het geding in feitelijke instanties
+
+Aan belanghebbende is een naheffingsaanslag in de belasting van personenauto's en motorrijwielen opgelegd, welke aanslag, na daartegen gemaakt bezwaar, bij uitspraak van de Inspecteur is gehandhaafd.
+
+De Rechtbank te Breda (nr. Awb 05/4072) heeft het tegen die uitspraak ingestelde beroep gegrond verklaard, de uitspraak van de Inspecteur en de naheffingsaanslag vernietigd en de Inspecteur veroordeeld in de proceskosten van belanghebbende ten bedrage van € 522.
+
+Zowel belanghebbende als de Inspecteur heeft tegen de uitspraak van de Rechtbank hoger beroep ingesteld bij het Hof. De Inspecteur heeft nadien zijn hoger beroep ingetrokken.
+
+Het Hof heeft op het hoger beroep van belanghebbende de uitspraak van de Rechtbank vernietigd wat betreft de beslissing omtrent de proceskosten, die uitspraak voor het overige bevestigd en de Inspecteur veroordeeld in de kosten van het geding bij de Rechtbank en het Hof aan de zijde van belanghebbende, welke kosten zijn vastgesteld op in totaal € 2949.
+
+2. Geding in cassatie
+
+Belanghebbende heeft tegen 's Hofs uitspraak beroep in cassatie ingesteld en daarbij een aantal klachten aangevoerd.
+
+De Staatssecretaris van Financiën heeft een verweerschrift ingediend.
+
+De Advocaat-Generaal M.E. van Hilten heeft op 22 juni 2009 geconcludeerd tot gegrondverklaring van het beroep in cassatie, tot vernietiging van de uitspraak van het Hof en tot het afdoen van de zaak door de Hoge Raad.
+
+Belanghebbende heeft schriftelijk op de conclusie gereageerd.
+
+3. Beoordeling van de klachten
+
+De klachten kunnen niet tot cassatie leiden. Zulks behoeft, gezien artikel 81 van de Wet op de rechterlijke organisatie, geen nadere motivering, nu de klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+4. Proceskosten
+
+De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten.
+
+5. Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie ongegrond.
+
+Dit arrest is gewezen door de vice-president D.G. van Vliet als voorzitter, en de raadsheren P. Lourens, J.A.C.A. Overgaauw, P.M.F. van Loon en M.A. Fierstra, in tegenwoordigheid van de waarnemend griffier E. Cichowski, en in het openbaar uitgesproken op 20 november 2009.
