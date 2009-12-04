@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2009:BG7213"
-published_in: ["Rechtspraak.nl", "AB 2010, 136 met annotatie van P.A. Willemsen", "NJB 2009, 2271", "BNB 2010/65 met annotatie van P.J. van Amersfoort", "V-N 2009/62.3", "FutD 2008-2654"]
+published_in: ["Rechtspraak.nl", "AB 2010, 136 met annotatie van P.A. Willemsen", "NJB 2009, 2271", "BNB 2010/65 met annotatie van P.J. van Amersfoort", "V-N 2009/62.3", "FutD 2008-2654", "Viditax (FutD) 2008121916"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2009:BG7213"]]
 ---
 
