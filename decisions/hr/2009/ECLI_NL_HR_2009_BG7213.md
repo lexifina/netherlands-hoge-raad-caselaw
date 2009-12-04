@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BG7213"
-published_in: ["Rechtspraak.nl", "AB 2010, 136 met annotatie van P.A. Willemsen", "NJB 2009, 2271", "BNB 2010/65 met annotatie van P.J. van Amersfoort", "V-N 2009/62.3 met annotatie van Redactie", "FutD 2009-2602"]
+published_in: ["Rechtspraak.nl", "AB 2010, 136 met annotatie van P.A. Willemsen", "NJB 2009, 2271", "BNB 2010/65 met annotatie van P.J. van Amersfoort", "V-N 2009/62.3", "FutD 2009-2602", "Viditax (FutD) 2009120403"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BG7213"]]
 ---
 
