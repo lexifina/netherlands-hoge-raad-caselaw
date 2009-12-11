@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BJ9069"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 1", "RAR 2010, 25", "Prg. 2010, 36", "NJ 2010, 97 met annotatie van E. Verhulp", "NJB 2010, 20", "TRA 2010, 28 met annotatie van J.J.M. de Laat", "JWB 2009/487", "JAR 2010/17", "AR-Updates.nl 2009-0929 met annotatie van A.R. Houweling", "XpertHR.nl 2012-408198", "XpertHR.nl 2010-408193"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 1", "RAR 2010, 25", "Prg. 2010, 36", "NJ 2010, 97 met annotatie van E. Verhulp", "NJB 2010, 20", "TRA 2010, 28 met annotatie van J.J.M. de Laat", "JWB 2009/487", "JAR 2010/17", "AR-Updates.nl 2009-0929", "VAAN-AR-Updates.nl 2009-0929"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BJ9069"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2009:BJ2220, Bekrachtiging/bevestiging"]]
 ---
 
