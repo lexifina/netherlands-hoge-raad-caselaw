@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI8493"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 35", "RI 2010, 17", "NJ 2010, 273 met annotatie van P. van Schilfgaarde", "TvI 2010, 17 met annotatie van C.J. Jager, H. de Coninck-Smolders", "NJB 2010, 108", "JWB 2009/521", "JOR 2011/19 met annotatie van prof. mr. N.E.D. Faber"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 35", "RI 2010, 17", "NJ 2010, 273 met annotatie van P. van Schilfgaarde", "TvI 2010, 17 met annotatie van H. de Coninck-Smolders, C.J. Jager", "NJB 2010, 108", "JWB 2009/521", "JOR 2011/19 met annotatie van prof. mr. N.E.D. Faber"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2009:BI8493"], ["Formele relatie", "In cassatie op : ECLI:NL:GHLEE:2008:BC5059, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-042.md", "netherlands/national/acts/faillissementswet/art-043.md"]
 ---
