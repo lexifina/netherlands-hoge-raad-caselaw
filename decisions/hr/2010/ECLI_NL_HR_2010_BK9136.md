@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK9136"
-published_in: ["Rechtspraak.nl", "RN 2010, 34", "RVR 2010, 47", "S&S 2010/96", "NJB 2010, 189", "Belastingblad 2010/224 met annotatie van J.P. Kruimel", "BNB 2010/80 met annotatie van J.C. VAN STRAATEN", "FED 2010/23 met annotatie van W.J.N.M. SNOIJINK", "V-N 2010/6.32 met annotatie van Redactie", "FutD 2010-0118", "NTFR 2010/269 met annotatie van mr. dr. G. Groenewegen"]
+published_in: ["Rechtspraak.nl", "RN 2010, 34", "RVR 2010, 47", "S&S 2010/96", "NJB 2010, 189", "Belastingblad 2010/224 met annotatie van J.P. Kruimel", "BNB 2010/80 met annotatie van J.C. VAN STRAATEN", "FED 2010/23 met annotatie van W.J.N.M. SNOIJINK", "V-N 2010/6.32", "NTFR 2010/269 met annotatie van mr. dr. G. Groenewegen", "FutD 2010-0118", "Viditax (FutD) 2010011508"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2007:BB6079, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
