@@ -1,0 +1,126 @@
+---
+ecli: "ECLI:NL:HR:2010:BK5182"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "09/01626"
+decided: "2010-02-02"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK5182"
+published_in: ["Rechtspraak.nl", "RvdW 2010, 280"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BK5182"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2008:BC4177, (Gedeeltelijke) vernietiging met verwijzen"]]
+---
+
+# ECLI:NL:HR:2010:BK5182 Hoge Raad , 02-02-2010 / 09/01626
+
+## Inhoudsindicatie
+
+Hofstad. OM-cassatie. Grondslagverlating. 1. Begrip “organisatie” a.b.i.  artt. 140 en 140a Sr. 2. Begrippen “aanzetten tot haat, discriminatie en geweld” a.b.i. art. 137d Sr . Ad 1. Het Hof heeft overwogen dat een groep personen alleen dan kan worden aangemerkt als een organisatie a.b.i. art. 140 en 140a Sr indien sprake is van een gestructureerd en duurzaam samenwerkingsverband. Die maatstaf getuigt, gelet op de wetsgeschiedenis, op zichzelf niet van een onjuiste rechtsopvatting. Door echter vervolgens te oordelen dat van zo een samenwerkingsverband eerst dan kan worden gesproken als “binnen die groep gemeenschappelijke regels en een gemeenschappelijke doelstelling hebben bestaan, waaraan de individuele leden gebonden waren en door welke gemeenschappelijkheid op die leden een zekere druk kon worden uitgeoefend zich aan die regels te houden en aan die doelstelling gebonden te achten”, heeft het Hof een te beperkt bereik gegeven aan die maatstaf. Dusdoende heeft het Hof een onjuiste betekenis toegekend aan de in de tenlastelegging voorkomende term "organisatie” die aldaar is gebezigd in dezelfde betekenis als daaraan toekomt in art. 140 en art. 140a Sr en heeft het de grondslag van de tll verlaten. Ad 2. Door te overwegen dat art. 137d Sr beoogt bepaalde minderheidsgroepen vanwege hun kwetsbaarheid – onder meer “wegens hun godsdienst of levensovertuiging” – te beschermen heeft het Hof een onjuiste betekenis toegekend aan de in de tll. voorkomende bewoordingen “aanzetten tot haat, discriminatie en geweld” die aldaar zijn gebezigd in dezelfde betekenis als daaraan toekomt in art. 137d Sr. Het Hof heeft aldus ook in dat opzicht de grondslag van de tll verlaten. Volgt verwijzing.
+
+## Uitspraak
+
+2 februari 2010
+
+Strafkamer
+
+nr. 09/01626
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Gravenhage van 23 januari 2008, nummer 22/001864-06, in de strafzaak tegen:
+
+[Verdachte 4], geboren te [geboorteplaats] op [geboortedatum] 1981, wonende te [woonplaats].
+
+1. De bestreden uitspraak
+
+Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Rechtbank te Rotterdam van 10 maart 2006 - de verdachte vrijgesproken van het bij inleidende dagvaarding onder 1 en 2 tenlastegelegde.
+
+2. Geding in cassatie
+
+2.1. Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+2.2. De Advocaat-Generaal Vellinga heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het Hof dan wel verwijzing naar een aangrenzend hof teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.
+
+3. Tenlastelegging en motivering van de gegeven vrijspraken
+
+3.1.1. Aan de verdachte is - voor zover in cassatie van belang en zakelijk weergegeven - onder 1 en 2 tenlastegelegd dat hij in of omstreeks de periode van 1 mei 2003 tot en met 10 november 2004 heeft deelgenomen aan een organisatie die het plegen van (terroristische) misdrijven tot oogmerk had. Tot de misdrijven die de organisatie tot oogmerk had te plegen, behoren volgens de tenlastelegging "het aanzetten tot haat, discriminatie en geweld (zoals bedoeld en omschreven in artikel 137d van het Wetboek van Strafrecht)".
+
+3.1.2. Het Hof heeft de verdachte daarvan vrijgesproken en heeft ten aanzien van de vraag of te dezen sprake is van een "organisatie" het volgende overwogen:
+
+"Van "deelneming" in de zin van de artikelen 140 en 140a Sr is eerst dan sprake indien, naast het daartoe vereiste opzet, aan twee voorwaarden is voldaan: de betrokkene dient tot de organisatie te behoren en de betrokkene dient een aandeel te hebben in gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het oogmerk van de organisatie dan wel dergelijke gedragingen te ondersteunen. Het behoren tot, het lid zijn of deel uitmaken van een organisatie is derhalve enerzijds op zich niet voldoende, doch anderzijds wel een essentieel vereiste om van "deelneming" te kunnen spreken. De twee hiervoor genoemde voorwaarden impliceren dat iemand, die incidenteel een bijdrage aan de verwezenlijking van het oogmerk van de organisatie levert, bijvoorbeeld door één van de door de organisatie beoogde misdrijven te plegen, doch verder geen enkele binding met die organisatie heeft, zich niet aan "deelneming" in de zin van de artikelen 140 en 140a Sr schuldig maakt. De twee hiervoor genoemde voorwaarden impliceren óók dat iemand tot een organisatie, als bedoeld in de artikelen 140 en 140a Sr, kan behoren zonder daaraan in strafrechtelijke zin deel te nemen, zonder derhalve zelfs maar incidenteel enige bijdrage aan de verwezenlijking van het in die bepalingen bedoelde oogmerk te leveren." (arrest van het Hof p. 9-10; paginanummering door de Hoge Raad aangebracht);
+
+en:
+
+"De "Hofstadgroep" kan eerst dan als een gestructureerd en duurzaam samenwerkingsverband worden aangemerkt als de groep een zekere bestendigheid heeft gekend en binnen die groep gemeenschappelijke regels en een gemeenschappelijke doelstelling hebben bestaan, waaraan de individuele leden gebonden waren en door welke gemeenschappelijkheid op die leden een zekere druk kon worden uitgeoefend zich aan die regels te houden en aan die doelstelling gebonden te achten." (arrest van het Hof p. 45; paginanummering door de Hoge Raad aangebracht);
+
+en voorts:
+
+"De overige door de advocaten-generaal in dit verband aangevoerde bewijsmiddelen tonen onmiskenbaar de samenstelling van de "Hofstadgroep" aan, maar leveren niet het wettig en overtuigend bewijs op dat deze groep een gestructureerd samenwerkingsverband heeft gevormd, een verband waarbinnen gemeenschappelijke regels hebben gegolden en een gemeenschappelijke doelstelling heeft bestaan en waarin de leden ter verwezenlijking van die doelstelling hebben samengewerkt.
+
+Naar het oordeel van het hof valt dat bewijs ook overigens niet aan de processtukken en het onderzoek ter terechtzitting te ontlenen.
+
+In zoverre heeft het onderzoek ter terechtzitting het beeld, dat uit de processtukken naar voren kwam, bevestigd. Alle leden van de "Hofstadgroep" kwamen gedurende de tenlastegelegde periode - sommigen: gedurende een deel van die periode - bij [medeverdachte 7] thuis. De één vaker dan de ander. Men wist nooit van tevoren wie men daar zou treffen. Iedereen ging wanneer hij tijd en zin had. Niemand was verplicht om te komen. Meestal was [medeverdachte 7] thuis, soms ook niet, maar er was altijd wel iemand die de deur opendeed. Er werd doorgaans wel over het geloof gesproken, soms uitgebreid, soms maar kort. Politieke situaties kwamen eveneens aan bod, Hirshi Ali of Theo van Gogh waren ook wel eens onderwerp van gesprek en verder passeerden de dingen van alledag de revue. De één ging er naartoe om over het geloof te kunnen praten, de ander kwam er voor de gezelligheid en voor een volgende vormden het geloof en de gezelligheid beide de drijfveer. De meesten hebben daar [medeverdachte 8] wel een paar keer getroffen. Als hij er was, had het samenzijn meer het karakter van een religieuze bijeenkomst. Hij gaf dan een lezing of cursus en maakte daarbij ook gebruik van een laptop om teksten in op te zoeken. Iemand maakte dan ook wel eens aantekeningen. Als hij er niet was, nam [medeverdachte 7] meestal het voortouw, maar het kwam ook voor dat [medeverdachte 7] helemaal niets zei en dat alleen de andere aanwezigen onderling met elkaar praatten. Als [medeverdachte 7] het voortouw nam, gedroeg hij zich, anders dan [medeverdachte 8], niet als leraar. [Medeverdachte 8] en [medeverdachte 7] wilden de aanwezigen uitleggen wat Tawheed, hún Tawheed, inhoudt. De onderwerpen Ilah, Rabb, Deen en Ibadah kwamen daarbij aan bod. Deze werden door hen besproken aan de hand van hetgeen daaromtrent in "De vier basistermen in de Qor'an" valt te lezen, in welk geschrift de basis van de gepolitiseerde Tawheed is terug te vinden. Er werden tijdens die bijeenkomsten onderling wel eens documenten/geschriften uitgewisseld. Afspraken om deze verder te verspreiden zijn er nooit gemaakt.
+
+Indien men een groepsrelatie als een netwerk beschouwt, dan kan de "Hofstadgroep" als zodanig worden gekwalificeerd, maar op basis van het onderzoek ter terechtzitting en díe processtukken waarvan de inhoud op betrouwbaarheid kan worden getoetst - de basis waarop het hof zijn oordeel dient te vellen - moet worden geconcludeerd dat dit netwerk onvoldoende organisatorische substantie heeft gehad om tot het bestaan van een organisatie, als bedoeld in de artikelen 140 en 140a Sr te kunnen concluderen. Daarmede is het antwoord op de ter inleiding van deze overwegingen geformuleerde vraag als vanzelf gegeven." (arrest van het Hof p. 48-49; paginanummering door de Hoge Raad aangebracht).
+
+3.1.3. Voorts heeft het Hof ten aanzien van het tenlastegelegde "aanzetten tot haat, discriminatie en geweld (zoals bedoeld en omschreven in artikel 137d van het Wetboek van Strafrecht)" onder meer het volgende overwogen:
+
+"Het hof is voorts op verschillende geschriften gestuit, ook bij de 24 die hiervoor zijn genoemd, waarin het standpunt is verwoord dat, kort gezegd, de ongelovigen, waaronder de Tawaghiet, moeten worden gehaat en dat hen vijandschap moet worden getoond, zonder dat daarbij tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag wordt opgeruid. In artikel 137d Sr - dat na 10 november 2004 een voor de onderhavige strafzaak niet van belang zijnde wijziging heeft ondergaan - wordt degene "die in het openbaar, mondeling of bij geschrift of afbeelding, aanzet tot haat tegen of discriminatie van mensen of gewelddadig optreden tegen persoon of goed van mensen wegens (...) hun godsdienst of levensovertuiging (...)" met straf bedreigd. Tot "de ongelovigen" behoren blijkens bedoelde geschriften diegenen die, kort gezegd, Allah niet als enige soevereiniteit, ook in wereldlijke zaken, erkennen. Daartoe behoren moslims die de Tawheed niet "politiek inkleuren" en bijvoorbeeld de mening zijn toegedaan dat de Islam en de democratie heel wel met elkaar te verenigen zijn, alsmede joden, christenen, boeddhisten, mensen van allerlei andere gezindten, atheïsten, agnostici, sceptici, "the unconcerned" en vele anderen. Artikel 137d Sr beoogt bepaalde minderheidsgroepen vanwege hun kwetsbaarheid - onder meer "wegens hun godsdienst of levensovertuiging" - te beschermen. Naar het oordeel van het hof kunnen "de ongelovigen" bezwaarlijk als een dergelijke kwetsbare groep worden aangemerkt." (arrest van het Hof p. 38; paginanummering door de Hoge Raad aangebracht).
+
+4. Beoordeling van het eerste middel
+
+4.1. Het middel bevat onder meer de klacht dat het Hof wat betreft het onder 1 en 2 tenlastegelegde de grondslag van de tenlastelegging heeft verlaten doordat het een onjuiste uitleg heeft gegeven aan de daarin voorkomende term "organisatie".
+
+4.2.1. De tenlastelegging onder 1 en 2 is toegesneden op art. 140 Sr onderscheidenlijk art. 140a Sr.
+
+4.2.2. Deze wetsbepalingen luiden:
+
+- art. 140, eerste lid, Sr:
+
+"Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met (...)."
+
+- art. 140a, eerste lid, Sr:
+
+"Deelneming aan een organisatie die tot oogmerk heeft het plegen van terroristische misdrijven, wordt gestraft met (...)."
+
+4.3. De wetsgeschiedenis met betrekking tot deze bepalingen is weergegeven in de conclusie van de Advocaat-Generaal. Blijkens de wetsgeschiedenis moet het bestanddeel "organisatie" in art. 140a Sr op dezelfde wijze worden uitgelegd als het bestandddeel "organisatie" in art. 140 Sr. Volgens bestendige jurisprudentie moet onder zo'n organisatie worden verstaan "een samenwerkingsverband, met een zekere duurzaamheid en structuur, tussen de verdachte en ten minste één andere persoon. Niet is vereist dat daarbij komt vast te staan dat een persoon om als deelnemer aan die organisatie te kunnen worden aangemerkt moet hebben samengewerkt met, althans bekend moet zijn geweest met alle andere personen die deel uitmaken van de organisatie of dat de samenstelling van het samenwerkingsverband steeds dezelfde is"
+
+(vgl. HR 22 januari 2008, LJN BB7134, NJ 2008, 72).
+
+4.4. Het Hof heeft overwogen dat een groep personen alleen dan kan worden aangemerkt als een organisatie in voormelde zin indien sprake is van een gestructureerd en duurzaam samenwerkingsverband. Die maatstaf getuigt, gelet op het hiervoor overwogene, op zichzelf niet van een onjuiste rechtsopvatting.
+
+Door echter vervolgens te oordelen dat van zo een samenwerkingsverband eerst dan kan worden gesproken als "binnen die groep gemeenschappelijke regels en een gemeenschappelijke doelstelling hebben bestaan, waaraan de individuele leden gebonden waren en door welke gemeenschappelijkheid op die leden een zekere druk kon worden uitgeoefend zich aan die regels te houden en aan die doelstelling gebonden te achten",
+
+heeft het Hof een te beperkt bereik gegeven aan die maatstaf. Dusdoende heeft het Hof een onjuiste betekenis toegekend aan de in de tenlastelegging voorkomende term "organisatie" die aldaar is gebezigd in dezelfde betekenis als daaraan toekomt in art. 140 onderscheidenlijk art. 140a Sr. Door de verdachte van het onder 1 en 2 tenlastegelegde vrij te spreken heeft het Hof hem dus vrijgesproken van iets anders dan was tenlastegelegd. Het middel klaagt terecht dat het Hof aldus de grondslag van de tenlastelegging heeft verlaten.
+
+5. Beoordeling van het tweede middel
+
+5.1. Het middel behelst de klacht dat het Hof wat betreft het onder 1 en 2 tenlastegelegde de grondslag van de tenlastelegging ook heeft verlaten doordat het een onjuiste uitleg heeft gegeven aan de daarin voorkomende bewoordingen "aanzetten tot haat, discriminatie en geweld".
+
+5.2.1. De in de tenlastelegging voorkomende bewoordingen "aanzetten tot haat, discriminatie en geweld" zijn ontleend aan art. 137d Sr.
+
+5.2.2. Art. 137d Sr luidde ten tijde van het tenlastegelegde:
+
+"Hij die in het openbaar, mondeling of bij geschrift of afbeelding, aanzet tot haat tegen of discriminatie van mensen of gewelddadig optreden tegen persoon of goed van mensen wegens hun ras, hun godsdienst of levensovertuiging, hun geslacht of hun hetero- of homoseksuele gerichtheid, wordt gestraft met (...)."
+
+5.3. Noch de tekst noch de geschiedenis van de totstandkoming van art. 137d Sr, zoals weergegeven in de conclusie van de Advocaat-Generaal, bevat aanknopingspunten voor 's Hofs opvatting dat art. 137d Sr slechts beoogt bepaalde minderheidsgroepen vanwege hun kwetsbaarheid - onder meer 'wegens hun godsdienst of levensovertuiging' - te beschermen.
+
+5.4. Hieruit volgt dat het Hof door te overwegen als hiervoor onder 3.1.3 is weergegeven een onjuiste betekenis heeft toegekend aan de in de tenlastelegging voorkomende bewoordingen "aanzetten tot haat, discriminatie en geweld" die aldaar zijn gebezigd in dezelfde betekenis als daaraan toekomt in art. 137d Sr. Door de verdachte van dit onderdeel van het onder 1 en 2 tenlastegelegde vrij te spreken heeft het Hof hem dus vrijgesproken van iets anders dan was tenlastegelegd. Het middel klaagt terecht dat het Hof aldus ook in dat opzicht de grondslag van de tenlastelegging heeft verlaten.
+
+6. Slotsom
+
+Het vorenoverwogene brengt mee dat als volgt moet worden beslist.
+
+7. Beslissing
+
+De Hoge Raad:
+
+vernietigt de bestreden uitspraak;
+
+verwijst de zaak naar het Gerechtshof te Amsterdam, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.
+
+Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J.W. Ilsink, J. de Hullu, C.H.W.M. Sterk en M.A. Loth, in bijzijn van de griffier S.P. Bakker, en uitgesproken op 2 februari 2010.
