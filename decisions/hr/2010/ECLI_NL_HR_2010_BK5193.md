@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK5193"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 276", "NJB 2010, 400", "NBSTRAF 2010/75", "VA 2011/22 met annotatie van M.L.C.C. de Bruijn-Lückers"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 276", "NJB 2010, 400", "VA 2011/22 met annotatie van M.L.C.C. de Bruijn-Lückers", "NbSr 2010/75"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BK5193"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2008:BC2576, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-083a.md", "netherlands/national/acts/wetboek-van-strafrecht/art-137d.md", "netherlands/national/acts/wetboek-van-strafrecht/art-140.md", "netherlands/national/acts/wetboek-van-strafrecht/art-140a.md"]
 ---
