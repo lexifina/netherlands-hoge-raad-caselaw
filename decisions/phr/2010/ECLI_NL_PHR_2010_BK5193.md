@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2010:BK5193"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 276", "NJB 2010, 400", "NBSTRAF 2010/75", "VA 2011/22 met annotatie van M.L.C.C. de Bruijn-Lückers"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 276", "NJB 2010, 400", "VA 2011/22 met annotatie van M.L.C.C. de Bruijn-Lückers", "NbSr 2010/75"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSGR:2008:BC2576"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2010:BK5193"]]
 ---
 
