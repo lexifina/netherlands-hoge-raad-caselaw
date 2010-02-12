@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK4994"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 307", "JWB 2010/104", "AR-Updates.nl 2010-0154"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 307", "JWB 2010/104", "AR-Updates.nl 2010-0154", "VAAN-AR-Updates.nl 2010-0154"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BK4994"]]
 cites_law: ["netherlands/national/acts/wet-rechterlijke-organisatie/art-081.md"]
 ---
