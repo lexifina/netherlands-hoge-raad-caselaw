@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK3359"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 443", "NJ 2010, 314 met annotatie van Y. Buruma", "NJB 2010, 744", "NBSTRAF 2010/131"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 443", "NJ 2010, 314 met annotatie van Y. Buruma", "NJB 2010, 744", "NbSr 2010/131"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BK3359"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2008:BF7166, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-287.md", "netherlands/national/acts/wetboek-van-strafrecht/art-289.md", "netherlands/national/acts/wetboek-van-strafvordering/art-352.md", "netherlands/national/acts/wetboek-van-strafvordering/art-359.md"]
 ---
