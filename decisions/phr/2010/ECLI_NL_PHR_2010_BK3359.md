@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2010:BK3359"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 443", "NJ 2010, 314 met annotatie van Y. Buruma", "NJB 2010, 744", "NBSTRAF 2010/131"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 443", "NJ 2010, 314 met annotatie van Y. Buruma", "NJB 2010, 744", "NbSr 2010/131"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSHE:2008:BF7166"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2010:BK3359"]]
 ---
 
