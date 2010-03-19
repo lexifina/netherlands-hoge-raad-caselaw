@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BL7965"
-published_in: ["Rechtspraak.nl", "BNB 2010/158", "V-N 2010/15.28 met annotatie van Redactie", "FutD 2010-0744 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "BNB 2010/158", "V-N 2010/15.28", "NTFR 2010/805 met annotatie van mr. J. Rolleman", "FutD 2010-0744", "Viditax (FutD) 2010031905"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2008:BG9628, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
