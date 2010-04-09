@@ -1,0 +1,24 @@
+---
+ecli: "ECLI:NL:HR:2010:BL9810"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "09/03587"
+decided: "2010-04-09"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BL9810"
+published_in: ["Rechtspraak.nl", "FutD 2010-0926"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2009:BK1180, Bekrachtiging/bevestiging"]]
+---
+
+# ECLI:NL:HR:2010:BL9810 Hoge Raad , 09-04-2010 / 09/03587
+
+## Inhoudsindicatie
+
+De Hoge Raad heeft het beroep in cassatie afgedaan m.t.v. artikel 81 RO.
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X te Z tegen de uitspraak van het Gerechtshof te 's-Hertogenbosch van 14 augustus 2009, nr. 08/00430, betreffende een aanslag in het recht van successie.
