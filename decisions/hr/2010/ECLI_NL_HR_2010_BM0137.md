@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BM0137"
-published_in: ["Rechtspraak.nl", "RvdW 2010, 714", "NJB 2010, 1220", "BNB 2010/322 met annotatie van J.A.R. van Eijsden", "V-N 2010/65.6 met annotatie van Redactie", "JWB 2010/217"]
+published_in: ["Rechtspraak.nl", "RvdW 2010, 714", "NJB 2010, 1220", "BNB 2010/322 met annotatie van J.A.R. van Eijsden", "V-N 2010/65.6", "JWB 2010/217"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BM0137"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2008:BH0371, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/awr/art-047.md", "netherlands/national/acts/wet-rechterlijke-organisatie/art-081.md"]
 ---
