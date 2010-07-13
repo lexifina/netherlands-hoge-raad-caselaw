@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2010:BM4095"
-published_in: ["Rechtspraak.nl", "RvdW 2010/946", "RI 2010/68", "NJ 2013/322 met annotatie van A.I.M. van Mierlo", "NJB 2010, 1614", "JOW 2011/3", "JOR 2010/327", "NBSTRAF 2010/333"]
+published_in: ["Rechtspraak.nl", "RvdW 2010/946", "RI 2010/68", "NJ 2013/322 met annotatie van A.I.M. van Mierlo", "NJB 2010, 1614", "JOW 2011/3", "JOR 2010/327", "NbSr 2010/333"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2010:BM4095"]]
 ---
 
