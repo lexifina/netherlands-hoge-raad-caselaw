@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BL7268"
-published_in: ["Rechtspraak.nl", "RN 2010/93", "NJB 2010, 1618", "Belastingblad 2011/160 met annotatie van J.P. Kruimel", "BNB 2010/332 met annotatie van E.J.W. Heithuis", "FED 2010/107 met annotatie van M. Pot", "Belastingadvies 2010/20.6", "V-N 2010/37.17 met annotatie van Redactie", "FutD 2010-1921 met annotatie van Fiscaal up to Date", "NTFR 2010/1905"]
+published_in: ["Rechtspraak.nl", "RN 2010/93", "NJB 2010, 1618", "Belastingblad 2011/160 met annotatie van J.P. Kruimel", "BNB 2010/332 met annotatie van E.J.W. Heithuis", "FED 2010/107 met annotatie van M. Pot", "Belastingadvies 2010/20.6", "V-N 2010/37.17 met annotatie van Redactie", "NTFR 2010/1905", "FutD 2010-1921", "Viditax (FutD) 2010081301"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BL7268"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2008:BG8927, Bekrachtiging/bevestiging"]]
 ---
 
