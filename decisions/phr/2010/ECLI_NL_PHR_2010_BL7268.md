@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2010:BL7268"
-published_in: ["Rechtspraak.nl", "RN 2010/93", "NJB 2010, 1618", "Belastingblad 2011/160", "BNB 2010/332 met annotatie van E.J.W. Heithuis", "FED 2010/107", "Belastingadvies 2010/20.6", "V-N 2010/37.17", "FutD 2010-0676"]
+published_in: ["Rechtspraak.nl", "RN 2010/93", "NJB 2010, 1618", "Belastingblad 2011/160 met annotatie van J.P. Kruimel", "BNB 2010/332 met annotatie van E.J.W. Heithuis", "FED 2010/107 met annotatie van M. Pot", "Belastingadvies 2010/20.6", "V-N 2010/37.17 met annotatie van Redactie", "FutD 2010-0676", "Viditax (FutD) 2010031210"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2008:BG8927"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2010:BL7268"]]
 ---
 
