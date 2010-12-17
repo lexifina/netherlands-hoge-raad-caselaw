@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BO1821"
-published_in: ["Rechtspraak.nl", "RvdW 2011/6", "NJ 2011/351 met annotatie van E. Verhulp", "RAR 2011/37", "NJB 2011, 49", "TRA 2011, 28 met annotatie van C.J. Frikkee", "JAR 2011/19 met annotatie van mr. dr. M.M. Koevoets", "AR-Updates.nl 2010-0982 met annotatie van A.R. Houweling"]
+published_in: ["Rechtspraak.nl", "RvdW 2011/6", "NJ 2011/351 met annotatie van E. Verhulp", "RAR 2011/37", "NJB 2011, 49", "TRA 2011, 28 met annotatie van C.J. Frikkee", "JAR 2011/19 met annotatie van mr. dr. M.M. Koevoets", "AR-Updates.nl 2010-0982", "VAAN-AR-Updates.nl 2010-0982"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2010:BO1821"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-677.md", "netherlands/national/acts/bw-boek-7/art-678.md"]
 ---
@@ -18,7 +18,7 @@ cites_law: ["netherlands/national/acts/bw-boek-7/art-677.md", "netherlands/natio
 
 ## Inhoudsindicatie
 
-Arbeidsrecht. Of een onherroeplijke strafrechtelijke veroordeling van een werknemer die als gevolg daarvan zijn werk verzuimt een ontslag op staande voet rechtvaardigt, moet worden beoordeeld op grond van alle - in onderling verband en samenhang te beschouwen - omstandigheden van het geval (vgl. HR 12 februari 1999, NJ 1999, 643). Werkverzuim als gevolg van een onherroepelijke strafrechtelijke veroordeling levert dus niet in beginsel, behoudens bijzondere omstandigheden, een dringende reden op voor onstalg opstaande voet; ook niet als het een veroordeling voor een ernstig delicht betreft waardoor de werknemer nog geruime tijd gedetineerd blijft.
+Arbeidsrecht. Of een onherroepelijke strafrechtelijke veroordeling van een werknemer die als gevolg daarvan zijn werk verzuimt een ontslag op staande voet rechtvaardigt, moet worden beoordeeld op grond van alle - in onderling verband en samenhang te beschouwen - omstandigheden van het geval (vgl. HR 12 februari 1999, NJ 1999, 643). Werkverzuim als gevolg van een onherroepelijke strafrechtelijke veroordeling levert dus niet in beginsel, behoudens bijzondere omstandigheden, een dringende reden op voor ontslag op staande voet; ook niet als het een veroordeling voor een ernstig delict betreft waardoor de werknemer nog geruime tijd gedetineerd blijft.
 
 ## Uitspraak
 
