@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2011:BO7109"
-published_in: ["Rechtspraak.nl", "RvdW 2011/309", "NJB 2011, 529", "V-N 2011/18.16", "RN 2011/55", "TvI 2011/19 met annotatie van A. van Eijsden", "RI 2011/51", "Belastingadvies 2011/10.11", "NJ 2012/74 met annotatie van F.M.J. Verstijlen", "JWB 2011/112", "JOR 2014/271 met annotatie van prof. mr. N.E.D. Faber en mr. N.S.G.J. Vermunt"]
+published_in: ["Rechtspraak.nl", "RvdW 2011/309", "NJB 2011, 529", "V-N 2011/18.16", "RN 2011/55", "TvI 2011/19 met annotatie van A. van Eijsden", "RI 2011/51", "Belastingadvies 2011/10.11", "NJ 2012/74 met annotatie van F.M.J. Verstijlen", "JWB 2011/112", "JOR 2014/271 met annotatie van mr. N.S.G.J. Vermunt, prof. mr. N.E.D. Faber"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2011:BO7109"]]
 ---
 
