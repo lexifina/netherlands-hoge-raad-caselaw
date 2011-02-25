@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BO7109"
-published_in: ["Rechtspraak.nl", "RvdW 2011/309", "NJB 2011, 529", "V-N 2011/18.16 met annotatie van Redactie", "RN 2011/55", "TvI 2011/19 met annotatie van A. van Eijsden", "RI 2011/51", "Belastingadvies 2011/10.11", "NJ 2012/74 met annotatie van F.M.J. Verstijlen", "JWB 2011/112", "JOR 2014/271 met annotatie van prof. mr. N.E.D. Faber en mr. N.S.G.J. Vermunt", "NTFR 2011/1036 met annotatie van Mr. dr. J.Th. Sanders"]
+published_in: ["Rechtspraak.nl", "RvdW 2011/309", "NJB 2011, 529", "V-N 2011/18.16", "RN 2011/55", "TvI 2011/19 met annotatie van A. van Eijsden", "RI 2011/51", "Belastingadvies 2011/10.11", "NJ 2012/74 met annotatie van F.M.J. Verstijlen", "JWB 2011/112", "JOR 2014/271 met annotatie van mr. N.S.G.J. Vermunt, prof. mr. N.E.D. Faber", "NTFR 2011/1036 met annotatie van Mr. dr. J.Th. Sanders"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2011:BO7109"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-248.md", "netherlands/national/acts/bw-boek-3/art-250.md", "netherlands/national/acts/bw-boek-3/art-251.md", "netherlands/national/acts/faillissementswet/art-057.md", "netherlands/national/acts/faillissementswet/art-058.md", "netherlands/national/acts/uitvoeringsbesluit-omzetbelasting-1968/art-024ba.md"]
 ---
