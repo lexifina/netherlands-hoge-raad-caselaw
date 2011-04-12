@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2011:BN4351"
-published_in: ["Rechtspraak.nl", "RvdW 2011/549", "NJ 2011/358 met annotatie van N. Keijzer", "NJB 2011, 996", "NBSTRAF 2011/167", "VA 2012/26 met annotatie van M.L.C.C. de Bruijn-Lückers"]
+published_in: ["Rechtspraak.nl", "RvdW 2011/549", "NJ 2011/358 met annotatie van N. Keijzer", "NJB 2011, 996", "VA 2012/26 met annotatie van M.L.C.C. de Bruijn-Lückers", "NbSr 2011/167"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2011:BN4351"]]
 ---
 
