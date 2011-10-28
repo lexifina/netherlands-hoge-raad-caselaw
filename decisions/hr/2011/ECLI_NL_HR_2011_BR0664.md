@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BR0664"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1803", "V-N 2011/38.8 met annotatie van Redactie", "V-N 2011/53.13 met annotatie van Redactie", "V-N Vandaag 2011/2612", "BNB 2011/297", "FED 2011/97 met annotatie van M. Pot", "Vp-bulletin 2011/59", "Belastingadvies 2011/24.5", "FutD 2011-2617"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1803", "V-N 2011/38.8 met annotatie van Redactie", "V-N 2011/53.13 met annotatie van Redactie", "V-N Vandaag 2011/2612", "BNB 2011/297", "FED 2011/97 met annotatie van M. Pot", "Vp-bulletin 2011/59 met annotatie van Kluwer", "Belastingadvies 2011/24.5", "FutD 2011-2617", "Viditax (FutD) 2011102804"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2011:BR0664"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2010:BO3295, Bekrachtiging/bevestiging"]]
 ---
 
