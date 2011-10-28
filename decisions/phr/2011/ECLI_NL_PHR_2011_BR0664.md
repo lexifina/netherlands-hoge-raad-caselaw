@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2011:BR0664"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1803", "V-N 2011/38.8", "V-N 2011/53.13", "V-N Vandaag 2011/2612", "BNB 2011/297", "FED 2011/97 met annotatie van Mr. M. Pot", "Vp-bulletin 2011/59", "Belastingadvies 2011/24.5", "FutD 2011-1637"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1803", "V-N 2011/38.8 met annotatie van Redactie", "V-N 2011/53.13 met annotatie van Redactie", "V-N Vandaag 2011/2612", "BNB 2011/297", "FED 2011/97 met annotatie van M. Pot", "Vp-bulletin 2011/59 met annotatie van Kluwer", "Belastingadvies 2011/24.5", "FutD 2011-1637", "Viditax (FutD) 2011070805"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSHE:2010:BO3295"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2011:BR0664"]]
 ---
 
