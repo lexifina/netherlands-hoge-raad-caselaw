@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2011:BT7500"
-published_in: ["Rechtspraak.nl", "NJB 2012/20", "RvdW 2011/1546", "RAR 2012/38", "NJ 2012/259 met annotatie van E. Verhulp", "TRA 2012/18 met annotatie van Mr. O. van der Kind", "JWB 2011/596", "JIN 2012/1 met annotatie van D.J. Buijs", "JAR 2012/17 met annotatie van mr. C.G.M. Fruytier", "XpertHR.nl 2013-397656"]
+published_in: ["Rechtspraak.nl", "NJB 2012/20", "RvdW 2011/1546", "RAR 2012/38", "NJ 2012/259 met annotatie van E. Verhulp", "TRA 2012/18 met annotatie van Mr. O. van der Kind", "JWB 2011/596", "JIN 2012/1 met annotatie van D.J. Buijs", "JAR 2012/17 met annotatie van mr. C.G.M. Fruytier"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2011:BT7500"]]
 ---
 
