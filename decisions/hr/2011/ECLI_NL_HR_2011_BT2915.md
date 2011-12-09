@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BT2915"
-published_in: ["Rechtspraak.nl", "NJB 2012/18", "RvdW 2011/1545", "NJ 2012/514 met annotatie van H.B. Krans", "JWB 2011/603", "JBPR 2012/48"]
+published_in: ["Rechtspraak.nl", "NJB 2012/18", "RvdW 2011/1545", "NJ 2012/514 met annotatie van H.B. Krans", "JWB 2011/603", "JBPr 2012/48"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2011:BT2915"]]
 ---
 
