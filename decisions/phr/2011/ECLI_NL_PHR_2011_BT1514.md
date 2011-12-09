@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2011:BT1514"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2308", "V-N 2011/49.14", "V-N 2011/64.10", "V-N Vandaag 2011/3028", "BNB 2012/44 met annotatie van J.P. Boer", "FED 2012/36 met annotatie van Mr. drs. M.H. van Schaik", "FutD 2011-2205", "NTFR 2011/2515 met annotatie van Mr. G.J.W. Kinnegim"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2308", "V-N 2011/49.14 met annotatie van Redactie", "V-N 2011/64.10 met annotatie van Redactie", "V-N Vandaag 2011/3028", "BNB 2012/44 met annotatie van J. den Boer", "FED 2012/36 met annotatie van M.H. van Schaik", "NTFR 2011/2515 met annotatie van Mr. G.J.W. Kinnegim", "FutD 2011-2205", "Viditax (FutD) 2011091618"]
 relations: [["Formele relatie", "Rechtbankuitspraak waarvan sprongcassatie: ECLI:NL:RBBRE:2010:BL6088"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2011:BT1514"]]
 ---
 
