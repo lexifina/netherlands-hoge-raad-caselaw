@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BR7049"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2241", "V-N Vandaag 2011/3020", "V-N 2011/64.9 met annotatie van Redactie", "Belastingadvies 2012/2.3", "BNB 2012/45 met annotatie van J.P. BOER", "FED 2012/35 met annotatie van Mr. drs. M.H. van Schaik", "FutD 2011-3014 met annotatie van Fiscaal up to Date", "NTFR 2012/224 met annotatie van Mr. G.J.W. Kinnegim"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2241", "V-N Vandaag 2011/3020", "V-N 2011/64.9 met annotatie van Redactie", "Belastingadvies 2012/2.3", "BNB 2012/45 met annotatie van J.P. BOER", "FED 2012/35 met annotatie van M.H. van Schaik", "NTFR 2012/224 met annotatie van Mr. G.J.W. Kinnegim", "FutD 2011-3014", "Viditax (FutD) 2011120901"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2011:BR7049"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2010:BO3299, Bekrachtiging/bevestiging"]]
 ---
 
