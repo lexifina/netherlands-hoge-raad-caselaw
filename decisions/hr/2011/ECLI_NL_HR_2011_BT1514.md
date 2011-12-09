@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BT1514"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2308", "V-N 2011/49.14 met annotatie van Redactie", "V-N 2011/64.10 met annotatie van Redactie", "V-N Vandaag 2011/3028", "BNB 2012/44 met annotatie van J. den Boer", "FED 2012/36 met annotatie van M.H. van Schaik", "FutD 2011-3014 met annotatie van Fiscaal up to Date", "NTFR 2012/223 met annotatie van Mr. G.J.W. Kinnegim"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2308", "V-N 2011/49.14 met annotatie van Redactie", "V-N 2011/64.10 met annotatie van Redactie", "V-N Vandaag 2011/3028", "BNB 2012/44 met annotatie van J. den Boer", "FED 2012/36 met annotatie van M.H. van Schaik", "NTFR 2012/223 met annotatie van Mr. G.J.W. Kinnegim", "FutD 2011-3014", "Viditax (FutD) 2011120901"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2011:BT1514"], ["Formele relatie", "In sprongcassatie op: ECLI:NL:RBBRE:2010:BL6088, Bekrachtiging/bevestiging"]]
 ---
 
