@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BT7500"
-published_in: ["Rechtspraak.nl", "NJB 2012/20", "RvdW 2011/1546", "RAR 2012/38", "NJ 2012/259 met annotatie van E. Verhulp", "TRA 2012/18 met annotatie van O. van der Kind", "JWB 2011/596", "JIN 2012/1 met annotatie van D.J. Buijs", "JAR 2012/17 met annotatie van mr. C.G.M. Fruytier", "AR-Updates.nl 2011-1005"]
+published_in: ["Rechtspraak.nl", "NJB 2012/20", "RvdW 2011/1546", "RAR 2012/38", "NJ 2012/259 met annotatie van E. Verhulp", "TRA 2012/18 met annotatie van Mr. O. van der Kind", "JWB 2011/596", "JIN 2012/1 met annotatie van D.J. Buijs", "JAR 2012/17 met annotatie van mr. C.G.M. Fruytier", "AR-Updates.nl 2011-1005", "VAAN-AR-Updates.nl 2011-1005"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2011:BT7500"]]
 cites_law: ["netherlands/national/acts/buitengewoon-besluit-arbeidsverhoudingen-1945/art-001.md"]
 ---
