@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2012:BU9108"
-published_in: ["Rechtspraak.nl", "RvdW 2012/256", "ARO 2012/23", "TRA 2012/39 met annotatie van Dr. R.H. van het Kaar", "JONDR 2012/277", "JWB 2012/80", "JAR 2012/71"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/256", "ARO 2012/23", "TRA 2012/39 met annotatie van A. Aden, E.W.J.H. Brands, M.E.W.M van den Heuvel, N. Theunissen", "JONDR 2012/277", "JWB 2012/80", "JAR 2012/71"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2012:BU9108"]]
 ---
 
