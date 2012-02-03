@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2012:BT6947"
-published_in: ["Rechtspraak.nl", "RI 2012/31", "NJB 2012/414", "RvdW 2012/245", "NJ 2012/261 met annotatie van F.M.J. Verstijlen", "TvI 2012/16 met annotatie van Mr. D. Roffel", "RCR 2012/27", "JWB 2012/73", "JOR 2012/200 met annotatie van Mr. B.A. Schuijling"]
+published_in: ["Rechtspraak.nl", "RI 2012/31", "NJB 2012/414", "RvdW 2012/245", "NJ 2012/261 met annotatie van F.M.J. Verstijlen", "TvI 2012/16 met annotatie van D. Roffel", "RCR 2012/27", "JWB 2012/73", "JOR 2012/200 met annotatie van Mr. B.A. Schuijling"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2012:BT6947"]]
 ---
 
