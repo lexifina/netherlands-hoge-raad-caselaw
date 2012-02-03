@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BU9108"
-published_in: ["Rechtspraak.nl", "RvdW 2012/256", "ARO 2012/23", "TRA 2012/39 met annotatie van N. Theunissen, M.E.W.M van den Heuvel, E.W.J.H. Brands, A. Aden", "JONDR 2012/277", "ROR 2012/6", "JWB 2012/80", "JAR 2012/71", "AR-Updates.nl 2012-0100", "OR-Updates.nl 2012-0139"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/256", "ARO 2012/23", "TRA 2012/39 met annotatie van A. Aden, E.W.J.H. Brands, M.E.W.M van den Heuvel, N. Theunissen", "JONDR 2012/277", "ROR 2012/6", "JWB 2012/80", "JAR 2012/71", "AR-Updates.nl 2012-0100", "OR-Updates.nl 2012-0139", "VAAN-AR-Updates.nl 2012-0100"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BU9108"]]
 cites_law: ["netherlands/national/acts/wet-op-de-ondernemingsraden/art-025.md", "netherlands/national/acts/wet-op-de-ondernemingsraden/art-026.md"]
 ---
