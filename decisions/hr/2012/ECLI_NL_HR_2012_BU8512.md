@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BU8512"
-published_in: ["Rechtspraak.nl", "RvdW 2012/351", "NJB 2012/599", "TRA 2012/47 met annotatie van D.J. Buijs", "RAR 2012/74", "NJ 2012/274 met annotatie van M.V. Polak", "Ondernemingsrecht 2012/73 met annotatie van F.B.J. Grapperhaus", "JONDR 2012/825", "JWB 2012/111", "JIN 2012/50 met annotatie van R. Lopes Cardozo", "JAR 2012/93 met annotatie van mr. M.P. Vogel", "AR-Updates.nl 2012-0169 met annotatie van W.L. Roozendaal"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/351", "NJB 2012/599", "TRA 2012/47 met annotatie van Mr. D.J. Buijs", "RAR 2012/74", "NJ 2012/274 met annotatie van M.V. Polak", "Ondernemingsrecht 2012/73 met annotatie van F.B.J. Grapperhaus", "JONDR 2012/825", "JWB 2012/111", "JIN 2012/50 met annotatie van R. Lopes Cardozo", "JAR 2012/93 met annotatie van mr. M.P. Vogel", "AR-Updates.nl 2012-0169", "VAAN-AR-Updates.nl 2012-0169"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BU8512"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2010:BM9544, Bekrachtiging/bevestiging"]]
 ---
 
