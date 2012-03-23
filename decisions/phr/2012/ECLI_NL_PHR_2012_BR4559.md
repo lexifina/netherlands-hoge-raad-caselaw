@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2012:BR4559"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2040", "V-N 2011/41.11", "V-N Vandaag 2012/775", "V-N 2012/17.12", "Belastingadvies 2012/10.4", "PJ 2012/94 met annotatie van Prof. dr. H.M. Kappelle", "BNB 2012/150 met annotatie van J.W. Zwemmer", "FutD 2011-1908"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2040", "V-N 2011/41.11", "V-N Vandaag 2012/775", "V-N 2012/17.12", "Belastingadvies 2012/10.4", "PJ 2012/94 met annotatie van H.M. Kappelle", "BNB 2012/150 met annotatie van J.W. Zwemmer", "FutD 2011-1908", "Viditax (FutD) 2011081223"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2010:BN0328"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2012:BR4559"]]
 ---
 
