@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BR4559"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2040", "V-N 2011/41.11 met annotatie van Redactie", "V-N Vandaag 2012/775", "V-N 2012/17.12 met annotatie van Redactie", "Belastingadvies 2012/10.4", "PJ 2012/94 met annotatie van H.M. KAPPELLE", "BNB 2012/150 met annotatie van J.W. Zwemmer", "FutD 2012-0816 met annotatie van Fiscaal up to Date", "NTFR 2012/918 met annotatie van mr. M.E. Kastelein", "NTFR 2011/1818 met annotatie van TH.J.M. VAN SCHENDEL"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2040", "V-N 2011/41.11", "V-N Vandaag 2012/775", "V-N 2012/17.12", "Belastingadvies 2012/10.4", "PJ 2012/94 met annotatie van H.M. Kappelle", "BNB 2012/150 met annotatie van J.W. Zwemmer", "NTFR 2012/918 met annotatie van mr. M.E. Kastelein", "NTFR 2011/1818 met annotatie van TH.J.M. VAN SCHENDEL", "FutD 2012-0816", "Viditax (FutD) 2012032302"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BR4559"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2010:BN0328, Bekrachtiging/bevestiging"]]
 ---
 
