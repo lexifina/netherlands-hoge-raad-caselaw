@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BU3784"
-published_in: ["Rechtspraak.nl", "RvdW 2012/534", "RI 2012/60", "NJB 2012/978", "VR 2012/132", "JWB 2012/184", "NJ 2016/196 met annotatie van C.E. du Perron", "AA20130036 met annotatie van W.H. van Boom", "JIN 2012/120 met annotatie van M. Couwenberg", "JOR 2014/172 met annotatie van prof. mr. N.E.D. Faber en mr. N.S.G.J. Vermunt", "JA 2012/107 met annotatie van R.A. Wolf", "PS-Updates.nl 2019-0202"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/534", "RI 2012/60", "NJB 2012/978", "VR 2012/132", "JWB 2012/184", "NJ 2016/196 met annotatie van C.E. du Perron", "AA20130036 met annotatie van W.H. van Boom", "JIN 2012/120 met annotatie van M. Couwenberg", "JOR 2014/172 met annotatie van mr. N.S.G.J. Vermunt, prof. mr. N.E.D. Faber", "JA 2012/107 met annotatie van R.A. Wolf", "PS-Updates.nl 2019-0202"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BU3784"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2010:BL1907, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-308.md", "netherlands/national/acts/bw-boek-3/art-310.md", "netherlands/national/acts/bw-boek-3/art-313.md", "netherlands/national/acts/bw-boek-6/art-010.md"]
 ---
