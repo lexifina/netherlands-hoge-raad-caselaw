@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BW7009"
-published_in: ["Rechtspraak.nl", "RvdW 2012/1008", "RI 2012/91", "RAR 2012/134", "NJ 2012/460", "NJB 2012/1767", "JONDR 2012/1227", "JWB 2012/381", "JIN 2012/151 met annotatie van S. de Lange", "JOR 2012/307 met annotatie van mr. E. Loesberg", "JAR 2012/210 met annotatie van mr. J. van der Pijl", "AR-Updates.nl 2012-0712 met annotatie van R.M. Beltzer"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/1008", "RI 2012/91", "RAR 2012/134", "NJ 2012/460", "NJB 2012/1767", "JONDR 2012/1227", "JWB 2012/381", "JIN 2012/151 met annotatie van S. de Lange", "JOR 2012/307 met annotatie van mr. E. Loesberg", "JAR 2012/210 met annotatie van mr. J. van der Pijl", "AR-Updates.nl 2012-0712", "VAAN-AR-Updates.nl 2012-0712"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BW7009"], ["Formele relatie", "In cassatie op : ECLI:NL:GHLEE:2011:BR0320, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-610.md", "netherlands/national/acts/faillissementswet/art-040.md"]
 ---
