@@ -8,7 +8,7 @@ published: "2013-04-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2012:BW5328"
-published_in: ["Rechtspraak.nl", "NJB 2012/2033", "RAV 2012/103", "O&A 2012/99", "AB 2013/30 met annotatie van K.M. de Vries", "NJ 2013/22 met annotatie van E.A. Alkema", "JWB 2012/479", "JV 2012/458 met annotatie van mr. C.H. Slingenberg"]
+published_in: ["Rechtspraak.nl", "NJB 2012/2033", "RAV 2012/103", "O&A 2012/99", "AB 2013/30 met annotatie van K. de Vries", "NJ 2013/22 met annotatie van E.A. Alkema", "JWB 2012/479", "JV 2012/458 met annotatie van mr. C.H. Slingenberg"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSGR:2010:BN2164"], ["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSGR:2011:BO9924"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2012:BW5328"]]
 ---
 
