@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BW5328"
-published_in: ["Rechtspraak.nl", "RvdW 2012/1131", "NJB 2012/2033", "RAV 2012/103", "O&A 2012/99", "AB 2013/30 met annotatie van K.M. de Vries", "NJ 2013/22 met annotatie van E.A. Alkema", "JWB 2012/417", "JWB 2012/479", "JV 2012/458 met annotatie van mr. C.H. Slingenberg", "RV20120088 met annotatie van Werner J. Jorg"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/1131", "NJB 2012/2033", "RAV 2012/103", "O&A 2012/99", "AB 2013/30 met annotatie van K. de Vries", "NJ 2013/22 met annotatie van E.A. Alkema", "JWB 2012/417", "JWB 2012/479", "JV 2012/458 met annotatie van mr. C.H. Slingenberg", "RV20120088 met annotatie van Werner J. Jorg"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BW5328"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2010:BN2164, Bekrachtiging/bevestiging"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2011:BO9924, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/vreemdelingenwet-2000/art-056.md"]
 ---
