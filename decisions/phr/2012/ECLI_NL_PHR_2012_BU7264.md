@@ -1,0 +1,1031 @@
+---
+ecli: "ECLI:NL:PHR:2012:BU7264"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "10/04489"
+decided: "2012-12-14"
+published: "2013-04-05"
+type: "conclusie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2012:BU7264"
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/3058", "V-N Vandaag 2012/2875", "V-N 2012/63.19.5", "NJB 2013/74", "BNB 2013/75 met annotatie van H.W.M. van Kesteren", "FutD 2011-3018"]
+relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHAMS:2010:BN6227"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2012:BU7264"]]
+---
+
+# ECLI:NL:PHR:2012:BU7264 Parket bij de Hoge Raad , 14-12-2012 / 10/04489
+
+## Inhoudsindicatie
+
+Omzetbelasting; fiscale eenheid. art. 4, lid 4, Zesde richtlijn; Unierechtelijke beginselen; art. 3, lid 3, letter a en c, en art. 7, lid 4, Wet OB; fiscale eenheid; art. 20 AWR. Gevolgen arrest HvJ 17 oktober 2007, Van der Steen, C-355/06, BNB 2008/52; HR handhaaft niet langer zijn rechtsopvatting van het arrest 26 april 2002, nr. 35775, LJN AD3572, BNB 2002/275; arrest Van der Steen leidt niet tot toepassing art. 3, lid 3, letter a dan wel letter c, Wet OB (beëindiging ondernemerschap); rechtszekerheidsbeginsel verzet zich tegen naheffing.
+
+## Conclusie
+
+Nr. 10/04489
+
+Nr. Gerechtshof: P09/00584
+
+Nr. Rechtbank: AWB 08/5929
+
+PROCUREUR-GENERAAL BIJ DE HOGE RAAD DER NEDERLANDEN
+
+MR. M.E. VAN HILTEN
+
+ADVOCAAT-GENERAAL
+
+Derde Kamer A
+
+Omzetbelasting 1 januari 2005 - 31 december 2007
+
+Conclusie van 14 november 2011 inzake:
+
+Minister van Financiën
+
+tegen
+
+Fiscale eenheid X1 B.V., X2 B.V. c.s.
+
+1. Inleiding
+
+1.1. Bij arrest van 18 oktober 2007 oordeelde het Hof van Justitie (hierna: HvJ)(1) in de zaak Van der Steen, C-355/06, BNB 2008/52 m.nt. Van der Paardt (hierna: arrest Van der Steen), populair gezegd, dat een directeur-grootaandeelhouder (verder: dga) die met 'zijn' vennootschap een arbeidsovereenkomst heeft gesloten en ter uitvoering daarvan werkzaamheden voor deze vennootschap verricht, geen ondernemer is in de zin van de btw. Met deze beslissing legde het HvJ een bom onder de Nederlandse rechtspraktijk, waarin de dga - sinds het arrest van de Hoge Raad van 26 april 2002, nr. 35775, LJN AD3572, BNB 2002/275 m.nt. Van Zadelhoff - juist wel als ondernemer en, in voorkomende gevallen, als onderdeel van een fiscale eenheid werd aangemerkt.
+
+1.2. In deze zaak staan de gevolgen van het arrest Van der Steen centraal, mede in het licht van het besluit van de staatssecretaris van Financiën (hierna: staatssecretaris) van 21 december 2007, nr. CPP2007/3160, Stcrt. 2008, 1, V-N 2008/3.24 (hierna: het besluit). Beoordeeld moet worden of de dga gedurende de periode 26 april 2002 tot 18 oktober 2007 terecht als onderdeel van belanghebbende is aangemerkt en, zo ja, of belanghebbende op 18 oktober 2007 een tot haar bedrijfsvermogen gerekende woonboerderij heeft geleverd in de zin van artikel 3, lid 3, aanhef en onderdeel a, dan wel onderdeel c, van de Wet op de omzetbelasting 1968 (hierna: de Wet). Daarnaast is in cassatie de vraag aan de orde of het Hof het tussen partijen levende geschil juist heeft omschreven.
+
+1.3. De onderhavige zaak maakt deel uit van een trilogie(2) van zaken waarin diverse gevolgen van het arrest Van der Steen aan de orde zijn, zij het telkens in een verschillende context. Ook in de twee andere zaken neem ik heden conclusie.
+
+2. De feiten en het procesverloop
+
+2.1 A (verder: A) is enig directeur en enig aandeelhouder van X1 B.V. (verder X1).(3) Voor zijn werkzaamheden van/voor die vennootschap ontvangt hij een salaris.(4)
+
+2.2 Naar aanleiding van het arrest van de Hoge Raad van 26 april 2002, nr. 35775, LJN AD3572, BNB 2002/275 m.nt. Van Zadelhoff, heeft de Belastingdienst A in zijn hoedanigheid van dga van X1 als ondernemer in de zin van artikel 7 van de Wet aangemerkt. A heeft geen prestaties als ondernemer verricht, andere dan die welke hij in zijn voormelde hoedanigheid voor X1 verrichtte.
+
+2.3 Bij beschikking van 15 augustus 2003 zijn A en X1 met ingang van 26 april 2002 aangemerkt als een fiscale eenheid in de zin van artikel 7, lid 4, van de Wet. Bij beschikking van 14 april 2006 is met ingang van 30 december 2005 de besloten vennootschap X2 B.V. (verder: X2) in voormelde fiscale eenheid opgenomen.(5) Beide beschikkingen zijn onherroepelijk komen vast te staan.
+
+2.4 De activiteiten van belanghebbende - d.w.z. van de fiscale eenheid X1 B.V., X2 B.V. c.s. - bestaan uit de exploitatie en het beheer van onroerende zaken en vanaf medio 2006 mede uit de vervaardiging van glasobjecten. De daaruit voortvloeiende leveringen van goederen en diensten zijn - aldus Hof Amsterdam in punt 2.4 van zijn nader te melden uitspraak - belast met omzetbelasting.
+
+2.5 A heeft een nieuwe(6) woonboerderij laten bouwen. Deze is op 7 april 2007 in gebruik genomen: 60% van de boerderij wordt door A en zijn echtgenote gebruikt als woning, 40% wordt gebruikt voor bedrijfsdoeleinden van belanghebbende. Belanghebbende heeft de woonboerderij volledig tot haar ondernemersvermogen gerekend en heeft de in verband met de bouw in de periode 2005 tot en met 2007 in rekening gebrachte omzetbelasting tot een totaalbedrag van € 297.337 in aftrek gebracht.
+
+2.6 In de periode waarin de nieuwbouw plaatsvond, heeft de Inspecteur(7) bij belanghebbende een boekenonderzoek ingesteld. In het met dagtekening 27 november 2006 hieromtrent uitgebrachte rapport is, voor zover van belang, het volgende opgenomen:
+
+"Reikwijdte van het onderzoek
+
+Over het tijdvak 1 oktober 2005 tot en met 31 oktober 2005 is vastgesteld of de aangifte omzetbelasting aansluit met de administratie. Bij dit onderzoek is uitgegaan van de gegevens zoals aangetroffen in de boekhouding. (...)
+
+2.1 Voorbelasting
+
+De hoge voorbelasting ad € 97.670 wordt voor een groot deel (ad € 97.582) veroorzaakt door de nieuwbouw van een woonboerderij (...). De oplevering zal vermoedelijk medio december 2006 plaatsvinden.
+
+Het pand gaat zowel voor bedrijfsdoeleinden als voor andere dan bedrijfsdoeleinden gebezigd worden. De werkkamer en het atelier zal worden gebruikt voor de bedrijfsactiviteiten en voor de omzetbelasting wordt het pand volledig tot het bedrijfsvermogen gerekend.
+
+De totale bouwkosten bedragen circa € 1.550.000 (inclusief omzetbelasting en meerwerk) en het totale vloeroppervlak bedraagt 400 m2. De vloeroppervlakte van het zakelijke gedeelte is vastgesteld op 157 m2. Het onroerend goed is één geheel en niet splitsbaar in meerdere goederen voor de omzetbelasting. A is in gemeenschap van goederen getrouwd.
+
+Op basis van het Charles-Tijmens arrest wordt de gehele voorbelasting van de bouw van de woonboerderij (terecht) geclaimd.
+
+Slotopmerkingen
+
+Het onderzoek geeft geen aanleiding tot correcties.
+
+Ik volg de aangifte omzetbelasting van oktober 2005 (teruggaaf ad € 94.294).
+
+A is erop gewezen dat, onder verwijzing naar de procedure Charles-Tijmens voor de Hoge Raad, de mogelijkheid van naheffing wegens gebruik voor andere dan bedrijfsdoeleinden door de Belastingdienst wordt opengehouden."
+
+2.7 Het arrest Van der Steen en het naar aanleiding daarvan gepubliceerde besluit was voor belanghebbende aanleiding om, op 29 januari 2008, een brief met - voor zover van belang - de volgende inhoud aan de Inspecteur te zenden:
+
+"In verband met de investering in een nieuw onroerend goed dat, in privé toebehoort aan A maar is geëtiketteerd als behorend tot zijn BTW-ondernemingsvermogen, heeft de fiscale eenheid de daarop drukkende omzetbelasting in aftrek gebracht. (...) Van de € 297.337 heeft overigens € 4.561 aan omzetbelasting betrekking op roerende goederen waarover 100% aftrek is toegepast wegens uitsluitend gebruik voor belaste prestaties. Dit betekent dat de 40/60 verhouding op € 292.776 is toe te passen. Belanghebbende hield derhalve rekening met een jaarlijkse verschuldigdheid voor het privégebruik van 292.776 x 0,1 x 0,6 = € 17.665(8) (voor 2007: € 12.946 wegens het gebruik vanaf 7 april).
+
+In het arrest van het Europese Hof van Justitie van 18 oktober 2007 in de zaak Van der Steen (C-355/06) is echter beslist dat personen in dezelfde situatie als A niet aan te merken zijn als belastingplichtigen voor de omzetbelasting.
+
+Begin januari 2008 is het besluit van de Staatssecretaris van Financiën van 21 december 2007 gepubliceerd (CCP2007-31600), waarin o.a. is aangegeven dat in de aangifte over het laatste tijdvak van 2007 moet worden opgenomen:
+
+• De omzetbelasting die is verschuldigd wegens in het besluit genoemde "onttrekking" van het onroerend goed aan de onderneming;
+
+• De omzetbelasting die is verschuldigd wegens het privégebruik tot 18 oktober 2007.
+
+Uitgangspunt
+
+In principe wordt dezerzijds gemeend dat de visie van de Staatssecretaris van Financiën eigenlijk onjuist is, omdat A nooit ondernemer is geweest respectievelijk dat geen sprake is van een onttrekking of van privégebruik in de zin van de wettelijke bepalingen. Dit betekent dat geen verschuldigdheid ontstaat, zelfs niet die over het "privégebruik". Er bestaat echter bij A eigenlijk geen behoefte aan om de kwestie op de spits te drijven. (...)
+
+Het vorenstaande betekent dat er drie mogelijkheden zijn:
+
+1. Belanghebbende stelt zich op het standpunt dat de Staatssecretaris het bij het verkeerde eind heeft en bestrijdt elke heffing van omzetbelasting.
+
+2. Belanghebbende voldoet alsnog de omzetbelasting over het privégebruik, er van uitgaande dat hij over 2007 € 12.946 voldoet en vervolgens € 17.566 per jaar tot en met het jaar 2016.
+
+3. U hanteert als uitgangspunt dat belanghebbende in de aangifte over het laatste tijdvak 2007 het bedrag van € 282.468 als verschuldigd moet vermelden.
+
+(...)
+
+Procedure
+
+(...)
+
+mogelijkheid 2. Om formele redenen vermeldt de aangifte over het laatste tijdvak nog niet het hiervoor vermelde bedrag voor het privégebruik, maar wordt eerst uw standpuntbepaling afgewacht.
+
+2.9 Bij brief van 11 maart 2008 heeft de Inspecteur belanghebbendes vorenaangehaalde brief, voor zover hier van belang, als volgt beantwoord:
+
+"Vanuit de Belastingdienst wordt in deze gesteld dat - indien er geen sprake is geweest van ondernemerschap - er ook geen recht op aftrek van voorbelasting heeft bestaan. Bij dit standpunt dient dan ook de volledige aftrek van voorbelasting gecorrigeerd te worden. Door mij zal derhalve een primair een naheffingsaanslag opgelegd worden voor de volle aftrek van voorbelasting, zijnde € 297.337. Subsidiair ben ik van mening dat er sprake is van onttrekking, zodat de naheffing dan, inclusief privé-gebruik, € 282.469 bedraagt."
+
+2.10 Conform het gestelde in deze brief heeft de Inspecteur met dagtekening 24 april 2008 over het tijdvak 1 januari 2005 tot en met 31 december 2007 een naheffingsaanslag omzetbelasting aan belanghebbende opgelegd ten bedrage van € 297.337.
+
+2.11 Na door belanghebbende tegen de naheffingsaanslag gemaakt bezwaar heeft de Inspecteur de naheffingsaanslag bij uitspraak op bezwaar van 1 november 2008 gehandhaafd.
+
+3. Geding voor de Rechtbank en het Hof
+
+3.1 Belanghebbende is in beroep gekomen bij Rechtbank Haarlem (hierna: de Rechtbank). Voor de Rechtbank was - voor zover in cassatie nog van belang - in geschil of de aan belanghebbende teruggegeven voorbelasting ter zake van de bouw van de woonboerderij van haar kan worden nageheven, en of belanghebbende omzetbelasting is verschuldigd wegens de onttrekking van de woonboerderij aan het bedrijfsvermogen van belanghebbende of wegens privégebruik daarvan.
+
+3.1.1 De Rechtbank was van oordeel dat de door belanghebbende in aftrek gebrachte voorbelasting die ter zake van de bouw van de woonboerderij in rekening was gebracht, niet van haar kon worden nageheven. Redengevend daartoe achtte de Rechtbank dat de Inspecteur in het controlerapport na gericht onderzoek het expliciete standpunt had ingenomen dat de voorbelasting terecht in aftrek was gebracht, aldus bij belanghebbende het in rechte te beschermen vertrouwen wekkend dat de Inspecteur de aftrek correct achtte.
+
+3.1.2 Wat betreft de gestelde onttrekking oordeelde de Rechtbank dat door de declaratoire werking van het Van der Steen-arrest is komen vast te staan dat A nimmer ondernemer is geweest. Dat belanghebbende geen bezwaar heeft gemaakt tegen de beschikkingen fiscale eenheid doet daaraan naar het oordeel van de Rechtbank niet af. Nu A nimmer ondernemer is geweest, heeft de woonboerderij ook geen deel uitgemaakt van het bedrijfsvermogen van belanghebbende, zodat belanghebbende geen omzetbelasting verschuldigd kan zijn wegens de onttrekking of het privégebruik van de woonboerderij.
+
+3.1.3 Bij uitspraak van 16 juli 2009, nr. AWB 08/5929, niet gepubliceerd, heeft de Rechtbank het beroep van belanghebbende gegrond verklaard en de uitspraak op bezwaar en de naheffingsaanslag vernietigd.
+
+3.2 Tegen deze uitspraak heeft de Inspecteur hoger beroep ingesteld bij Hof Amsterdam (hierna: het Hof). Het Hof heeft het geschil in zijn nader te melden uitspraak van 2 september 2010 als volgt omschreven:
+
+"4.1. Tussen partijen is in geschil of A in de periode 26 april 2002 tot 18 oktober 2007 met X1 B.V en later ook met X2 B.V. een fiscale eenheid heeft gevormd in de zin van artikel 7, vierde lid, van de Wet, waardoor de woonboerderij tot het bedrijfsvermogen van belanghebbende is gaan behoren, hetgeen de inspecteur stelt doch belanghebbende betwist.
+
+4.2. Voor het geval het gelijk met betrekking tot het geschilpunt onder 4.1 aan belanghebbende is, heeft de inspecteur ter zitting verklaard dat hij voor het onderhavige tijdvak berust in de aftrek van de voorbelasting die betrekking heeft op de bouw van de woonboerderij, dit gelet op de destijds geldende jurisprudentie en beleidsbesluiten. Voor dit geval heeft belanghebbende ter zitting aangegeven dat zij zich kan vinden in een correctie van de aftrek van voorbelasting analoog aan het bepaalde in artikel 4, tweede lid, van de Wet voor het privégebruik van de woonboerderij door A in de periode 7 april 2007 tot 18 oktober 2007. Partijen zijn ter zitting overeengekomen dat een dergelijke correctie € 8500 bedraagt. Dit betekent dat in dit geval de naheffingsaanslag voor dat bedrag terecht is opgelegd.
+
+4.3. Voor het geval het gelijk met betrekking tot het geschilpunt onder 4.1 aan de inspecteur is, is tussen partijen niet in geschil dat de bestaande fiscale eenheid op 18 oktober 2007 is gewijzigd in die zin dat A daartoe niet langer behoort. In geschil is dan of belanghebbende op die datum de woonboerderij heeft geleverd in de zin van artikel 3, derde lid, onderdeel a dan wel c, van de Wet, hetgeen de inspecteur verdedigt doch belanghebbende bestrijdt. Ingeval het gelijk aan de inspecteur is dient de naheffingsaanslag te worden verminderd tot € 282.469."
+
+3.3 Het Hof heeft geoordeeld dat A geen deel heeft kunnen uitmaken van een fiscale eenheid met X1 en (later) X2. Daartoe overwoog het als volgt:
+
+"6.1. Belanghebbende heeft ter zitting onweersproken gesteld dat A buiten de werkzaamheden als directeur en grootaandeelhouder van X1 B.V. en X2 B.V. geen werkzaamheden heeft verricht op grond waarvan A als ondernemer in de zin van artikel 7 van de Wet kan worden aangemerkt. Daaruit volgt dat A materieel geen onderdeel heeft kunnen vormen van een fiscale eenheid met genoemde vennootschappen. De met betrekking tot de vorming en de uitbreiding van de in geding zijnde fiscale eenheid door de inspecteur genomen beschikkingen hebben naar het oordeel van het Hof niet een zodanige rechtskracht dat in weerwil van de wettelijke bepalingen dienaangaande en de door het Hof van Justitie van de Europese Unie aan de daarmee corresponderende richtlijnbepalingen gegeven uitlegging toch van een fiscale eenheid tussen A en meerbedoelde vennootschappen moet worden uitgegaan. Dit te minder nu A en X1 B.V. niet hebben verzocht hen tezamen als een fiscale eenheid aan te merken. Aan een en ander doet niet af dat tegen de beschikkingen van de inspecteur geen bezwaar is gemaakt. In dit verband merkt het Hof op dat uit de geschiedenis van de totstandkoming van de geldende tekst van artikel 7, vierde lid, van de Wet kan worden afgeleid dat aan de beschikking inzake een fiscale eenheid slechts een beperkte betekenis toekomt, namelijk het dienen van de rechtszekerheid ten behoeve van de desbetreffende ondernemers. Dat is ook het geval indien tegen een dergelijke beschikking geen of tevergeefs bezwaar is gemaakt.
+
+6.2. Uit het onder 6.1. overwogene volgt dat het gelijk met betrekking tot het geschilpunt onder 4.1 aan belanghebbende is. Alsdan is tussen partijen niet in geschil dat de naheffingsaanslag moet worden vastgesteld op € 8.500."
+
+3.4 Hoewel daarmee volgens het Hof het geschil tussen partijen is beslist, gaf het Hof ook zijn oordeel over het (naar 's Hofs oordeel zich niet voordoende) geval dat A tot 18 oktober 2007 deel zou hebben uitgemaakt van de fiscale eenheid. Ook in deze situatie zou, zo oordeelde het Hof, de naheffingsaanslag tot € 8.500 moeten worden verminderd. Ik citeer:
+
+"6.3. Het Hof zal niettemin tevens ingaan op het geschilpunt onder 4.3, veronderstellenderwijs ervan uitgaande dat, zoals de inspecteur stelt, A tot 18 oktober 2007 onderdeel van belanghebbende is geweest. Alsdan moet worden beoordeeld of belanghebbende door de beëindiging van de fiscale eenheid vanwege de omstandigheid dat A vanaf die datum niet meer voldeed aan de voorwaarden tot de fiscale eenheid te (blijven) behoren, ter zake van een of meer belastbare feiten omzetbelasting verschuldigd is geworden. Naar de inspecteur stelt is dat het geval op grond van artikel 3, eerste lid(9), onderdeel a dan wel c, van de Wet.
+
+6.4. Naar het oordeel van het Hof vormt de omstandigheid dat een fiscale eenheid wordt beëindigd of wordt gewijzigd door het uittreden van een tot die eenheid behorende persoon niet een reden aan te nemen dat de fiscale eenheid een levering of een dienst verricht. Van een belastbaar feit is ook geen sprake wanneer een persoon toetreedt tot een bestaande fiscale eenheid. De opvatting dat wijziging van een fiscale eenheid voor de eenheid, zoals die vóór de wijziging bestond, geen belastbaar feit doet ontstaan, vindt ook steun in artikel 3a van de Uitvoeringsbeschikking omzetbelasting 1968. Ingevolge het derde juncto het tweede lid van dit artikel wordt bij wijziging van een fiscale eenheid door uittreding van een tot die eenheid behorende natuurlijk persoon of lichaam in de zin van de Algemene wet inzake rijksbelastingen, die persoon of dat lichaam voor de berekening van de verschuldigde omzetbelasting geacht in de plaats te zijn getreden van de fiscale eenheid, voor het deel dat tot zijn bedrijfsvermogen behoort. Het Hof vat deze bepaling aldus op dat bij wijziging van een fiscale eenheid door uittreding, de uittreder en niet de fiscale eenheid verantwoordelijk is voor de gevolgen met betrekking tot de omzetbelasting voor diens deel van het bedrijfsvermogen.
+
+6.5. In dit verband merkt het Hof op dat het bepaalde in artikel 3, eerste lid(10), onderdeel a, van de Wet bezwaarlijk kan worden toegepast in een geval als het onderhavige. Het ontvallen van de basis aan een fiscale eenheid kan in redelijkheid niet worden aangemerkt als een onttrekking van goederen door de (kennelijk nog complete) fiscale eenheid en evenmin als het verstrekken of bestemmen van het desbetreffende deel van het bedrijfsvermogen. Hetzelfde geldt voor het bepaalde in artikel 3, eerste lid(11), onderdeel c, van de Wet. Het ontvallen van de basis aan een fiscale eenheid kan er niet toe leiden dat de (kennelijk nog complete) fiscale eenheid het desbetreffende deel van het bedrijfsvermogen onder zich heeft in de zin van die bepaling.
+
+6.6. De opvatting van de inspecteur leidt er overigens toe dat ook in 'normale' gevallen van beëindiging of wijziging van de fiscale eenheid de (nog complete) fiscale eenheid de tot het bedrijfsvermogen van de uittreder behorende goederen levert, indien dienaangaande een vergoeding wordt geconstateerd op grond van artikel 3, eerste lid, van de Wet en indien dat niet het geval is op grond van artikel 3, derde lid, onderdeel a, van de Wet. Met betrekking tot artikel 3, derde lid, onderdeel c, van de Wet zou, indien deze bepaling in het onderhavige geval toepassing zou vinden, die bepaling ook gelden in alle andere ('normale') gevallen van wijziging van de fiscale eenheid door uittreding. Naar het oordeel van het Hof kan een en ander de wetgever niet voor ogen hebben gestaan.
+
+6.7. Uit het onder 6.3. tot en met 6.6. overwogene leidt het Hof af dat als in een geval van uittreding goederen aan het aan de uittreder toe te rekenen deel van het bedrijfsvermogen worden onttrokken, de gevolgen met betrekking tot de omzetbelasting van die onttrekking voor rekening zijn van de uittreder. Dat is naar het oordeel van het Hof niet anders als het verlies van de hoedanigheid van ondernemer van de uittreder de aanleiding vormt voor de uittreding uit de fiscale eenheid. Een en ander leidt er voor een geval als het onderhavige toe dat, zo al een fiscale eenheid tussen A en een of meer vennootschappen heeft bestaan, de beëindiging niet leidt tot een aan de fiscale eenheid toe te rekenen belastbaar feit.
+
+6.8. Wanneer uitgegaan moet worden van het bestaan van een fiscale eenheid waarvan A deel uitmaakte, heeft belanghebbende de omzetbelasting ter zake van bouw van de woonboerderij terecht in aftrek gebracht en is zij op grond van artikel 4, tweede lid, van de Wet omzetbelasting verschuldigd geworden ter zake van het privégebruik van de woonboerderij door A in de periode 7 april 2007 tot 18 oktober 2007, door partijen ter zitting bepaald op € 8.500. Nu blijkens het onder 6.7 overwogene belanghebbende in dat geval overigens geen omzetbelasting is verschuldigd, leidt ook de beoordeling van het geschilpunt onder 4.3 tot het vaststellen van de naheffingsaanslag op € 8.500."
+
+3.5 Bij uitspraak van 2 september 2010, nr. P09/00584, LJN BN6227, V-N 2010/62.1.5 heeft het Hof de uitspraak van de Rechtbank vernietigd, behoudens voor zover deze betreft het griffierecht en de proceskostenveroordeling, en heeft het de uitspraak op bezwaar vernietigd en de naheffingsaanslag verminderd tot € 8.500.
+
+4. Het geding in cassatie
+
+4.1 De Minister van Financiën (hierna: de Minister) heeft tijdig en ook overigens op regelmatige wijze beroep in cassatie ingesteld. Hij(12) draagt drie cassatiemiddelen voor:
+
+I) Schending van het recht en/of verzuim van vormen, doordat het Hof aan het voorliggende geschil een onjuiste geschilomschrijving heeft gegeven.
+
+II) Schending van het recht, met name van het Unierechtelijk vertrouwens- en rechtszekerheidsbeginsel en artikel 8:77 Algemene wet bestuursrecht (hierna: Awb), doordat het Hof heeft geoordeeld dat A in de periode van 26 april 2002 tot 18 oktober 2007 geen fiscale eenheid met X1 en later ook met X2 heeft gevormd.
+
+III) Schending van het recht, met name van het Unierechtelijk vertrouwens- en rechtszekerheidsbeginsel, artikel 3, lid 3, aanhef en onderdelen a en c, van de Wet en artikel 8:77 Awb, doordat het Hof heeft geoordeeld dat belanghebbende op 18 oktober 2007 de woonboerderij niet heeft geleverd als bedoeld in artikel 3, lid 3, aanhef en onderdeel a, dan wel c, van de Wet.
+
+4.2. De Minister meent dat de werking van het arrest Van der Steen er strikt genomen toe zou leiden toe dat voor aftrek van voorbelasting geen plaats is, nu A geen ondernemer is, doch dat het arrest van de Hoge Raad van 26 april 2002 en het Unierechtelijk vertrouwens- en rechtszekerheidsbeginsel aan het schrappen van de aftrek in de weg staan. Aangenomen moet derhalve worden, aldus de Minister, dat A tot de datum van het arrest Van der Steen als ondernemer moet worden aangemerkt. Vanaf de datum van het arrest Van der Steen, 18 oktober 2007, is A geen ondernemer meer, hetgeen volgens de Minister betekent dat omzetbelasting wordt verschuldigd, hetzij op grond van artikel 3, lid 3, aanhef en onderdeel a, dan wel c, van de Wet, en/of op grond van artikel 4, lid 2, van de Wet.
+
+4.3. Belanghebbende heeft een verweerschrift ingediend.
+
+4.4. De Minister heeft aangegeven geen gebruik te maken van de hem geboden mogelijkheid om een conclusie van repliek in te dienen.
+
+4.5. Bij deze conclusie behoort een bijlage die ook betrekking heeft op de zaken met de rolnummers 10/02318 en 11/03524 waarin ik heden eveneens concludeer. De bijlage behoort integraal tot de conclusies. Bij de beoordeling van de middelen verwijs ik naar deze bijlage (aangeduid als: bijlage).
+
+5. Geschilomschrijving (eerste middel)
+
+5.1 In het eerste cassatiemiddel klaagt de Minister erover dat het Hof in zijn uitspraak een geschilomschrijving geeft die niet in overeenstemming is met hetgeen (uiteindelijk) tussen partijen in geschil was. De Minister betoogt dat voor het Hof uitsluitend nog in geschil was of op 18 oktober 2007 een belaste levering van de woonboerderij heeft plaatsgevonden.
+
+5.2 Het Hof heeft het geschil (zie punt 3.2 van deze conclusie) daarentegen omschreven als het antwoord op de vraag of - ik parafraseer - A deel heeft uitgemaakt van belanghebbende. Bij ontkennende beantwoording van die vraag is volgens het Hof niet in geschil dat de aftrek van voorbelasting ter zake van de woonboerderij in stand blijft, terwijl ter zake van het privégebruik een heffing van € 8.500 op zijn plaats is, dit naar analogie van het bepaalde in artikel 4, lid 2, aanhef en onderdeel a, van de Wet. (Alleen) bij een bevestigend antwoord op de vraag of A deel uitmaakt van belanghebbende, was volgens het Hof in geschil of belanghebbende op 18 oktober 2007 de woonboerderij had geleverd in de zin van artikel 3, lid 3, aanhef en onderdeel a, of onderdeel c, van de Wet.
+
+5.3 Blijkens (blz. 3-4 van) de tot de processtukken behorende motivering van het hoger beroepschrift van de Inspecteur zijn partijen de procedure voor het Hof ingegaan met de volgende geschilpunten:
+
+"(...) zijn in geschil de antwoorden op de volgende vragen:
+
+- Is belanghebbende over 2007 een bedrag van 282.469 euro aan omzetbelasting verschuldigd wegens een fictieve levering in de zin van artikel 3, derde lid, onderdeel a, dan wel onderdeel c, van de Wet en een dienst in de zin van artikel 4, tweede lid, onderdeel a, van de Wet?
+
+- Belanghebbende beroept zich op het arrest Van der Steen en concludeert op grond daarvan dat A nooit ondernemer was. Mijns inziens kan belanghebbende de belastingplicht niet met terugwerkende kracht ongedaan maken, althans niet met een beroep op het arrest ontkomen aan de aan de belastingplicht verbonden gevolgen. Zo dit echter wel mogelijk is, kan dan de ter zake van de bouw van de woning teruggegeven voorbelasting ten bedrag van 297.337 euro worden nageheven?
+
+- Verhinderen beginselen van behoorlijk bestuur de naheffing?
+
+- Is er terecht heffingsrente in rekening gebracht?"
+
+5.3.1 De Inspecteur geeft in het hoger beroepschrift als zijn standpunt ten aanzien van het eerstvermelde geschilpunt, dat A tot 18 oktober 2007 deel uitmaakte van belanghebbende en dat belanghebbende op deze datum omzetbelasting verschuldigd is wegens de 'onttrekking' van de woonboerderij én dat zij gedurende het tijdvak 7 april 2007 tot 18 oktober 2007 belasting verschuldigd is wegens privégebruik van de woning.
+
+5.3.2 Ten aanzien van het tweede geschilpunt stelt de Inspecteur zich in zijn hoger beroepschrift op het standpunt dat zelfs als A zich achteraf met succes op het ontbreken van ondernemerschap kan beroepen en mitsdien geen deel kan hebben uitgemaakt van belanghebbende, er toch sprake is van een onttrekking en privégebruik van de woonboerderij bij belanghebbende.
+
+5.3.3 Lees ik de toelichting op de geschilpunten als weergegeven in het hoger beroepschrift goed, dan stelt de Inspecteur zich voorts op het standpunt dat als A nooit ondernemer is geweest, de voorbelasting op de bouw van de woonboerderij ten onrechte in aftrek is gebracht en dat naheffing van deze belasting niet wordt belemmerd door algemene beginselen van behoorlijk bestuur. De naheffing van de in aftrek gebrachte belasting leidt in de ogen van de Inspecteur ook tot verschuldigdheid van heffingsrente. Uit deze toelichting maak ik op dat de onder het tweede, het derde streepje en het vierde streepje weergegeven geschilpunten (uit de in punt 5.3 aangehaalde passage) in elkaar overvloeien.
+
+5.4 In haar verweerschrift in hoger beroep geeft belanghebbende geen eigen omschrijving van het geschil, maar beperkt zij zich tot een reactie op de door de Inspecteur gestelde (in 5.3 geciteerde) vraagpunten. Ik heb geen reden te veronderstellen dat belanghebbende andere of meer geschilpunten voor ogen stonden dan de vorengeciteerde.
+
+5.5 Uit het proces-verbaal van het verhandelde ter zitting van het Hof valt af te leiden dat het Hof getracht heeft het geschil te beperken. Ik citeer:
+
+"De gemachtigde:
+
+(...)
+
+Wij gaan ermee akkoord dat er met toepassing van artikel 4, tweede lid, van de Wet op de omzetbelasting 1968 een bedrag van € 8.500 als privégebruik wordt aangemerkt. Hierbij zeggen wij niet dat wij tot 18 oktober 2007 verkeerde uitgangspunten hebben gehanteerd, maar wij vinden dit, uitgaande van het in stand laten van de aftrek van de omzetbelasting op de bouw van de woonboerderij, een acceptabele wijze van berekening. Als er een fiscale eenheid is geweest, is er een onttrekking. Ons standpunt is dat er nooit een fiscale eenheid is geweest. Dan zou er ook geen recht op aftrek zijn geweest. Nu die aftrek toch is verleend, is een heffing over het privégebruik van de woonboerderij ten bedrage van € 8.500 een acceptabele uitkomst.
+
+Naar thans geldend recht is A geen ondernemer en is hij dat ook nooit geweest. Hij heeft naast zijn werkzaamheden als directeur-grootaandeelhouder geen activiteiten verricht waarvoor hij als ondernemer kan worden aangemerkt.
+
+De inspecteur:
+
+(...)
+
+Hierbij laten wij de stelling vallen dat de naheffingsaanslag terecht is vastgesteld op € 297.337; hiermede is tevens de grondslag voor het berekenen van heffingsrente vervallen.
+
+De voorbelasting is destijds, gelet op de jurisprudentie en het beleid, terecht in aftrek gebracht.
+
+De naheffingsaanslag moet derhalve worden verminderd tot een bedrag van € 282.469 en de beschikking heffingsrente moet vervallen."
+
+5.6 Uit deze passage uit het proces-verbaal van het verhandelde ter zitting van het Hof leid ik af dat de Inspecteur zijn standpunt dat de aftrek volledig kan worden nageheven en dat terecht heffingsrente in rekening is gebracht heeft laten varen. Uit de vermelding in het proces-verbaal van het verhandelde ter zitting dat de Inspecteur de stelling heeft laten varen dat de naheffingsaanslag terecht is vastgesteld op € 297.337 valt verder op te maken dat de Inspecteur kennelijk zijn stelling heeft laten varen dat de aftrek van voorbelasting moet worden nageheven indien A nimmer ondernemer was. Belanghebbende heeft zich akkoord verklaard met een heffing van € 8.500 ter zake van het privégebruik van de woonboerderij.
+
+5.7 Wanneer ik de weergave van het verhandelde ter zitting van het Hof in het proces-verbaal en de daaruit te trekken conclusie over de omvang van het geschil naast de oorspronkelijke geschilomschrijving leg, zoals de Inspecteur deze in de motivering van zijn hoger beroepschrift weergaf en toelichtte, kom ik tot de slotsom dat de Inspecteur niet zijn standpunt heeft laten varen dat ook indien A nooit van belanghebbende deel heeft uitgemaakt, verschuldigdheid van omzetbelasting wegens onttrekking en wegens privégebruik aan de orde is. In de door het Hof gegeven omschrijving van het geschil is dit punt inderdaad weggevallen, nu het Hof het punt van de onttrekking (de zogenoemde 3-3-c- of 3-3-a-levering) alleen aan de orde acht in geval wordt geoordeeld dat A deel heeft uitgemaakt van belanghebbende. Het Hof heeft zich over dit punt ook niet uitgelaten. In zoverre treft het eerste cassatiemiddel van de Minister dan ook doel. Het Hof had, na de vaststelling dat A nimmer met X1 en X2 een fiscale eenheid heeft gevormd, moeten onderzoeken of zich dan (toch) een 3-3-c-levering dan wel een 3-3-a-levering heeft voorgedaan op 18 oktober 2007.
+
+5.8 Wat betreft de in het eerste cassatiemiddel ook door de Minister opgeworpen klacht dat een oordeel omtrent de toepassing van de algemene beginselen van behoorlijk bestuur in de uitspraak van het Hof ontbreekt, merk ik op dat het Hof mijns inziens aan dit punt terecht voorbij is gegaan, nu de Inspecteur ter zitting zijn standpunt heeft laten varen dat de in aftrek gebrachte voorbelasting kan worden nageheven en de vraag naar de toepasbaarheid van de algemene beginselen van behoorlijk bestuur juist met dat standpunt was verweven.
+
+5.9 Het eerste middel slaagt derhalve.
+
+6. Fiscale eenheid (tweede middel)
+
+6.1 Uit mijn betoog in de onderdelen 3, 5 en 6 van de bijlage volgt dat naar mijn mening A deel heeft uitgemaakt van een fiscale eenheid met X1 en X2. Dat betekent dat ook het tweede middel slaagt. Ten onrechte heeft het Hof mijns inziens geoordeeld dat A nimmer met X1 en X2 tot een fiscale eenheid heeft behoord.
+
+6.2 Het tweede middel slaagt derhalve.
+
+7 Fictieve levering (derde middel)
+
+7.1 Levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet
+
+7.1.1 Naar volgt uit hetgeen ik in onderdeel 8.6 van de bijlage betoog, is zeer wel mogelijk dat bij gelegenheid van de verbreking van de fiscale eenheid in verband met het 'uittreden' van de dga, door de fiscale eenheid ('de ondernemer') een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet wordt verricht. Dat doet zich voor indien het desbetreffende bedrijfsmiddel 'meegaat' met de dga en in diens vermogen komt, welk vermogen uit de aard der zaak - de dga is immers geen ondernemer (meer) - privévermogen is.
+
+7.1.2 In de onderhavige zaak is evenwel niet vastgesteld of zich met betrekking tot de woonboerderij een dergelijke situatie voordoet, dan wel dat de woonboerderij tot de fiscale eenheid (bestaande uit X1 en X2) is blijven behoren en ter beschikking wordt gesteld aan A. In dat laatste geval is mijns inziens geen sprake van een 'onttrekking' in de zin van artikel 3, lid 3, van de Wet, doch van een (fictieve) dienst als bedoeld in artikel 4, lid 2, aanhef en onderdeel a, van de Wet.
+
+7.1.3 Nu het Hof een en ander niet heeft vastgesteld - het achtte om andere redenen een fictieve levering als bedoeld in artikel 3, lid 3, van de Wet niet mogelijk - en de vaststelling daarvan een onderzoek van feitelijke aard vergt, zou de zaak moeten worden verwezen voor nader onderzoek.
+
+7.2 Levering in de zin van artikel 3, lid 3, onderdeel c, van de Wet
+
+7.2.1 Zoals ik in onderdeel 8.7 van de bijlage betoog, kan mijns inziens de fiscale eenheid (belanghebbende) in een geval als het onderhavige geen levering in de zin van artikel 3, lid 3, aanhef en onderdeel c, van de Wet verrichten. In zoverre moet worden vastgesteld dat er zich in casu bij belanghebbende geen levering als bedoeld in de zin van artikel 3, lid 3, aanhef en onderdeel c, van de Wet kan hebben voorgedaan.
+
+7.2.2 Indien een fictieve levering in de zin van artikel 3, lid 3, van de Wet heeft plaatsgevonden, gaat het mijns inziens om een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet.
+
+7.3 Tot slot
+
+7.3.1 In onderdeel 4 van de bijlage heb ik betoogd dat het de staatssecretaris niet vrij stond om aan het besluit terugwerkende kracht toe te kennen. Mijns inziens kan niet eerder dan op 2 januari 2008 een einde komen aan het ondernemerschap van de dga en zijn deelname aan een fiscale eenheid. In casu staat tussen partijen evenwel vast dat de wijziging van belanghebbende zich op 18 oktober 2007 heeft voorgedaan. Ik verwijs hier naar punt 4.3 van de uitspraak van het Hof, waarin het Hof overweegt dat tussen partijen niet in geschil is dat, indien het gelijk aan de Inspecteur is, de bestaande fiscale eenheid op 18 oktober 2007 is gewijzigd in die zin dat A daartoe niet langer behoort. Dat betekent dat in casu ervan moet worden uitgegaan dat belanghebbende in het tijdvak waarop de naheffingsaanslag ziet is gewijzigd en dat zij in dat tijdvak mogelijk een fictieve levering in de zin van artikel 3, lid 3, onderdeel a, van de Wet heeft verricht. Om dat te kunnen vaststellen is echter nader feitenonderzoek noodzakelijk, waarvoor in cassatie geen plaats is (vgl. punt 7.1.3).
+
+7.3.2 Verwijzing dient derhalve te volgen.
+
+8. Conclusie
+
+Ik geef de Hoge Raad in overweging om het beroep in cassatie van de Minister gegrond te verklaren en de zaak naar een Hof te verwijzen.
+
+De Procureur-Generaal bij de
+
+Hoge Raad der Nederlanden
+
+Advocaat-Generaal
+
+1 Thans op grond van artikel 19 VEU het van het Hof van Justitie van de Europese Unie deel uitmakende Hof van Justitie. De afkorting 'HvJ' wordt in deze conclusie gehanteerd voor zowel arresten (respectievelijk beschikkingen) die zijn gewezen toen het Hof van Justitie nog 'van de Europese Gemeenschappen' was, als voor arresten en beschikkingen die het HvJ als onderdeel van het HvJ EU heeft gewezen.
+
+2 De beide andere zaken zijn die met rolnummers 10/02318 en 11/03524.
+
+3 Deze vennootschap is blijkens het tot de gedingstukken behorende uittreksel uit het handelsregister van de Kamers van Koophandel in 1976 opgericht.
+
+4 Aldus heeft Hof Amsterdam in punt 2.1 van zijn nader te melden uitspraak van 2 september 2010 vastgesteld. Ik lees deze vaststelling aldus dat A met X1 een arbeidsovereenkomst heeft gesloten waarbij tegenover A's arbeid dit salaris staat.
+
+5 Uit het dossier valt overigens niet af te leiden wie de aandelen van X2 houdt en wat haar activiteiten zijn.
+
+6 Het Hof spreekt in punt 2.6 van zijn uitspraak overigens over een verbouwing. Gelet op hetgeen partijen naar voren hebben gebracht alsmede uit hetgeen in het controlerapport is opgenomen, ga ik ervan uit dat de vermelding in punt 2.6 een verschrijving is en dat sprake is van de bouw van een nieuwe woonboerderij.
+
+7 De inspecteur van de Belastingdienst/P.
+
+8 MvH: dit is vermoedelijk een typefout: de berekening komt namelijk uit op € 17.566 (of preciezer: op € 17.566,56, hetgeen, afgerond € 17.567 oplevert).
+
+9 MvH: het lijkt me dat de verwijzing naar het eerste lid een verschrijving is geweest. Het kan niet anders dan dat hier bedoeld is te verwijzen naar het derde lid van artikel 3 van de Wet.
+
+10 MvH: idem voetnoot 9.
+
+11 MvH: idem voetnoot 9.
+
+12 Vanwege de val van het kabinet heeft niet de Staatssecretaris van Financiën (hierna: Staatssecretaris) maar de Minister beroep in cassatie ingesteld. In de loop van procedure treedt de Staatssecretaris weer op, omdat er een nieuw kabinet is gevormd. Kortheidshalve spreek ik in deze zaak over de Minister, ook als het de Staatssecretaris is die optreedt.
+
+PROCUREUR-GENERAAL BIJ DE HOGE RAAD DER NEDERLANDEN
+
+MR. M.E. VAN HILTEN
+
+ADVOCAAT-GENERAAL
+
+Bijlage bij de conclusies van 14 november 2011 in de zaken met rolnummers 10/02318, 10/04489 en 11/03524
+
+1. Inleiding
+
+1.1 In de in hoofde vermelde zaken waarin ik heden conclusie neem en waarvan deze bijlage integraal deel uitmaakt, staat ter discussie wat de gevolgen zijn van de beslissing van het Hof van Justitie (verder: HvJ)(1) dat een directeur-grootaandeelhouder (hierna: dga) die in dienstbetrekking staat tot de vennootschap waarvan hij de (meeste) aandelen houdt, geen belastingplichtige in de zin van de btw is.
+
+1.2 Deze bijlage is tamelijk lijvig, reden waarom ik een korte samenvatting geef.
+
+Na een weergave van de jurisprudentiële historie van de omzetbelastingpositie van de dga in onderdeel 2, bespreek ik in onderdeel 3 de ex tunc werking van arresten van het HvJ en de omstandigheden die ertoe leiden dat een feitelijke terugwerking van deze rechtspraak wordt gestuit. In dat verband komen de kracht van gewijsde, de rechtszekerheid en het vertrouwensbeginsel aan de orde. Wat betreft het vertrouwensbeginsel is het vaste leer in Nederland dat belanghebbenden vertrouwen kunnen ontlenen aan beleidsbesluiten van de staatssecretaris van Financiën (hierna: de staatssecretaris). Op de twee besluiten van de staatssecretaris uit 2002 waarin naar aanleiding van jurisprudentie van de Hoge Raad wordt gesteld dat de dga ondernemer is en in voorkomende gevallen deel kan uitmaken van een fiscale eenheid, kunnen belanghebbenden dan ook een beroep doen, tot het tijdstip waarop de betreffende beleidsbesluiten worden ingetrokken. De besluiten uit 2002 zijn bij besluit van 21 december 2007 ingetrokken. Laatstgenoemd besluit is echter met terugwerkende kracht in werking getreden. In onderdeel 4 van deze bijlage wordt ingegaan op de (on)mogelijkheid van een dergelijke terugwerkende kracht. Ik kom daarbij tot de slotsom dat het besluit van 21 december 2007 niet eerder in werking kan treden dan 2 januari 2008 - de datum van publicatie. Bij de bespreking van de inwerkingtreding van het besluit van 21 december 2007 wordt impliciet ervan uitgegaan dat een beroep op de oude besluiten is gedaan. Belanghebbenden zijn daartoe echter niet verplicht, zo wordt in onderdeel 5 van de bijlage besproken. Wordt geen beroep op de besluiten uit 2002 gedaan, dan zou de dga respectievelijk de fiscale eenheid waartoe hij behoort, in theorie met een beroep op jurisprudentie van het HvJ met succes kunnen betogen dat hij nimmer ondernemer is geweest en er nimmer een fiscale eenheid heeft bestaan. Het succes van een dergelijke stelling wordt mijns inziens evenwel doorkruist door afgegeven beschikkingen fiscale eenheid waartegen geen rechtsmiddelen zijn aangewend (onderdeel 6) dan wel - indien een dergelijke beschikking niet is afgegeven - door de omstandigheid dat dga's en fiscale eenheden (althans in de onderhavige zaken) in hun behandeling als fiscale eenheid altijd hebben berust en geen rechtsmiddelen hebben aangewend (onderdeel 7). Al met al kan derhalve worden geconcludeerd dat - ondanks de ex tunc werking van jurisprudentie van het HvJ - er vanuit moet worden gegaan dat dga's ondernemer zijn (geweest) en dat fiscale eenheden waarin dga's waren opgenomen hebben bestaan. Aan dat ondernemerschap c.q. aan die fiscale eenheden komt evenwel een eind met het besluit van 21 december 2007. De vraag komt dan op of de beëindiging - of wijziging - van de fiscale eenheden als gevolg van het uittreden van de dga ertoe leidt dat een fictieve levering in de zin van artikel 3, lid 3, aanhef en onderdelen a of c, van de Wet op de omzetbelasting 1968 (verder: de Wet) plaatsvindt, zoals de staatssecretaris in zijn besluit van 21 december 2007 bepleit. In onderdeel 8 worden deze fictieve leveringen besproken. Onderdeel 9 van deze bijlage ten slotte, is gewijd aan de hoofdelijke aansprakelijkheid van onderdelen van een fiscale eenheid voor elkaars omzetbelastingschulden in gevallen waarin de fiscale eenheid materieel niet kan hebben bestaan.
+
+2. Wat vooraf ging
+
+2.1 In 2002 werd aan de Hoge Raad een zaak voorgelegd waarin het ging om de vraag of een dga(2) van een besloten vennootschap (hierna: bv) terecht omzetbelasting had berekend over de bedragen die hij maandelijks als managementfee aan 'zijn' bv in rekening bracht.
+
+2.2 De Hoge Raad beantwoordde die vraag in zijn arrest van 26 april 2002, nr. 35775, LJN AD3572, BNB 2002/275 m.nt. Van Zadelhoff (verder: het arrest van 26 april 2002), bevestigend. Daarmee ging de Hoge Raad om. Een kleine vier jaar daarvóór, bij arrest van 23 december 1998, nr. 33766, LJN AA2267, BNB 1999/76 m.nt. Van Zadelhoff had de Hoge Raad namelijk nog geoordeeld dat een directeur die in loondienst was van de bv waarvan hij middellijk enig aandeelhouder was, niet als ondernemer handelde bij de verhuur van kantoorruimte aan 'zijn' bv.
+
+2.3 Aanleiding voor de ommezwaai in 2002 was, als ik het goed zie, het arrest van het HvJ van 27 januari 2000, Heerma, C-23/98, BNB 2000/297 m.nt. Van Zadelhoff. Ik citeer punt 3.9 van het arrest van 26 april 2002:
+
+"3.9. De Hoge Raad is, mede gelet op het hiervóór in 3.6 vermelde arrest van het Hof van Justitie in de zaak Heerma, nader tot het oordeel gekomen dat het redelijkerwijs niet voor twijfel vatbaar is dat krachtens art. 4, lid 4, van de Zesde richtlijn als zelfstandig in de zin van art. 4, lid 1, van de Zesde richtlijn is aan te merken de persoon die weliswaar naar het nationale recht van een lidstaat een loontrekkende is en een arbeidsovereenkomst heeft met een werkgever, maar die toch geen juridische band met die werkgever heeft waaruit een verhouding van ondergeschiktheid ontstaat ten aanzien van de arbeids- en bezoldigingsvoorwaarden en de verantwoordelijkheid van de opdrachtgever, zoals in het bijzonder het geval is ten aanzien van de juridische band van een directeur met de vennootschap waarvan hij meer dan de helft van de aandelen bezit. Steun voor dit oordeel wordt gevonden in de andere taalversies van de eerste volzin van art. 4, lid 4, van de Zesde richtlijn. In het bijzonder de Engelse, Franse en Duitse tekst doen er geen twijfel over bestaan dat de zinsnede 'waaruit een verhouding van ondergeschiktheid ontstaat ten aanzien van de arbeids- en bezoldigingsvoorwaarden en de verantwoordelijkheid van de werkgever' mede ziet op de in die volzin vermelde arbeidsovereenkomst. Dit oordeel sluit bovendien aan bij hetgeen het Hof van Justitie heeft overwogen in de punten 24, 25 en 26 van het arrest van 22 juni 1996, Asscher, C-107/94, Jurispr. 1996, blz. I-3089, BNB 1996/350."
+
+2.4 Met voorgaande overweging trok de Hoge Raad de zaak breed, althans breder dan waartoe de feiten van de zaak aanleiding gaven. Immers, de dga uit het arrest van 26 april 2002 berekende een managementfee;(3) van het bestaan van een arbeidsovereenkomst met de bv blijkt niet uit het arrest. Toch overweegt de Hoge Raad dat de persoon die naar nationaal recht een loontrekkende is, als zelfstandig moet worden aangemerkt. In punt 3.10 van het arrest wordt dat nog eens benadrukt:
+
+"3.10 Ook indien veronderstellenderwijs ervan wordt uitgegaan dat belanghebbende, naar Nederlands burgerlijk recht, een arbeidsovereenkomst als hiervóór in 3.8 bedoeld is aangegaan met de BV - het Hof heeft het tegendeel niet vastgesteld - heeft hij zijn werkzaamheden jegens de BV derhalve verricht als zelfstandige, dus als belastingplichtige in de zin van art. 4 van de Zesde richtlijn en moet hij deswege ook als ondernemer in de zin van art. 7 van de Wet worden aangemerkt."
+
+2.5 Hoezeer de beslissing ook begrijpelijk is, achteraf bezien kunnen we ons afvragen of de Hoge Raad er verstandig aan heeft gedaan om de dga met een dergelijk 'sweeping statement' als ondernemer aan te merken. Zeker nu de destijds voorliggende zaak daar niet om vroeg. Het lijkt me namelijk tamelijk evident dat een persoon die een managementovereenkomst aangaat met de vennootschap waarvan hij de (meeste) aandelen houdt en daarvoor een vergoeding bedingt, zoals de dga uit het arrest van 26 april 2002, ondernemer is. De jurisprudentie van het HvJ inzake de fiscale positie van holdingvennootschappen(4) leidt mijns inziens tot die conclusie. Ik zie althans niet in waarom een rechtspersoon die aandelen houdt en zich (onder bezwarende titel, namelijk via de managementovereenkomst) moeit met de werkmaatschappij, anders zou moeten worden behandeld dan de natuurlijke persoon die aandelen houdt en een managementovereenkomst met de vennootschap waarvan hij de aandelen houdt, heeft gesloten. Met de beslissing dat de managementfee-ontvangende dga ondernemer is, was zaak 35775 beslecht geweest. Kennelijk heeft de Hoge Raad echter een punt willen maken en - zich gesteund gevoeld door het arrest Asscher(5) van het HvJ - de beslissing willen oprekken tot alle dga's, ook die in dienstbetrekking staan met hun bv. Dat is uiteindelijk dus niet zo handig gebleken.(6)
+
+2.6 Het arrest van 26 april 2002 werd in de Nederlandse praktijk - uiteraard - nagevolgd. Naar aanleiding van het arrest publiceerde de staatssecretaris een tweetal besluiten (hierna ook: de oude besluiten)(7) waarin werd aangegeven dat dga's door de Belastingdienst vanaf 26 april 2002 als ondernemer zouden worden beschouwd en, in voorkomende gevallen, met de vennootschap(pen) waarvan zij de meerderheid van de aandelen hielden, als fiscale eenheid in de zin van artikel 7, lid 4, van de Wet zouden worden aangemerkt. Getuige de zaken waarvoor deze bijlage is geschreven gebeurde dat ook.
+
+2.7 Toen kwam Van der Steen.
+
+2.8 Van der Steen was dga. Maar anders dan de dga uit het arrest van 26 april 2002, was Van der Steen in dienstbetrekking bij de bv waarvan hij alle aandelen hield en waarvoor (waarvan) hij werkzaamheden verrichtte. De inspecteur had bij beschikking een fiscale eenheid vastgesteld tussen Van der Steen en zijn bv. Die beschikking vocht Van der Steen aan. Hof Amsterdam, aan wie de zaak werd voorgelegd, twijfelde of - zelfs gegeven de zelfstandigheid van de dga(8) - de prestaties die een dga jegens 'zijn' vennootschap verricht, kunnen worden aangemerkt als economische activiteiten, mede gelet op het arrest van het HvJ van 23 maart 2006, FCE Bank, C-210/04, BNB 2006/184 m.nt. Van Hilten.(9) Dit bracht Hof Amsterdam ertoe het HvJ te verzoeken een prejudiciële uitspraak te doen over de volgende vraag:(10)
+
+"Dient artikel 4, eerste lid, van de Zesde richtlijn aldus te worden uitgelegd dat indien een natuurlijk persoon als enige activiteit heeft het feitelijk uitvoeren van alle werkzaamheden die voortvloeien uit de activiteiten van een besloten vennootschap waarvan hijzelf enig bestuurder, enig aandeelhouder en enig "personeelslid" is, deze werkzaamheden geen economische activiteiten zijn omdat zij binnen het kader van het beheer en de vertegenwoordiging van de besloten vennootschap en derhalve niet in het economisch verkeer zijn verricht?"
+
+2.9 In navolging van zijn advocaat-generaal(11) legde het HvJ de focus van de zaak echter bij de dienstbetrekking(12), en bij arrest van 18 oktober 2007, Van der Steen, C-355/06, BNB 2008/52 m.nt. Van der Paardt (verder: arrest Van der Steen), verklaarde het voor recht:
+
+"Voor de toepassing van artikel 4, lid 4, tweede alinea, van de Zesde richtlijn (...) is een natuurlijke persoon die in naam en voor rekening van een belastingplichtige vennootschap alle werkzaamheden van deze laatste verricht ter uitvoering van een arbeidsovereenkomst die hem aan die vennootschap, waarvan hij overigens enig aandeelhouder, bestuurder en personeelslid is, bindt, zelf niet een belastingplichtige in de zin van artikel 4, lid 1, van genoemde richtlijn."
+
+2.10 Met dit arrest legde het HvJ de bijl aan de wortel van de (sinds 26 april 2002 geldende) Nederlandse leer dat elke dga ondernemer is in de zin van de btw. Het arrest maakt immers duidelijk dat deze leer niet in overeenstemming is met artikel 4, lid 4, van de Zesde richtlijn(13) (thans artikel 11 van de btw-richtlijn(14)) en daardoor in strijd is met het Unierecht (voorheen: gemeenschapsrecht), in zoverre dat een dga die (slechts) werkzaamheden verricht voor/van de vennootschap met wie hij een arbeidsovereenkomst heeft, geen ondernemer is in de zin van de omzetbelasting. Ik benadruk in dit verband dat uit het arrest Van der Steen mijns inziens niet volgt dat een dga 'qualitate qua' geen ondernemer is. Uit het arrest Van der Steen volgt niet meer dan dat een dga in de omstandigheden als omschreven in de verklaring voor recht, geen belastingplichtige in de zin van de btw is. Dat laat onverlet de mogelijkheid dat zich situaties kunnen voordoen waarin een dga wel ondernemer is. Daarbij zou gedacht kunnen worden aan de managementfee-ontvangende dga, zoals die uit het arrest van 26 april 2002(15). Ik verken deze mogelijkheid in deze bijlage verder echter niet, nu in de procedures waarvoor ik haar schrijf vaststaat dat de respectievelijke dga's in een vergelijkbare positie verkeren als Van der Steen (ik duid hen hierna ook aan als 'Van der Stenige'-dga's) en derhalve naar de door het HvJ aangelegde maatstaven geen ondernemer zijn.
+
+2.11 Nederland heeft het dus fout gedaan door 'Van der Stenige'-dga's als ondernemer in de zin van de omzetbelasting aan te merken. En aangezien de uitlegging die het HvJ aan een Unierechtelijk voorschrift geeft, in beginsel(16) de betekenis en de strekking van dat voorschrift geeft zoals dat sinds het tijdstip van zijn inwerkingtreding moet of had moeten worden toegepast,(17) valt te constateren dat Nederland in ieder geval sinds 26 april 2002 in de fout zat. Die fout bestaat in elk geval daarin dat 'Van der Stenige'-dga's als ondernemer zijn aangemerkt, maar het is mijns inziens niet onmiddellijk evident of deze fout zich Unierechtelijk uitstrekt tot deelname van dergelijke dga's in fiscale eenheden in de zin van de btw.
+
+2.12 Weliswaar verklaart het HvJ in het arrest Van der Steen voor recht, dat voor de toepassing van artikel 4, lid 4, tweede alinea, van de Zesde richtlijn (de bepaling inzake de fiscale eenheid)(18) een dga niet kan worden beschouwd als een belastingplichtige in de zin van artikel 4, lid 1, van de Zesde richtlijn, daarmee op het eerste gezicht suggererend dat een onderdeel van een fiscale eenheid - afzonderlijk bezien - zelf ondernemer moet zijn, maar bedacht moet worden dat dit antwoord is gegeven in de context van de omstandigheid dat op grond van de Nederlandse wet alleen ondernemers(19) deel kunnen uitmaken van een fiscale eenheid. In de Unierechtelijke bepalingen is een dergelijke eis niet opgenomen. Artikel 4, lid 4, tweede alinea, van de Zesde richtlijn spreekt over juridisch zelfstandige personen die - als aan de verdere voorwaarden voldaan is - samen als één belastingplichtige kunnen worden aangemerkt. Gelet op deze formulering valt niet uit te sluiten dat de richtlijn de mogelijkheid open laat dat ook niet-ondernemers deel uitmaken van een fiscale eenheid.
+
+2.13 In dit verband valt te wijzen op het arrest van het HvJ van 20 juni 1991, Polysar, C-60/90, FED 1991/633 m.nt. Bijl, waarin het HvJ oordeelde dat een zogenoemde zuivere houdstervennootschap geen ondernemer is en dat niet anders wordt als de desbetreffende houdster deel uitmaakt van een wereldwijd concern, maar - althans zo zou punt 15 van het arrest Polysar kunnen worden gelezen - dat een dergelijke houdstervennootschap wel deel zou kunnen uitmaken van een binnenlandse fiscale eenheid.(20) De reden waarom het HvJ het bestaan van een fiscale eenheid in het geval Polysar uitsluit lijkt namelijk uitsluitend gelegen in het feit dat de Polysar-groep kennelijk geen andere vennootschappen in Nederland had dan de holdingvennootschap die het onderwerp van die procedure was. Ik citeer bedoeld punt 15 (de cursivering is van mijn hand):
+
+"Met betrekking tot het tweede gedeelte van de eerste vraag dient te worden opgemerkt, dat de omstandigheid dat een holdingvennootschap deel uitmaakt van een wereldwijd concern, niet afdoet aan haar hoedanigheid als niet-BTW-plichtige, wanneer deze holdingvennootschap haar activiteiten tot louter financiële deelnemingen beperkt. Volgens artikel 4, lid 4, tweede alinea, van de Zesde richtlijn kunnen namelijk personen die juridisch gezien wel zelfstandig zijn, doch financieel, economisch en organisatorisch nauw met elkaar verbonden zijn, enkel te zamen als één belastingplichtige worden beschouwd, wanneer zij op het grondgebied van een en dezelfde Lid-Staat zijn gevestigd."
+
+2.14 De Europese Commissie denkt hier anders over.(21) In haar mededeling aan de Raad en het Europees Parlement van 2 juli 2009, COM(2009) 325def. inzake de fiscale eenheid (in de mededeling aangeduid als 'btw-groepoptie') geeft zij - in punt 3.3.1 op blz. 5-7 - aan dat de verwijzing naar 'personen' in artikel 11 van de btw-richtlijn haars inziens alleen van toepassing is op de personen die voldoen aan de criteria om als belastingplichtige te worden beschouwd. Reden waarom de Europese Commissie - onder meer tegen Nederland - een inbreukprocedure heeft ingesteld:(22) anders dan artikel 7, lid 4, van de Wet bepaalt, wordt in Nederland op grond van de resolutie van 18 februari 1991, nr. VB91/347, V-N 1991/715 namelijk goedgekeurd dat niet-ondernemers (namelijk zuivere houdstervennootschappen) deel uitmaken van een fiscale eenheid. In zoverre is de Nederlandse implementatie van artikel 4, lid 4, tweede alinea van de Zesde richtlijn c.q. van artikel 11 van de btw-richtlijn, in de ogen van de Commissie niet in overeenstemming met het Unierecht. Het HvJ heeft zich over de zaak nog niet uitgesproken.
+
+2.15 Het laatste woord over de mogelijkheid om ook niet-belastingplichtigen toe te laten tot een fiscale eenheid is derhalve nog niet gezegd. Naar de huidige stand van Europese wetgeving valt echter niet uit te sluiten dat Nederland met het in een fiscale eenheid toelaten van niet-ondernemers (dga's) niet in strijd met Unierechtelijke bepalingen heeft gehandeld.
+
+2.16 Dat neemt niet weg dat de Nederlandse wetgever de implementatie van het optionele artikel 4, lid 4, tweede alinea van de Zesde richtlijn zodanig heeft vormgegeven dat naar de tekst van artikel 7, lid 4, van de Wet, opname van niet-ondernemers in een fiscale eenheid is uitgesloten. In zoverre moet worden geconstateerd dat het arrest Van der Steen tot gevolg heeft dat dga's in Nederland in strijd met Unierechtelijke bepalingen als ondernemer zijn aangemerkt en dat dga's in elk geval op grond van de Nederlandse wettekst ten onrechte in fiscale eenheden met hun vennootschappen zijn opgenomen.
+
+2.17 De vraag is wat daarvan de gevolgen zijn.
+
+3 Ex tunc werking, rechtszekerheid en vertrouwen
+
+3.1 Als hiervoor in punt 2.11 al kort gememoreerd, zijn arresten waarin het HvJ bepalingen van het Unierecht uitlegt, in beginsel niet beperkt in de tijd. Zij zijn declaratoir van aard en verklaren of preciseren hoe de betekening en strekking van het desbetreffende voorschrift moet worden toegepast sinds de inwerkingtreding daarvan. Ik citeer in dit verband punt 35 van het arrest van het HvJ van 12 februari 2008, Kempter, C-2/06, NJ 2008, 278 m.nt. Mok:
+
+"(...) Een prejudicieel arrest is met andere woorden louter declaratoir en niet constitutief van aard, zodat het in beginsel tot de datum van inwerkingtreding van het uitgelegde voorschrift terugwerkt (zie in die zin arrest van 19 oktober 1995, Richardson, C-137/94, Jurispr. blz. I-3407, punt 33)."
+
+3.2 De declaratoire werking van de arresten brengt met zich dat zowel de nationale rechter als de nationale bestuursorganen een door het HvJ gegeven uitlegging moet toepassen, ook op rechtsbetrekkingen die zijn ontstaan voor het arrest waarin het HvJ zich over de juiste uitlegging van de desbetreffende bepaling uitliet. Behalve naar het arrest Uudenkaupungin kaupunki waarnaar ik in voormeld punt 2.11 al verwees, valt in dit verband bijvoorbeeld te wijzen op de arresten van 27 maart 1980, Denkavit italiana, 61/79, punt 16, van 6 juli 1995, BP Soupergaz, C-62/93, punt 39 en van 6 maart 2007, Meilicke, C-292/04, V-N 2007/14.3, punt 34 die alle handelen over de toepassing van een latere uitlegging door de rechter en - met betrekking tot de toepassing van een latere uitlegging van Unierechtelijke bepalingen door een bestuurs- of administratief orgaan - de arresten van 13 januari 2004, Kühne & Heitz, C-453/00, BNB 2004/150 m.nt. Wattel, punt 21 en van 6 oktober 2005, My Travel, C-291/03, V-N 2005/58.23, punten 16 en 17.
+
+3.2.1 Aan het arrest BP Soupergaz ontleen ik de volgende overweging (cursivering MvH):
+
+"39 Er zij evenwel aan herinnerd, dat volgens de rechtspraak van het Hof (arrest van 2 februari 1988, zaak 309/85, Barra, Jurispr. 1988, blz. 355, r.o. 11) de uitlegging die het Hof krachtens de hem bij artikel 177 verleende bevoegdheid geeft aan een voorschrift van gemeenschapsrecht, de betekenis en strekking van dat voorschrift zoals het sedert het tijdstip van zijn inwerkingtreding moet of had moeten worden verstaan en toegepast, zo nodig verklaart en preciseert. Hieruit volgt, dat het aldus uitgelegde voorschrift door de rechter ook kan en moet worden toegepast op rechtsbetrekkingen die zijn ontstaan en tot stand gekomen vóór het arrest waarbij op het verzoek om uitlegging is beslist, indien voor het overige is voldaan aan de voorwaarden waaronder een geschil over de toepassing van dat voorschrift voor de bevoegde rechter kan worden gebracht."
+
+3.2.2 En uit het arrest Kühne & Heitz citeer (en cursiveer) ik hier de punten 21 en 22:
+
+"21 De uitlegging die het Hof krachtens de hem bij artikel 234 EG verleende bevoegdheid geeft aan een regel van gemeenschapsrecht, verklaart en preciseert, voorzover dat nodig is, de betekenis en strekking van dat voorschrift zoals het sedert het tijdstip van zijn inwerkingtreding moet of had moeten worden verstaan en toegepast (...).
+
+22 Hieruit volgt dat een aldus uitgelegde regel van gemeenschapsrecht door een bestuursorgaan in de uitoefening van zijn bevoegdheden ook moet worden toegepast op rechtsbetrekkingen die zijn ontstaan vóór het arrest van het Hof waarin uitspraak wordt gedaan over het verzoek om uitlegging."
+
+3.3 Voorgaande wil echter niet zeggen dat de feitelijke terugwerking van de rechtspraak van het HvJ in tijd onbeperkt is. Afgezien van de uitzonderlijke gevallen waarin het HvJ zelf de strekking van een bepaalde uitlegging in tijd beperkt,(23) heeft in zijn algemeenheid te gelden dat het rechtszekerheidsbeginsel met zich brengt dat niet wordt teruggekomen op een (achteraf foutief gebleken) rechterlijke of administratieve beslissing die kracht van gewijsde heeft. Dat volgt eigenlijk al uit de laatste zinsnede van het in 3.2.1 opgenomen citaat, waarin uitdrukkelijk wordt aangegeven dat de rechter de door het HvJ gegeven uitlegging moet toepassen op rechtsbetrekkingen die zijn ontstaan vóór het arrest werd gewezen indien voor het overige is voldaan aan de voorwaarden waaronder een geschil over de toepassing van het voorschrift voor de rechter kan worden gebracht.
+
+3.3.1 De kracht van gewijsde was expliciet aan de orde in het arrest van het HvJ van 16 maart 2006, Kapferer, C-234/04, AB 2006/191 m.nt. Widdershoven. Daarin overwoog het HvJ ten aanzien van (foutieve) rechterlijke beslissingen(24):
+
+"20 (...) moet worden herinnerd aan het belang, zowel in de communautaire rechtsorde als in de nationale rechtsordes, van het beginsel van kracht van gewijsde. Om zowel de stabiliteit van het recht en van de rechtsbetrekkingen als een goede rechtspleging te garanderen, is het van belang dat rechterlijke beslissingen die definitief zijn geworden nadat de beschikbare beroepsmogelijkheden zijn uitgeput of nadat de beroepstermijnen zijn verstreken, niet meer opnieuw aan de orde kunnen worden gesteld."
+
+3.3.2 Hierbij zij opgemerkt dat er in de jurisprudentie van het HvJ ook voorbeelden zijn van arresten waarin het HvJ oordeelt dat het gezag van gewijsde in bepaalde specifieke situaties doorbroken kan worden. Genoemd kunnen worden de arresten van 18 juli 2007, Lucchini, C-119/05, AB 2007, 362 m.nt. Ortlep, van 3 september 2009, Fallimento Olimpiclub, C-2/08, AB 2009, 335 m.nt. Widdershoven en van 6 oktober 2009, Asturcom, C-40/08, AB 2009, 357 m. nt. Widdershoven. J.A.R. van Eijsden, bespreekt in zijn artikel Res judicata pro veritate habetur: over het gezag van gewijsde in Europeesrechtelijk perspectief, WFR 2010/6 deze arresten. Kortheidshalve verwijs ik daarnaar
+
+3.3.3 Onlangs (arrest van 24 juni 2011, nr. 09/05120, LJN BM9272, V-N 2011/32.7) bevestigde de Hoge Raad de kracht van gewijsde van arresten van de Hoge Raad:
+
+"3.2.2. Voorts brengt het unierecht niet mee dat een nationale rechter, ook niet een in laatste aanleg rechtsprekende rechterlijke instantie, een onherroepelijke beslissing dient te heroverwegen vanwege een later gewezen arrest van het Hof van Justitie op de grond dat sprake is van een uitleg van een rechtsnorm die niet bekend was ten tijde van het nemen van die beslissing en, was dat arrest van het Hof van Justitie bij die rechter bekend geweest, tot een andere beslissing zou hebben kunnen leiden. Het Hof van Justitie heeft meermalen overwogen dat, om zowel de stabiliteit van het recht en van de rechtsbetrekkingen als een goede rechtspleging te garanderen, het van belang is dat rechterlijke beslissingen die definitief zijn geworden nadat de beschikbare beroepsmogelijkheden zijn uitgeput of na afloop van de voor deze beroepen voorziene termijnen, niet meer opnieuw in geding kunnen worden gebracht en dat dit belang van het beginsel van de eerbiediging van het gezag van gewijsde niet kan worden betwist (vgl. HvJ 1 juni 1999, Eco Swiss China Time Ltd, C-126/97, punten 46 en 47, 30 september 2003, G. Köbler, C-224/01, BNB 2004/151, punt 38, 13 januari 2004, Kühne & Heitz NV, C-453/00, BNB 2004/150, punt 24, en 16 maart 2006, Rosmarie Kapferer v Schlank & Schick GmbH, C-234/04, punt 24)."
+
+3.3.4 Met betrekking tot foutieve besluiten van de administratie had het HvJ al eerder, in het meergenoemde arrest Kühne & Heitz, beslist dat het Unierecht niet vereist dat een bestuursorgaan terugkomt op een definitief geworden (achteraf bezien onjuist) besluit(25):
+
+"24. Er zij aan herinnerd, dat de rechtszekerheid tot de in het gemeenschapsrecht erkende algemene beginselen behoort. Dat een besluit van een bestuursorgaan definitief wordt na het verstrijken van redelijke beroepstermijnen of na uitputting van alle rechtsmiddelen, draagt bij tot die zekerheid. Bijgevolg vereist het gemeenschapsrecht niet dat een bestuursorgaan in beginsel moet terugkomen op een besluit dat aldus definitief is geworden."
+
+3.4 Voorgaande brengt met zich dat onjuist gebleken besluiten, uitspraken en arresten, die kracht van gewijsde hebben, ondanks de terugwerking van de rechtspraak van het HvJ niet behoeven te worden teruggedraaid. Met latere rechtspraak van het HvJ dient - afgezien van de in het arrest Kühne en Heitz genoemde omstandigheden waaronder een bestuursorgaan toch moet terugkomen op zijn beslissing (zie de voetnoot bij punt 3.3.4) - alleen rekening te worden gehouden bij de beslissing over nog niet onherroepelijk vaststaande beslissingen.
+
+3.5 In een wat concretere context - namelijk een fiscale en niet zozeer een algemeen Europeesrechtelijke - dan die van de in onderdeel 3.3 vermelde rechtspraak, had het HvJ - oordelend op het grensvlak van rechtszekerheid en vertrouwen - zich al uitgelaten over de (on)mogelijkheid voor de belastingautoriteiten om terug te komen op een eerdere beslissing. Ik doel hier op de arresten waarin het HvJ heeft beslist dat in beginsel niet wordt teruggekomen op 'erkenning' van de status van ondernemer door de belastingautoriteiten.
+
+3.5.1 Ik vermeld in dit verband in de eerste plaats het arrest van 29 februari 1996, INZO, C-110/94, V-N 1996, blz. 1396. Daarin overwoog het HvJ dat indien de belastingadministratie een vennootschap heeft erkend als ondernemer die kenbaar heeft gemaakt economische belaste handelingen te zullen verrichten, maar nooit operationeel is geworden, de hoedanigheid van btw-belastingplichtige niet kan worden ontnomen, behoudens fraude of misbruik.(26) Ik citeer in dit verband punten 21-24 van voormeld arrest:
+
+"21 Zoals de Commissie opmerkt, staat het beginsel van de rechtszekerheid namelijk eraan in de weg, dat de rechten en de verplichtingen van de belastingplichtigen afhangen van feiten, omstandigheden of gebeurtenissen die zich na de vaststelling van deze rechten en verplichtingen door de belastingadministratie hebben voorgedaan. Daaruit volgt, dat vanaf het moment waarop laatstgenoemde op basis van de haar door een onderneming verstrekte gegevens heeft aanvaard dat deze onderneming de hoedanigheid van belastingplichtige wordt verleend, aan de betrokken onderneming dit statuut in beginsel nadien niet meer met terugwerkende kracht kan worden ontnomen op grond dat bepaalde gebeurtenissen zich al dan niet hebben voorgedaan.
+
+22 Een andere uitlegging van de richtlijn zou overigens in strijd zijn met het beginsel van de neutraliteit van de BTW ten aanzien van de fiscale belasting van de onderneming. Zij zou bij de fiscale behandeling van identieke investeringsactiviteiten tot ongerechtvaardigde verschillen kunnen leiden tussen, enerzijds, ondernemingen die reeds belastbare handelingen hebben verricht, en, anderzijds, ondernemingen die door middel van investeringen proberen een aanvang te maken met activiteiten die belastbare handelingen zullen opleveren. Ook zouden willekeurige verschillen ontstaan tussen laatstbedoelde ondernemingen onderling, voor zover de definitieve aanvaarding van de aftrek zou afhangen van de vraag, of deze investeringen al dan niet tot belaste handelingen leiden.
+
+23 Ten slotte zij daaraan toegevoegd dat, zoals het Hof in voormeld arrest Rompelman (r.o. 24) heeft vastgesteld, degene die om aftrek van de BTW verzoekt, dient aan te tonen dat aan de voorwaarden voor aftrek is voldaan, en dat artikel 4 zich niet ertegen verzet dat de belastingadministratie verlangt dat het kenbaar gemaakte voornemen om een aanvang te maken met economische activiteiten die aanleiding geven tot belastbare handelingen, door objectieve gegevens wordt ondersteund.
+
+24 Dienaangaande zij mét de Commissie beklemtoond, dat de hoedanigheid van belastingplichtige slechts definitief wordt verworven, indien de verklaring van het voornemen om een aanvang te maken met de beoogde economische activiteiten, door de belanghebbende te goeder trouw is afgelegd. In geval van fraude of misbruik, bij voorbeeld wanneer de betrokkene heeft voorgewend een bepaalde economische activiteit te willen verrichten, doch in werkelijkheid goederen ten aanzien waarvan aftrek mogelijk is, in zijn privé-vermogen heeft pogen op te nemen, kan de belastingadministratie met terugwerkende kracht terugbetaling van de afgetrokken bedragen vorderen, omdat deze aftrek op basis van valse verklaringen is verleend."
+
+3.5.2 En in zijn arrest van 8 juni 2000, Breitsohl, C-400/98, V-N 2000/43.17, overwoog het HvJ (met cursivering van mijn hand):
+
+"38 Het ontstaan van het recht op aftrek van de ter zake van de eerste investeringsuitgaven voldane BTW is dus geenszins afhankelijk van een formele erkenning van de hoedanigheid van belastingplichtige door de belastingadministratie. Die erkenning heeft alleen tot gevolg, dat die hoedanigheid, zodra zij eenmaal erkend is, gevallen van fraude of misbruik daargelaten, niet meer met terugwerkende kracht aan de belastingplichtige kan worden ontnomen zonder dat het vertrouwens- en het rechtszekerheidsbeginsel worden geschonden."
+
+3.6 Haalde het HvJ in vorenvermelde arresten nog vooral het rechtszekerheidsbeginsel van stal bij de beoordeling van (het voortduren van) de hoedanigheid van belastingplichtige, ook het vertrouwensbeginsel staat mijns inziens aan feitelijke terugwerking van een arrest van het HvJ in de weg. Wat betreft de bescherming van door de autoriteiten gewekt vertrouwen op het gebied van de btw verwijs ik naar het arrest van het HvJ van 14 september 2006, Elmeka, gevoegde zaken C-181/04 tot en met C-183/04, V-N 2006/49.19. Daarin was onder meer de vraag aan de orde of een besluit van de nationale belastingdienst bij de belastingplichtige een gewettigd vertrouwen kan doen ontstaan, zelfs als het besluit onwettig is. Het HvJ overwoog (met cursivering van mijn hand):
+
+"31 Volgens vaste rechtspraak van het Hof maken het vertrouwensbeginsel en het rechtszekerheidsbeginsel deel uit van de communautaire rechtsorde. (...) Hieruit volgt dat de nationale instanties het vertrouwensbeginsel jegens de marktdeelnemers in acht moeten nemen.
+
+32 Met betrekking tot het beginsel van bescherming van het gewettigd vertrouwen van de begunstigde van een gunstige handeling, moet in de eerste plaats worden uitgemaakt of de handelingen van de administratieve instanties bij de voorzichtige en bezonnen marktdeelnemer een redelijk vertrouwen hebben gewekt (...). Indien deze vraag bevestigend wordt beantwoord, moet in de tweede plaats worden nagegaan of dit vertrouwen gewettigd is.
+
+(...)
+
+35 In dit verband staat het aan de nationale rechter om te onderzoeken of Elmeka, (...) redelijkerwijze kon aannemen dat de belastingdienst van Piraeus bevoegd was om zich uit te spreken over de toepassing van de vrijstelling van haar activiteiten.
+
+36 Gelet op het voorgaande moet op de derde vraag worden geantwoord dat in het kader van het gemeenschappelijke stelsel van btw de nationale belastingdiensten het vertrouwensbeginsel in acht moeten nemen. Het staat aan de verwijzende rechter om te beoordelen of in de omstandigheden van de hoofdgedingen de belastingplichtige redelijkerwijze kon aannemen dat de betrokken beschikking door een bevoegde instantie was gegeven."
+
+3.7 De in het arrest Elmeka door het HvJ geformuleerde criteria voor de honorering van vertrouwen komt aardig overeen met hetgeen in Nederland vaste leer is inzake het vertrouwensbeginsel: hebben de handelingen van de nationale instanties in redelijkheid vertrouwen kunnen wekken en waren die instanties bevoegd om de 'vertrouwenwekkende' beslissing te geven.(27)
+
+3.8 In Nederland is toepassing van het vertrouwensbeginsel onbetwist. Het is - voor zover in casu van belang - vaste leer dat behalve toezeggingen van de inspecteur, ook beleidsbesluiten bij belastingplichtigen het in rechte te beschermen vertrouwen wekken dat gehandeld zal worden conform het gestelde in het desbetreffende besluit. Ik wijs in dit verband op de 'sleutelarresten' van de Hoge Raad hierover van 12 april 1978, nrs. 18452, 18464 en 18495, BNB 1978/135-137 m.nt. Tuk (ook wel aangeduid als 'doorbraakarresten'). Daarbij vormen - zo volgt uit het arrest van de Hoge Raad van 28 maart 1990, nr. 25668, BNB 1990/194 m.nt. Den Boer - beleidsbesluiten recht en kan daarop in rechte een beroep worden gedaan.
+
+3.9 Beleidsbesluiten als vorenbedoeld zijn er ook ten aanzien van de fiscale positie van de dga. Ik wijs in dit verband allereerst (en chronologisch) naar de twee in 2.6 vermelde 'oude' besluiten, die de staatssecretaris naar aanleiding van het (achteraf bezien onjuiste) arrest van 26 april 2002 heeft gepubliceerd. Daarin wordt toegelicht wat de gevolgen voor de heffing van omzetbelasting zijn voor dga's. Tot de in deze besluiten omschreven gevolgen behoort opname van de dga in een fiscale eenheid met 'zijn' vennootschap.(28) Daarna(ast) is er uiteraard het verderop in deze bijlage te bespreken besluit van 21 december 2007, nr. CPP2007/3160(29) waarin de staatssecretaris de gevolgen die het arrest Van der Steen zijns inziens heeft voor de fiscale positie van de dga en de fiscale eenheid waarvan hij deel uitmaakt(e) uiteenzet en waarin de beide oude besluiten worden ingetrokken (hierna: het besluit).
+
+3.10 Gezien het voorgaande meen ik dat belanghebbende dga's c.q. fiscale eenheden zich niet alleen op de 'INZO-jurisprudentie' (vgl. punten 3.5.1. en 3.5.2) van het HvJ inzake eenmaal vastgesteld ondernemerschap kunnen beroepen, maar ook op de vorenbedoelde besluiten van 24 juli 2002 en 17 oktober 2002 om de terugwerkende kracht van arrest Van der Steen te stuiten in gevallen waarin beschikkingen of (naheffings)aanslagen nog niet onherroepelijk vaststaan. In gevallen waarin aanslagen of beschikkingen onherroepelijk vaststaan (ik kom daarop terug), belemmert de kracht van gewijsde in principe de terugwerkende kracht.
+
+3.11
+
+4 'Omslagpunt': terugwerkende kracht van het besluit van 21 december 2007?
+
+4.1 Als vermeld in punt 3.9 heeft de staatssecretaris naar aanleiding van het arrest Van der Steen bij besluit uiteengezet wat - zijns inziens - de gevolgen zijn van het arrest Van der Steen. Het besluit is gedagtekend 21 december 2007 en is op 2 januari 2008 in de Staatscourant gepubliceerd (Stcrt. 2008, 1). Heel kort gezegd - verderop in deze bijlage komen diverse aspecten van het besluit nog aan de orde - geeft de staatssecretaris in het besluit aan, dat uit het arrest Van der Steen volgt dat de dga geen ondernemer (meer) is voor zijn in loondienst van zijn bv verrichte werkzaamheden, dat de dga tussen 26 april 2002 en 18 oktober 2007 (toch) als ondernemer wordt aangemerkt als hij als zodanig heeft gehandeld, dat dga's in verband met de beëindiging van hun ondernemerschap op 18 oktober 2007 uit de fiscale eenheid treden en dat op die datum goederen waarvoor eerder recht op aftrek is ontstaan, geacht worden te zijn geleverd in de zin van artikel 3, lid 3, aanhef en onderdeel c, van de Wet (indien de fiscale eenheid bestond uit dga en één werkmaatschappij), dan wel in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet (indien de fiscale eenheid uit meer vennootschappen bestaat en zich goederen in het vermogen van de dga bevinden waarvoor eerder aftrek is genoten).
+
+4.2 Wat betreft de ingangsdatum is in het besluit het volgende opgenomen:
+
+"Dit besluit treedt in werking op 18 oktober 2007. De beleidsbesluiten van 24 juli 2002 (...) en van 17 oktober 2002 (...) hebben met ingang van 18 oktober hun belang verloren en worden ingetrokken. Deze beleidsbesluiten geven de gevolgen weer van het arrest van de Hoge Raad van 26 april 2002 (...) en bevatten dus geen zelfstandig interpretatief beleid over het ondernemerschap van de DGA en zijn dus in zoverre vanaf 18 oktober 2007 achterhaald. (...)"
+
+4.3 Gezien het feit dat het besluit op 21 december 2007 is vastgesteld - en pas op 2 januari 2008 is gepubliceerd - moeten we constateren dat de staatssecretaris de oude besluiten met terugwerkende kracht tot het arrest Van der Steen intrekt.
+
+4.4 Terugwerkende kracht is altijd een heikel punt waar het gaat om wetgeving. Uitgangspunt in de Europese jurisprudentie is dat terugwerkende kracht van (belasting)regelgeving uit den boze is, tenzij noodzakelijk, en dan alleen indien het vertrouwen van de betrokkenen in acht wordt genomen.
+
+4.4.1 Ik citeer uit het arrest van het HvJ van 29 april 2004, Leusden en Holin Groep, gevoegde zaken C-487/01 en C-7/02, BNB 2004/260 m.nt. Van Zadelhoff (cursivering van mijn hand):
+
+"59 Het is vaste rechtspraak van het Hof dat, ofschoon het rechtszekerheidsbeginsel zich er in het algemeen tegen verzet dat een gemeenschapsbesluit reeds vóór de publicatie ervan van kracht is, hiervan bij wijze van uitzondering kan worden afgeweken indien dit voor het te bereiken doel noodzakelijk is en het rechtmatige vertrouwen van de betrokkenen naar behoren in acht wordt genomen. Deze rechtspraak geldt ook wanneer de terugwerkende kracht niet uitdrukkelijk in het besluit zelf is voorzien, doch uit de inhoud ervan voortvloeit (arrest van 11 juli 1991, Crispoltoni, C-368/89, Jurispr. blz. I-3695, punt 17).
+
+60 Wat de nationale regelingen van de lidstaten op het gebied van de BTW betreft, heeft het Hof meer in het bijzonder geoordeeld dat de hoedanigheid van belastingplichtige, zodra zij eenmaal erkend is, gevallen van fraude of misbruik daargelaten, niet met terugwerkende kracht aan de belastingplichtige kan worden ontnomen zonder dat het vertrouwens- en het rechtszekerheidsbeginsel worden geschonden, omdat dit deze belastingplichtige met terugwerkende kracht het recht op BTW-aftrek over door hem gemaakte investeringskosten zou ontnemen (zie in die zin arrest van 8 juni 2000, Breitsohl, C-400/98, Jurispr. blz. I-4321, punten 34-38)."
+
+4.4.2 In dezelfde zin oordeelde het HvJ in zijn arrest van 26 april 2005, Stichting Goed Wonen II, C-376/02, BNB 2008/36 m.nt. Bijl, daarbij benadrukkend dat met het 'te bereiken doel' uit het arrest Leusden en Holin een doel van 'algemeen belang' is bedoeld (cursivering MvH met uitzondering van de cursivering van 'Recueil des arrêts et décisions' die van het HvJ is):
+
+"33 Ofschoon het rechtszekerheidsbeginsel zich er in het algemeen tegen verzet dat een gemeenschapsbesluit reeds vóór de publicatie ervan van kracht is, kan hiervan bij wijze van uitzondering worden afgeweken indien dit voor een doel van algemeen belang noodzakelijk is en het rechtmatige vertrouwen van de betrokkenen naar behoren in acht wordt genomen (zie in die zin arrest van 11 juli 1991, Crispoltoni, C-368/89, Jurispr. blz. I-3695, punt 17, en arrest Gemeente Leusden en Holin Groep, reeds aangehaald, punt 59; zie tevens EHRM, arrest van 23 oktober 1997, National & Provincial Building Society/Verenigd Koninkrijk, Recueil des arrêts et décisions, 1997-VII, § 80).
+
+34 Hetzelfde beginsel moet door de nationale wetgever worden nageleefd wanneer hij een regeling vaststelt die onder het gemeenschapsrecht valt."
+
+Ten aanzien van het criterium dat het vertrouwen van de betrokkenen in acht moet worden genomen, overwoog het HvJ voorts - met mijn cursivering:
+
+"43 Daar het in casu om een nationale regeling gaat, moet voor de concrete beoordeling of het gewettigd vertrouwen van de met deze regeling beoogde marktdeelnemers naar behoren in acht is genomen, rekening worden gehouden met de informatiemethoden die normaliter worden gebruikt in de lidstaat die deze regeling heeft vastgesteld, en met de omstandigheden van het concrete geval.
+
+(...)
+
+45 Het vertrouwens- en rechtszekerheidsbeginsel verzetten zich er niet tegen dat een lidstaat, bij uitzondering en om te voorkomen dat tijdens de wetgevingsprocedure op grote schaal financiële constructies ter vermindering van de BTW-last worden toegepast die een wijzigingswet nu juist beoogt te bestrijden, aan deze wet terugwerkende kracht toekent, indien, (...) de marktdeelnemers die de economische handelingen waarop de wet doelt verrichten, van de komende vaststelling van deze wet en de voorgenomen terugwerkende kracht op zodanige wijze in kennis zijn gesteld dat zij in staat zijn te begrijpen welke gevolgen de voorgenomen wetswijziging voor hun handelingen heeft."(30)
+
+4.5 Hoewel we in casu niet te maken hebben met wetgeving waaraan terugwerkende kracht wordt gegeven, maar met beleid, zie ik niet in waarom voor beleidsregels iets anders zou moeten gelden.(31) Zie ik het goed, dan huldigt ook de Hoge Raad dit uitgangspunt. Ik wijs in dit verband op het arrest van de Hoge Raad van 22 juli 1994, nr. 29632, BNB 1994/296 m.nt. Brunt:
+
+"3.5. Als regel zal een belastingplichtige op grond van het vertrouwensbeginsel op toepassing van een in een resolutie vervatte beleidsregel mogen rekenen totdat de resolutie is ingetrokken of gewijzigd. De als voormeld in de Resolutie van 4 oktober 1991 opgegeven redenen welke in de weg staan aan toepassing van de Resolutie van 13 mei 1985 op inkomsten die na 1 januari 1990 zijn nabetaald, vormen onvoldoende grond om voor wat betreft deze resolutie van die regel af te wijken aldus dat ook zonder dat de Staatssecretaris van Financiën tijdig - dat is vóór 1 januari 1990 - had kenbaar gemaakt dat de Resolutie van 13 mei 1985 vanaf 1 januari 1990 niet meer zou gelden belastingplichtigen niet langer op toepassing daarvan mochten rekenen. Voor zodanige afwijking van voormelde regel zou plaats kunnen zijn als sedert 1 januari 1990 de inkomstenbelasting en premies volksverzekeringen niet alleen gecombineerd zouden worden geheven maar ook in het geheven bedrag de inkomstenbelasting en de premies volksverzekeringen niet als afzonderlijke componenten zouden zijn te onderkennen. Dit laatste doet zich evenwel niet voor, zoals ook blijkt uit de in 3.1 vermelde, aan de resultatennota ontleende gegevens."
+
+4.6 Ten aanzien van beleidsbesluiten speelt niet alleen dat terugwerkende kracht in beginsel niet aan de orde is, maar ook of met een onmiddellijke inwerkingtreding het vertrouwen van belastingplichtigen in voldoende mate is beschermd. Daarbij speelt een rol of een besluit tijdig is gepubliceerd(32) en of voldoende rekening is gehouden met een overgangssituatie.(33) Is dat niet het geval, dan kan een overgangsregeling geboden zijn. Ik citeer in dit verband uit het arrest van de Hoge Raad van 2 september 1992, nr. 27855, LJN ZC5047, BNB 1993/2 m.nt. Simons(34):
+
+"3.3. Indien de Inspecteur bij een belastingplichtige het in rechte te beschermen vertrouwen heeft gewekt dat deze ter zake van bepaalde door hem te verrichten prestaties geen omzetbelasting verschuldigd zal zijn, is de Inspecteur bij wijziging van zijn standpunt gehouden het gewekte vertrouwen te honoreren voor zolang en voor zover het de belastingplichtige, ingevolge door hem reeds gesloten overeenkomsten, redelijkerwijs niet mogelijk is de belasting alsnog aan zijn afnemers in rekening te brengen. Bij de beoordeling of laatstbedoelde situatie zich voordoet, komt met name betekenis toe aan de vraag of de termijn gedurende welke de leverancier of dienstverrichter aan de overeengekomen prijs gebonden is, als gebruikelijk kan worden aangemerkt en of te dezer zake een mogelijkheid tot wijziging van desbetreffende overeenkomst bestaat."
+
+4.7 Gezien de laatste volzin van de in 4.2 geciteerde passage van het besluit speelde voor de staatssecretaris bij de keuze om het besluit met terugwerkende kracht tot 18 oktober 2007 te laten werken, kennelijk een rol dat de oude besluiten 'geen zelfstandig interpretatief beleid' bevatten, maar (blijkbaar) slechts weergaven wat rechtens was naar aanleiding van het arrest van 26 april 2002. Afgezien van het antwoord op de vraag of dit een (doorslaggevende) factor mag zijn bij de beantwoording van de vraag of beleid met terugwerkende kracht kan worden ingetrokken(35), meen ik dat deze stellingname niet helemaal juist is. Aan de vaststelling in de oude besluiten dat de dga na het arrest van 26 april 2002 ondernemer was valt inderdaad weinig interpretatiefs te onderkennen, maar de besluiten geven méér dan alleen maar de gevolgen van dat arrest. Ik denk in het bijzonder aan de in het besluit van 24 juli 2002 vervatte interpretatie dat het bedrag dat uitsluitend op grond van artikel 12a van de Wet op de loonbelasting als loon wordt aangemerkt buiten de heffing mag blijven en de goedkeuring dat in bepaalde situaties waarin geen fiscale eenheid bestaat, toch wordt gehandeld als ware er sprake van een fiscale eenheid.
+
+4.8 Wat betreft criteria die een rol spelen bij het toestaan van terugwerkende kracht in wetgeving, te weten de noodzaak en de bescherming van de betrokkenen - die voor wetgeving zijn geformuleerd, maar die ik hier doortrek naar beleid: ik zie de noodzaak van terugwerkende kracht niet in. Gesteld noch gebleken is dat terugwerkende kracht van het besluit bijvoorbeeld voorkomt dat misbruik(36) wordt gemaakt van een voortdurend ondernemerschap van de dga, of dat er andere dwingende redenen zijn om aan het besluit terugwerkende kracht te verlenen. Nimmer is ook aangekondigd dat er een wijziging van het beleid in de pijplijn zat, en hoewel niet te ontkennen valt dat het in de praktijk wel duidelijk zal zijn geweest dat het arrest Van der Steen gevolgen zou hebben voor de fiscale positie van de dga, had mijns inziens niet zonder meer bevroed kunnen worden dat het ontbreken van ondernemerschap - met terugwerkende kracht - ook verbreking van fiscale eenheden met zich zou brengen. Te meer daar in weerwil van de wettekst ook holdingmaatschappijen - die uiteindelijk in een niet heel andere positie verkeren dan dga's - bij wijze van goedkeuring al sinds jaar en dag in fiscale eenheden worden toegelaten. Ik doel op het in deze bijlage al meer genoemde resolutie van 18 februari 1991, nr. VB91/347, V-N 1991/715.
+
+4.9 Ook het arrest Van der Steen an sich noopte niet tot een inwerkingtreding van het besluit per de datum van dat arrest. Weliswaar wordt met de intrekking van de oude besluiten onjuiste implementatie van het Unierecht ongedaan gemaakt, maar die ongedaanmaking betreft primair het ondernemerschap van de dga, en niet zozeer diens opname in de fiscale eenheid. Als eerder opgemerkt lijkt de Europese wetgeving tot op heden niet uit te sluiten dat niet-ondernemers deel uitmaken van een fiscale eenheid. Dat zou weliswaar kunnen veranderen met een - ex tunc werkend - arrest van het HvJ, maar zover zijn we nog niet. Op 18 oktober 2007, noch op 21 december 2007, noopte het Unierecht tot het uit de fiscale eenheid weren van dga's (of andere niet-ondernemers).
+
+4.10 Al met al meen ik dan ook dat de staatssecretaris ten onrechte aan het besluit terugwerkende kracht heeft verleend. Ik meen dat de gevolgen van het besluit eerst van toepassing kunnen worden op het tijdstip van de bekendmaking daarvan. Dat is 2 januari 2008.
+
+4.11 In de literatuur is ook naar voren gebracht dat inwerkingtreding van het besluit per 18 oktober 2007 niet juist is.
+
+4.11.1 Ik citeer in dit kader P.D. Vettenburg, De btw-plicht van de dga herzien, ftV 2008/19, die overigens 21 december 2007 primair als ingangsdatum ziet:
+
+"De vraag is dan ook of het besluit al vanaf 18 oktober 2007 kan werken. Immers, de besluiten uit 2002, die nu zijn ingetrokken, waren in de periode van 18 oktober 2007 tot, in ieder geval, 21 december 2007 nog niet ingetrokken en daar moet men als belastingplichtige dan ook op kunnen vertrouwen. Zeker nu de intrekking van de besluiten ook nog niet was aangekondigd, kan naar mijn mening gesteld worden dat het besluit niet eerder werking kan hebben dan vanaf datum besluit. Wellicht dat zelfs verdedigd kan worden dat de besluiten pas zijn ingetrokken bij publicatie en dus pas op 2 januari 2008. Gelet op de impact die het besluit op diverse dga's kan hebben, was het netter geweest het besluit van 21 december enige dagen eerder te publiceren en de ingangsdatum op 1 januari 2008 vast te stellen."
+
+4.11.2 Ook bij B. Butzelaar, Is de art. 3,3,c van toepassing bij de 'Van der Steen-dga'er?, Btw-bulletin 2008, nr. 3 [19] vinden we dit standpunt:
+
+"(...) De staatssecretaris legt het Van der Steen-arrest zo uit dat de dga met ingang van 18 oktober 2007 niet langer ondernemer is. De dga is zogezegd zijn 'ondernemersjas' ineens verloren. (...)
+
+Hierbij speelt ook nog mee in hoeverre het standpunt van de staatssecretaris stand zal houden dat het ondernemerschap reeds op 18 oktober 2007 is beëindigd, terwijl hij dit standpunt eerst op 2 januari 2008 in een besluit naar buiten heeft gebracht. Nu een besluit pas in werking treedt nadat het bekend is gemaakt, zal het niet eenvoudig voor de belastingdienst/staatssecretaris zijn om iets in te brengen tegen de stelling dat een dga pas per 2 januari 2008 geen ondernemer meer is omdat op dat moment pas de oude besluiten zijn ingetrokken. Als er al een 3, 3, c-levering plaatsvindt, dan toch niet eerder dan op 2 januari 2008."
+
+4.12 Zoals uit 4.10 moge blijken, onderschrijf ik de opvatting van Butzelaar.
+
+4.13 Uit het voorgaande volgt dat mijns inziens belanghebbende dga's c.q. fiscale eenheden zich tot 2 januari 2008 kunnen beroepen op de oude besluiten. Dat betekent dat zij, indien zij zich op de oude besluiten beroepen geacht moeten worden tot en met 1 januari 2008 ondernemer te zijn c.q. tot en met die datum een fiscale eenheid met hun vennootschap te (kunnen) vormen. Om het anders te zeggen, mijns inziens is de fiscus gehouden om de oude besluiten te eerbiedigen tot en met in elk geval 1 januari 2008. Wat betekent dat?
+
+4.14 In de eerste plaats volgt uit de conclusie dat het 'omslagpunt' waarop fiscale eenheden wegens niet-ondernemerschap van de dga worden verbroken, op 2 januari 2008 moet worden gesteld en dat de aftrek van voorbelasting op door de fiscale eenheid tot die datum gedane investeringen gehandhaafd blijft. Indien - zoals in de voorliggende zaken - de dga van een bedrijfsmiddel van de fiscale eenheid voor privédoeleinden gebruik maakt, lijkt de handhaving van de fiscale eenheid tot en met ultimo 2007 echter ook te betekenen dat de fiscale eenheid ter zake van dat privégebruik vanaf 1 januari 2007 (of zoveel later als het bedrijfsgoed (op)geleverd wordt) omzetbelasting verschuldigd is op de voet van artikel 4, lid 2, aanhef en onderdeel a, van de Wet.(37)
+
+4.15 Op grond van deze bepaling wordt als belastbaar feit aangemerkt het gebruiken van een tot een bedrijf behorend goed voor privédoeleinden van de ondernemer of zijn personeel of, meer in het algemeen, voor andere dan bedrijfsdoeleinden indien voor het goed recht op aftrek van voorbelasting is ontstaan.(38) Artikel 4, lid 2, aanhef en onderdeel a, is per 1 januari 2007 in de Wet opgenomen in het kader van het 'richtlijnproof' maken van de Wet, die - naar volgde uit het arrest van het HvJ van 14 juli 2005, Charles en Charles-Tijmens, C-434/03, BNB 2005/284 m.nt. Van Zadelhoff - ten onrechte niet bleek te voorzien in een correctiemogelijkheid ter zake van privégebruik aan de 'heffingskant' van de btw.
+
+4.16 In geen van de voorliggende zaken is een eventuele heffing wegens privégebruik onderdeel van het geschil. Ik zie dan ook af van een meeromvattende bespreking van de bepaling.
+
+5 Geen beroep op besluiten
+
+5.1 In onderdeel 4 ging ik er min of meer impliciet van uit dat belastingplichtigen zich al dan niet uitdrukkelijk met een beroep op de oude besluiten als ondernemer c.q. fiscale eenheid afficheerden. Belastingplichtigen hóeven echter geen beroep te doen op hetgeen in een besluit is gesteld. We zien dat ook in de onderhavige procedures, althans in die met de zaaknummers 10/02318 en 10/04489.(39) De betrokkenen in die zaken beroepen zich (juist) niet op de oude besluiten. Opgekomen wordt slechts tegen de afrekening die volgens het besluit moet plaatsvinden bij gelegenheid van het verbreken van fiscale eenheden. Daar is op zich niets mis mee: een belastingplichtige hoeft zich niet te beroepen op beleidsregels. De vraag is echter wat de gevolgen zijn. In de literatuur - waar overigens slechts door een enkeling wordt gerept over de oude besluiten en hun effect - wordt vrij algemeen aangenomen dat een dga in beginsel met succes kan stellen dat hij nimmer ondernemer is geweest. Ik citeer:
+
+5.1.1 P.D. Vettenburg, De btw-plicht van de dga herzien, ftV 2008/19:
+
+"De staatssecretaris geeft aan dat het arrest in beginsel terugwerkende kracht heeft, maar beperkt deze terugwerkende kracht op grond van het vertrouwens- en rechtszekerheidsbeginsel tot datum arrest. Deze beperking lijkt mij onjuist. Indien namelijk een dga, als in het arrest Van der Steen, er baat bij kan hebben om nimmer als ondernemer te kwalificeren, ook niet in de periode 26 april 2002 tot 18 oktober 2007, dan moet hij toch op het communautaire recht, zoals dat in het arrest door het HvJ is uitgelegd, kunnen vertrouwen."
+
+5.1.2 J.J.M. Lamers, Dga-besluit en terugwerkende kracht, Btw-bulletin 2008, nr. 3 [21], betoogt dat de dga nooit ondernemer is geweest:
+
+"Een arrest van het HvJ EG, dat ingevolge een verzoek om een prejudiciële beslissing wordt gewezen, bedoelt gevolgen te hebben voor de rechtsverhoudingen die vóór het wijzen ervan zijn ontstaan, zie het arrest HvJ 13 januari 2004 zaak C-453/00, Kühne & Heitz. Daaruit volgt dat een aldus uitgelegd voorschrift van gemeenschapsrecht door een administratief orgaan zelfs moet worden toegepast op rechtsverhoudingen die zijn ontstaan en gevormd vóór het arrest van het HvJ EG waarbij de prejudiciële vraag wordt beantwoord (zie HvJ 6 oktober 2005 zaak C-291/03, My Travel). Dit betekent dat op grond van het arrest Van der Steen een dga geacht wordt nooit ondernemer te zijn geweest voor de btw. (...) Hoewel geen ondernemer voor de btw volgens het arrest Van der Steen, kan een dga in Nederland wel als ondernemer worden aangemerkt met een beroep op het arrest van de Hoge Raad van 26 april 2002. De terugwerkende kracht van het arrest Van der Steen wordt in dit geval gestuit door het rechtszekerheidsbeginsel. Een dga kan aan het arrest van de Hoge Raad het in rechte te beschermen vertrouwen ontlenen dat hij kan worden aangemerkt als ondernemer voor de btw. De staatssecretaris erkent dit en meent dat er daarom op het verleden van vóór 18 oktober 2007 niet kan worden teruggekomen. De staatssecretaris miskent echter het feit dat een dga op grond van jurisprudentie van het HvJ EG nooit ondernemer is geweest en dat er in het geheel geen mogelijkheid voor de door hem voorziene heffingen bestaat."
+
+5.1.3 L.L.C. Blom, Btw en de dga: komt het antwoord uit Luxemburg?, WFR 2008/255, betoogt (exclusief voetnoten):
+
+"De staatssecretaris merkt in zijn besluit op dat het arrest-Van der Steen van het HvJ EG terugwerkende kracht heeft. Dit standpunt kan men mede ontlenen aan het arrest van het HvJ EG in de zaak-My Travel. Het HvJ EG overweegt in dit arrest dat "wanneer het hof in het kader van de hem bij art. 234 EG verleende bevoegdheid een bepaling van gemeenschapsrecht uitlegt, het de betekenis en de strekking van deze bepaling zoals zij sedert het tijdstip van de inwerkingtreding ervan had moeten worden verstaan en toegepast, preciseert. Dit is slechts anders indien het hof in zijn arrest, bij uitzondering, de strekking van deze uitlegging in de tijd beperkt". In de zaak-Van der Steen vermeldt het HvJ EG niet dat de strekking van dit arrest in de tijd is beperkt. Ik concludeer dan ook dat de dga met een arbeidsovereenkomst nooit btw-ondernemer kan zijn geweest."
+
+5.1.4 Ook C.J. Hummel, De dga herboren, NTFRB 2008-12, betoogt dat de dga nooit ondernemer is geweest:
+
+"De dga is naar mijn mening, anders dan de staatssecretaris veronderstelt, nooit ondernemer geweest. Als mijn mening juist is, dan heeft de dga op geen enkel moment in de hoedanigheid van ondernemer goederen onder zich gehad (...)"
+
+5.1.5 E.H.A.M. Thijssen, De andere kijk op de zaak, BtwBrief 2008, nr. 3 [10], meent:
+
+"Aangenomen zal moeten worden dat in beginsel een DGA nimmer ondernemer in de zin van de Wet OB is geweest, uiteraard voor zover deze niet op andere gronden als ondernemer dient te worden aangemerkt. Echter, gelet op het feit dat de Hoge Raad op 26 april 2002 een volledig tegengestelde uitspraak deed, zou dit toch nog wel eens iets 'genuanceerder' kunnen liggen. In het arrest Kühne en Heitz heeft het HvJ EG namelijk aangegeven onder welke omstandigheden door belanghebbenden om heroverweging van definitief geworden besluiten van een bestuursorgaan kan worden verzocht, met andere woorden: onder welke voorwaarden het btw-ondernemerschap mogelijk alsnog aan een heroverweging door de belastingdienst kan worden onderworpen (...)"
+
+5.2 Het lijkt mij dat ('Van der Stenige'-)dga's in beginsel met een beroep op het arrest Van der Steen kunnen stellen dat zij nimmer ondernemer zijn geweest. Als eerder opgemerkt staat het een belastingplichtige vrij om zich niet op een beleidsbesluit te beroepen. Ook denk ik dat de 'INZO-jurisprudentie' niet aan een succesvol beroep op niet-ondernemerschap in de weg hoeft te staan. In de betreffende arresten gaat het er immers primair om of de belastingadministratie mag terugkomen op een eenmaal 'erkende' status van belastingplichtige. Quod non. Ik verwijs naar de in 3.5.1 en 3.5.2 van deze bijlage opgenomen passages uit de arresten INZO en Breitsohl, waaruit blijkt dat een eenmaal erkende status van belastingplichtige niet achteraf - en behoudens fraude of misbruik - aan de desbetreffende (rechts)persoon kan worden ontnomen, hetgeen een actie van de verlenende autoriteit impliceert. Dat laat onverlet dat een (rechts)persoon die als belastingplichtige is erkend, zelf wel degelijk kan stellen dat die erkenning ten onrechte was, omdat zij niet voldoet aan de criteria voor de hoedanigheid van belastingplichtige.
+
+5.3 In zijn algemeenheid moge gezegd worden dat dga's zich niets gelegen hoeven te laten liggen aan de (oude) besluiten en met een beroep op het arrest Van der Steen hun ondernemerschap kunnen ontkennen, in concreto zie ik echter wel wat haken en ogen die het succes van een dergelijk beroep kunnen belemmeren. Die belemmeringen zijn gelegen in de handelwijze van de betrokkenen vóór (de impact van) het arrest Van der Steen, meer specifiek in de beschikking fiscale eenheid en de reactie van de betrokkenen op het als ondernemer c.q. fiscale eenheid aangemerkt zijn. Onderdeel 6 wijd ik aan de zogenoemde 'beschikking fiscale eenheid', in onderdeel 7 ga ik meer in zijn algemeenheid in op de reactie van dga's op hun ondernemerschap en opname in een fiscale eenheid, indien vorenbedoelde beschikking mocht ontbreken.
+
+6 Beschikking fiscale eenheid
+
+6.1 Op grond van artikel 7, lid 4, van de Wet en artikel 11 van de btw-richtlijn (voorheen artikel 4, lid 4, tweede alinea, van de Zesde richtlijn) is voor het bestaan van een fiscale eenheid vereist dat de deelnemers in financieel, organisatorisch en economisch opzicht nauw zijn verweven (hierna ook aangeduid als de materiële voorwaarden voor een fiscale eenheid). Met het voldoen aan deze materiële voorwaarden is de fiscale eenheid, althans op grond van artikel 7, lid 4, van de Wet, echter nog geen gegeven. Sinds 1 januari 1989 moet de inspecteur, wettelijk gezien, namelijk eerst een beschikking daartoe hebben afgegeven (hierna aangeduid als: beschikking fiscale eenheid). Voor zover hier van belang luidt artikel 7, lid 4, van de Wet als volgt:
+
+"Natuurlijke personen en lichamen (...), die (...) zodanig zijn verweven, dat zij een eenheid vormen, worden (...) bij voor bezwaar vatbare beschikking van de inspecteur als één ondernemer aangemerkt en wel met ingang van de eerste dag van de maand, volgende op die waarin de inspecteur de beschikking heeft afgegeven. (...)"
+
+6.2 De beschikking fiscale eenheid is destijds ingevoerd in verband met de (per 1 januari 1989) geïntroduceerde aansprakelijkheid van onderdelen van de fiscale eenheid voor de (omzet)belastingschulden van de eenheid (artikel 43 van de Invorderingswet 1990, hierna: IW).(40) Uit de wetsgeschiedenis kan worden afgeleid dat het de bedoeling was dat de beschikking een constitutief karakter zou hebben. Ik citeer uit de memorie van antwoord, Kamerstukken I 1989/90, 29 588, nr. 88b, blz. 15, met betrekking tot de wijziging van de invorderingswet (met mijn cursivering):
+
+"De leden van de C.D.A.-fractie vragen een reactie op de stelling in het artikel van mr. R.P.W. Frima in TVVS, nr. 88/12 dat de hoofdelijke aansprakelijkheid voor onderdelen van de fiscale eenheid omzetbelasting ertoe zou kunnen leiden dat rechtspersonen die ongevraagd van zo'n eenheid deel uitmaken, worden meegesleurd in het faillissement van een van hen. Wij merken hierover op dat deze hoofdelijke aansprakelijkheid voor de omzetbelasting is geregeld in het met ingang van 1 januari 1989 aan de Wet op de omzetbelasting 1968 toegevoegde artikel 41i. In de thans voorliggende wetsbepaling is deze aansprakelijkheid uit de Wet op de omzetbelasting overgenomen. Bij de behandeling van de wetswijziging tot invoering van de hoofdelijke aansprakelijkheid is de door Frima gesignaleerde kwestie aan de orde geweest. Wij verwijzen hiervoor naar de desbetreffende stukken (zie met name Handelingen II, 15 september 1988, blz. 5930, mk, en blz. 5932, rk). In dit verband merken wij nog op dat door aanvaarding van het amendement-Vreugdenhil artikel 7, vierde lid, van de Wet op de omzetbelasting 1968 per 1 januari 1989 gewijzigd is in die zin dat voor het bestaan van een fiscale eenheid een constitutieve beschikking van de inspecteur is vereist. Hierdoor is het niet mogelijk dat partijen worden geconfronteerd met een fiscale eenheid en de daaraan verbonden hoofdelijke aansprakelijkheid terwijl zij zich het bestaan van die eenheid niet bewust waren."
+
+6.3 In een drietal arresten heeft de Hoge Raad aan de beschikking fiscale eenheid echter een declaratoire teint gegeven.
+
+6.3.1 In het arrest van de Hoge Raad van 22 april 2005, nr. 38659, LJN AT4477, BNB 2005/230 m.nt. Bijl ging het om een fiscale eenheid die materieel bestond, maar waarvoor enige tijd na de totstandkoming van de eenheid pas een beschikking werd gevraagd. De inspecteur willigde het verzoek van de belanghebbenden om als fiscale eenheid te worden aangemerkt in, doch stelde de ingangsdatum - conform artikel 7, lid 4, van de Wet - op de eerste dag volgende op die waarin de beschikking was afgegeven, in plaats van op de door belanghebbenden gevraagde (veel eerdere) datum. De Hoge Raad overwoog (met mijn cursivering):
+
+"3.4. Artikel 7, lid 4, van de Wet schrijft voor dat natuurlijke personen en lichamen die (...) zodanig zijn verweven dat zij een eenheid vormen, bij voor bezwaar vatbare beschikking van de inspecteur als één ondernemer worden aangemerkt, en wel met ingang van de eerste dag van de maand die volgt op die waarin de inspecteur de beschikking heeft afgegeven. Met het eerste deel van die bepaling is uitvoering gegeven aan artikel 4, lid 4, tweede volzin, van de Zesde richtlijn. Daarbij is niet beoogd dat het van de wil van de betrokken belastingplichtigen, laat staan van de wil van de inspecteur, zou afhangen of de belastingplichtigen, indien aan de voorwaarde van nauwe verbondenheid is voldaan, al dan niet als één ondernemer worden aangemerkt. Artikel 7, lid 4, van de Wet bepaalt immers dat de inspecteur, indien aan vorenbedoelde voorwaarde is voldaan, de betrokkenen als één belastingplichtige moet aanmerken. Mede tegen de achtergrond van het bepaalde in de Zesde richtlijn, waarin eveneens de nauwe verbondenheid als enig criterium wordt genoemd, moet artikel 7, lid 4, van de Wet derhalve aldus worden uitgelegd dat het tijdstip waarop de belastingplichtigen verzoeken als één ondernemer te worden aangemerkt, niet van belang is voor de bepaling van het ingangstijdstip van dat aanmerken. Hetzelfde moet gelden voor het tijdstip waarop door de inspecteur op een zodanig verzoek wordt beslist. Belastingplichtigen die daarbij belang hebben, kunnen derhalve zich erop beroepen dat zij als één belastingplichtige worden aangemerkt vanaf het tijdstip waarop zij in financieel, organisatorisch en economisch opzicht nauw met elkaar verbonden zijn. Hun kan in een zodanig geval niet worden tegengeworpen dat zij bij een ingevolge artikel 7, lid 4, van de Wet door de inspecteur te geven beschikking slechts met ingang van een later tijdstip als één ondernemer kunnen worden aangemerkt. De betekenis van een zodanige beschikking is, zoals ook blijkt uit de wetsgeschiedenis (Toelichting op het amendement-Vreugdenhil, Kamerstukken II, 20 030, 1987/88, nr. 11, blz. 2 en Voorlopig Verslag, Kamerstukken II, 20 030, nr. 5, blz. 5) gelegen in de rechtszekerheid; zij beschermt de belastingplichtigen tegen de mogelijkheid dat bij een verschil van mening tussen de inspecteur en hen over het bestaan van een fiscale eenheid en/of het tijdstip waarop deze is ingegaan, een beslechting van dat geschil in de door de inspecteur voorgestane zin, tot gevolg zou hebben dat zij tegen hun wil als fiscale eenheid worden behandeld voor een periode gelegen vóór het moment waarop de inspecteur zijn standpunt terzake bekend heeft gemaakt."
+
+6.3.2 In de zaak die heeft geleid tot het arrest van 27 januari 2006, nr. 41316, LJN AV0408, BNB 2006/312 m.nt. Van der Paardt ging het om twee ondernemers die voldeden aan de materiële voorwaarden voor het bestaan van een fiscale eenheid doch die geen verzoek hadden gedaan om afgifte van een beschikking fiscale eenheid. Ook had de inspecteur niet op eigen initiatief zo'n beschikking afgegeven. Aan één van de onderdelen van de (materieel bestaande) fiscale eenheid werd een naheffingsaanslag opgelegd, die de belanghebbende bestreed met de stelling dat zij met haar dochtervennootschap een fiscale eenheid vormde. De Hoge Raad overwoog (met cursivering van mijn hand, met uitzondering van 'BNB'):
+
+"4.2. Zoals de Hoge Raad in zijn arrest van 22 april 2005, nr. 38 659, BNB 2005/230, heeft overwogen, beoogt artikel 7, lid 4, van de Wet niet het van de wil van de betrokken belastingplichtigen of van de inspecteur te laten afhangen of belastingplichtigen, indien aan de voorwaarde van nauwe verbondenheid is voldaan, al dan niet als één ondernemer worden aangemerkt. (...) Belastingplichtigen, die daarbij belang hebben, kunnen ook in een procedure als de onderhavige ter zake van een naheffingsaanslag omzetbelasting zich erop beroepen dat zij als één belastingplichtige moeten worden aangemerkt, omdat zij in het tijdvak waarop de aanslag betrekking heeft, in financieel, organisatorisch en economisch opzicht nauw met elkaar verbonden zijn. In dat geval dient de juistheid van die stelling te worden beoordeeld en kan, zo de stelling juist wordt bevonden, aan de betrokken belanghebbende(n) niet worden tegengeworpen dat de inspecteur (nog) niet een beschikking ingevolge artikel 7, lid 4, van de Wet heeft afgegeven."
+
+6.3.3 Het drieluik arresten over de beschikking fiscale eenheid wordt afgesloten met het arrest van 9 juni 2006, nr. 42426, LJN AX7369, BNB 2006/313 m.nt. Van der Paardt. In deze zaak had de inspecteur een verzoek van twee stichtingen om als fiscale eenheid te worden aangemerkt, bij beschikking afgewezen. Tegen deze afwijzing hadden de verzoekers geen bezwaar gemaakt. Toen de ene stichting aan de andere geen btw in rekening bracht ter zake van verrichte prestaties, hief de inspecteur de zijns inziens verschuldigde belasting na. Tegen deze naheffing kwam de betrokken stichting op. De Hoge Raad overwoog (met mijn cursivering):
+
+"3.3.1. De Hoge Raad heeft in zijn arrest van 27 januari 2006, nr. 41 316, (...), overwogen dat, gelet op de betekenis die aan een beschikking ingevolge artikel 7, lid 4, van de Wet moet worden toegekend (...), belastingplichtigen die daarbij belang hebben, in een procedure ter zake van een naheffingsaanslag omzetbelasting zich erop kunnen beroepen dat zij als één belastingplichtige moeten worden aangemerkt op grond van de stelling dat zij in het tijdvak waarop de aanslag betrekking heeft, in financieel, organisatorisch en economisch opzicht nauw met elkaar verbonden zijn. In dat geval dient de juistheid van die stelling te worden beoordeeld.
+
+-3.3.2. Het in 3.3.1 vermelde heeft, gelet op de aan een ingevolge artikel 7, lid 4, van de Wet gegeven beschikking toe te kennen betekenis, ook te gelden wanneer de inspecteur voorafgaand aan een naheffingsaanslag, bij beschikking heeft geweigerd een beschikking bedoeld in artikel 7, lid 4, van de Wet af te geven. De omstandigheid dat eerstvermelde beschikking onherroepelijk is geworden, heeft niet tot gevolg dat daarmee de betreffende naheffingsaanslag voor juist moet worden gehouden. Voor een beperkte toetsing zoals die door het Hof is uitgevoerd, zou, gelet op het bepaalde in artikel 4:6 van de Algemene wet bestuursrecht, slechts plaats kunnen zijn, indien ter beoordeling zou hebben gestaan een beschikking van de Inspecteur waarbij is beslist op een nieuwe aanvraag voor een beschikking bedoeld in artikel 7, lid 4, van de Wet."
+
+6.4 In de annotaties op de in 6.3.1 tot en met 6.3.3 vermelde arresten wordt wel gesteld dat de Hoge Raad met deze arresten een loterij zonder nieten voor de ondernemer heeft gecreëerd.
+
+6.4.1 Zo annoteert Bijl bij het arrest van 22 april 2005 in BNB 2005/230:
+
+"9. Het is in al zijn onbegrijpelijkheid een buitengewoon sympathiek arrest. De geitenhouders(41) zijn geholpen en de ondernemers spelen nu een loterij zonder nieten. (...) Jammer dat alleen de belastingplichtige en niet de inspecteur in alle stadia van een procedure een fiscale eenheid uit de hoge hoed mag toveren. (...)"
+
+6.4.2 Van der Paardt spreekt in zijn (gecombineerde) noot op de arresten van 27 januari 2006 en 9 juni 2006 in BNB 2006/312 over een cafetariamodel:
+
+"Met het standpunt van de Hoge Raad wordt een soort cafetariamodel geïntroduceerd. Komt het de belastingplichtige goed uit, dan roept hij de fiscale eenheid in (ook al heeft hij niet om een beschikking gevraagd). Komt de fiscale eenheid niet gelegen, dan stelt hij dat er weliswaar aan de vereisten voor de verbondenheid wordt voldaan, maar er geen beschikking is en zijn rechtszekerheid in het geding is ingeval de fiscus de rechtsgevolgen van de fiscale eenheid zou willen doorvoeren. De beschikking heeft immers ten doel te voorkomen dat belastingplichtigen worden geconfronteerd met het gegeven dat zij een fiscale eenheid vormden voor een al verstreken tijdvak."
+
+6.4.3 In zijn noot op het arrest van 27 januari 2006 in, FED 2006/50 nuanceert G.J. van Norden overigens het karakter van 'loterij zonder nieten' enigszins (de voetnoten van de auteur die bij deze passage behoort heb ik niet overgenomen):
+
+"4. Dat de fiscale eenheid in de praktijk een 'loterij zonder nieten' is geworden (geen noodzaak om een aanvraag tot een fiscale eenheid te doen, wel als fiscale eenheid handelen, de mogelijkheid om alsnog een fiscale eenheid te stellen tijdens een bezwaar- of beroepsprocedure en geen hoofdelijke aansprakelijkheid), is naar mijn mening niet zeker. Van hoofdelijke aansprakelijkheid ex art. 43 IW 1956 is namelijk sprake indien natuurlijke personen en lichamen in de zin van de AWR ingevolge art. 7, vierde lid, Wet OB 1968 als één ondernemer zijn aangemerkt. Art. 43 IW 1956 bevat geen verwijzing naar de beschikking. De beschikking zou dan ook geen voorwaarde hoeven te vormen voor de hoofdelijke aansprakelijkheid. Het bestaan van een (materiële) fiscale eenheid (...) is dat in elk geval wel. (...) Ik teken daarbij aan dat de term 'aangemerkt' in art. 43 IW 1956 ook zo geduid kan worden dat de beschikking wel een constitutieve voorwaarde voor de hoofdelijke aansprakelijkheid is."
+
+6.5 In de in 6.3 bedoelde arresten ging het steeds over een (groep) belanghebbende(n) die er baat bij hadden een fiscale eenheid in te roepen, en die - afgezien van het laatste arrest, waarin dat door een verwijzingshof moest worden onderzocht - materieel ook een zodanige eenheid vormden. De vraag rijst of een belastingplichtige ook het niet-bestaan van een fiscale eenheid kan inroepen indien er wel een beschikking daartoe is afgegeven.
+
+6.6 In het kader van de aansprakelijkstelling van onderdelen van fiscale eenheden jegens elkanders btw-schulden (artikel 43 IW, zie nader onderdeel 9 van deze bijlage) oordelen de gerechtshoven daarover verschillend.
+
+6.6.1 In zijn uitspraak van 30 juni 2011, nr. P08/00153, LJN BR0285, NTFR 2011/1670 m.nt. Merkx (waartegen cassatie is ingesteld en op welke zaak - 11/03524 - deze bijlage ook ziet) overwoog Hof Amsterdam dat de ontvanger in beginsel niet kan overgaan tot aansprakelijkheidstelling voor ten name van een fiscale eenheid opgelegde aanslagen indien vaststaat - in casu was dat tussen partijen in confesso - dat de fiscale eenheid materieel nimmer heeft bestaan, en dat daaraan niet afdoet dat een beschikking fiscale eenheid (op verzoek van belanghebbende) is afgegeven:
+
+"6.12. Uit het vorenoverwogene leidt het Hof af dat in het onderhavige geval, waarin vaststaat dat een fiscale eenheid tussen belanghebbende en (...) BV materieel nimmer heeft bestaan, de ontvanger in beginsel niet kan overgaan tot de aansprakelijkstelling van belanghebbende voor ten name van de fiscale eenheid opgelegde naheffingsaanslagen.
+
+6.13. De vraag is of dit anders is indien, zoals in dit geval, een verzoek is ingediend tot het nemen van de in geding zijnde beschikking fiscale eenheid. Naar het oordeel van het Hof is er in dit geval geen aanleiding om die vraag bevestigend te beantwoorden. (...)
+
+6.14. Ook de omstandigheid dat belanghebbende tegen de beschikking inzake de fiscale eenheid geen rechtsgeldig bezwaar heeft gemaakt, acht het Hof in het onderhavige geval niet van voldoende belang. Uitgaande van die omstandigheid (...) kan belanghebbende dat in redelijkheid niet worden tegengeworpen, gelet op de destijds geldende jurisprudentie."
+
+6.6.2 Hof 's-Hertogenbosch had in zijn uitspraak van 20 mei 2009, nr. 08/00173, LJN BL7411, V-N 2009/58.24 anders geoordeeld. Ook in de aan dit Hof voorgelegde zaak was een dga aansprakelijk gesteld voor niet-betaalde omzetbelastingschulden van de fiscale eenheid. De omstandigheid dat de desbetreffende belanghebbende geen rechtsmiddelen had aangewend tegen de beschikking fiscale eenheid, waardoor deze onherroepelijk was geworden, was voor Hof 's-Hertogenbosch aanleiding om de aansprakelijkstelling van de dga te accorderen. Omtrent de (formele) rechtskracht van de onherroepelijke geworden beschikking overwoog Hof 's-Hertogenbosch (cursivering MvH):
+
+"4.5. Belanghebbende bestrijdt de verbindendheid van de beschikking echter met een beroep op het arrest van de Hoge Raad van 22 april 2005, nr. 38 659, BNB 2005/230. Daarin heeft de Hoge Raad geoordeeld dat de beschikking fiscale eenheid geen constitutief vereiste is voor het bestaan daarvan. Indien, aldus de Hoge Raad, een beschikking fiscale eenheid is afgegeven, kan niettemin later komen vast te staan dat de fiscale eenheid feitelijk reeds tot stand is gekomen vóór het ingangstijdstip van die beschikking. Uit het hiervoor bedoelde arrest volgt, anders dan belanghebbende betoogt, niet dat aan een afgegeven beschikking betekenis ontvalt in het geval dat na het tijdstip van onherroepelijk worden daarvan zou komen vast te staan dat zij ten onrechte is afgegeven, bijvoorbeeld omdat - zoals in het onderhavige geval - zou blijken dat één van de tot die fiscale eenheid behorende belastingplichtigen vanwege het ontbreken van ondernemerschap voor de omzetbelasting, daarvan geen deel kon uitmaken. Het beginsel van de formele rechtskracht staat aan belanghebbendes opvatting in de weg. Dit beginsel houdt immers in, dat indien tegen een beschikking een met voldoende waarborgen omklede administratieve rechtsgang heeft opengestaan, de rechter, zo deze rechtsgang niet is gebruikt, in geval de geldigheid van de beschikking in het voor hem gevoerde geding in geschil is, ervan uit dient te gaan dat die beschikking zowel wat haar wijze van tot stand komen als wat haar inhoud betreft in overeenstemming is met de desbetreffende wettelijke voorschriften en algemene rechtsbeginselen."
+
+6.6.3 Hof Arnhem oordeelde in zijn uitspraak van 20 april 2010, nr. 08/00635, LJN BM4329,
+
+V-N 2010/46.13, in een vergelijkbare zaak in dezelfde zin als Hof 's-Hertogenbosch. Verschil tussen de Arnhemse en de Bossche zaak was dat de dga uit de zaak van Hof Arnhem uiteindelijk (meer dan drie jaar na afloop van de bezwaartermijn) bezwaar had ingediend tegen de beschikking fiscale eenheid:
+
+"4.5 Gelet op deze termijnoverschrijding doet dit bezwaarschrift geen afbreuk aan de onherroepelijkheid van de beschikking fiscale eenheid. Evenmin is belanghebbende nadien opgekomen tegen de belastingaanslagen die aan de fiscale eenheid zijn opgelegd, zodat ook daaruit volgt dat belanghebbende geen bezwaren had tegen de beschikking fiscale eenheid. (...) Daarmee staat vast dat belanghebbende, in de periode waarover de onderhavige aanslagen omzetbelasting zijn opgelegd (...) deel uitmaakte van de fiscale eenheid.
+
+(...)
+
+4.7 Voor zover belanghebbende betoogt dat de onherroepelijkheid van de beschikking fiscale eenheid hem niet kan worden tegengeworpen, omdat deze beschikking slechts beoogt eenzijdige rechtszekerheid te verschaffen ten behoeve van de belastingplichtigen, kan het niet slagen. Deze beschikking verschaft immers ook rechtszekerheid voor anderen - waaronder de fiscus en de andere ondernemers van de fiscale eenheid - zodat in deze omstandigheid geen reden ligt aan de beschikking geen formele rechtskracht toe te kennen.
+
+4.8. Evenmin kan op grond van de arresten van het HvJ EG (...) worden geconcludeerd tot een mogelijke aantasting van de formele rechtskracht van beschikkingen waarvoor de nationale termijnen van bezwaar en beroep zijn verstreken. (...) Dat(42) geldt echter alleen wanneer aan de overige voorwaarden waaronder een geschil over de toepassing van dat voorschrift voor de bevoegde rechter kan worden gebracht, is voldaan. Dat is hier niet het geval nu de nationale termijn voor het instellen van een rechtsmiddel tegen de beschikking fiscale eenheid (...) is verstreken."
+
+6.6.4 De hier aangehaalde uitspraken van de gerechtshoven 's-Hertogenbosch en Arnhem staan niet op zichzelf. In haar uitspraak van 4 maart 2008, nr. AWB 07/207, LJN BC8850, oordeelde Rechtbank Breda al in dezelfde zin, evenals Hof Arnhem dat al eerder deed in zijn uitspraak van 31 juli 2008, nr. 07/00360, LJN BE1965, NTFR 2008/1646 m.nt. Zijlstra.
+
+6.7 Ten aanzien van de formele rechtskracht van een beschikking fiscale eenheid als er wettelijk gezien geen fiscale eenheid kan bestaan (omdat niet aan de materiële eisen is voldaan), is de rechtspraak derhalve enigszins verdeeld: het is 4-1 vóór het bestaan van een fiscale eenheid vanwege een beschikking waartegen geen (c.q. te laat) rechtsmiddelen zijn aangewend.
+
+6.8 De centrale vraag hier(43) is of een belanghebbende die niet voelt voor toepassing van het besluit, ondanks het bestaan van een (onbestreden) beschikking fiscale eenheid waarin hij als onderdeel van een zodanige eenheid is aangewezen, toch met recht kan zeggen: "Ik ben nooit ondernemer geweest, dus er is nooit een fiscale eenheid geweest, dus de gevolgen van het ondernemerschap c.q. de fiscale eenheid zijn op mij niet van toepassing".
+
+6.9 Ik heb daar moeite mee.
+
+6.10 In de eerste plaats verwordt de in artikel 7, lid 4, van de Wet opgenomen beschikkingseis de facto een wassen neus. Indien een (materieel bestaande) fiscale eenheid zonder beschikking desgewenst haar bestaan kan inroepen (de drie arresten van de Hoge Raad), en een materieel niet-bestaande fiscale eenheid die wel een beschikking fiscale eenheid heeft, die beschikking desgewenst terzijde kan stellen om te bewerkstelligen dat zij inderdaad niet als fiscale eenheid wordt beschouwd, betekent de beschikking fiscale eenheid in wezen niets meer. Zij geeft dan niemand enige (rechts)zekerheid.
+
+6.11 Dat is, lijkt mij, nooit de bedoeling geweest. De beschikking is destijds vooral met het oog op de rechtszekerheid in het leven geroepen: in verband met de introductie van de hoofdelijke aansprakelijkheid in artikel 43 IW werd met de beschikkingseis beoogd te voorkomen dat ondernemers verrast zouden worden door de mededeling dat ze een fiscale eenheid vormen, terwijl zij zich daarvan niet bewust waren, maar ook jegens derden werd de fiscale-eenheid-met-beschikking geacht meer rechtszekerheid te bieden dan de fiscale eenheid zonder beschikking. Ik citeer uit de toelichting op het amendement-Vreugdenhil, Kamerstukken II 1987/88, 20 030, nr. 11, blz. 2(44):
+
+"In verband met de rechtszekerheid voor belastingplichtigen en derden, is het gewenst om de totstandkoming van de fiscale eenheid in een beschikking vast te leggen."
+
+6.12 In het licht van het voorgaande komt het mij voor dat een (niet-) fiscale eenheid die bij beschikking (toch) als fiscale eenheid is aangewezen, weet waar zij aan toe is. De rechtsbescherming is in die zin gewaarborgd: de onderdelen van de 'fiscale eenheid' kunnen niet verrast worden door de stelling dat zij een fiscale eenheid vormen. Bovendien is duidelijkheid naar de fiscus en naar andere ondernemers hiermee zeker gesteld. In dit verband wijs ik op de arresten van de Hoge Raad van 23 augustus 1996, nr. 31277, LJN AA2012, BNB 1996/390 m.nt. Van Hilten en van 7 mei 1997, nr. 32094, LJN AA3226, BNB 1997/235 m.nt. Van Hilten inzake naheffingsaanslagen die abusievelijk ten name van een fiscale eenheid waren gesteld. Uit deze arresten volgt dat een ten name van een niet-bestaande fiscale eenheid gestelde naheffingsaanslag in stand blijft indien de inspecteur op basis van de hem ter beschikking staande gegevens niet hoefde te begrijpen dat geen fiscale eenheid bestond. Ik denk dat dit niet anders is (moet zijn) indien noch de inspecteur noch de belanghebbende(n) op basis van beschikbaar zijnde gegeven behoefde(n) te begrijpen dat er naar de letter van de Wet geen fiscale eenheid kon bestaan.
+
+6.13 Het voorgaande laat uiteraard onverlet dat de fiscale eenheid die meent dat zij ten onrechte als zodanig is aangewezen, tegen de (haars inziens foutieve) beschikking fiscale eenheid bezwaar kan maken. Doet zij dat niet, dan moet er mijns inziens van uit worden gegaan dat de (de jure niet-bestaande) fiscale eenheid erin berust dat zij als zodanig is aangemerkt. Daarin ligt dan ook besloten de berusting in het ondernemerschap van de dga, dan wel de acceptatie dat deze ook als niet-ondernemer (vgl. de holding uit de meergenoemde resolutie van 18 februari 1991, nr. VB91/347) deel van de fiscale eenheid mag uitmaken.
+
+6.14 Daartegen kan worden ingebracht dat het voor combinaties van dga's met een of meerdere vennootschappen met een beschikking fiscale eenheid tussen 26 april 2002 en 18 oktober 2007 geen enkel nut leek te hebben om bezwaar te maken tegen de beschikking. De stand van de (Nederlandse) jurisprudentie was toen nu eenmaal dat een dga ondernemer was én in de fiscale eenheid met zijn vennootschap(pen) thuishoorde. Dat moge zo zijn, maar anderzijds moet bedacht worden dat ook dga Van der Steen de aan hem en 'zijn' vennootschap afgegeven beschikking fiscale eenheid in bezwaar en beroep bestreed. Het resultaat daarvan is bekend.
+
+6.15 In dit verband wijs ik op het arrest van de Hoge Raad van 5 oktober 2007, nr. 43268, LJN AZ9098, BNB 2008/40, m.nt. Marres(45), waarin de Hoge Raad overwoog (de cursivering is van mijn hand):
+
+"3.1. Het middel strekt ten betoge dat de Inspecteur gehouden was het verzoek van belanghebbende om aanvullende teruggaaf van omzetbelasting over de jaren 2000 tot en met 2003 te beoordelen en daarop te beslissen als ware dit verzoek ingediend binnen de termijn die - naar nationaal recht - gold voor het kunnen verkrijgen van een voor bezwaar of beroep vatbare beslissing. Die gehoudenheid vloeit, aldus het middel, in het onderhavige geval voort uit het gemeenschapsrecht.
+
+3.2. Voor zover het middel in dit verband een beroep doet op de arresten van het Hof van Justitie van de Europese Gemeenschappen van 25 juli 1991 en 1 december 1998, respectievelijk Emmott, C-208/90, AB 1992/1, en Levez, C-326/96, Jurispr. blz. I-7835, faalt het op de gronden vermeld in HR 18 februari 2005, nr. 37 690, BNB 2005/283. Ook indien juist zou zijn de stelling van het middel dat het arrest van de Hoge Raad van 5 januari 2000, nr. 35 167, BNB 2000/131, niet in overeenstemming met het gemeenschapsrecht is gewezen, en indien belanghebbende zich door dat arrest heeft laten leiden bij de onderhavige aangiften, volgt daaruit immers niet dat het belanghebbende moeilijk is gemaakt destijds te onderkennen dat zij een rechtsmiddel kon aanwenden en dat, indien zij dat achterwege zou laten, de rechtmatigheid van de heffingen later niet meer in rechte aan de orde zou kunnen worden gesteld."
+
+6.16 Ik meen, kortom, dat een (achteraf bezien) niet-bestaande fiscale eenheid met een beschikking fiscale eenheid waartegen zij geen rechtsmiddelen heeft aangewend, niet met succes kan stellen dat zij nooit als zodanig heeft bestaan omdat de tot de fiscale eenheid behorende dga geen ondernemer was. Is er bij beschikking een fiscale eenheid vastgesteld, dan moet ervan uit worden gegaan dat deze bestaat, in ieder geval tot het tijdstip waarop de gevolgen van het arrest Van der Steen duidelijk werden (gemaakt).
+
+6.17 In dezelfde zin, maar in een iets andere context (namelijk die van de aansprakelijkstelling) schrijft J.P.M. Linsen, De dga aansprakelijk ondanks Van der Steen?, BtwBrief 2009, nr. 3 [7]:
+
+"Vijf jaar later blijkt dat een dga niet kwalificeert als btw-ondernemer. Dientengevolge kan een dga ook geen deel (meer) uitmaken van een fiscale eenheid. Latere jurisprudentie kan echter niet met terugwerkende kracht worden toegepast op aangiften, beschikkingen of naheffingsaanslagen, die in fiscale zin onherroepelijk vaststaan. Je zult als dga in bezwaar moeten komen tegen de beschikking fiscale eenheid. Doe je dat niet, dan verspeel je je rechten."
+
+6.18 Samengevat moet mijns inziens derhalve geconcludeerd worden dat de aanwezigheid van een beschikking fiscale eenheid waartegen geen rechtsmiddelen zijn aangewend in de weg staat aan het succes van de stelling - met een beroep op het arrest Van der Steen - dat nooit sprake is geweest van ondernemerschap. Denkbaar is echter dat er ook dga's en bv's zijn die geen beschikking fiscale eenheid hebben, maar wel als zodanig zijn aangemerkt en behandeld. De vraag is of zij wel met succes kunnen stellen nooit ondernemer te zijn geweest.
+
+7 Geen beschikking, toch fiscale eenheid (?)
+
+7.1 Hoewel de Wet voor het bestaan van een fiscale eenheid een beschikking vereist, kan het in de praktijk voorkomen dat een groep als fiscale eenheid wordt aangemerkt zonder dat daartoe een beschikking is afgegeven. De vraag is of een dergelijke fiscale eenheid - indien zij bestaat uit een 'Van der Stenige'-dga met een of meer vennootschappen, wel met succes kan stellen dat de dga nooit ondernemer is geweest, en derhalve geen onderdeel van een fiscale eenheid kon uitmaken.
+
+7.2 Ik meen van niet. Het komt mij voor dat een dga die als ondernemer is aangemerkt of een vennootschap die met een dga als fiscale eenheid is behandeld daaraan gehouden kan worden. Dat is alleen anders indien de betrokken 'fiscale eenheid' of 'dga' tijdig rechtsmiddelen heeft aangewend tegen een zodanige behandeling. Dat zou bijvoorbeeld hebben kunnen worden gedaan door bezwaar tegen voldoening op aangifte of - in voorkomende gevallen - tegen een teruggaafbeschikking. Als dat niet is gebeurd, meen ik dat de als belastingplichtige aangemerkte dga of fiscale eenheid (voor het verleden) niet kan terugkomen op zijn of haar eerder berusting in of acceptatie van die belastingplicht. Naar ik meen brengt het beginsel van rechtszekerheid - ik verwijs naar onderdeel 3 van deze bijlage - dit met zich mee. Voorts kan worden verwezen naar het al eerder genoemde arrest van de Hoge Raad van 5 oktober 2007, nr. 43268, LJN AZ9098, BNB 2008/40 m.nt. Marres.
+
+7.3 Van de zaken waarop deze bijlage ziet, is er één waarin niet duidelijk is of een beschikking fiscale eenheid is afgegeven, te weten zaak nummer 10/02318. In die zaak staat evenwel vast dat de belanghebbende(n) zich in ieder geval tot het arrest Van der Steen nooit heeft verzet tegen het als ondernemer c.q. als fiscale eenheid aangemerkt worden. Ik meen dan ook dat ervan uit moet worden gegaan dat (ook) deze fiscale eenheid bestaan heeft en dat niet met succes kan worden gesteld dat deze fiscale eenheid nooit bestaan heeft - nog afgezien van de gevolgen daarvan.(46)
+
+7.4 Al het voorgaande overziende, meen ik dat ten aanzien van 'Van der Stenige'-dga's en de fiscale eenheden waarvan zij deel (zouden) uitmaken, moet worden vastgesteld dat hun behandeling als zodanig - tenzij tijdig tegen het ondernemerschap dan wel de beschikking fiscale eenheid rechtsmiddelen zijn aangewend, hetgeen zich in de voorliggende zaken niet voordoet - niet (ex tunc) door het arrest Van der Steen wordt opgeheven, doch dat zij moeten worden behandeld alsof zij ondernemer waren, respectievelijk fiscale eenheden vormden met hun vennootschappen. Die behandeling wordt - nu ook geen van de betrokken fiscale eenheden eerder 'aan de bel' hebben getrokken dan na de publicatie van het besluit van 21 december 2007 - eerst gewijzigd met de inwerkingtreding van dat besluit, hetgeen mijns inziens op 2 januari 2008 is geschied (zie onderdeel 4).
+
+8 Fictieve leveringen bij beëindiging of wijziging van de fiscale eenheid
+
+8.1 Het besluit maakt duidelijk dat de staatssecretaris 'Van der Stenige'-dga's niet - dit in tegenstelling tot sommige holdingmaatschappijen, vide de meergenoemde resolutie van 18 februari 1991 - tot een fiscale eenheid wil laten behoren, nu zij niet als ondernemer kunnen worden aangemerkt. Dat betekent dat fiscale eenheden waartoe 'Van der Stenige'-dga's behoren, worden gewijzigd of verbroken. De vraag is wat de gevolgen daarvan zijn, meer specifiek of het verbreken c.q. wijzigen van de fiscale eenheid leidt tot een fictieve levering in de zin van artikel 3, lid 3, aanhef en onderdeel a of onderdeel c, van de Wet, zoals de staatssecretaris in zijn besluit stelt.
+
+8.2 In dit verband zij allereerst opgemerkt dat in de Wet geen bepalingen zijn opgenomen omtrent de gevolgen van het verbreken of wijzigen van de fiscale eenheid. Nadere (uitvoerings)regels zijn wel te vinden in artikel 3a van de Uitvoeringsbeschikking omzetbelasting 1968 (hierna: de Uitvoeringsbeschikking). Deze bepaling luidt sinds 1 januari 2008 als volgt:(47)
+
+"1. Bij vorming van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet, wordt de fiscale eenheid voor het berekenen van de door haar verschuldigde belasting geacht in de plaats te zijn getreden van de natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die de fiscale eenheid vormen.
+
+2. Bij beëindiging van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet, worden de natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die de fiscale eenheid vormden, voor het berekenen van de door hen verschuldigde belasting geacht in de plaats te zijn getreden van de fiscale eenheid, voor het deel dat tot hun bedrijfsvermogen behoort.
+
+3. Bij wijziging van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet:
+
+a. is bij toetreding van een natuurlijk persoon of lichaam in de zin van de Algemene wet inzake rijksbelastingen tot de fiscale eenheid, het eerste lid van overeenkomstige toepassing; en
+
+b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de Algemene wet inzake rijksbelastingen uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.
+
+4. De voorgaande leden gelden niet voor de toepassing van artikel 4c, derde en vierde lid."
+
+8.3 In de toelichting bij (het voorstel voor) artikel 3a van de Uitvoeringsbeschikking is het volgende vermeld:(48)
+
+"In het nieuwe artikel 3a worden regels gesteld inzake de vorming, wijziging, en beëindiging van een fiscale eenheid (...). Deze regels brengen tot uitdrukking dat voor het berekenen van de verschuldigde belasting (...) de nieuwe ontstane entiteit als het ware de fiscale status quo van de oude overneemt. Zo zal bij voorbeeld bij de vorming van een fiscale eenheid een nog lopende herzieningsperiode voor de aftrek van voorbelasting overgaan naar de fiscale eenheid."
+
+8.4 Wat betreft de verbreking of wijziging van fiscale eenheden waartoe een 'Van der Stenige'-dga behoort, neemt de staatssecretaris in het besluit het volgende standpunt in:
+
+"4.1. Ad a (DGA zelfstandig ondernemer)
+
+4.1.1. Afrekening einde ondernemerschap
+
+Vanaf 18 oktober 2007 is de DGA over de vergoeding die hij ontvangt voor de door hem aan zijn vennootschap verrichte arbeidswerkzaamheden geen omzetbelasting verschuldigd. De DGA heeft geen recht op aftrek van voorbelasting voor aan hem in het kader van die werkzaamheden vanaf 18 oktober 2007 geleverde goederen of verrichte diensten.
+
+Het einde van het ondernemerschap heeft tot gevolg dat eventueel aanwezige goederen, waarvoor eerder recht op volledige of gedeeltelijke aftrek van belasting is ontstaan, op 18 oktober 2007 worden geacht te zijn geleverd in de zin van artikel 3, derde lid, onderdeel c, van de Wet (bedrijfsbeëindiging). Doel en strekking van dit artikel is te voorkomen dat goederen belastingvrij buiten de ondernemerssfeer terecht komen als aftrek van voorbelasting is genoten. Voor de maatstaf van heffing ter zake geldt de aankoopprijs of kostprijs van de goederen op het moment van de levering. Vanwege de bijzondere omstandigheid van het geval, keur ik goed dat het verschuldigde omzetbelastingbedrag mag worden berekend door overeenkomstige toepassing van de herziening van de voorbelasting van het desbetreffende goed (artikel 13a van de beschikking), waarbij die herziening een aanvang mag nemen in 2008. Voor goederen die zijn aangeschaft in 2007 mag de verschuldigde omzetbelasting op overeenkomstige wijze worden bepaald. (...) De belasting die ter zake van de levering op grond van artikel 3, derde lid, onderdeel c, van de Wet, dan wel ter zake van de herziening van de voorbelasting, is verschuldigd, moet op aangifte worden voldaan over het aangiftetijdvak waarin 18 oktober 2007 valt. Ik keur goed dat deze belasting wordt voldaan over het laatste belastingtijdvak van 2007.
+
+(...)
+
+4.2. Ad b en c: DGA in fiscale eenheid met één werkmaatschappij
+
+Voor de DGA die tot 18 oktober 2007 ondernemer was en als onderdeel is opgenomen van een fiscale eenheid omzetbelasting bestaande uit de DGA en één vennootschap gelden dezelfde gevolgen en goedkeuringen als hiervoor geschetst in onderdeel 4.1.1 (...).
+
+4.3. Ad d en e: DGA in fiscale eenheid met meerdere vennootschappen
+
+4.3.1. Gevolgen uittreden DGA uit de FE
+
+Een DGA kon vóór 18 oktober 2007 met de vennootschappen, waarvan hij (in)direct meer dan de helft van de aandelen bezit, een fiscale eenheid vormen als bedoeld in artikel 7, vierde lid, van de Wet. Als de DGA door de werking van het arrest van het HvJ in ieder geval met ingang van 18 oktober 2007 niet meer kan worden aangemerkt als ondernemer, treedt hij per die datum uit de fiscale eenheid en is de fiscale eenheid vanaf die datum gewijzigd. Van een wijziging kan sprake zijn als de fiscale eenheid naast de DGA en de vennootschap waarvan de DGA meer dan de helft van de aandelen bezit, nog meer onderdelen kende, die samen met de vennootschap voldoen aan de voorwaarden voor de fiscale eenheid als bedoeld in artikel 7, vierde lid, van de Wet. Bij een wijziging van de fiscale eenheid worden goederen die zich in het vermogen van de DGA bevinden en waarvoor eerder recht op volledige of gedeeltelijke aftrek van omzetbelasting is ontstaan, op 18 oktober 2007 geleverd in de zin van artikel 3, derde lid, onderdeel a, van de Wet. (...) Voor de maatstaf van heffing van deze gelijkgestelde levering geldt in beginsel de aankoopprijs of kostprijs van de goederen op het moment van de levering. Vanwege de bijzondere omstandigheden van het geval, kan het verschuldigde btw-bedrag voor investeringsgoederen worden bepaald door aan te sluiten bij de hiervoor beschreven regels voor de herziening van de voorbelasting.
+
+Bij een wijziging van de fiscale eenheid waarbij alle goederen waarvoor btw-aftrek is ontstaan in het vermogen van de fiscale eenheid blijven, vindt geen levering plaats in de zin van artikel 3, derde lid, onderdeel a, van de Wet.
+
+4.3.2. Bijzondere situaties
+
+Het is mogelijk dat de DGA vóór 18 oktober 2007 goederen die zich aanvankelijk in zijn vermogen bevonden, heeft geleverd aan andere onderdelen van de fiscale eenheid, die na 18 oktober 2007 de fiscale eenheid vormen. In die gevallen is op 18 oktober 2007 geen sprake van een levering in de zin van artikel 3, derde lid, onderdeel a of c, van de Wet. De gewijzigde fiscale eenheid zal dan in voorkomende gevallen omzetbelasting moeten aangeven voor het privé-gebruik van die goederen door de DGA op grond van artikel 4, tweede lid, onderdeel a, van de Wet, of artikel 15 van de beschikking of het Besluit uitsluiting aftrek omzetbelasting 1968.
+
+(...)"
+
+8.5 De staatssecretaris komt dus tot een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a of onderdeel c, van de Wet. Op beide varianten ga ik in het navolgende in. Mijn uitgangspunt daarbij is - dat volgt uit mijn eerdere betoog - dat er van moet worden uitgegaan dat er tussen de dga en zijn vennootschap(pen) een fiscale eenheid heeft bestaan(49) totdat het besluit daaraan een einde maakt.
+
+8.6 Levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet ('3-3-a-levering')
+
+8.6.1 Sinds 1 januari 2007 voorziet artikel 3, lid 3, aanhef en onderdeel a, van de Wet in een fictieve levering ter zake van - kort gezegd - de onttrekking van goederen aan het bedrijf(svermogen). Op grond van de bepaling wordt met een levering onder bezwarende titel gelijkgesteld:
+
+"het door een ondernemer aan zijn bedrijf onttrekken van een goed dat hij voor eigen privé-doeleinden of voor privé-doeleinden van zijn personeel bestemt, dat hij om niet verstrekt of, meer in het algemeen, dat hij voor andere dan bedrijfsdoeleinden bestemt, ingeval met betrekking tot dat goed of de bestanddelen daarvan recht op volledige of gedeeltelijke aftrek van de belasting is ontstaan;"
+
+8.6.2 In de memorie van toelichting geeft de staatssecretaris de volgende uiteenzetting bij de voorgestelde bepaling:(50)
+
+"(...) Het gaat daarbij in het derde lid, onderdeel a, om een nieuwe bepaling waardoor het bepaalde in artikel 5, lid 6, van de Zesde Richtlijn in de Wet OB wordt geïmplementeerd. Ingevolge de nieuwe bepaling worden een aantal handelingen van een ondernemer gelijkgesteld met een voor de BTW belastbare levering van goederen. Het gaat daarbij onder meer om goederen die een ondernemer aan zijn bedrijf onttrekt voor zijn eigen privé-doeleinden of voor privé-doeleinden van zijn personeel. Maar ook het door een ondernemer gratis aan anderen verstrekken van goederen vanuit zijn bedrijf en het bestemmen van goederen in meer algemene zin voor andere dan bedrijfsdoeleinden worden gelijkgesteld met een voor de BTW belastbare levering van die goederen door die ondernemer. (...)
+
+Zoals ook wordt aangegeven in de toelichting op het voorstel van de Commissie voor de Zesde Richtlijn is genoemd artikel 5, lid 6, gericht op het voorkomen van ongerechtvaardigde voordelen bij ondernemers voor goederen die worden aangewend voor persoonlijk verbruik. De BTW-heffing ten aanzien van deze consumptief te verbruiken goederen kan zoals eerder is aangegeven, alleen plaatsvinden ingeval bij de ondernemer voor die goederen geheel of gedeeltelijk recht op aftrek van voorbelasting is ontstaan."
+
+8.6.3 Ondanks de andersluidende vermelding in de hiervoor opgenomen passage, kan artikel 3, lid 3, aanhef en onderdeel a, van de Wet mijns inziens niet worden gezien als een geheel nieuwe bepaling. Tot 1 januari 2007 was namelijk in artikel 3, lid 1, aanhef en onderdeel g, van de Wet - conform het bepaalde in artikel 5, lid 3, aanhef en onderdeel a, van de Tweede richtlijn(51) - een bepaling opgenomen op grond waarvan 'het beschikken over goederen voor andere dan bedrijfsdoeleinden, ten gevolge waarvan deze het bedrijfsvermogen van een ondernemer verlaten;' als levering van die goederen werd aangemerkt.(52) Het lijkt mij dat deze bepaling - vanaf 1 januari 1979, toen de Zesde richtlijn in de Nederlandse wetgeving werd geïmplementeerd - toch wel kan worden gezien als uitwerking(53) van het bepaalde in artikel 5, lid 6, van de Zesde richtlijn, op grond waarvan als levering moet worden aangemerkt:
+
+"(...) het door een belastingplichtige aan zijn bedrijf onttrekken van een goed voor eigen privédoeleinden of voor privédoeleinden van zijn personeel, of dat hij om niet verstrekt, of, meer in het algemeen, voor andere dan bedrijfsdoeleinden bestemt, ingeval met betrekking tot dat goed (...) recht op volledige of gedeeltelijke aftrek (...) is ontstaan. (...)"(54)
+
+8.6.4 In zijn arrest van 6 mei 1992, De Jong, C-20/91, BNB 1992/377 m.nt. Finkensieper overwoog het HvJ over het doel van artikel 5, lid 6, van de Zesde richtlijn (met mijn cursivering):
+
+"Dienaangaande moet worden opgemerkt, dat artikel 5, lid 6, van de Zesde richtlijn tot doel heeft, te verzekeren dat een belastingplichtige die een goed aan zijn bedrijf onttrekt en een gewone consument die een zelfde soort goed koopt, gelijk worden behandeld. Ter verwezenlijking van dit doel verhindert deze bepaling, dat een belastingplichtige die over de aankoop van een voor zijn bedrijf bestemd goed BTW heeft kunnen aftrekken, geen BTW behoeft te betalen, wanneer hij dit goed voor eigen privé-doeleinden aan zijn bedrijfsvermogen onttrekt, en dus onredelijke voordelen geniet in vergelijking met een gewone consument die het goed koopt en hierover BTW voldoet."
+
+8.6.5 Het bepaalde in artikel 5, lid 6, van de Zesde richtlijn is tegenwoordig opgenomen in artikel 16 van de btw-richtlijn. Aangenomen mag worden dat artikel 3, lid 3, aanhef en onderdeel a, van de Wet zijn grondslag in die bepaling(en) vindt, en dat het doel van die bepaling(en) is zoals het HvJ dat formuleerde in het arrest De Jong, te weten te bewerkstelligen dat een sfeerovergang van een goed van de zakelijke - aftrekgerechtigde - sfeer naar de consumptieve sfeer niet vrij van btw geschiedt.
+
+8.6.6 Als weergegeven in punt 8.4 neemt de staatssecretaris (zie onderdeel 4.3 van het besluit) het standpunt in dat ingeval de dga ten gevolge van het arrest Van der Steen een uit verschillende vennootschappen (en de dga zelf) bestaande fiscale eenheid verlaat, zich een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet, voordoet ten aanzien van de goederen die zich in het vermogen van de dga bevinden. Die levering wordt, als ik bedoeld onderdeel van het besluit goed lees, kennelijk geacht te zijn verricht door de fiscale eenheid.(55)
+
+8.6.7 In de literatuur wordt over de juistheid van dit standpunt verschillend gedacht. Daarbij zij reeds hier opgemerkt dat de meeste auteurs de dga zelf als uitgangspunt nemen en onderzoeken of de dga een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet verricht.
+
+8.6.7.1 L.L.C Blom, Btw en de dga: komt het antwoord uit Luxemburg?, WFR 2008/255, meent dat geen sprake kan zijn van een onttrekking in de zin van artikel 16 van de btw-richtlijn (exclusief voetnoten):
+
+"(...) gaat het mijns inziens erom of de dga heeft gehandeld of heeft nagelaten wat tot gevolg heeft dat het investeringsgoed het btw-ondernemingsvermogen heeft verlaten. Als er sprake van zou zijn dat het investeringsgoed tot het btw-ondernemingsvermogen van de dga zou behoren, ligt het niet aan de dga dat dit goed vanaf 18 oktober 2007 niet meer tot het btw-ondernemingsvermogen behoort. De dga heeft dan ook niet gehandeld of iets nagelaten op 18 oktober 2007. Er kan dan ook naar mijn mening niet sprake zijn van een onttrekking in de zin van art. 16 richtlijn 2006/112/EG. Het spreekt voor zich dat het opnemen in een besluit dat in onderhavige situatie sprake is van een fictieve levering expliciet strijdig is met het gemeenschapsrecht. De fictieve levering dient immers uit de wet en de BTW-richtlijn voort te vloeien. Hiervan is naar mijn mening op grond van art. 3, derde lid, onderdeel a, Wet OB 1968 geen sprake."
+
+8.6.7.2 B. Butzelaar, Is de art. 3,3,c van toepassing bij de 'Van der Steen-dga'er?, Btw-bulletin 2008, nr. 3 [19], gaat er daarentegen van uit dat denkbaar is dat de dga goederen onttrekt in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet:
+
+"(...) Dan zal nog moeten worden vastgesteld of art. 3, 3, a wellicht van toepassing is. (...) Ook bij de toepassing van dit artikel blijft de vraag openstaan of de dga überhaupt wel ondernemer is geweest. Als dit niet het geval is, kan ook niet aan de 3, 3, a-levering worden toegekomen. Als de dga wel als ondernemer moest worden aangemerkt, zou kunnen worden gesteld dat hij de goederen heeft onttrokken omdat hij het goed voor de eigen privédoeleinden heeft bestemd. Uit de parlementaire behandeling blijkt dat het begrip bestemmen van een goed niet anders moet worden opgevat dan destijds het begrip beschikken zoals dat in art. 3, 1, g was opgenomen.
+
+Echter, art. 3, 3, a lijkt te zijn geschreven voor de situatie dat de ondernemer zijn economische activiteiten voor het overige niet staakt. Immers, daarvoor is art. 3, 3, c in de Wet opgenomen.
+
+Wanneer de rechter van mening is dat er geen 3, 3, c-levering heeft plaatsgevonden bij de dga, dan neem ik aan dat hij zich vervolgens nog zal uitlaten over de toepasbaarheid van art. 3, 3, a van de Wet OB 1968. Weliswaar mag een rechter niet buiten de rechtsstrijd treden, maar hij kan wel ambtshalve de rechtsgronden aanvullen."
+
+8.6.7.3 J.P.M. Linssen, Geen ondernemer, geen fiscale eenheid, geen onttrekking, BtwBrief 2011, nr. 1[2], is het geheel eens met de uitspraak van Hof Amsterdam van 2 september 2010, nr. P09/00584, LJN BN6227, V-N 2010/62.1.5, waartegen cassatie is ingesteld (nr. 10/04489):
+
+"Degenen die mijn artikel in BtwBrief 2009, nr. 2 (...) hebben gelezen zullen niet verbaasd zijn als ik opmerk, dat ik mij volledig kan vinden in de uitspraak van het hof. (...) de argumentering van de rechtbank snijdt al hout. Deze wordt door het hof volledig overgenomen: door het aangaan van de fiscale eenheid gaat hoe dan ook de woonboerderij niet tot het bedrijfsvermogen van de fiscale eenheid behoren. Dan kan ook nooit een onttrekking of een ander belastbaar feit aan de zijde van de fiscale eenheid ontstaan. Naar mijn smaak valt hier niets tegen in te brengen."
+
+8.6.8 Bij de vraag of zich een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet voordoet, gaat het er om of de ondernemer (bedrijfs)goederen naar privé overbrengt. In geval van een fiscale eenheid, is de fiscale eenheid die ondernemer. Dat betekent mijns inziens dat beoordeeld moet worden of de fiscale eenheid goederen onttrekt. De dga komt daarbij niet in beeld (die was hooguit onderdeel van de ondernemer). Vergelijk het met een ondernemer met verschillende filialen die een filiaal sluit en zich daar bevindende bedrijfsmiddelen (zonder vergoeding) naar de privésfeer overbrengt. Als aangegeven in 8.6.6 lees ik onderdeel 4.3 van het besluit zo dat de staatssecretaris daarin heeft bedoeld aan te geven dat de fiscale eenheid de levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet verricht.
+
+8.6.9 Naar ik meen kan zich in gevallen waarin de ondernemer (de fiscale eenheid) door het 'uittreden' van de dga wijzigt, een levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet voordoen. Dat gebeurt indien een (on)roerende zaak die binnen de fiscale eenheid als zakelijk was geëtiketteerd, na het uittreden van de dga met hem 'meegaat' in het vermogen van de dga. Gaat de desbetreffende zaak niet 'mee' met de dga, maar blijft c.q. komt zij in het ondernemingsvermogen van de (gewijzigde) ondernemer, dan is ter zake van het (gratis) gebruik dat de dga van die zaak maakt - en dat door het wegvallen van zijn ondernemerschap als privégebruik moet worden aangemerkt - door de (gewijzigde) ondernemer omzetbelasting daarover verschuldigd op grond van het bepaalde in artikel 4, lid 2, aanhef en onderdeel a, van de Wet.
+
+8.6.10 Aan het voorgaande doet mijns inziens niet af dat uit artikel 3a, lid 2 en lid 3, aanhef en onderdeel b, juncto lid 2, van de Uitvoeringsbeschikking moet worden afgeleid dat bij verbreking of wijziging van de fiscale eenheid als gevolg van het uittreden van een van de tot deze eenheid behorende personen, de uittreder - dan wel, bij verbreking, ieder van de afzonderlijke personen - voor het berekenen van de door hem verschuldigde belasting geacht wordt in de plaats te zijn getreden van de fiscale eenheid, voor het deel dat tot hun bedrijfsvermogen behoort.(56) Immers, het gaat bij de onttrekking niet zozeer om het (economische) bedrijfsvermogen van onderscheiden onderdelen van een concern, maar om de ondernemer die onttrekt, en dat is de fiscale eenheid. Ik zou hier een parallel willen trekken met het doen van aangifte: het is de fiscale eenheid die aangiften omzetbelasting doet en niet de onderscheiden onderdelen daarvan. Ik wijs in dit verband op het arrest van het HvJ van 22 mei 2008, Ampliscientifica en Amplifin, C-162/07, V-N 2008/25.20, waarin het HvJ in punten 19-21 overweegt (met mijn cursivering):
+
+"19 In de tweede plaats zij erop gewezen dat de uitvoering van de regeling van artikel 4, lid 4, tweede alinea, van de Zesde richtlijn impliceert dat de op grond van deze bepaling vastgestelde nationale regeling personen, (...) Wanneer een lidstaat deze bepaling toepast, kan (kunnen) de afhankelijke persoon (personen) in de zin van deze bepaling dus niet als een belastingplichtige (belastingplichtigen) in de zin van artikel 4, lid 1, van de Zesde richtlijn worden aangemerkt (zie in die zin arrest van 18 oktober 2007, Van der Steen, C-355/06, nog niet gepubliceerd in de Jurisprudentie, punt 20)(57). Hieruit volgt dat de gelijkstelling met een enkele belastingplichtige uitsluit dat deze afhankelijke personen verder afzonderlijke btw-aangiften indienen en verder binnen en buiten hun groep als belastingplichtigen worden geïdentificeerd, aangezien alleen de enkele belastingplichtige die aangiften kan indienen.
+
+20 Artikel 4, lid 4, tweede alinea, van de Zesde richtlijn vooronderstelt dus noodzakelijkerwijs dat wanneer een lidstaat deze bepaling toepast, onder de nationale uitvoeringsregeling de belastingplichtige een enkele persoon is en er voor de groep een enkel btw-nummer wordt toegekend. (...)
+
+21 De implementatie van artikel 4, lid 4, tweede alinea, van de Zesde richtlijn moet derhalve worden onderscheiden van de invoering van een stelsel van vereenvoudigde aangifte en betaling van de btw op grond waarvan met name vennootschappen van eenzelfde groep afzonderlijke belastingplichtigen kunnen blijven, ook al mag de btw in de rekeningen van de moedermaatschappij worden geconsolideerd."
+
+8.6.11 Aangezien de dga niet degene is die de onttrekking verricht en hij derhalve geen levering in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet verricht, kan artikel 3a van de Uitvoeringsbeschikking niet met zich brengen dat de dga ter zake van de onttrekking omzetbelasting verschuldigd zou zijn.
+
+8.7 Levering in de zin van artikel 3, lid 3, aanhef en onderdeel c, van de Wet ('3-3-c-levering')
+
+8.7.1 In onderdeel 4.2 van het besluit is opgenomen dat ingeval een fiscale eenheid wordt verbroken als gevolg van het uittreden van de dga zich een levering in de zin van artikel 3, lid 3, aanhef en onderdeel c, van de Wet voordoet. Deze bepaling bestempelt als belastbare levering:
+
+"c. het onder zich hebben van goederen door een ondernemer of zijn rechthebbenden wanneer hij de uitoefening van zijn bedrijf beëindigt, ingeval bij de aanschaffing van die goederen (...), recht op volledige of gedeeltelijke aftrek van de belasting is ontstaan."
+
+8.7.2 Naar uit de bepaling kan worden opgemaakt, gaat het bij deze fictieve levering om een sfeerovergang waarbij goederen die aanvankelijk bedrijfsdoeleinden dienden, na bedrijfsbeëindiging in de consumptieve sfeer terechtkomen, terwijl er wel aftrek heeft plaatsgevonden toen de desbetreffende goederen zich nog in de zakelijke sfeer bevonden.(58) Het bepaalde in artikel 3, lid 3, aanhef en onderdeel c, is in de Wet opgenomen met ingang van 1 januari 2007. Voordien kende de Nederlandse wetgeving (in het toenmalige artikel 3, lid 1, aanhef en onderdeel g van de Wet, zie punt 8.6.3 van deze bijlage) alleen een heffing ter zake van de onttrekking van goederen.(59) In de memorie van toelichting bij het voorstel van Wet is artikel 3, lid 3, aanhef en onderdeel c, van de Wet als volgt toegelicht:(60)
+
+"Tot slot is in artikel 3, derde lid, onderdeel c, een bepaling opgenomen die ertoe strekt het onder zich hebben van goederen door de ondernemer zelf of door zijn rechthebbenden in de heffing te betrekken wanneer de ondernemer zijn bedrijf beëindigt. De heffing vindt echter alleen plaats wanneer de ondernemer het recht op volledige of gedeeltelijke aftrek heeft verkregen bij de aanschaf van de goederen of bij het bestemmen daarvan op de voet van artikel 3, derde lid, onderdeel b. Eerder was heffing in dit soort gevallen mogelijk op grond van artikel 3, eerste lid, onderdeel g. Dit onderdeel g komt echter te vervallen met het in meer richtlijnconforme bewoordingen gestelde artikel 3, derde lid, onderdeel c, en met de overige wijzigingen in de leveringsbepalingen van artikel 3. Onderdeel c is gebaseerd op de facultatieve bepaling die is opgenomen in artikel 5, lid 7, onder c, van de Zesde Richtlijn. Deze bepaling vindt geen toepassing in de gevallen waarin een ondernemer zijn bedrijf overdraagt aan een andere ondernemer."
+
+8.7.3 De Europese basis van artikel 3, lid 3, aanhef en onderdeel c, van de Wet ligt tegenwoordig in artikel 18, lid 1, aanhef en onderdeel c, van de btw-richtlijn. Die bepaling is de opvolger van artikel 5, lid 7, aanhef en onderdeel c, van de Zesde richtlijn, waarnaar in vorenstaande passage uit de wetsgeschiedenis wordt verwezen. Artikel, 18, lid 1, aanhef en onderdeel c, van de btw-richtlijn geeft de lidstaten de mogelijkheid om met een levering onder bezwarende titel gelijk te stellen:
+
+"c) met uitzondering van de in artikel 19(61) genoemde gevallen, het onder zich hebben van goederen door een belastingplichtige of zijn rechthebbenden wanneer hij zijn belastbare economische activiteit beëindigt, ingeval bij de verwerving van die goederen of bij de bestemming ervan overeenkomstig punt a) recht op volledige of gedeeltelijke aftrek van de BTW is ontstaan."
+
+8.7.4 Het Voorstel voor een Zesde richtlijn kende een dergelijke bepaling niet. Daarin was alleen (althans voor zover hier van belang) het 'door een belastingplichtige aan zijn bedrijf onttrekken van een goed' als levering aangewezen. Ook in de door de Europese Commissie voorgestelde wijzigingen in het voorstel voor een Zesde richtlijn, COM(74) 795 def. van 26 juli 1974 vinden we een bepaling als (thans) artikel 18, lid 1, aanhef en onderdeel c, van de btw-richtlijn niet terug. De achtergrond van de bepaling valt ook anderszins niet te achterhalen. Kennelijk heeft de richtlijngever de lidstaten desgewenst (artikel 18 is een zogenoemde 'kan-bepaling') de mogelijkheid willen geven zeker te stellen dat een goed dat na bedrijfsbeëindiging bij de (voormalig) belastingplichtige of diens rechthebbende(n) achterblijft, daar niet belastingvrij 'genoten' wordt. Het is immers niet evident dat al dit soort gevallen altijd 'gedekt' worden door de (wel verplicht in de nationale regelgeving op te nemen) onttrekking in de zin van artikel 16 van de btw-richtlijn.(62)
+
+8.7.5 Meningen over de toepasbaarheid van artikel 3, lid 3, aanhef en onderdeel c, van de Wet in het kader van de dga-problematiek zijn in de Nederlandse vakliteratuur ruim voorhanden, waarbij auteurs overwegend vraagtekens zetten bij de door de staatssecretaris in het besluit voorgestane wijze van heffen.
+
+8.7.5.1 P.F. Zijlstra, Btw-aftrek eigen woning directeur-grootaandeel-houder, Btw-bulletin 2010, nr. 9 [61], deelt de opvatting van Rechtbank 's-Gravenhage(63) dat een levering in de zin van artikel 3, lid 3, aanhef en onderdeel c, van de Wet zich bij het verbreken van een fiscale eenheid ten gevolge van het arrest Van der Steen niet kan voordoen. Zijn uitgangspunt is echter dat de dga nooit ondernemer is geweest(64):
+
+"Als een rechter zoals het HvJ EU zegt dat een dga geen ondernemer is, dan is hij dat ook nooit geweest. De uitleg door de rechter van het ondernemingsbegrip in de omzetbelasting heeft uit de aard der zaak terugwerkende kracht. Wij (belastingplichtigen) hebben het al die tijd gewoon verkeerd begrepen en toegepast. De vraag is echter of daar gevolgen aan moeten worden verbonden en, zo ja, welke. Ik deel de opvatting van de rechtbank(65) dat een onttrekking in de zin van art. 3,3c Wet OB 1968 zich niet kan voordoen."
+
+8.7.5.2 B. Butzelaar, Is de art. 3,3,c van toepassing bij de 'Van der Steen-dga'er?, Btw-bulletin 2008, nr. 3 [19], gaat wat uitgebreider op de 3-3-c-levering in. Zij ziet wel mogelijkheden om tot een zodanige levering te komen:
+
+"Je kunt je echter de vraag stellen of wel sprake kan zijn van een 3, 3, c-levering en wel om twee redenen.
+
+De eerste is dat er geen sprake kán zijn van een 3, 3, c-levering omdat het standpunt wordt ingenomen dat uit het Van der Steen-arrest blijkt dat de dga nooit ondernemer is geweest. Als de dga nimmer ondernemer is geweest, dan is de enige conclusie dat door de dga op 18 oktober 2007 ook geen 3, 3, c-levering heeft kunnen plaatsvinden. (...) Als de dga sinds het arrest uit 2002 wél als ondernemer moest worden aangemerkt, kun je je de vraag stellen of de tekst van art. 3, 3, c wel de situatie bestrijkt die de staatssecretaris aan het Van der Steen-arrest toekent, namelijk dat de dga per 18 oktober 2007 zijn ondernemerschap is verloren.
+
+(...)
+
+Als de dga ondernemer is geweest, heeft de staatssecretaris mijns inziens overigens een gerede kans gelijk te krijgen voor wat betreft de 3, 3, c-levering. Het artikel rept immers ook over de situatie dat de rechthebbenden van de ondernemer de goederen onder zich krijgen. Ik neem aan dat hierbij onder andere is gedacht aan de situatie dat de ondernemer komt te overlijden terwijl zijn erfgenamen de onderneming niet wensen voort te zetten. Ook in die situatie is het ondernemerschap bij de overleden ondernemer ineens weggevallen. De erfgenamen hebben de goederen onder zich zodat bij hen de 3, 3, c-levering plaatsvindt.
+
+Het artikel dekt dus niet alleen de situatie waarin de ondernemer zijn economische activiteiten bewust staakt, gevolgd door de beëindiging van het(66) onderneming op het moment van de laatste afwikkeling. Ook de plotselinge en volledige beëindiging van het ondernemerschap door het Van der Steen-arrest kan mijns inziens onder 3, 3, c vallen."
+
+8.7.5.3 L.L.C Blom, Btw en de dga: komt het antwoord uit Luxemburg?, WFR 2008/255, (exclusief voetnoten) meent dat een 3-3-c-levering zich bij de dga niet kan voordoen:
+
+"Een andere fictieve levering vormt de levering die is opgenomen in art. 3, derde lid, onderdeel c, Wet OB 1968 en art. 18, onderdeel c, richtlijn 2006/112/EG. (...) Het is in dit kader van belang vast te stellen dat de dga zijn activiteiten als zodanig niet heeft beëindigd. Er wordt echter sinds 18 oktober 2007 definitief anders tegen hem aangekeken. Vanaf 18 oktober 2007 staat immers vast dat de dga niet meer als btw-ondernemer kan worden aangemerkt. In mijn optiek vloeit uit art. 18, onderdeel c, richtlijn 2006/112/EG voort dat de dga een actieve handeling dient te verrichten (danwel iets dient na te laten) waardoor hij geen economische activiteiten meer verricht. Als er al sprake van zou zijn dat het investeringsgoed tot het btw-ondernemingsvermogen van de dga zou behoren, kan men mijn inziens niet betogen dat er in dat geval sprake is van een levering ex art. 18 richtlijn 2006/112/EG."
+
+8.7.5.4 W.A.P. Nieuwenhuizen geeft in zijn commentaar op het besluit, NTFR 2008/84, als zijn opvatting:
+
+"Het grootste gevecht dat over dit besluit gaat plaatsvinden betreft de toepassing van art. 3, lid 3, onderdeel c, Wet OB 1968 op 18 oktober 2007. Naar mijn mening is het dubieus of art. 3, lid 3, onderdeel c, Wet OB 1968 van toepassing is. Het artikelonderdeel merkt als belastbaar feit aan: 'het onder zich hebben van goederen door een ondernemer...wanneer hij de uitoefening van zijn bedrijf beëindigt...'. Dit artikel ziet duidelijk op een bedrijfsbeëindiging 'door een ondernemer', terwijl het Van der Steen-arrest een 'bedrijfsbeëindiging'(?) door het Hof van Justitie' teweegbrengt. Om daar met de haren het 'doel' van artikel 3, lid 3, onderdeel c, Wet OB 1968 bij te slepen komt weinig overtuigend over."
+
+8.7.5.5 E.H.A.M. Thijssen, De andere kijk op de zaak, BtwBrief 2008, nr. 3 [10], acht artikel 3-3-c van de Wet weer wel toepasbaar:
+
+"Op 18 oktober komt vervolgens het btw-ondernemerschap tot een einde, met alle daaraan verbonden gevolgen. Deze gevolgen houden mijns inziens onder andere in dat art. 3, derde lid, onderdeel c, Wet OB 1968 toepassing dient te vinden. (...) De suggestie van Nieuwenhuizen dat de bedrijfsbeëindiging plaats dient te vinden door de ondernemer en dat een bedrijfsbeëindiging 'door' het HvJ EG niet als zodanig kwalificeert, deel ik niet. Nieuwenhuizen lijkt een soort 'bewustheid van handelen' te creëren, waarbij de ondernemer als het ware zelf de deuren van zijn bedrijf sluit. Een dergelijk bewustheidsvereiste valt niet uit de tekst van art. 3, derde lid, onderdeel c, Wet OB 1968 af te leiden. De oorzaak van de bedrijfsbeëindiging, in casu een uitspraak van het HvJ EG, is volgens mij dan ook niet relevant."
+
+8.7.5.6 P.D. Vettenburg, De btw-plicht van de dga herzien, ftV 2008/19, acht het maar de vraag of artikel 3, lid 3, aanhef en onderdeel c, van de Wet toepasbaar is:
+
+"Hoewel de gelijkstelling met bedrijfsbeëindiging op zichzelf genomen geen vreemde gedachte is, valt er genoeg tegen in te brengen. Immers, bij bedrijfsbeëindiging, en het onttrekken van goederen is een actieve rol van de voormalig ondernemer, namelijk het beëindigen en onttrekken, noodzakelijk. In het geval van de dga ontbreekt die actieve rol echter. Uitsluitend door, naar nu blijkt, verkeerde rechtspraak uit het verleden en daarop gebaseerde besluiten zou de dga nu, na een duidelijk arrest van het HvJ, geconfronteerd worden met een heffing waar geen rekening gehouden mee diende te worden. Dit zonder dat de dga nu ook maar enigszins handelingen verricht. Het is naar mijn mening dan ook maar zeer de vraag of een heffing op basis van art. 3, lid 3, sub c Wet OB 1968 stand kan houden."
+
+8.7.6 Bezien we de tekst van het besluit, dan valt op dat de staatssecretaris in onderdeel 4.2 daarvan de dga die met één werkmaatschappij een fiscale eenheid vormde, voor de toepassing van (voor zover hier van belang) artikel 3, lid 3, aanhef en onderdeel c, van de Wet, gelijk behandelt als de dga die geen deel uitmaakte van een fiscale eenheid:
+
+"Voor de DGA die tot 18 oktober 2007 ondernemer was en als onderdeel is opgenomen van een fiscale eenheid omzetbelasting bestaande uit de DGA en één vennootschap gelden dezelfde gevolgen en goedkeuringen als hiervoor geschetst in onderdeel 4.1.1 en 4.1.2."
+
+Ten aanzien van de dga die als zelfstandig ondernemer wordt beschouwd, geeft de staatssecretaris in punt 4.1.1 - voor zover hier van belang - aan(67):
+
+"(...) Het einde van het ondernemerschap heeft tot gevolg dat eventueel aanwezige goederen, waarvoor eerder recht op volledige of gedeeltelijke aftrek van belasting is ontstaan, (...) worden geacht te zijn geleverd in de zin van artikel 3, derde lid, onderdeel c, van de Wet (bedrijfsbeëindiging). (...)"
+
+8.7.7 Kennelijk gaat de staatssecretaris ervan uit dat in het geval van een verbroken fiscale eenheid de dga degene is de belasting ter zake van de 3-3-c-levering verschuldigd is. Ik ben daar nog niet zo van overtuigd.
+
+8.7.8 Dit gebrek aan overtuiging zit hem niet in de toepasbaarheid van artikel 3, lid 3, aanhef en onderdeel c, van de Wet in de situatie waarin de dga zelfstandig ondernemer was totdat aan dat ondernemerschap een einde komt ten gevolge van het arrest Van der Steen. Het komt mij voor dat de tekst van artikel 3, lid 3, aanhef en onderdeel c, van de Wet ruimte biedt om daaronder te brengen de situatie waarin de (ex-)ondernemer niet zozeer zijn bedrijf beëindigt in de strikte zin van het woord, maar aan het bedrijf (de richtlijn spreekt overigens over een belastbare economische activiteit)(68) een einde komt omdat de activiteiten die de betrokkene ontplooide - en blijft ontplooien - niet meer als bedrijf (economische activiteit) worden aangemerkt. Een dergelijke uitlegging is niet contrair aan de formulering van de bepaling en strookt evenzeer met de bedoeling die de bepaling mijns inziens heeft, te weten het voorkomen dat goederen na een sfeerovergang belastingschoon in de privésfeer terechtkomen.
+
+8.7.9 In de voorliggende zaken gaat het evenwel niet om zelfstandige, 'afzonderlijke' dga's, maar om dga's die deel uitmaken van een fiscale eenheid. Die situatie is iets complexer, in die zin dat het bedrijf niet wordt beëindigd: de onderneming - de economische activiteit - draait door, zij het niet meer onder de vlag van de fiscale eenheid, maar onder de vlag van de werkmaatschappij. In die zin is geen sprake van bedrijfsbeëindiging. Weliswaar kan worden gezegd dat het 'bedrijf' van de dga - afzonderlijk bezien - eindigt, maar de dga was niet de ondernemer: dat was de fiscale eenheid (zie in dit verband ook onderdeel 8.6).
+
+8.7.10 Weliswaar bestaat de fiscale eenheid na het vertrek van de dga in gevallen van een fiscale eenheid tussen dga en (één) werkmaatschappij als zodanig niet meer, maar het is mijns inziens niet de ondernemer die de goederen onder zich heeft, het is de (particuliere) dga die ze krijgt. Ik ben dan ook geneigd om te zeggen dat ook in een situatie waarin een (ex-)fiscale eenheid slechts bestaat uit de dga met de werkmaatschappij, sprake is van een onttrekking in de zin van artikel 3, lid 3, aanhef en onderdeel a, van de Wet. Voor de maatstaf van heffing maakt dat overigens niet uit. Ingevolge artikel 8, lid 3, van de Wet is de maatstaf van heffing voor alle in artikel 3, lid 3, van de Wet opgenomen (fictieve) leveringen gelijk.
+
+9 Aansprakelijkstelling dga voor schulden van de fiscale eenheid
+
+9.1 Eerder in deze bijlage is al gememoreerd dat de beschikking fiscale eenheid in artikel 7, lid 4, van de Wet is opgenomen in verband met de (op 1 januari 1989) ingevoerde hoofdelijke aansprakelijkheid van onderdelen van een fiscale eenheid voor elkaars omzetbelastingschulden.
+
+9.2 Deze aansprakelijkstelling is thans opgenomen in artikel 43, lid 1, IW, welke bepaling als volgt luidt:(69)
+
+"1. Natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die ingevolge artikel 7, vierde lid, van de Wet op de omzetbelasting 1968 zijn aangemerkt als één ondernemer, zijn hoofdelijk aansprakelijk voor de omzetbelasting welke verschuldigd is door deze ondernemer, dan wel - indien de inspecteur niet schriftelijk ervan in kennis is gesteld dat op grond van gewijzigde omstandigheden niet langer een eenheid bestaat als is bedoeld in die bepaling - door deze personen en lichamen."
+
+9.3 Aanvankelijk was een bepaling van deze strekking opgenomen in artikel 41i van de Wet.(70) In de nota van wijziging, Kamerstukken II 1988/89, 20 588, nr. 7, blz. 2 is de volgende toelichting gegeven op artikel 43 IW (wat toen nog luidde artikel 44):
+
+"Onderdeel C.1. De wijziging van artikel 44, eerste lid, strekt ertoe de tekst van het onderhavige artikellid in overeenstemming te brengen met de bij Wet van 21 december 1988 tot wijziging van de Wet op de omzetbelasting 1968 (Stb. 616) opgenomen tekst van artikel 41i van de Wet op de omzetbelasting 1968, in welk artikel de aansprakelijkheid van de fiscale eenheid voor de omzetbelasting is geregeld."
+
+9.4 Uit de tekst van artikel 43, lid 1, van de IW moet worden afgeleid dat de hoofdelijke aansprakelijkheid van onderdelen van een fiscale eenheid doorloopt tot het tijdstip waarop aan de inspecteur kenbaar is gemaakt dat 'op grond van gewijzigde omstandigheden' niet langer een fiscale eenheid bestaat. Dat betekent ook dat de hoofdelijke aansprakelijkheid kan doorlopen als de fiscale eenheid al niet meer bestaat. Doorslaggevend is immers de (schriftelijke) melding aan de inspecteur dat de eenheid niet meer bestaat.
+
+9.5 In onderdeel 5 van het besluit wordt voor fiscale eenheden die als gevolg van het arrest Van der Steen ophouden te bestaan dan wel wijzigen, overigens - in afwijking van de wettekst - goedgekeurd dat de betrokkenen afzien van een schriftelijke melding. Ik citeer onderdeel 5 van het besluit:
+
+"5. Melding verbreking fiscale eenheid
+
+Gelet op de bijzondere situatie die door het arrest wordt opgeroepen, hoeft de DGA voor de toepassing van artikel 43, eerste lid, van de Invorderingswet 1990, de inspecteur niet schriftelijk in kennis te stellen van die ontbinding of wijziging als de Belastingdienst eerder een beschikking voor die fiscale eenheid heeft afgegeven."
+
+9.6 Zoals ik in onderdeel 6 van deze bijlage al betoogde, meen ik dat fiscale eenheden waarvoor een beschikking fiscale eenheid is afgegeven waartegen geen rechtsmiddelen zijn aangewend, geacht moeten worden als zodanig te hebben bestaan, althans tot het tijdstip waarop aan die eenheid ten gevolge van het besluit een einde kwam. Dat heeft mijns inziens evenzeer te gelden voor de aansprakelijkheid.
+
+9.7 Gezien het standpunt van de staatssecretaris dat fiscale eenheden geacht worden vanaf 18 oktober 2007 (de datum van het arrest Van der Steen) niet meer te bestaan, meen ik dat belanghebbenden ervan uit mogen gaan dat de hoofdelijke aansprakelijkheid die zij als onderdeel van de fiscale eenheid hadden ten opzichte van andere onderdelen, op 18 oktober 2007 eindigt en dat zij derhalve voor de periode ná die datum niet meer aansprakelijk kunnen worden gesteld - ook indien zij geen schriftelijke melding aan de inspecteur hebben gedaan (zie vorenaangehaald onderdeel 5 van het besluit).
+
+9.8 Per saldo brengt vorenstaande mijns inziens met zich dat een aansprakelijk gesteld onderdeel van een (ex-)fiscale eenheid - gezien het besluit - erop mag vertrouwen dat hij niet langer dan tot 18 oktober 2007 aansprakelijk kan worden gesteld. Uitgaande dat geen rechtsmiddelen zijn aangewend tegen de beschikking fiscale eenheid, en dat geen bezwaar is gemaakt tegen de voldoening op aangifte, of in voorkomende gevallen, tegen een teruggaafbeschikking, bestaat de aansprakelijkheid mijns inziens wel voor de periode voorafgaand aan die datum.
+
+9.9 In de literatuur wordt overigens niet over de gehele linie zo over de materie gedacht. Ik citeer uit de vakliteratuur:
+
+9.9.1 Van der Voort Maarschalk, NTFR 2010/1271 annoteert bij de uitspraak van Hof Arnhem van 20 april 2010, nr. 08/00635, LJN BM4329 (zie punt 6.6.3 van deze bijlage):
+
+"1. Kan de aansprakelijkgestelde in het kader van een bestrijding van de aansprakelijkstelling alsnog opkomen tegen andere onherroepelijk vaststaande beschikkingen dan de belastingaanslag waarvoor hij (geheel of gedeeltelijk) aansprakelijk is gesteld? (...) Met name is het niet de bedoeling van de wetgever geweest de aansprakelijkgestelde de mogelijkheid te geven een beschikking te bestrijden die reeds formele rechtskracht had verkregen en die de belastingplichtige zelf derhalve niet meer kon bestrijden. In feite kan de aansprakelijkgestelde niet meer dan dat de belastingplichtige zelf zou hebben gekund als hij tijdig tegen de (na)heffing zou zijn opgekomen. Het hof gaat er dan ook terecht vanuit dat de aansprakelijk gestelde directeur-grootaandeelhouder in het kader van de aansprakelijkheidsprocedure niet alsnog de beschikking fiscale eenheid ter discussie kan stellen."
+
+9.9.2 Redactie V-N tekent bij diezelfde uitspraak van Hof Arnhem in V-N 2010/46.13 aan:
+
+"(...). Wel is hier de vraag op zijn plaats of het niet in de rede had gelegen dat de staatssecretaris in een besluit over de gevolgen van het Van der Steen-arrest ook de situatie van de niet-ondernemer had besproken die als gevolg van een rechterlijke dwaling als ondernemer is aangemerkt en vervolgens "als zodanig" voor de belastingschulden van een derde (ter zake waarvan hem geen verwijt behoeft te worden gemaakt) aansprakelijk wordt gesteld. (...) lijkt het ons niet heel redelijk dat een dga die van zijn (achteraf onterecht opgedrongen) ondernemersstatus geen voordeel heeft genoten en aan wie het onbetaald blijven van de omzetbelastingschuld niet kan worden verweten, om puur formele redenen voor die schuld aansprakelijk wordt gehouden. Het is echter niet aan de rechter, maar aan de Minister van Financiën, zich daarover uit te laten. En dat laatste is in het meergenoemde besluit in elk geval niet gebeurd."
+
+9.9.3 Tekstra annoteert op voormelde uitspraak van Hof Arnhem in JOR 2010, 218:
+
+"Het valt tot slot te hopen dat de Hoge Raad in de gelegenheid komt de - vergaande - gevolgen van zijn onjuiste uitspraak uit 2002 te herstellen door, anders dan het hof in de onderhavige uitspraak en diverse andere lagere rechters, een materiële benadering te volgen voor het al dan niet aanwezig zijn van een fiscale eenheid voor de omzetbelasting. In dit geval leidt de formele benadering van het hof ertoe dat de privé-persoon, ondanks dat hij niet in de fiscale eenheid thuishoorde, moet opdraaien voor een omzetbelastingschuld van deze fiscale eenheid van maar liefst € 418.801."
+
+9.9.4 J.M.A. de Leeuw, De aansprakelijke dga, Btw-bulletin 2010, nr. 4 [30]:
+
+"De dga is opgenomen in een beschikking FE. Die is onjuist, want de dga is geen belastingplichtige of ondernemer en niet-ondernemers kunnen geen deel uitmaken van een FE. Dit maakt dat velen het als onredelijk ervaren dat een aansprakelijkstelling wel mogelijk is, terwijl vaststaat dat de beschikking onjuist is. Vandaar dat er procedures lopen met de stelling dat de onjuiste beschikking FE niet mag worden gebruikt om de dga aansprakelijk te stellen voor de btw-schulden. De zwakte van die redenering is gelegen in vaste jurisprudentie van de Hoge Raad. Die zegt dat ook aantoonbaar onjuiste beschikkingen rechtskracht hebben. Eigenlijk ook wel logisch en begrijpelijk, want anders zou elke beschikking altijd in rechte bestreden kunnen worden nadat deze in beginsel onherroepelijk is geworden. Immers, wanneer kan worden vastgesteld dat een beschikking onjuist is, zou de procedure weer kunnen worden opgestart. Vandaar dat ervoor is gekozen om ons administratief recht te laten functioneren met beschikkingen die op enig moment, als de rechtsmiddelen zijn uitgewerkt, rechtskracht hebben. In dit geval zou dat betekenen dat de aansprakelijkheid in stand blijft, ondanks het feit dat we inmiddels weten dat de beschikking onjuist is en de dga ten onrechte deel uitmaakt van de FE. Alhoewel dit voor sommigen zeer onredelijk aanvoelt, is het al bevestigd in de jurisprudentie, ook voor dit specifieke geval."
+
+9.9.5 M. Nusmeier bespreekt in Aansprakelijkheid dga voor btw-schulden fiscale eenheid, Btw-bulletin 2009, nr. 4 [27], diverse uitspraken inzake de aansprakelijkstelling van de dga na het arrest Van der Steen:
+
+"Los van het voorgaande, vind ik de uitkomst van de procedures toch wel wat cru voor de dga. Vanuit het Ministerie van Financiën is behoorlijk aangedrongen op het vormen van een fiscale eenheid btw en de dga's konden eigenlijk niet anders dan vertrouwen op het oordeel van de Hoge Raad dat zij ondernemer waren voor de btw. De Hoge Raad had immers aangegeven dat hierover geen (enkele) twijfel kon bestaan! Als gevolg daarvan hadden ze dan ook geen reden om op het moment van afgifte van de fiscale eenheid beschikking bezwaar te maken. Het had immers geen enkele zin. Op het eerste gezicht had ik het dan ook niet vreemd gevonden als het beginsel van de formele rechtskracht terzijde was geschoven. Gezien de bijzondere omstandigheid van dwaling van de Hoge Raad bij het btw-ondernemerschap van de dga, zou namelijk gesteld kunnen worden dat het de dga's redelijk onmogelijk werd gemaakt bezwaar te maken tegen de fiscale eenheid beschikking. Deze coulance had men best kunnen betrachten. Hier valt echter tegen in te brengen dat dga Van der Steen wel een bezwaarprocedure is gestart. Echt onmogelijk was het dus niet om de fiscale eenheid beschikking door een rechter te laten toetsen. De Hoge Raad lijkt ook op deze lijn te zitten in het arrest van 5 oktober 2007 (nr. 43 268, V-N 2007/47.2). In deze zaak oordeelde de Hoge Raad dat het beginsel van de formele rechtskracht ondanks een mogelijk onjuiste beslissing van de Hoge Raad niet wordt doorbroken. Het is namelijk niet zo dat belanghebbende vanwege die eventueel onjuiste beslissing geen enkele mogelijkheid meer had om bezwaar en/of beroep in te stellen tegen het besluit van de belastingdienst."
+
+9.9.6 J.P.M. Linsen, De dga aansprakelijk ondanks Van der Steen?, BtwBrief 2009, nr. 2 [7], bespreekt de uitspraak van Rechtbank Haarlem op 20 december 2007, nrs. AWB 07/702 en 07/703, LJN BC0845, V-N 2008/36.20:
+
+"Er speelt nog een punt: de hoofdelijke aansprakelijkheid van art. 43 Invorderingswet. Natuurlijke personen en rechtspersonen die zijn aangemerkt als fiscale eenheid, zijn hoofdelijk aansprakelijk voor de btw-schuld van de fiscale eenheid. De vraag komt op of de redelijkheid meebrengt, dat ook hier nog ruimte is voor een inhoudelijke toetsing van de vraag of sprake is van een fiscale eenheid, ondanks het feit dat in fiscale zin een beschikking voorhanden is waartegen niet meer kan worden opgekomen. (...) Ik meen dat het niet aangaat, dat een aansprakelijkstelling wordt doorgezet, terwijl materieel geen sprake is van een fiscale eenheid en de fiscale eenheid de voorwaarde vormt voor die aansprakelijkheid. In zoverre onderschrijf ik de uitspraken van de rechtbank niet. Het zou me niet verbazen als in de toekomst nieuwe procedures over dit punt zullen worden gevoerd."
+
+9.9.7 J.H.M. Heezen, Is de dga nog aansprakelijk?, Btw-bulletin 2008, nr. 3 [20]:
+
+"Hoe zit het echter met de hoofdelijke aansprakelijkheid voor de periode voor 18 oktober 2007? Gesteld kan worden dat het HvJ EG heeft bepaald dat de dga nooit ondernemer is geweest. De dga kan dan ook nooit rechtsgeldig in de fiscale eenheid hebben gezeten. Verdedigd kan dan ook worden dat de fiscale eenheid nooit rechtsgeldig heeft bestaan en er dus ook nooit rechtsgeldig een aansprakelijkheidstelling kan plaatsvinden. Over deze vraag heeft de rechtbank Haarlem op 20 december 2007, nrs. AWB 07/00702 en AWB 07/00703, uitspraak gedaan. (...) Nu de beschikking rechtsgeldig is, is de aansprakelijkheid een feit. Een beroep op het arrest van het HvJ EG van 18 oktober 2007 treft volgens de rechtbank geen doel. Immers bij dat arrest had belanghebbende tijdig bezwaar gemaakt tegen de beschikking fiscale eenheid en was juist de rechtsgeldigheid van de beschikking in het geding. De vraag of de beschikking inhoudelijk juist is, gesteld kan immers worden dat belanghebbende nooit ondernemer is geweest en er dus nooit aan de eisen van de fiscale eenheid voldaan kan worden, is dus blijkbaar voor de rechtbank voor de vraag of sprake is van aansprakelijkheid niet relevant. Mij is niet bekend of tegen de uitspraak van de rechtbank beroep is ingesteld. In principe ligt een en ander in de lijn van de aansprakelijkheidsstelling van art. 43. Dit artikel geeft immers aan dat de aansprakelijkheid doorloopt na beëindiging/wijziging van de fiscale eenheid tot het moment van de schriftelijke melding aan de inspecteur. Det wetgever heeft er dus duidelijk voor gekozen om de aansprakelijkheid ook te laten gelden in de situatie dat niet meer aan de formele eisen van een fiscale eenheid wordt voldaan. Wel kan men zich afvragen of de wetgever hier ook de situatie voor ogen heeft gehad waarbij de fiscale eenheid vanaf het begin af aan materieel nooit heeft bestaan. Het blijft immers vreemd dat men aansprakelijk is voor belastingschulden van een ander terwijl er, naar later blijkt, materieel nooit enige fiscale band is geweest. Mijns inziens kan dit niet de bedoeling zijn geweest van de wetgever."
+
+9.10 Hoewel het uiteraard 'zuur' is voor een dga als hij aansprakelijk wordt gesteld voor de omzetbelastingschulden van 'zijn' werkmaatschappij, waarmee hij naar de letter van de jurisprudentie nooit een fiscale eenheid kan hebben gevormd, meen ik dat de omstandigheid dat er ter zake een beschikking fiscale eenheid is afgegeven, waartegen geen rechtsmiddelen zijn aangewend, met zich brengt dat de groep hiermee is aangemerkt(71) als één ondernemer in de zin van artikel 7, lid 4, van de Wet - terecht of niet - en dat daarmee het aanmerken als fiscale eenheid en de aansprakelijkheid een gegeven is. Daarbij neem ik in aanmerking dat de wetgever er blijkens de tekst van artikel 43 van de IW ook voor heeft gekozen de aansprakelijkheid te laten doorlopen wanneer materieel gezien de fiscale eenheid niet meer bestaat (namelijk als het verbreken van de fiscale eenheid pas wordt gemeld als de fiscale eenheid al verbroken is).
+
+MvH,
+
+14 november 2011
+
+----
+
+1 Thans op grond van artikel 19 VEU het van het Hof van Justitie van de Europese Unie deel uitmakende Hof van Justitie. De afkorting 'HvJ' wordt in deze bijlage gehanteerd voor zowel arresten (respectievelijk beschikkingen) die zijn gewezen toen het Hof van Justitie nog 'van de Europese Gemeenschappen' was, als voor arresten en beschikkingen die het HvJ als onderdeel van het HvJ EU heeft gewezen.
+
+2 De dga in kwestie hield 75% van de aandelen in 'zijn' bv.
+
+3 Het valt op dat in het arrest van 23 december 1998 de dga in loondienst was bij de bv, terwijl in de zaak die tot het arrest van 26 april 2002 heeft geleid de betrokken dga een managementovereenkomst met zijn bv had gesloten. Uit het arrest van 26 april 2002 blijkt overigens niet dat dit verschil een rol heeft gespeeld. Integendeel, de Hoge Raad trekt het bereik van de zaak ruimer waar hij in zijn overwegingen over 'loontrekkende met een arbeidsovereenkomst spreekt'. Ik heb mij echter altijd afgevraagd of dit verschil een rol heeft gespeeld, of zou moeten hebben.
+
+4 Te denken valt aan de arresten van het HvJ van 20 juni 1991, Polysar, C-60/90, FED 1991/633 m.nt. Bijl en van 14 november 2000, Floridienne en Berginvest, C-142/99, V-N 2000/53.17 en de beschikking van het HvJ van 12 juli 2001, Welthgrove, C-102/00, BNB 2002/182 m.nt. Van Hilten.
+
+5 HvJ 27 juni 1996, Asscher, C-107/94, BNB 1996/350 m.nt. Van der Geld.
+
+6 Ik merk hier op dat de zaak die tot het arrest van 26 april 2002 heeft geleid, zich mijns inziens niet goed leende voor het stellen van prejudiciële vragen, nu van een dienstbetrekking niet was gebleken en de evidentie van ondernemerschap van een manager - ook al heeft hij maar één opdrachtgever - mij buiten twijfel lijkt.
+
+7 Besluit van 24 juli 2002, nr. DGB 2002/3677M, V-N 2002/36.28, gevolgd door het besluit van de staatssecretaris van 17 oktober 2002, nr. DGB 2002/5754M, V-N 2002/52.24, waarin nadere vragen omtrent de btw-positie van dga's werden beantwoord.
+
+8 In dit verband valt te wijzen op de noot van Van Zadelhoff in BNB 1999/76. Daarin geeft Van Zadelhoff aan dat zijns inziens het ondernemerschap van de dga niet zozeer ontbreekt vanwege de aangenomen onzelfstandigheid, maar vanwege het ontbreken van economische activiteiten. Zie ook Van Zadelhoffs annotatie op het arrest van 26 april 2002 in BNB 2002/275. Hof Amsterdam zat kennelijk op dezelfde lijn.
+
+9 Daarin overwoog het HvJ dat voor de beantwoording van de vraag of tussen een vennootschap en haar bijkantoor over en weer prestaties worden uitgewisseld, moet worden onderzocht of het bijkantoor autonoom is, met name doordat zij het economische bedrijfsrisico draagt. Uit het arrest van het HvJ van 20 februari 1997, DFDS, C-260/95, V-N 1997, blz. 1662, leidde het Hof voorts af dat in geval twee van elkaar te onderscheiden, zelfstandige personen, onderling handelingen verrichten, niet steeds sprake hoeft te zijn van zelfstandig verrichte economische activiteiten.
+
+10 Bij uitspraak van 28 augustus 2006, nr. 04/3813, LJN AY6985, V-N 2006/45.13.
+
+11 A-G E. Sharpston, conclusie van 14 juni 2007.
+
+12 Daarbij verklaarde het HvJ zijn arrest van 27 juni 1996, Asscher, C-107/94, BNB 1996/350 m.nt. Van der Geld, dat voor de Hoge Raad in 2002 mede grond was voor het oordeel dat een dga zelfstandig (en ondernemer) is, vrijwel zonder nadere motivering niet van toepassing op de btw.
+
+13 Richtlijn 77/388/EEG van 17 mei 1977 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting - Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag, PB L 145, blz. 1.
+
+14 Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde, PB L 347, blz. 1.
+
+15 Uit het Besluit van de staatssecretaris van 21 december 2007, CPP 2007/3160, leid ik af dat de staatssecretaris daar anders over denkt.
+
+16 Er zijn (uitzonderings)gevallen waarin het HvJ de werking van een arrest in tijd beperkt. Ik kom hierop terug in onderdeel 3 van deze conclusie.
+
+17 Zie bijvoorbeeld HvJ 30 maart 2006, Uudenkaupungin kaupunki, C-184/04, V-N 2006/18.25, punt 53.
+
+18 De verwijzing naar de tweede alinea van artikel 4, lid 4, van de Zesde richtlijn is in zoverre opvallend, dat die bepaling in de vraagstelling niet aan de orde was. Een verwijzing naar de eerste alinea van artikel 4, lid 4, van de Zesde richtlijn (de zelfstandigheid) had ik in deze context logischer gevonden. De formulering die het HvJ - overigens ook in de Franse, Duitse en Engelse tekst van het arrest - hanteert, suggereert dat de kwalificatie van 'belastingplichtige' in de zin van artikel 4, lid 1, van de Zesde richtlijn, kan afhangen van de vraag of de fiscale eenheid (artikel 4, lid 4, tweede alinea) een rol speelt. Het arrest van het HvJ van 22 mei 2008, Ampliscientifica en Amplifin, C-162/07, V-N 2008/25.20 maakt de kwestie mijns inziens niet duidelijker. In punt 19 van dat arrest lijkt het HvJ te suggereren dat onderdelen van de fiscale eenheid geen ondernemer (in de zin van artikel 4, lid 1, van de Zesde richtlijn) zijn omdat zij deel uitmaken van een fiscale eenheid. In dat arrest was de vraagstelling overigens weer anders (zie hierna ook punt 8.6.10).
+
+19 Zie punt 7 van het arrest Van der Steen, waarin artikel 7, lid 4, van de Wet wordt geciteerd. Op grond van die bepaling kunnen deel van een fiscale eenheid deel uitmaken personen die op basis van artikel 7 van de Wet ondernemer zijn. Een korrel zout is hier overigens in zoverre op zijn plaats dat op grond van de nimmer ingetrokken resolutie van 18 februari 1991, nr. VB91/347, V-N 1991, blz. 715 holdingvennootschappen, ook indien zij geen ondernemer zijn, in Nederland deel kunnen uitmaken van een fiscale eenheid.
+
+20 In punt 9 van zijn conclusie van 24 april 1991 voor het arrest Polysar gaat A-G Van Gerven er overigens van uit dat uitsluitend belastingplichtigen deel kunnen uitmaken van een fiscale eenheid.
+
+21 Zij voelt zich daarin overigens ook gesterkt door het arrest van het HvJ van 22 mei 2008, Ampliscientifica en Amplifin, C-162/07, V-N 2008/25.20 en de conclusie van A-G Van Gerven van 24 april 1991 voor het arrest Polysar (zie onderdeel 3.3.1 van de Mededeling van de Commissie aan de Raad en het Europees Parlement, COM(2009) 325 def.).
+
+22 Persbericht 24 juni 2010, IP/10/795; het beroep is ingesteld op 15 februari 2011 en heeft bij het HvJ nummer C-65/11. De inbreukprocedure rust op twee pijlers. De Commissie meent dat Nederland ten onrechte niet-ondernemers toelaat in een fiscale eenheid en (bovendien) ten onrechte het BTW-Comité niet heeft geraadpleegd.
+
+23 Zie voor overwegingen van deze strekking bijvoorbeeld het arrest van 17 februari 2005, Linneweber en Akritidis, gevoegde zaken C-453/02 en C-462/02, V-N 2005/13.14, punten 41-45 en het eerdervermelde arrest Uudenkaupungin kaupunki, punt 55.
+
+24 In dezelfde zin HvJ 1 juni 1999, Eco Swiss China Time Ltd, C-126/97, NJ 2000, 339, punten 46-47, 30 september 2003, Köbler, C-224/01, BNB 2004/151 m.nt. Wattel, punt 38 en 3 september 2009, Fallimento Olimpiclub, C-2/08, AB 2009, 335 m.nt. Widdershoven, punt 24.
+
+25 Hetgeen overigens onverlet liet dat het HvJ omstandigheden onderkende op grond waarvan een bestuursorgaan toch gehouden is om terug te komen op een eerder, onjuist, besluit. Die omstandigheden zijn: het bestuursorgaan moet naar nationaal recht bevoegd zijn op dat besluit terug te komen, het besluit is definitief geworden ten gevolge van een uitspraak van een nationale rechterlijke instantie waarvan de beslissingen niet vatbaar zijn voor hoger beroep, waarbij die uitspraak, gelet op latere rechtspraak van het HvJ, berust op een onjuiste uitlegging van het gemeenschapsrecht en de betrokkene zich tot het bestuursorgaan heeft gewend onmiddellijk na van die uitspraak kennis te hebben genomen.
+
+26 Zie in dit verband ook het arrest van 15 januari 1998, Ghent Coal Terminal, C-37/95, V-N 1998/29.14.
+
+27 Zo oordeelde de Hoge Raad bij arrest van 5 januari 2000, nr. 34689, LJN AA4064, BNB 2000/81 dat wanneer inlichtingen niet zijn gegeven door een ambtenaar van politie in het kader van de controle op de naleving van de Wet BPM, aan de gegeven inlichtingen geen in rechte te beschermen vertrouwen kan worden ontleend. Ook kan aan de juistheid van de kwalificatie als personenauto voor de motorrijtuigenbelasting geen in rechte te beschermen vertrouwen worden gewekt door de Dienst Wegverkeer (RDW) die belast is met de uitgifte van kentekenbewijzen, daar aan die dienst geen bevoegdheden zijn toegekend ter uitvoering van de Wet op de motorrijtuigenbelasting 1994 (Hof Arnhem 27 april 2011, nr. 10/00342, LJN BQ4217, NTFR 2011/1222 m.nt. Elbert).
+
+28 Het valt op dat het besluit van 24 juli 2002 ook de goedkeuring omvat dat - onder voorwaarden - wordt gehandeld als ware er een fiscale eenheid tussen de dga en zijn vennootschap indien niet aan de materiële voorwaarden is voldaan. Die situatie doet zich overigens in geen van de onderhavige zaken voor.
+
+29 Besluit van 21 december 2007, nr. CPP2007/3160, Stcrt. 2008, 1, V-N 2008/3.24
+
+30 In zijn eindarrest van 14 december 2007, nr. 34514, LJN BC0045, BNB 2008/37 m.nt. Bijl oordeelde de Hoge Raad dat in het voorgelegde geval de marktdeelnemers adequaat in kennis waren gesteld van de wetswijziging en de gevolgen daarvan. Bij de toetsing daarvan spelen, zo betoogt M.R.T. Pauwels in Terugwerkende kracht van belastingwetgeving: gewikt en gewogen, een rechtstheoretisch en positiefrechtelijk onderzoek naar een methode voor vorming van wettelijk overgangsrecht in het belastingrecht, (acad. diss), 2009, blz. 472 en 473, de aard van de regelgeving en de alertheid van belastingplichtigen een rol.
+
+31 Zie in dit verband ook R. H. Happé, Drie beginselen van fiscale rechtsbescherming, Fiscale Monografieën nr. 77, Kluwer, Deventer, 1996, blz. 156.
+
+32 Hoge Raad 4 mei 1983, nr. 21488, BNB 1983/216 m.nt. Hofstra.
+
+33 Hoge Raad 7 oktober 1992, nr. 26974, BNB 1993/4 m.nt. Van Leijenhorst.
+
+34 Maar ook kan gewezen worden op Hoge Raad 3 april 2009, nr. 43466, LJN BH9271, BNB 2010/207 m.nt. Freudenthal.
+
+35 In dit verband zij opgemerkt dat het bij beleidsbesluiten niet zozeer gaat om wat de staatssecretaris daarmee voor ogen had, maar wat de betrokken belastingplichtigen daaruit (in redelijkheid) mochten afleiden, zoals deze naar de objectieve beschouwing van de rechter redelijkerwijze dient te worden opgevat. Ik wijs in dit verband op het arrest van de Hoge Raad van 4 juni 1980, nr. 19058, BNB 1980/218 m.nt. Schuttevaer.
+
+36 Zie in dit verband het al eerder genoemde arrest van de Hoge Raad van 14 december 2007, nr. 34514, LJN BC0045, BNB 2008/37 m.nt. Bijl (eindarrest in de zaak Stichting Goed Wonen II).
+
+37 Met ingang van 1 januari 2007 (wet van 14 december 2006, houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2007), Stb. 682) is de fictieve dienst van artikel 4, lid 2, aanhef en onderdeel a, in de wet opgenomen, vandaar dat hier is vermeld dat (pas) vanaf 1 januari 2007 de fictieve dienst van artikel 4, lid 2, aanhef en onderdeel a, van de Wet tot verschuldigdheid van omzetbelasting leidt.
+
+38 Zie in dit verband ook HvJ 25 mei 1993, Mohsche, C-193/91, FED 1995/550 m.nt. Bijl.
+
+39 Ik merk op dat in zaaknummer 11/03524 het verzoek tot het afgeven van een beschikking fiscale eenheid was gebaseerd op het uitdrukkelijke beroep van de betrokkene op de oude besluiten. Belanghebbende in die zaak neemt ten tijde van de procedure in eerste aanleg echter het standpunt in dat zij bezwaar heeft gemaakt tegen de beschikking fiscale eenheid alsmede dat het verzoek tot het aangaan van een fiscale eenheid door een niet bevoegde dienstverlener is gedaan. Bij het Hof laat zij dit standpunt rusten, maar bepleit zij primair dat de beschikking fiscale eenheid vernietigd moet worden omdat deze in strijd is met het Europese recht en subsidiair dat het verstrijken van de bezwaartermijn haar niet kan worden tegengeworpen.
+
+40 In onderdeel 9 kom ik hierop terug.
+
+41 MvH: het arrest ging - kennelijk - om een fiscale eenheid in de landbouwsector.
+
+42 MvH: gedoeld wordt op de ex tunc werking van arrresten van het HvJ (zie ook onderdeel 3 van deze bijlage)
+
+43 De aansprakelijkstelling komt in onderdeel 9 afzonderlijk aan bod.
+
+44 Zie ook Handelingen van de Tweede Kamer 1987/88, 15 september 1988, blz. 105-5931 en 5932.
+
+45 In de zaak die tot dit arrest heeft geleid verzocht de belanghebbende in 2005 teruggaaf van omzetbelasting over de jaren 2000 tot en met 2003 omdat het Besluit uitsluiting aftrek omzetbelasting 1968 in strijd zou zijn met het Europese recht.
+
+46 Ik laat deze gevolgen hier voor wat zij zijn. Het lijkt mij dat de (achteraf) ten onrechte als ondernemer aangemerkte niet-ondernemer die tijdig tegen zijn 'ondernemerschap' is opgekomen ook de consequenties van het niet-ondernemerschap moet trekken. Tot die consequenties behoort niet alleen dat geen belastbare (fictieve) leveringen kunnen zijn verricht (en dat derhalve geen omzetbelasting verschuldigd kan zijn), maar ook dat aftrek ten onrechte is genoten en gesuppleerd zou moeten worden.
+
+47 Tot 1 januari 2008 was in de tweede zin van het vierde lid bepaald dat het tweede lid en het derde lid, aanhef en onderdeel b, niet gelden voor de toepassing van artikel 4c, zesde, zevende en achtste lid, van de Uitvoeringsbeschikking. Artikel 4c van de Uitvoeringsbeschikking heeft betrekking op de globalisatieregeling. Deze regeling speelt in casu geen rol. Met ingang van 1 januari 2008 is de tweede zin van het vierde lid van artikel 3a van de Uitvoeringsbeschikking vervallen, omdat uit het arrest van de Hoge Raad van 29 oktober 2004, nr. 38320, LJN AO1303, BNB 2004/426 m.nt. Bijl kan worden afgeleid dat deze bepaling onverbindend is (zie toelichting in Strct. 2007, 251, blz. 14).
+
+48 Wijziging Uitvoeringsbeschikking omzetbelasting 1968, 4 juni 1996, nr. WV96/217 M, Stcrt. 1996,107.
+
+49 Tenzij tegen de beschikking fiscale eenheid tijdig rechtsmiddelen zijn aangewend, dan wel bezwaar is gemaakt tegen de voldoening op aangifte of in voorkomende gevallen tegen een teruggaafbeschikking. Deze situaties doen zich in de voorliggende zaken evenwel niet voor.
+
+50 Kamerstukken II 2006/07, 30 804, nr. 3, blz. 58.
+
+51 Richtlijn 67/228/EEG van de Raad van 11 april 1967, PB L71, blz. 1303.
+
+52 Uit de memorie van toelichting, Kamerstukken II 1967/68, 9324, nr. 3, blz. 30 rk, blijkt dat artikel 3, lid 1, aanhef en onderdeel g, van de Wet overeenkwam met het bepaalde in artikel 3, lid 1, onderdeel j, van de Wet op de Omzetbelasting 1954, doch dat de bepaling in zoverre was aangevuld dat deze alleen van toepassing was indien de goederen het bedrijfsvermogen verlieten en niet indien goederen privé en zakelijk gebruikt werden, in welk geval een deel van de aftrek werd uitgesloten.
+
+53 Zij het een die tekstueel niet gelijk was aan de richtlijn, met name omdat voor de levering in de zin van artikel 3, lid 1, aanhef en onderdeel g, niet werd vereist dat aftrek van voorbelasting had plaatsgevonden. In het nieuwe artikel 3, lid 3, aanhef en onderdeel a, van de Wet is die voorwaarde wel opgenomen.
+
+54 Een vergelijkbare bepaling was opgenomen in artikel 5, lid 3, aanhef en onderdeel a, van het voorstel voor een Zesde richtlijn. Die bepaling was niet afzonderlijk door de Commissie toegelicht.
+
+55 Helemaal duidelijk is dat niet omdat de staatssecretaris de passieve vorm gebruikt: 'worden goederen geleverd', zonder te vermelden door wie. Uit de context leid ik echter af dat de fiscale eenheid is bedoeld.
+
+56 In de uitspraak van Hof Amsterdam van 2 september 2010, nr. P09/00584, LJN BN6227, V-N 2010/62.1.5 waartegen cassatie is ingesteld (zaak 10/04489) was het bepaalde in artikel 3a van de Uitvoeringsbeschikking reden om te oordelen dat een levering in de zin van artikel 3, lid 3, (aanhef en onderdeel a of c) van de Wet zich niet kon voordoen.
+
+57 MvH: De verwijzing naar punt 20 van het arrest Van der Steen is mij niet helemaal duidelijk. Ik lees de zin 'Wanneer....punt 20)' zo dat het HvJ heeft bedoeld te zeggen dat onderdelen van de fiscale eenheid niet meer als afzonderlijke belastingplichtigen voor de btw kunnen worden aangemerkt.
+
+58 Aangezien het in alle hier voorliggende zaken gaat om goederen waarvoor aftrek is genoten, bespreek ik dit aspect in deze bijlage verder niet.
+
+59 Namelijk 'het beschikken over goederen voor andere dan bedrijfsdoeleinden, ten gevolge waarvan deze het bedrijfsvermogen verlaten'. Deze bepaling is tegenwoordig, in iets andere bewoordingen, opgenomen als artikel 3, lid 3, aanhef en onderdeel a, van de Wet. Deze bepaling besprak ik in onderdeel 8.6.
+
+60 Kamerstukken II 2006/07, 30 804, nr. 3, blz. 59.
+
+61 MvH: artikel 19 van de btw-richtlijn bepaalt dat de lidstaten de overdracht van een algemeenheid van goederen niet als levering behoeven aan te merken.
+
+62 Te denken valt aan de overleden ondernemer, wiens erfgenamen bedrijfsmiddelen onder zich krijgen.
+
+63 Uitspraak van 28 april 2010, nr. AWB 09/1843, LJN BM5651, V-N 2010/32.2.4 waartegen sprongcassatie is ingesteld (zaaknummer 10/02318).
+
+64 In dezelfde zin J[0].J.M. Lamers, Dga-besluit en terugwerkende kracht, Btw-bulletin 2008, nr. 3 [21].
+
+65 MvH: uit het artikel volgt dat de auteur de uitspraak van Rechtbank 's-Gravenhage van 28 april 2010, nr. AWB 09/1843, LJN BM5651, V-N 2010/32.2.4 bedoelt waartegen sprongcassatie is ingesteld (zaaknummer 10/02318).
+
+66 MvH: bedoeld zal zijn 'de'.
+
+67 Punt 4.1.2 van het besluit doet in casu niet ter zake. Het gaat daarin om betaling voor privégebruik.
+
+68 Artikel 18, lid 1, aanhef en onderdeel c, van de btw-richtlijn spreekt in het Nederlands over het onder zich hebben van goederen door een belastingplichtige of een rechthebbende 'wanneer hij zijn belastbare economische activiteit beëindigt', in het Engels gaat het om 'when he ceases to carry out a taxable economic activity', in het Frans wordt gesproken over 'en cas de cessation de son activité économique imposable', terwijl de Duitse richtlijntekst bepaalt 'bei Aufgabe seiner der Steuer unterleigenden wirtschaflichen Tätigkeit'.
+
+69 Artikel 43 IW is op 1 juni 1990 in werking getreden, Stb. 1990, 221.
+
+70 Artikel 41i van de Wet is op 1 januari 1989 in werking getreden (Stb. 1988, 616) en is per 1 juni 1990 geschrapt vanwege de invoering van artikel 43, lid 1, in de IW.
+
+71 Zie in iets andere zin Van Hilten en Van Kesteren, Omzetbelasting, Kluwer, Deventer 2010, 12e druk, blz. 94, waarin wordt aangegeven dat het 'aanmerken' ook kan worden gezien als het 'door de wet' aanmerken en dat de aansprakelijkheid (mogelijk) alleen aan de orde zou zijn voor fiscale eenheden die daadwerkelijk aan de materiële vereisten daarvan voldoen.
