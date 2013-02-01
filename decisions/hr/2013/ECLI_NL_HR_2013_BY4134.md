@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BY4134"
-published_in: ["Rechtspraak.nl", "RI 2013/33", "NJ 2013/156 met annotatie van F.M.J. Verstijlen", "RvdW 2013/219", "NJB 2013/345", "JWB 2013/91", "JOR 2013/155 met annotatie van mr. B.A. Schuijling en prof. mr. N.E.D. Faber"]
+published_in: ["Rechtspraak.nl", "RI 2013/33", "NJ 2013/156 met annotatie van F.M.J. Verstijlen", "RvdW 2013/219", "NJB 2013/345", "JWB 2013/91", "JOR 2013/155 met annotatie van Mr. B.A. Schuijling, prof. mr. N.E.D. Faber"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BY4134"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-239.md", "netherlands/national/acts/faillissementswet/art-042.md", "netherlands/national/acts/faillissementswet/art-047.md"]
 ---
