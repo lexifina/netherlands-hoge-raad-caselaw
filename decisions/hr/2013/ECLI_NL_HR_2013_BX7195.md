@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BX7195"
-published_in: ["Rechtspraak.nl", "RvdW 2013/250", "NJB 2013/391", "RF 2013/37", "RCR 2013/34", "JONDR 2013/364", "JWB 2013/71", "NJ 2014/496 met annotatie van J. Hijma", "JOR 2013/107 met annotatie van mr. drs. B.T.M. van der Wiel"]
+published_in: ["Rechtspraak.nl", "RvdW 2013/250", "NJB 2013/391", "RF 2013/37", "RCR 2013/34", "JONDR 2013/364", "JWB 2013/71", "NJ 2014/496 met annotatie van J. Hijma", "JOR 2013/107 met annotatie van mr. drs. B.T.M. van der Wiel", "AA20130755 met annotatie van Boom van W.H. Willem"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BX7195"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2010:BP4773, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-074.md", "netherlands/national/acts/bw-boek-6/art-089.md", "netherlands/national/acts/bw-boek-6/art-162.md"]
 ---
