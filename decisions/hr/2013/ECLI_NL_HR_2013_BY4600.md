@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BY4600"
-published_in: ["Rechtspraak.nl", "RvdW 2013/253", "NJB 2013/396", "RAV 2013/42", "RCR 2013/32", "JONDR 2013/366", "JWB 2013/69", "Bb 2014/21.4", "NJ 2014/497 met annotatie van J. Hijma", "AA20130755 met annotatie van W.H. van Boom", "JIN 2013/74 met annotatie van J. van der Kraan", "JA 2013/117", "NTHR 2015, afl. 2, p. 102", "JOR 2013/106 met annotatie van mr. drs. B.T.M. van der Wiel"]
+published_in: ["Rechtspraak.nl", "RvdW 2013/253", "NJB 2013/396", "RAV 2013/42", "RCR 2013/32", "JONDR 2013/366", "JWB 2013/69", "Bb 2014/21.4", "NJ 2014/497 met annotatie van J. Hijma", "AA20130755 met annotatie van Boom van W.H. Willem", "JIN 2013/74 met annotatie van J. van der Kraan", "JA 2013/117", "NTHR 2015, afl. 2, p. 102", "JOR 2013/106 met annotatie van mr. drs. B.T.M. van der Wiel"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BY4600"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2011:BU5147, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-089.md", "netherlands/national/acts/bw-boek-7/art-023.md"]
 ---
