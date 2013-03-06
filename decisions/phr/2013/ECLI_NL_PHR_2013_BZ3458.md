@@ -1,0 +1,127 @@
+---
+ecli: "ECLI:NL:PHR:2013:BZ3458"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "13/01030 (NO 10/37)"
+decided: "2013-03-06"
+published: "2013-04-08"
+type: "conclusie"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2013:BZ3458"
+published_in: ["Rechtspraak.nl", "NJ 2013/529 met annotatie van E.A. Alkema", "JWB 2013/143"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2013:BZ3458"]]
+---
+
+# ECLI:NL:PHR:2013:BZ3458 Parket bij de Hoge Raad , 06-03-2013 / 13/01030 (NO 10/37)
+
+## Inhoudsindicatie
+
+Klachtprocedure ex art. 14 a (oud) RO. Raadsheer-commissaris geeft op verzoek van een partij per brief zijn interpretatie van een tijdens een comparitie gesloten te zijnen overstaan gesloten vaststellingsovereenkomst.
+
+Vordering procureur-generaal ex art. 14a (oud) RO. Het is onwenselijk dat de comparitierechter zich na afloop van de comparitie op verzoek van een der partijen uitlaat over de betekenis die naar zijn mening toekomst aan de in zijn aanwezigheid tot stand gekomen overeenkomst. Klacht gegrond.
+
+## Conclusie
+
+NO 10-37
+
+Voordracht en vordering tot het doen van een onderzoek als bedoeld in artikel 14a (oud) van de Wet op de rechterlijke organisatie
+
+1. De gedraging en de daartegen gerezen klacht
+
+1.1 Bij verzoekschrift van 21 oktober 2010 heeft mr. R.G.B. Everts namens zijn cliënte [klaagster] - die ik hierna niet meer afzonderlijk naast mr. Everts als klaagster zal noemen - zich tot mij gewend met een klacht tegen onder anderen [de raadsheer], senior raadsheer in het Gerechtshof [A]. Het verzoek strekte ertoe een vordering in te stellen bij de Hoge Raad tot het doen van een onderzoek als bedoeld in artikel 14a (oud) van de Wet op de rechterlijke organisatie (Wet RO).
+
+1.2 [De raadsheer] is opgetreden als raadsheer-commissaris in het hoger beroep dat [klaagster] had ingesteld tegen een vonnis in kort geding van de Rechtbank [C] van 16 april 2009 waarbij de vordering van wederpartij [betrokkene 1] tot afgifte van twee honden was toegewezen. Tijdens de comparitie van partijen op 28 september 2009 is ten overstaan van [de raadsheer] een vaststellingsovereenkomst tot stand gekomen. Dit is vastgelegd in het proces-verbaal van de zitting.
+
+1.3 Door tussenkomst van haar advocaat mr. Ris heeft [betrokkene 1] in oktober 2009 aan [de raadsheer] een brief doen toekomen met onder meer het volgende verzoek:
+
+"Ik zou graag van u een verklaring ontvangen, welke wij aan de duitse rechtbank kunnen overleggen, waarin duidelijk staat omschreven wat de feitelijke betekenis is van de inhoud van het proces verbaal, en dus ook wat de 'status' is van het vonnis van 16 april 2009 (bijvoorbeeld 'vernietigd' danwel 'kracht van gewijsde' heeft gekregen)."
+
+1.4 In zijn brief van 26 oktober 2009, gericht aan mr. Everts en mr. Ris, heeft [de raadsheer] onder meer het volgende geschreven.
+
+"Kort geleden heeft partij [betrokkene 1], aanvankelijk zonder inmenging van haar advocaat, contact met het Hof gezocht i.v.m. onduidelijkheid over de inhoud van de schikking ter comparitie van 28 september 2009 en de daaraan te verbinden gevolgtrekkingen. Nu haar brief inmiddels via de advocaat is aangeboden, is er reden om een nadere toelichting te geven. Ik stel het op prijs om mijn zienswijze aan de advocaten voor te leggen voordat ik mijn standpunt definitief bepaal. (...)
+
+Daarmee was - in mijn voorstelling van zaken - de gegeven voorzieningen in het vonnis zelf niet van de baan, want in dat geval had een schikking alleen in de rede gelegen, als [betrokkene 1] expliciet haar (toegewezen) aanspraken in het kort geding had prijsgegeven. Daarvan was geen sprake en dat was dus ook niet de bedoeling. Daarom is slechts een afspraak genaakt over de proceskosten in beide instanties. De verklaring van partijen, dat zij over en weer niets van elkaar te vorderen hebben, heeft een beperkte strekking, namelijk - in mijn herinnering - dat ook op eventueel verbeurde dwangsommen geen aanspraak zou worden gemaakt."
+
+1.5 De klacht van mr. Everts houdt in dat [de raadsheer] niet had behoren in te gaan op het verzoek van [betrokkene 1] en zich niet had moeten uitlaten over de uitleg van de vaststellingsovereenkomst. Mr. Everts stelt dat [de raadsheer] door de gewraakte gedraging zijn bevoegdheden heeft overschreden en buiten het rechterlijk domein is getreden.
+
+2. De interne klachtbehandeling
+
+2.1 Mr. Everts heeft zijn klacht bij brief van 21 oktober 2010 voorgelegd aan het Bestuur van het Hof. Het Bestuur heeft hem op 4 november 2010 schriftelijk bericht dat zijn klacht tegen [de raadsheer] niet in behandeling kon worden genomen. Volgens het Bestuur betreft de brief van [de raadsheer] een reactie op een vraag van een der partijen naar in het kader van hoor en wederhoor beide in de procedure betrokken advocaten en bevindt zich daarmee binnen het rechterlijk domein waarover op grond van artikel 2 lid 1 van de klachtenregeling van het Hof niet kan worden geklaagd. Artikel 2 lid 1 houdt in dat niet kan worden geklaagd over rechterlijke beslissingen, met inbegrip van beslissingen van procedurele aard.
+
+De externe klachtbehandeling
+
+2.2 Mr. Everts heeft zijn klacht eveneens bij mij ingediend onder overlegging van een aantal bijlagen, waaronder de briefwisseling met [de raadsheer]. De klacht werd ingediend voor het geval het Bestuur van het Hof in de - toen nog lopende - interne klachtprocedure negatief zou beslissen op de klacht. Aangezien de klacht is ingediend voor het tijdstip van inwerkingtreding van het nieuwe externe klachtrecht (1 juli 2011: Stb. 2011/324) blijft de oude regeling daarop van toepassing (artikel XXII lid 5 Evaluatiewet modernisering rechterlijke organisatie, Stb. 2011/255).
+
+2.3 Nadat het Bestuur mij op de hoogte had gebracht van de afloop van de interne klachtprocedure heb ik mr. Everts laten berichten dat zijn klacht voor zover gericht tegen een ander dan [de raadsheer] niet in behandeling kon worden genomen, alsmede dat zijn klacht tegen [de raadsheer] vragen opwierp waarnaar juridisch-inhoudelijk onderzoek moest worden verricht waardoor de behandeling van die klacht nog enige tijd zou vergen.
+
+2.4 Nadien heeft mr. Everts mij nog doen toekomen een arrest van het Hof van 30 augustus 2011 respectievelijk een vonnis van de Rechtbank [B] van 23 november 2011 inzake het geschil tussen zijn cliënte en wederpartij [betrokkene 1]. In die uitspraken is de verklaring van [de raadsheer] betrokken bij de beoordeling door het Hof respectievelijk de Rechtbank. Mr. Everts heeft gevraagd dit mee te nemen bij de behandeling van zijn klacht.
+
+2.5 Bij schrijven van 21 mei 2012 heb ik mr. Everts, [de raadsheer] en het Bestuur van het Hof laten weten dat en waarom ik voornemens was een vordering bij de Hoge Raad in te stellen tot het doen van een onderzoek naar de gedraging van [de raadsheer]. Daarbij heb ik mr. Everts en [de raadsheer] op de voet van artikel 14b lid 2 (oud) Wet RO gelegenheid geboden voor een reactie, alsook het Bestuur van het Hof.
+
+2.6 Van die gelegenheid hebben de betrokkenen gebruik gemaakt. Op 11 juli 2012 heb ik de betrokkenen geschreven dat de reacties de opportuniteit bevestigen van een vordering bij de Hoge Raad. Tevens heb ik te kennen gegeven dat de door het Bestuur en [de raadsheer] genoemde mogelijke situatie dat beide partijen de rechter vragen om een nadere uitleg een vraagpunt opwerpt dat ik mede zal betrekken in mijn vordering. Afschriften van de reacties heb ik meegezonden.
+
+3. De ontvankelijkheid van de klacht
+
+3.1 De klacht is gericht tegen een rechterlijk ambtenaar met rechtspraak belast, namelijk een senior raadsheer in een gerechtshof. Daarmee is gegeven dat de klacht binnen het bereik van de klachtregeling valt.
+
+3.2 Anders dan het Bestuur merk ik de gedraging van [de raadsheer] niet aan als een rechterlijke beslissing. De door [de raadsheer] in zijn brief gebruikte bewoordingen - ' mijn zienswijze' en 'mijn standpunt'- duiden daar reeds op. Ook het Hof en de Rechtbank [B] hebben in hun hierboven genoemde uitspraken de brief van [de raadsheer] aangemerkt als een 'toelichting' respectievelijk een 'verklaring'.
+
+4. De vordering
+
+Ter voldoening aan het verzochte vorder ik dat de Hoge Raad een onderzoek instelt naar de in de klacht aan de orde gestelde gedraging van [de raadsheer] en zijn oordeel uitspreekt over de gegrondheid van de klacht. De stukken van deze zaak leg ik over overeenkomstig de bijgevoegde inventarislijst.
+
+5. De motivering
+
+5.1 In de gelijktijdig met deze vordering ingestelde vordering in de zaak NO 11-45 ben ik ingegaan op de vraag of het een rechter is toegestaan zich uit te laten over een door hem gegeven beslissing door daarvan een nadere uitleg te geven. Het antwoord daarop luidt: nee, dat is in beginsel niet toegestaan. In de onderhavige zaak gaat het om de vraag of een rechter zich mag uitlaten over de uitleg van een in het kader van een comparitie van partijen ten overstaan van hem tot stand gekomen vaststellingsovereenkomst. Hoewel het i.c. niet gaat om de uitleg van een rechterlijke beslissing meen ik dat er zodanige overeenkomsten zijn met de kwestie in de andere zaak dat ik hier het gedeelte van de motivering invoeg dat handelt over het adagium "de rechter spreekt door zijn vonnis". Ik citeer:
+
+6.1 Deze zaak draait om de vraag in hoeverre het een rechter is toegestaan zich uit te laten over een door hem gegeven beslissing door daarvan een nadere uitleg te geven. In de literatuur wordt vrij algemeen het standpunt aangehangen dat de rechter dat niet behoort te doen. H.F.M. Hofhuis heeft het helder verwoord in een redactioneel in Trema 2010, p. 50 over "De Rechtspraak en de zaak Lucia de Berk." Ik citeer:
+
+"Het adagium dat de rechter door zijn vonnis spreekt, sluit andere wijzen van communiceren over de rechtspraak bepaald niet uit, maar heeft onverminderd betekenis voor zover daarmee wordt beoogd dat de procespartijen (en de belangstellende buitenwereld) het in een bepaalde zaak met de daarin gegeven, algemeen kenbare en gemotiveerde, beslissing moeten doen. Het machtswoord waartoe de rechter is geroepen verdraagt zich niet met allerhande (latere) authentieke en authentiek lijkende toelichtingen. Alleen de rechters die het vonnis hebben gewezen - enkelvoudig of meervoudig - zijn verantwoordelijk voor de beslissing. Voor kennisneming van de redenen daarvan bestaat maar één kenbron, het vonnis zelf. Eenieder mag interpreteren, kritiseren en aandringen op het aanwenden van rechtsmiddelen en zo nodig op wetswijziging, maar de rechter spreekt maar eenmaal. Dat alleen hij verantwoordelijk is leidt ook tot 'onbevoegdheid' van het gerechtsbestuur of van de Raad voor de rechtspraak om zich op welke wijze ook - vooraf of achteraf? - te mengen in beslissingen in concrete zaken. Het ligt in de rede om hieronder ook commentaren op eenmaal gedane uitspraken te begrijpen."
+
+Vergelijkbare standpunten vinden wij bijvoorbeeld bij P. Ingelse in het NJB 2010, p. 1962-1968 en T. Heeren die in een artikel in Trema 2012, p. 148-155 uitlegt dat in België de zogenoemde plicht tot "terughoudendheid" onder meer inhoudt dat de rechter zich onthoudt van commentaar op zaken die hij behandelt of reeds heeft behandeld.
+
+Dit alles neemt niet weg dat er ook andere geluiden te horen zijn. Zo noemt F. Jensma in zijn bijdrage aan het RAIO-congresboek 2008 De glazen toga, p. 23 het adagium "een fictie" die door de rechterlijke macht in stand wordt gehouden. In een commentaar d.d. 12 maart 2010 in de rubriek Recht en Bestuur op de website van NRC constateert Jensma: "De rechter spreekt niet meer alleen door zijn vonnis, maar legt het achteraf ook nog even op tv uit".
+
+Dat laatste is, zoals hierboven al uiteen is gezet niet een mening die binnen de literatuur brede steun heeft, maar de toenemende behoefte aan verduidelijking van rechterlijke uitspraken voor het grote publiek leidt wel tot vragen over de mogelijkheden en onmogelijkheden om rechterlijke uitspraken vanuit het gerecht nader toe te lichten.
+
+6.2 De toenemende behoefte bij pers en publiek aan voorlichting over rechtszaken heeft geleid tot een uitgewerkte regeling van de informatievoorziening aan de pers in een persrichtlijn. In de toelichting op de persrichtlijn van de rechtspraak 2008 en in de toelichting op de persrichtlijn van de Hoge Raad staat over het geven van een toelichting op een rechterlijke uitspraak: "Het is in Nederland niet gebruikelijk dat rechters hun eigen vonnis toelichten of anderszins spreken over wat er in een zaak op de zitting is gebeurd. De rechter 'spreekt door zijn vonnis' zoals dat heet." Vandaar dat voor de woordvoering over rechterlijke uitspraken bij alle gerechten een aantal persrechters/persraadsheren is aangesteld. Zij hebben als (neven)taak het desgevraagd geven van voorlichting over gedane uitspraken in zaken waarbij zij als rechter niet betrokken zijn geweest.
+
+6.3 Ook in de rechtspraak is de vraag in hoeverre een rechter zich tegenover de media mag uitlaten over zijn vonnis aan de orde gekomen. Ik geef enkele voorbeelden. In Olujic tegen Kroatië, LJN: BI6956, EHRC, 2009, 57 overwoog het EHRM:
+
+"59. The Court has held for instance that the judicial authorities are required to exercise maximum discretion with regard to the cases with which they deal in order to preserve their image as impartial judges. That discretion should dissuade them from making use of the press, even when provoked. It is the higher demands of justice and the elevated nature of judicial office which impose that duty (see Buscemi v. Italy, no. 29569/95, par. 67, ECHR 1999-VI). Thus, where a court president publicly used expressions which implied that he had already formed an unfavourable view of the applicant's case before presiding over the court that had to decide it, his statements were such as to justify objectively the accused's fears as to his impartiality (see Buscemi v. Italy, cited above, par. 68). On the other hand, in another case, where a judge engaged in public criticism of the defence and publicly expressed surprise that the accused had pleaded not guilty, the Court approached the matter on the basis of the subjective test (see Lavents v. Latvia, no. 58442/00, par.par. 118 and 119, 28 November 2002)."
+
+6.4 In de Nederlandse rechtspraak kwam deze vraag aan de orde in de zaak Holleeder. Het Amsterdamse Hof overwoog naar aanleiding van een verweer dat het recht op berechting door een onpartijdige rechter was geschonden omdat de voorzitter van de rechtbank zich na de uitspraak van de rechtbank hangende het hoger beroep over de zaak had uitgelaten tegenover een journalist van de Telegraaf:
+
+"In beginsel heeft de rechter zich te onthouden van uitlatingen in de media over een zaak die aan zijn oordeel onderworpen is geweest (en zeker zolang daarop nog niet onherroepelijk is beslist). Het antwoord op de vraag of dergelijke uitlatingen een schending van artikel 6, eerste en/of tweede lid, EVRM opleveren, is evenwel afhankelijk van de inhoud en strekking van die uitlatingen en de verdere omstandigheden."
+
+(Hof Amsterdam 3 juli 2009, LJN: BJ1646)(1).
+
+6.5 Uitlatingen achteraf van de rechter over een door hem berechte zaak kunnen niet alleen twijfel doen ontstaan over zijn onpartijdigheid of de wijze waarop hij de zaak heeft behandeld, zoals aan de orde kwam in de hierboven genoemde zaken, zij staan ook op gespannen voet met het procesrechtelijk kader waarbinnen de rechter zijn taak verricht. In zijn uitspraak geeft de rechter een beslissing over een aan hem voorgelegd rechtsgeschil. Die beslissing is bindend voor partijen en - behoudens de mogelijkheid van beroep - onherroepelijk en maakt een einde aan het rechtsgeding. Daarmee is niet te rijmen dat de rechter op enigerlei wijze terugkomt op zijn beslissing of nadere overwegingen of uitleg geeft. Als het rechtsgeding tot een einde is gekomen, heeft de rechter zijn taak vervuld. Het procesrecht kent hem geen rol meer toe, maar biedt partijen ter zake van de beslissing voorzieningen bij andere instanties, zoals de appelrechter en de voorzieningenrechter.
+
+6.6 Dit is slechts anders in het geval de rechterlijke uitspraak een voor eenieder kenbare, eenvoudig te herstellen fout bevat. Het Wetboek van Burgerlijke Rechtsvordering bevat een regeling voor verbetering en aanvulling van rechterlijke uitspraken door de rechter die de uitspraak heeft gedaan. Artikel 31 bepaalt dat de rechter te allen tijde op verzoek van een partij of ambtshalve in zijn vonnis, arrest of beschikking een kennelijke rekenfout, schrijffout of andere kennelijke fout die zich voor eenvoudig herstel leent, verbetert. Artikel 32 houdt in dat de rechter te allen tijde op verzoek van een partij zijn vonnis, arrest of beschikking aanvult indien hij heeft verzuimd te beslissen over een onderdeel van het gevorderde of verzochte. De regeling van artikel 31 "is bedoeld voor zeer duidelijke verschrijvingen of (reken)fouten waarvan buiten twijfel is wat de rechter tot uitdrukking wilde brengen en die zich ook voor eenvoudig herstel lenen". De artikelen 31 en 32 behelzen "een lichte en eenvoudige regeling voor gevallen waarin het evident is dat en welk "steekje" de rechter heeft laten vallen" (TK 1999-2000, 26 855, nr. 5, p. 32 respectievelijk p. 33).
+
+Partijen worden in de gelegenheid gesteld zich uit te laten over een eventuele verbetering of aanvulling. Indien partijen niet in de gelegenheid worden gesteld zich over de verzochte of voorgenomen verbetering of aanvulling uit te laten kan het recht op een eerlijk proces zijn geschonden. Zie bijv. HR 14 december 2007, LJN: BC0165, NJ 2008, 7. De verbetering of aanvulling wordt in het openbaar uitgesproken door de rechter en wordt aangetekend op de minuut van het vonnis, het arrest of de beschikking. Dit laatste zodat "geen misverstand kan ontstaan over de vraag hoe de desbetreffende rechterlijke beslissing luidt" (TK 1999-2000, 26 855, nr. 5, p. 33/34).
+
+De verbetering of aanvulling heeft tot gevolg dat een eerder verstrekte grosse, die de fout bevat, haar kracht verliest. Een reeds aangevangen executie kan worden voortgezet met inachtneming van de verbetering of aanvulling. Uit de nieuwe grosse "is voor een ieder op elk moment in de executie te reconstrueren wat het gebrek was en wat daaraan is hersteld" (EK 2001-2002, 26 855, nr. 16, p. 26/27).
+
+6.7 Voor bestuursrechtelijke en strafrechtelijke uitspraken kent de wet geen regeling voor het herstel van misslagen. In bestuurszaken worden misslagen hersteld waarbij een procedure wordt gevolgd die vergelijkbaar is met het bepaalde in de artikelen 31 en 32 Rv. De rechter geeft partijen de gelegenheid zich uit te laten over een voorgenomen verbetering om vervolgens te beslissen. Ik verwijs hiervoor naar het commentaar van Borman in T&C Algemene wet bestuursrecht, aant. 2 op art. 8:70 en Hof 's-Hertogenbosch, 26 maart 2010, LJN: BM4407, Centrale Raad van Beroep, 7 april 2011, LJN: BQ2229. Het kader voor herstel van kennelijke fouten in strafzaken is door de Hoge Raad uiteengezet in zijn arrest van 12 juni 2012, LJN: BW1478, NJ 2012, 490. Ook hier geldt dat het moet gaan om een kennelijke rekenfout, schrijffout of andere kennelijke fout die zich voor eenvoudig herstel leent.
+
+6.8 Het moge duidelijk zijn dat de regeling van herstel van misslagen in het Wetboek van burgerlijke rechtsvordering en de rechtspraak in bestuurszaken en strafzaken de rechter geen grondslag bieden om een nadere uitleg te geven van zijn uitspraak. Het procesrecht voorziet niet in andere bemoeienis van de rechter met een door hem gegeven beslissing dan de hiervoor genoemde mogelijkheid van verbetering en aanvulling. Bij het codificeren van die mogelijkheid in civiele zaken heeft de wetgever onderkend dat een verbetering of aanvulling van een rechterlijke uitspraak kan leiden tot complicaties in de executiefase. De artikelen 31 en 32 van het Wetboek van burgerlijke rechtsvordering bevatten daarom ook regels over de tenuitvoerlegging van de verbeterde of aangevulde uitspraak. Een nadere uitleg van een rechterlijke uitspraak ligt dicht aan tegen een verbetering of wijziging van die uitspraak en zal dat in sommige gevallen ook daadwerkelijk zijn. Wat daarvan de rechtsgevolgen zijn, is niet duidelijk en ook daarom dient de rechter zich te onthouden van nadere uitlatingen. Het is bijvoorbeeld niet waarschijnlijk dat zonder uitdrukkelijke bepaling kan worden aangenomen dat - naar analogie van de artikelen 31 en 32 - de reeds verstrekte grosse van een door uitlegging verbeterde of aangevulde uitspraak haar kracht zou verliezen.
+
+6.9, Uitgangspunt is dus dat de rechter nadat hij zijn beslissing en de bijbehorende motivering heeft gegeven, zich niet uitlaat over de inhoud en de uitleg van zijn uitspraak. Daarmee is niet gezegd dat de rechter nimmer enige toelichting zou mogen geven. In welke gevallen dat de rechter zou zijn toegestaan, is echter niet in een algemene regel te vervatten. Dat zal per geval moeten worden beoordeeld.
+
+5.2 In het onderhavige geval is in het proces-verbaal de vaststellingsovereenkomst tussen [klaagster] en [betrokkene 1] neergelegd. Tevens is daarin vastgelegd dat de raadsheer-commissaris de zaak doorhaalt. Ik meen dat deze situatie niet zozeer verschilt van de situatie dat door de beslissing van de rechter over het geschil een einde komt aan het geding, dat hier niet zou behoren te gelden dat de rechter zich niet nader uitlaat over hetgeen ter zitting aan de orde is gekomen en over de inhoud en de uitleg van het proces-verbaal. Ik ben bovendien van mening dat dit niet anders zou moeten zijn als beide partijen de rechter vragen om een nadere uitleg. Het procesrecht voorziet niet in "nazorg" door de rechter behalve de genoemde mogelijkheid van verbetering en aanvulling. In de zaak NO 11-45 heb ik erop gewezen dat nadere uitleg dicht aanligt tegen verbetering of wijziging en dat in sommige gevallen ook daadwerkelijk zal zijn, dat niet duidelijk is wat daarvan de rechtsgevolgen zijn, en dat daarom de rechter zich dient te onthouden van nadere uitlatingen. Als voorbeeld noemde ik de kwestie van de grosse van een door uitlegging verbeterde of aangevulde uitspraak. Met betrekking tot een grosse van een proces-verbaal van een schikking (artikel 87 lid 3 Wetboek van Burgerlijke Rechtsvordering) is evenmin waarschijnlijk dat zonder uitdrukkelijke bepaling kan worden aangenomen dat - naar analogie van de artikelen 31 en 32 - de reeds verstrekte grosse haar kracht zou verliezen. Daarbij teken ik aan dat dit eens temeer geldt nu de regeling voor verbetering en aanvulling enkel van toepassing is op vonnissen, arresten en beschikkingen en niet op processen-verbaal.
+
+5.3 Mr. Everts heeft mij gevraagd aandacht te besteden aan de gevolgen van de gedraging van [de raadsheer]. Het gaat hem daarbij in het bijzonder om de omstandigheid dat de brief van [de raadsheer] is betrokken in de beoordeling in de latere procedures tussen [klaagster] en [betrokkene 1]. Die gevolgen zijn voor [klaagster] het punt waar het haar om gaat; dat is alleszins begrijpelijk. In mijn brief van 11 juli jl. aan mr. Everts heb ik echter erop moeten wijzen dat de beslissing van de Hoge Raad op een klacht geen gevolgen heeft voor (lopende) rechtszaken en dat dit betekent dat de (uitkomst van de) onderhavige klachtprocedure geen gevolgen heeft voor het geschil tussen [klaagster] en [betrokkene 1] en geen wijziging brengt in de rechterlijke uitspraken die daarover zijn gedaan. Of de verklaring van [de raadsheer] in nog lopende of eventuele nieuwe procedures in aanmerking mag worden genomen, staat thans niet ter beoordeling. Het is uitsluitend aan de rechter in de desbetreffende procedure(s) tussen [klaagster] en [betrokkene 1] om te beoordelen wat de vaststellingsovereenkomst inhoudt en te bepalen of de verklaring van [de raadsheer] dienaangaande tot bewijs kan dienen. In de klachtprocedure gaat het om de vraag of de gedraging van [de raadsheer] de behoorlijkheidstoets kan doorstaan. De beoordeling van de klacht kan leiden tot de vaststelling door de Hoge Raad van een rechterlijke gedragsnorm. Het dient de rechtspleging en het vertrouwen in de rechtspraak wanneer een richtlijn zou worden geformuleerd voor het handelen van de rechter in een situatie als de onderhavige.
+
+5.4 Het feit dat de brief van [de raadsheer] - waarin hij een voorlopig standpunt formuleerde - een eigen leven is gaan leiden, illustreert het belang ervan dat de rechter zich zeer terughoudend opstelt wanneer het voor hem gevoerde geding is geëindigd. In de procedure heeft de rechter de regie, daarna niet meer. Voor hem is dan in beginsel geen rol meer weggelegd, ook niet vanuit de intentie beide partijen ter wille te zijn. Anders dan in de zaak NO 11-45 waren de omstandigheden van het geval niet zodanig dat het toelaatbaar was dat [de raadsheer] een uitzondering maakte op de regel dat de rechter zich niet nader uitlaat over hetgeen ter zitting aan de orde is gekomen en over de inhoud en de uitleg van het proces-verbaal.
+
+Op grond van het voorgaande ben ik van mening dat de klacht dat [de raadsheer] niet had behoren in te gaan op het verzoek van [betrokkene 1] en zich niet had moeten uitlaten over de uitleg van de vaststellingsovereenkomst, gegrond is.
+
+'s-Gravenhage, 7 december 2012
+
+De Procureur-Generaal
+
+bij de Hoge Raad der Nederlanden,
+
+1 In cassatie (HR 12 oktober 2010, LJN: BN0526, NJ 2011, 537) kwam de vraag in hoeverre uitlatingen van een rechter tegenover derden over een door hem behandelde zaak toelaatbaar zijn, niet aan de orde.
