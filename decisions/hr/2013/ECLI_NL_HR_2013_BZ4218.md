@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BZ4218"
-published_in: ["Rechtspraak.nl", "Belastingadvies 2013/8.2", "V-N 2013/14.11 met annotatie van Redactie", "V-N Vandaag 2013/646", "NJB 2013/680", "BNB 2013/119 met annotatie van J.P. BOER", "FED 2013/62 met annotatie van S.J. Mol-Verver", "FutD 2013-0724 met annotatie van Fiscaal up to Date", "NTFR 2014/76", "NTFR 2013/748 met annotatie van mr. J.P.A. Buitenhek"]
+published_in: ["Rechtspraak.nl", "Belastingadvies 2013/8.2", "V-N 2013/14.11 met annotatie van Redactie", "V-N Vandaag 2013/646", "NJB 2013/680", "BNB 2013/119 met annotatie van J.P. BOER", "FED 2013/62 met annotatie van S.J. Mol-Verver", "NTFR 2014/76", "NTFR 2013/748 met annotatie van mr. J.P.A. Buitenhek", "FutD 2013-0724", "Viditax (FutD) 2013031505"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2012:BX0226, Bekrachtiging/bevestiging"]]
 ---
 
