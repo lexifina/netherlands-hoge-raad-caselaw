@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BY6108"
-published_in: ["Rechtspraak.nl", "NJB 2013/957", "RvdW 2013/591", "NJ 2013/291 met annotatie van F.M.J. Verstijlen", "RI 2013/67", "WR 2013/66 met annotatie van J.K. Six-Hummel", "RVR 2013/69", "Ondernemingsrecht 2014/29 met annotatie van R.J. van Galen", "JWB 2013/223", "JOR 2013/224 met annotatie van mr. G.A.J. Boekraad", "JHV 2013/97 met annotatie van mr. Ferment"]
+published_in: ["Rechtspraak.nl", "NJB 2013/957", "RvdW 2013/591", "NJ 2013/291 met annotatie van F.M.J. Verstijlen", "RI 2013/67", "WR 2013/66 met annotatie van mr. J.K. Six-Hummel", "RVR 2013/69", "Ondernemingsrecht 2014/29 met annotatie van R.J. van Galen", "JWB 2013/223", "JOR 2013/224 met annotatie van mr. G.A.J. Boekraad", "JHV 2013/97 met annotatie van mr. Ferment"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BY6108, Contrair"]]
 ---
 
