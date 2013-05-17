@@ -1,0 +1,23 @@
+---
+ecli: "ECLI:NL:HR:2013:CA0244"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "13/00387"
+decided: "2013-05-17"
+published: "2013-06-22"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:CA0244"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:HR:2013:CA0244 Hoge Raad , 17-05-2013 / 13/00387
+
+## Inhoudsindicatie
+
+De Hoge Raad heeft het beroep in cassatie niet-ontvankelijk verklaard
+
+## Uitspraak
+
+gewezen op het beroep in cassatie van X Beheer B.V. te Z tegen de uitspraak van het Gerechtshof te 's-Hertogenbosch van 27 juni 2011, nr. 09/00719, betreffende de aan belanghebbende over de periode 1 januari 2003 t/m 31 december 2004 opgelegde naheffingsaanslag in de omzetbelasting en de daarbij gegeven boetebeschikking en heffingsrentebeschikking, nummer 001.
