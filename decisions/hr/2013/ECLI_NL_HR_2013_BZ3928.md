@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BZ3928"
-published_in: ["Rechtspraak.nl", "RvdW 2013/724", "NJ 2014/218 met annotatie van A.H. Klip", "NBSTRAF 2013/221"]
+published_in: ["Rechtspraak.nl", "RvdW 2013/724", "NJ 2014/218 met annotatie van A.H. Klip", "NbSr 2013/221"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2012:BZ3928"]]
 ---
 
