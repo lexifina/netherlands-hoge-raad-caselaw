@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:39"
-published_in: ["Rechtspraak.nl", "RvdW 2013/858", "NJB 2013/1684", "JWB 2013/344"]
+published_in: ["Rechtspraak.nl", "RvdW 2013/858", "NJB 2013/1684", "JWB 2013/344", "AA20130677 met annotatie van Nuytinck A.J.M. André"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSGR:2011:BU5705, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BZ7796, Gedeeltelijk contrair"]]
 ---
 
