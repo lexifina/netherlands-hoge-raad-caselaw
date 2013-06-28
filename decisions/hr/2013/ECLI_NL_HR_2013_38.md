@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:38"
-published_in: ["Rechtspraak.nl", "RvdW 2013/852", "NJB 2013/1683", "RFR 2013/106", "NJ 2013/521 met annotatie van L.C.A. Verstappen", "JWB 2013/345", "AA20130677 met annotatie van A.J.M. Nuytinck"]
+published_in: ["Rechtspraak.nl", "RvdW 2013/852", "NJB 2013/1683", "RFR 2013/106", "NJ 2013/521 met annotatie van L.C.A. Verstappen", "JWB 2013/345", "AA20130677 met annotatie van Nuytinck A.J.M. André"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BZ7183, Gedeeltelijk contrair"]]
 ---
 
