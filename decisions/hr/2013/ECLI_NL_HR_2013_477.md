@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:477"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1865", "V-N 2013/37.25 met annotatie van Redactie", "Belastingblad 2013/444 met annotatie van S. Darwinkel-Huijbregts", "BNB 2013/239 met annotatie van S. BOSMA", "TBR 2014/14 met annotatie van M.A. Broekman, D.J.M. Westerhoff", "FutD 2013-2015", "NTFR 2013/1603 met annotatie van mr. dr. G. Groenewegen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1865", "V-N 2013/37.25", "Belastingblad 2013/444 met annotatie van S. Darwinkel-Huijbregts", "BNB 2013/239 met annotatie van S. BOSMA", "TBR 2014/14 met annotatie van D.J.M. Westerhoff, M.A. Broekman", "NTFR 2013/1603 met annotatie van mr. dr. G. Groenewegen", "FutD 2013-2015", "Viditax (FutD) 2013080906"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BZ8601, Gedeeltelijk contrair"], ["Formele relatie", "In sprongcassatie op: ECLI:NL:RBAMS:2012:BZ5426, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
