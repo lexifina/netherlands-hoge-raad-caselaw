@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:494"
-published_in: ["Rechtspraak.nl", "NJB 2013/1979", "NJ 2013/427", "RvdW 2013/1008", "NBSTRAF 2013/286", "VA 2014/12", "JIN 2013/164 met annotatie van M.L.C.C. de Bruijn-Lückers", "SR-Updates.nl 2013-0325"]
+published_in: ["Rechtspraak.nl", "NJB 2013/1979", "NJ 2013/427", "RvdW 2013/1008", "VA 2014/12", "JIN 2013/164 met annotatie van M.L.C.C. de Bruijn-Lückers", "SR-Updates.nl 2013-0325", "NbSr 2013/286"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:415, Gevolgd"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafrecht/art-242.md"]
 ---
