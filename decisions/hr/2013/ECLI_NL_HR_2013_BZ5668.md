@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BZ5668"
-published_in: ["Rechtspraak.nl", "RvdW 2012/912", "NJ 2012/424", "NJB 2012/1608", "NJB 2013/2016", "RvdW 2013/1062", "RI 2013/107", "TvI 2014/6 met annotatie van J.R. Berkenbosch", "Ondernemingsrecht 2014/41 met annotatie van M.L.H. Reumers", "JWB 2013/344", "NJ 2014/454 met annotatie van Th.M. de Boer", "JOR 2014/50 met annotatie van mr. R.I.V.F. Bertrams", "JBPr 2014/16 met annotatie van mr. dr. T.M. Bos"]
+published_in: ["Rechtspraak.nl", "RvdW 2012/912", "NJ 2012/424", "NJB 2012/1608", "NJB 2013/2016", "RvdW 2013/1062", "RI 2013/107", "TvI 2014/6 met annotatie van J.R. Berkenbosch", "Ondernemingsrecht 2014/41 met annotatie van M.L.H. Reumers", "NJ 2014/454 met annotatie van Th.M. de Boer", "JOR 2014/50 met annotatie van mr. R.I.V.F. Bertrams", "JBPr 2014/16 met annotatie van mr. dr. T.M. Bos", "JWB 2013/435"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:BZ5668, Contrair"]]
 ---
 
