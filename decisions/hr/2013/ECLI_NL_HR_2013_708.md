@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:708"
-published_in: ["Rechtspraak.nl", "RvdW 2013/1090", "NJB 2013/2136", "NJ 2014/288 met annotatie van P.H.P.H.M.C. van Kempen", "NBSTRAF 2013/315", "SR-Updates.nl 2013-0356"]
+published_in: ["Rechtspraak.nl", "RvdW 2013/1090", "NJB 2013/2136", "NJ 2014/288 met annotatie van P.H.P.H.M.C. van Kempen", "SR-Updates.nl 2013-0356", "NbSr 2013/315"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:800, Gevolgd"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-440.md"]
 ---
