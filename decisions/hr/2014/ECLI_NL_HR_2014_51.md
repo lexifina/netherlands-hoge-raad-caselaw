@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:51"
-published_in: ["Rechtspraak.nl", "NJB 2014/154", "NJ 2014/116 met annotatie van", "RvdW 2014/341", "JWB 2014/45", "JOR 2014/248"]
+published_in: ["Rechtspraak.nl", "NJB 2014/154", "NJ 2014/116", "RvdW 2014/341", "JWB 2014/45", "JOR 2014/248"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1314, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2012:BY2231, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-064.md", "netherlands/national/acts/faillissementswet/art-087.md", "netherlands/national/acts/faillissementswet/art-105.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-585.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-586.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-587.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-588.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-589.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-590.md"]
 ---
