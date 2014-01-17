@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:98"
-published_in: ["Rechtspraak.nl", "RvdW 2014/166", "NJB 2014/210", "NJ 2014/61 met annotatie van", "RI 2014/40", "JWB 2014/47", "JOR 2014/214 met annotatie van mr. I. Spinath"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:985, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2013:1941, (Gedeeltelijke) vernietiging met verwijzen"]]
+published_in: ["Rechtspraak.nl", "RvdW 2014/166", "NJB 2014/210", "NJ 2014/61", "RI 2014/40", "JWB 2014/47", "JOR 2014/214 met annotatie van mr. I. Spinath"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:985, Gevolgd"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-001.md", "netherlands/national/acts/faillissementswet/art-006.md"]
 ---
 
