@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:91"
-published_in: ["Rechtspraak.nl", "RvdW 2014/161", "NJB 2014/211", "RFR 2014/41", "NJ 2014/154 met annotatie van S.F.M. Wortmann", "EB 2014/41", "JWB 2014/51", "JHG 2014/47", "JIN 2014/33 met annotatie van M.M. Schouten"]
+published_in: ["Rechtspraak.nl", "RvdW 2014/161", "NJB 2014/211", "RFR 2014/41", "NJ 2014/154 met annotatie van S.F.M. Wortmann", "EB 2014/41", "JWB 2014/51", "JHG 2014/47", "JIN 2014/33 met annotatie van M.M. Schouten", "FJR 2024/5.3", "FJR 2026/46.17"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1136"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2013:CA3939, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Verwijzing naar: ECLI:NL:GHDHA:2016:794"]]
 cites_law: ["netherlands/national/acts/bw-boek-1/art-377a.md"]
 ---
