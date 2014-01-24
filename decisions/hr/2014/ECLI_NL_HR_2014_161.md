@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:161"
-published_in: ["Rechtspraak.nl", "NJB 2014/262", "RvdW 2014/194", "NJ 2014/70 met annotatie van", "RI 2014/50", "JWB 2014/55", "JOR 2014/251 met annotatie van mr. W.J.B. van Nielen"]
+published_in: ["Rechtspraak.nl", "NJB 2014/262", "RvdW 2014/194", "NJ 2014/70", "RI 2014/50", "JWB 2014/55", "JOR 2014/251 met annotatie van mr. W.J.B. van Nielen"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1823, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2013:BZ3799, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-087.md", "netherlands/national/acts/faillissementswet/art-105.md"]
 ---
