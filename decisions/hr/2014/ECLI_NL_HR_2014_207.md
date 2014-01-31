@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:207"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/366", "V-N 2014/14.20 met annotatie van Redactie", "FutD 2014-0227"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/366", "V-N 2014/14.20 met annotatie van Redactie", "FutD 2014-0227", "Viditax (FutD) 2014013111"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2013:4673, Niet ontvankelijk"]]
 ---
 
