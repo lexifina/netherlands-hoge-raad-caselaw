@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:319"
-published_in: ["Rechtspraak.nl", "NJB 2014/420", "RvdW 2014/338", "RI 2014/42", "JWB 2014/106", "TvI 2014/23 met annotatie van K.A. Messelink, F.H. van der Beek", "NJ 2014/264 met annotatie van F.M.J. Verstijlen", "Bb 2014/78.1", "AA20150296 met annotatie van R.M.  Wibier", "JIN 2014/91 met annotatie van L. Krieckaert", "JOR 2014/118 met annotatie van mr. B.A. Schuijling en prof. mr. N.E.D. Faber", "NTHR 2014, afl. 3, p. 172", "NTHR 2014, afl. 2, p. 107"]
+published_in: ["Rechtspraak.nl", "NJB 2014/420", "RvdW 2014/338", "RI 2014/42", "JWB 2014/106", "TvI 2014/23 met annotatie van F.H. van der Beek, K.A. Messelink", "NJ 2014/264 met annotatie van F.M.J. Verstijlen", "Bb 2014/78.1", "AA20150296 met annotatie van R.M.  Wibier", "JIN 2014/91 met annotatie van L. Krieckaert", "JOR 2014/118 met annotatie van Mr. B.A. Schuijling, prof. mr. N.E.D. Faber", "NTHR 2014, afl. 3, p. 172", "NTHR 2014, afl. 2, p. 107"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1253, Gevolgd"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-248.md", "netherlands/national/acts/bw-boek-3/art-250.md", "netherlands/national/acts/bw-boek-3/art-251.md", "netherlands/national/acts/bw-boek-3/art-253.md", "netherlands/national/acts/faillissementswet/art-054.md"]
 ---
