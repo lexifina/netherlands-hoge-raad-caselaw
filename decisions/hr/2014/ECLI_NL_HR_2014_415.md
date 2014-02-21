@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:415"
-published_in: ["Rechtspraak.nl", "NJB 2014/481", "RvdW 2014/367", "RI 2014/43", "JWB 2014/109", "TvI 2014/24 met annotatie van G.G. Boeve, S. Jansen", "NJ 2015/82 met annotatie van H.J. Snijders", "AA20150126 met annotatie van R.M.  Wibier", "JOR 2014/119 met annotatie van Mr. B.A. Schuijling", "JBPR 2015/27 met annotatie van mr. dr. L.P. Broekveldt", "JIN 2014/70 met annotatie van L. Krieckaert", "NTHR 2014, afl. 4, p. 184 met annotatie van mr. A.J.M. Roos, mr. drs. M.A.J. Hartman", "NTHR 2014, afl. 3, p. 172"]
+published_in: ["Rechtspraak.nl", "NJB 2014/481", "RvdW 2014/367", "RI 2014/43", "JWB 2014/109", "TvI 2014/24 met annotatie van G.G. Boeve, S. Jansen", "NJ 2015/82 met annotatie van H.J. Snijders", "AA20150126 met annotatie van R.M.  Wibier", "JOR 2014/119 met annotatie van Mr. B.A. Schuijling", "JBPr 2015/27 met annotatie van mr. dr. L.P. Broekveldt", "JIN 2014/70 met annotatie van L. Krieckaert", "NTHR 2014, afl. 4, p. 184 met annotatie van mr. A.J.M. Roos, mr. drs. M.A.J. Hartman", "NTHR 2014, afl. 3, p. 172"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1650, Gevolgd"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-246.md", "netherlands/national/acts/bw-boek-6/art-160.md"]
 ---
