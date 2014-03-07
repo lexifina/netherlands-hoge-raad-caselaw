@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:524"
-published_in: ["Rechtspraak.nl", "NJB 2014/572", "RvdW 2014/431", "NJ 2014/155 met annotatie van", "JWB 2014/130", "JOR 2014/217 met annotatie van Mr. C. Rijckenberg"]
+published_in: ["Rechtspraak.nl", "NJB 2014/572", "RvdW 2014/431", "NJ 2014/155", "JWB 2014/130", "JOR 2014/217 met annotatie van Mr. C. Rijckenberg"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1828, Gevolgd"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-001.md", "netherlands/national/acts/faillissementswet/art-006.md"]
 ---
