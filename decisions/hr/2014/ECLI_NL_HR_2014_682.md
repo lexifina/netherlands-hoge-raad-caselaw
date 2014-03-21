@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:682"
-published_in: ["Rechtspraak.nl", "NJB 2014/681", "RvdW 2014/495", "RCR 2014/41", "Bb 2014/27.1", "Prg. 2014/125", "RI 2014/52", "V-N Vandaag 2014/970", "JWB 2014/146", "V-N 2014/47.24 met annotatie van Redactie", "NJ 2015/167 met annotatie van H.J. Snijders", "AA20140927 met annotatie van W.H. van Boom", "JIN 2014/133 met annotatie van L. Krieckaert", "JOR 2014/151 met annotatie van Mr. B.A. Schuijling", "NTHR 2014, afl. 3, p. 171", "TvPP 2014, afl. 3, p. 92"]
+published_in: ["Rechtspraak.nl", "NJB 2014/681", "RvdW 2014/495", "RCR 2014/41", "Bb 2014/27.1", "Prg. 2014/125", "RI 2014/52", "V-N Vandaag 2014/970", "JWB 2014/146", "V-N 2014/47.24", "NJ 2015/167 met annotatie van H.J. Snijders", "AA20140927 met annotatie van W.H. van Boom", "JIN 2014/133 met annotatie van L. Krieckaert", "JOR 2014/151 met annotatie van Mr. B.A. Schuijling", "NTHR 2014, afl. 3, p. 171", "TvPP 2014, afl. 3, p. 92"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2013:1380, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2012:BX4596, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-036.md", "netherlands/national/acts/bw-boek-3/art-083.md"]
 ---
