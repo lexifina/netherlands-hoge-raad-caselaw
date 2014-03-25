@@ -50,7 +50,7 @@ Bewezenverklaring en bewijsvoering
 
 Ten laste van de verdachte is bewezenverklaard dat:
 
-"hij in de periode van 1 december 2010 tot en met 31 december 2010 te Schiphol en Somalië en Ethiopië en Groot-Brittannië en Verenigde Arabische Emiraten, tezamen in vereniging met een ander of anderen, [betrokkene 1], zich noemende [A], en [betrokkene 2], zich noemende [B], behulpzaam zijn geweest bij het zich verschaffen van toegang tot Nederland, een andere lidstaat van de Europese Unie, IJsland, Noorwegen, in elk geval een staat die is toegetreden tot het op 15 november 2000 te New York totstandgekomen Protocol tegen de smokkel van migranten over land, over de zee en in de lucht, tot aanvulling van het op 15 november 2000 te New York totstandgekomen Verdrag tegen transnationale georganiseerde misdaad, immers hebben hij, verdachte en zijn mededader(s)
+"hij in de periode van 1 december 2010 tot en met 31 december 2010 te Schiphol en Somalië en Ethiopië en Groot-Brittannië en Verenigde Arabische Emiraten, tezamen in vereniging met een ander of anderen, [betrokkene 1] , zich noemende [A] , en [betrokkene 2] , zich noemende [B] , behulpzaam zijn geweest bij het zich verschaffen van toegang tot Nederland, een andere lidstaat van de Europese Unie, IJsland, Noorwegen, in elk geval een staat die is toegetreden tot het op 15 november 2000 te New York totstandgekomen Protocol tegen de smokkel van migranten over land, over de zee en in de lucht, tot aanvulling van het op 15 november 2000 te New York totstandgekomen Verdrag tegen transnationale georganiseerde misdaad, immers hebben hij, verdachte en zijn mededader(s)
 
 - aan voornoemde personen een niet op hun naam gesteld paspoort gegeven en
 
@@ -70,11 +70,11 @@ Deze bewezenverklaring steunt op onder meer de volgende bewijsmiddelen:
 
 "2. Een proces-verbaal van aanleiding en onderzoek aangeboden documenten van 31 december 2010 in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaren [verbalisant 1] en [verbalisant 2] (pagina 0.5). Dit proces-verbaal houdt - zakelijk weergegeven - in:
 
-Op vrijdag 31 december 2010 waren wij, verbalisanten, werkzaam in het bureau van de afdeling Falsificaten te Schiphol. [betrokkene 3] overhandigde ons het nationaal paspoort van Groot Brittannië, voorzien van het nummer [001]. Wij hebben een nader onderzoek ingesteld naar het paspoort. [betrokkene 3], wees ons, verbalisanten, de man die hem vergezelde aan, als de persoon, die het nationaal paspoort van Groot-Brittannië, voorzien van het nummer [001], ter controle had overhandigd. Tevens wees [betrokkene 3] één van de kinderen aan die volgens de man de houder was van het document. Bij onderzoek van het voornoemde nationaal paspoort van Groot-Brittannië, voorzien van het nummer [001], zagen wij, verbalisanten, dat:
+Op vrijdag 31 december 2010 waren wij, verbalisanten, werkzaam in het bureau van de afdeling Falsificaten te Schiphol. [betrokkene 3] overhandigde ons het nationaal paspoort van Groot Brittannië, voorzien van het nummer [001] . Wij hebben een nader onderzoek ingesteld naar het paspoort. [betrokkene 3] , wees ons, verbalisanten, de man die hem vergezelde aan, als de persoon, die het nationaal paspoort van Groot-Brittannië, voorzien van het nummer [001] , ter controle had overhandigd. Tevens wees [betrokkene 3] één van de kinderen aan die volgens de man de houder was van het document. Bij onderzoek van het voornoemde nationaal paspoort van Groot-Brittannië, voorzien van het nummer [001] , zagen wij, verbalisanten, dat:
 
-- deze was afgegeven op 11 augustus 2006, geldig was gemaakt tot 11 augustus 2011 en op naam was gesteld van: [B], geboren te [geboorteplaats] op [geboortedatum] 1996;
+- deze was afgegeven op 11 augustus 2006, geldig was gemaakt tot 11 augustus 2011 en op naam was gesteld van: [B] , geboren te [geboorteplaats] op [geboortedatum] 1996;
 
-- dit NIET was voorzien van een gelijkende foto van het kind, aangewezen door [betrokkene 3], voornoemd;
+- dit NIET was voorzien van een gelijkende foto van het kind, aangewezen door [betrokkene 3] , voornoemd;
 
 - de vorm van het gelaat van het kind voornoemd, afwijkend is vergeleken met de vorm van het gelaat zichtbaar op de pasfoto;
 
@@ -84,13 +84,13 @@ Op vrijdag 31 december 2010 waren wij, verbalisanten, werkzaam in het bureau van
 
 3. Een proces-verbaal van aanleiding en onderzoek aangeboden documenten van 31 december 2010 in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaren [verbalisant 1] en [verbalisant 2] (pagina 0.5). Dit proces-verbaal houdt in:
 
-Op vrijdag 31 december 2010 waren wij, verbalisanten, werkzaam in het bureau van de afdeling Falsificaten te Schiphol. [betrokkene 3] overhandigde ons het nationaal paspoort van Groot Brittannië, voorzien van het nummer [002]. Wij hebben een nader onderzoek ingesteld naar het nationaal paspoort. [betrokkene 3], wees ons, verbalisanten, de man die hem vergezelde aan, als de persoon, die het nationaal paspoort van Groot-Brittannië, voorzien van het nummer [002], ter controle had overhandigd. Tevens wees hij één van de kinderen aan die volgens de man de houder was van het document. Bij onderzoek van het voornoemde nationaal paspoort van Groot-Brittannië, voorzien van het nummer [002], zagen wij, verbalisanten, dat:
+Op vrijdag 31 december 2010 waren wij, verbalisanten, werkzaam in het bureau van de afdeling Falsificaten te Schiphol. [betrokkene 3] overhandigde ons het nationaal paspoort van Groot Brittannië, voorzien van het nummer [002] . Wij hebben een nader onderzoek ingesteld naar het nationaal paspoort. [betrokkene 3] , wees ons, verbalisanten, de man die hem vergezelde aan, als de persoon, die het nationaal paspoort van Groot-Brittannië, voorzien van het nummer [002] , ter controle had overhandigd. Tevens wees hij één van de kinderen aan die volgens de man de houder was van het document. Bij onderzoek van het voornoemde nationaal paspoort van Groot-Brittannië, voorzien van het nummer [002] , zagen wij, verbalisanten, dat:
 
 - dit was afgegeven op 7 juli 2010, geldig was gemaakt tot 7 september 2015 en op naam was gesteld van:
 
-- [A], geboren te [geboorteplaats] op [geboortedatum] 1997;
+- [A] , geboren te [geboorteplaats] op [geboortedatum] 1997;
 
-- dit NIET was voorzien van een gelijkende foto van het kind aangewezen door [betrokkene 3], voornoemd;
+- dit NIET was voorzien van een gelijkende foto van het kind aangewezen door [betrokkene 3] , voornoemd;
 
 - de vorm van het gelaat van het kind voornoemd, afwijkend is vergeleken met de vorm van het gelaat zichtbaar op de pasfoto;
 
@@ -103,7 +103,7 @@ Beoordeling van het eerste middel
 
 3.1.
 
-Het middel klaagt onder meer dat het oordeel van het Hof dat de toegang tot Nederland van de in de bewezenverklaring genoemde Warsama en Hussain wederrechtelijk was als bedoeld in art. 197a Sr, niet naar de eis der wet met redenen is omkleed.
+Het middel klaagt onder meer dat het oordeel van het Hof dat de toegang tot Nederland van de in de bewezenverklaring genoemde [betrokkene 1] en [betrokkene 2] wederrechtelijk was als bedoeld in art. 197a Sr, niet naar de eis der wet met redenen is omkleed.
 
 3.2.
 
