@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:898"
-published_in: ["Rechtspraak.nl", "JWB 2014/183", "RvdW 2014/587", "AR 2014/199", "NJB 2014/875", "Ondernemingsrecht 2014/83 met annotatie van H. Beckman", "Bb 2014/30.1", "RI 2014/58", "NJ 2014/309 met annotatie van P. van Schilfgaarde", "JONDR 2014/549", "JAR 2014/144 met annotatie van mr. J. van der Pijl", "JOR 2014/198 met annotatie van mr. E.A. van Dooren", "AR-Updates.nl 2014-0341"]
+published_in: ["Rechtspraak.nl", "JWB 2014/183", "RvdW 2014/587", "AR 2014/199", "NJB 2014/875", "Ondernemingsrecht 2014/83 met annotatie van H. Beckman", "Bb 2014/30.1", "RI 2014/58", "NJ 2014/309 met annotatie van P. van Schilfgaarde", "JONDR 2014/549", "JAR 2014/144 met annotatie van mr. J. van der Pijl", "JOR 2014/198 met annotatie van mr. E.A. van Dooren", "AR-Updates.nl 2014-0341", "VAAN-AR-Updates.nl 2014-0341"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:93, Gevolgd"]]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-403.md", "netherlands/national/acts/bw-boek-3/art-278.md", "netherlands/national/acts/bw-boek-3/art-288.md", "netherlands/national/acts/bw-boek-6/art-142.md"]
 ---
