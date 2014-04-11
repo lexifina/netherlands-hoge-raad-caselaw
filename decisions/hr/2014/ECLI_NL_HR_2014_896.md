@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:896"
-published_in: ["Rechtspraak.nl", "JWB 2014/181", "V-N 2014/20.11 met annotatie van Redactie", "V-N Vandaag 2014/765", "RI 2014/54", "RvdW 2014/588", "NJB 2014/873", "NJ 2014/203 met annotatie van", "Belastingadvies 2014/17.11", "FutD 2014-0909", "JOR 2014/185 met annotatie van mr. dr. A.J. Tekstra"]
+published_in: ["Rechtspraak.nl", "JWB 2014/181", "V-N 2014/20.11", "V-N Vandaag 2014/765", "RI 2014/54", "RvdW 2014/588", "NJB 2014/873", "NJ 2014/203", "Belastingadvies 2014/17.11", "JOR 2014/185 met annotatie van mr. dr. A.J. Tekstra", "FutD 2014-0909", "Viditax (FutD) 2014041605"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:27, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARN:2012:BX8847, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/invorderingswet-1990/art-022.md"]
 ---
