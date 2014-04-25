@@ -10,7 +10,7 @@ procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:997"
 published_in: ["Rechtspraak.nl", "RvdW 2014/632", "JWB 2014/213"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:196, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2013:2322, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:196, Gevolgd"]]
 ---
 
 # ECLI:NL:HR:2014:997 Hoge Raad , 25-04-2014 / 13/04417
