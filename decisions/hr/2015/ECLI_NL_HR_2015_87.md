@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:87"
-published_in: ["Rechtspraak.nl", "JWB 2015/27", "NJ 2015/58 met annotatie van", "NJB 2015/213", "RvdW 2015/169", "RI 2015/33", "JOR 2015/308 met annotatie van prof. mr. N.E.D. Faber"]
+published_in: ["Rechtspraak.nl", "JWB 2015/27", "NJ 2015/58", "NJB 2015/213", "RvdW 2015/169", "RI 2015/33", "JOR 2015/308 met annotatie van prof. mr. N.E.D. Faber"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:1867, Contrair"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-013.md", "netherlands/national/acts/faillissementswet/art-058.md", "netherlands/national/acts/faillissementswet/art-067.md", "netherlands/national/acts/faillissementswet/art-069.md", "netherlands/national/acts/faillissementswet/art-101.md", "netherlands/national/acts/faillissementswet/art-176.md"]
 ---
