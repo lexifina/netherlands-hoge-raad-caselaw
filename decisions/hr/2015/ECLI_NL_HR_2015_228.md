@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:228"
-published_in: ["Rechtspraak.nl", "NJB 2015/358", "JWB 2015/59", "RvdW 2015/255", "RI 2015/35", "NJ 2015/294 met annotatie van", "JOR 2015/309 met annotatie van prof. mr. N.E.D. Faber", "INS-Updates.nl 2015-0038"]
+published_in: ["Rechtspraak.nl", "NJB 2015/358", "JWB 2015/59", "RvdW 2015/255", "RI 2015/35", "NJ 2015/294", "JOR 2015/309 met annotatie van prof. mr. N.E.D. Faber", "INS-Updates.nl 2015-0038"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:2116, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2013:2988, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-013.md", "netherlands/national/acts/faillissementswet/art-058.md"]
 ---
