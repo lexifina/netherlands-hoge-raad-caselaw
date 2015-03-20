@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:689"
-published_in: ["Rechtspraak.nl", "RI 2015/44", "RvdW 2015/432", "JWB 2015/114", "NJB 2015/646", "NJ 2015/264 met annotatie van F.M.J. Verstijlen, A.I.M. van Mierlo", "TvI 2015/39 met annotatie van R.J. Abendroth", "AA20150392 met annotatie van R.M.  Wibier", "JBPr 2017/15", "JOR 2015/251 met annotatie van prof. mr. N.E.D. Faber", "NTHR 2015, afl. 3, p. 164", "INS-Updates.nl 2015-0108"]
+published_in: ["Rechtspraak.nl", "RI 2015/44", "RvdW 2015/432", "JWB 2015/114", "NJB 2015/646", "NJ 2015/264 met annotatie van A.I.M. van Mierlo, F.M.J. Verstijlen", "TvI 2015/39 met annotatie van R.J. Abendroth", "AA20150392 met annotatie van R.M.  Wibier", "JBPr 2017/15", "JOR 2015/251 met annotatie van prof. mr. N.E.D. Faber", "NTHR 2015, afl. 3, p. 164", "INS-Updates.nl 2015-0108"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:1997, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2013:8983, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-114.md", "netherlands/national/acts/bw-boek-7/art-422.md", "netherlands/national/acts/bw-boek-7/art-534.md", "netherlands/national/acts/faillissementswet/art-023.md", "netherlands/national/acts/faillissementswet/art-212.md"]
 ---
