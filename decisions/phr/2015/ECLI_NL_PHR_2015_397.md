@@ -8,7 +8,7 @@ published: "2015-04-09"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:397"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/878", "FutD 2015-1001", "NTFR 2015/2909 met annotatie van mr. J.C.L.M. Fijen", "NTFR 2015/1663 met annotatie van MR. H.J. NOORDENBOS", "V-N 2015/23.15 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/878", "V-N 2015/23.15 met annotatie van Redactie", "NTFR 2015/1663 met annotatie van MR. H.J. NOORDENBOS", "FutD 2015-1001", "Viditax (FutD) 2015041714"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2015:3176, Contrair"]]
 ---
 
@@ -542,7 +542,7 @@ HvJ EG 23 september 1982, zaak C-276/81 (Kuijpers), ECLI:EU:C:1982:317 (ECLI:NL:
 
 Het betrof “twee dagen per week, telkens gedurende twee uren”.
 
-HvJ EG 3 mei 1990, zaak C-2/89 (Kits van Heijningen), ECLI:EU:C:1990:183 (ECLI:NL:XX:1990:AN1221), Jur. 1990, blz. I-01755, VN 1990/21 met noot van de redactie, FED 1991/612 (noot Feteris in FED 1991/614 (https://www.navigator.nl/).
+HvJ EG 3 mei 1990, zaak C-2/89 (Kits van Heijningen), ECLI:EU:C:1990:183 (ECLI:NL:XX:1990:AN1221), Jur. 1990, blz. I-01755, VN 1990/21 met noot van de redactie, FED 1991/612 (noot Feteris in FED 1991/614.
 
 HvJ EG 16 februari 1995, zaak C-425/93 (Calle Grenzshop Andresen), ECLI:EU:C:1995:37 (ECLI:NL:XX:1995:AV7802), Jur. 1995, blz. I-00269, BNB 1996/1 (noot Feteris in BNB 1996/2), VN 1996/705, 34 met noot van de redactie.
 
