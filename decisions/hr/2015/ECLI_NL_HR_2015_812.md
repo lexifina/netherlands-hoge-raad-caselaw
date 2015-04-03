@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:812"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/718", "NJB 2015/769", "V-N 2015/19.13 met annotatie van Redactie", "Belastingadvies 2015/9.6", "FED 2015/43 met annotatie van G.G.M. Snoeks", "BNB 2015/174 met annotatie van E.J.W. Heithuis", "FutD 2015-0841 met annotatie van Fiscaal up to Date", "NTFR 2016/600 met annotatie van Mr. E.I. Brouwer", "NTFR 2015/1298 met annotatie van dr. A. Rozendal", "NTFR 2016/42"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/718", "NJB 2015/769", "V-N 2015/19.13", "Belastingadvies 2015/9.6", "FED 2015/43 met annotatie van G.G.M. Snoeks", "BNB 2015/174 met annotatie van E.J.W. Heithuis", "NTFR 2015/1298 met annotatie van dr. A. Rozendal", "NTFR 2016/42", "FutD 2015-0841", "Viditax (FutD) 2015040301"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2014:2574, Contrair"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2013:2042, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
