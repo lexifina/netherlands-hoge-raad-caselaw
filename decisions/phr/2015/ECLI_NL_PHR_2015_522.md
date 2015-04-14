@@ -8,7 +8,7 @@ published: "2015-04-29"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:522"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/1002", "V-N 2015/29.19 met annotatie van Redactie", "FutD 2015-1129 met annotatie van Fiscaal up to Date", "NTFR 2015/2956 met annotatie van mr. H.J. de Boer", "NTFR 2015/2955 met annotatie van mr. H.J. de Boer FB"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/1002", "V-N 2015/29.19", "NTFR 2015/2956 met annotatie van mr. H.J. de Boer", "FutD 2015-1129", "Viditax (FutD) 2015050110"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2015:3175, Contrair"]]
 ---
 
@@ -91,7 +91,7 @@ Belanghebbende, een maatschap, exploiteert een champignonkwekerij. Zij is ondern
 
 2.2
 
-Gedurende het in geding zijnde tijdvak waren de vennoten van belanghebbende [A], diens echtgenote [B] (hierna ook: het echtpaar [A/B] of het echtpaar) en hun dochter [C].
+Gedurende het in geding zijnde tijdvak waren de vennoten van belanghebbende [A] , diens echtgenote [B] (hierna ook: het echtpaar [A/B] of het echtpaar) en hun dochter [C] .
 
 2.3
 
@@ -128,7 +128,7 @@ Rechtbank Breda (hierna: de Rechtbank) oordeelde dat belanghebbende recht heeft 
 
 4.2.
 
-Belanghebbende beroept zich op het arrest (…) Charles en Charles-Tijmens. Blijkens dat arrest is het een belastingplichtige toegestaan een investeringsgoed dat gedeeltelijk voor bedrijfsdoeleinden en gedeeltelijk voor andere doeleinden wordt gebruikt, volledig voor zijn onderneming te bestemmen. Belanghebbendes beroep op dit arrest faalt nu het pand geen investeringsgoed is van belanghebbende maar van de vennoten [A] en [B]. Nu belanghebbende geen (economisch) eigenaar is van het pand, kan zij het pand niet tot haar ondernemingsvermogen rekenen en heeft zij geen recht op aftrek van de ter zake van de bouw in rekening gebrachte omzetbelasting.
+Belanghebbende beroept zich op het arrest (…) Charles en Charles-Tijmens. Blijkens dat arrest is het een belastingplichtige toegestaan een investeringsgoed dat gedeeltelijk voor bedrijfsdoeleinden en gedeeltelijk voor andere doeleinden wordt gebruikt, volledig voor zijn onderneming te bestemmen. Belanghebbendes beroep op dit arrest faalt nu het pand geen investeringsgoed is van belanghebbende maar van de vennoten [A] en [B] . Nu belanghebbende geen (economisch) eigenaar is van het pand, kan zij het pand niet tot haar ondernemingsvermogen rekenen en heeft zij geen recht op aftrek van de ter zake van de bouw in rekening gebrachte omzetbelasting.
 
 4.3.
 
@@ -150,7 +150,7 @@ Belanghebbende heeft tegen de uitspraak van de Rechtbank hoger beroep ingesteld 
 
 Hof ’s-Hertogenbosch is er veronderstellenderwijs van uitgegaan dat het pand een investeringsgoed van belanghebbende is:
 
-“4.1. De Inspecteur heeft gesteld, dat het pand niet een investeringsgoed van belanghebbende is, maar van de maten [A] en [B], zodat, indien al recht op teruggaaf van omzetbelasting ter zake van de bouw zou bestaan, deze teruggaaf door deze maten geclaimd zou moeten worden. Het Hof laat deze kwestie thans in het midden en zal er veronderstellenderwijs van uitgaan dat het pand een investeringsgoed van belanghebbende vormde.”
+“4.1. De Inspecteur heeft gesteld, dat het pand niet een investeringsgoed van belanghebbende is, maar van de maten [A] en [B] , zodat, indien al recht op teruggaaf van omzetbelasting ter zake van de bouw zou bestaan, deze teruggaaf door deze maten geclaimd zou moeten worden. Het Hof laat deze kwestie thans in het midden en zal er veronderstellenderwijs van uitgaan dat het pand een investeringsgoed van belanghebbende vormde.”
 
 3.2.3
 
@@ -246,13 +246,13 @@ In het arrest Newey van 20 juni 2013, C-653/11 (…) oordeelt het Hof van Justit
 
 6.6.
 
-Gelet op de omstandigheid dat het echtpaar [A/B] het pand gezamenlijk heeft laten bouwen op grond die bij beide echtelieden in eigendom was en de facturering van de voor de bouw verschuldigde bedragen aan het echtpaar (of aan één van hen), is het Hof van oordeel dat het pand is opgeleverd aan het echtpaar [A/B]. Het Hof neemt daarbij mede in aanmerking dat met de betaling van de bouwkosten door belanghebbende en de daaraan gerelateerde afboekingen op de kapitaalrekening van het echtpaar [A/B] bij belanghebbende, er feitelijk sprake is van een betaling van de bouw door voornoemd echtpaar. Het is in overeenstemming met de economische en commerciële realiteit om dan ook dat echtpaar als afnemer van het pand aan te merken.”
+Gelet op de omstandigheid dat het echtpaar [A/B] het pand gezamenlijk heeft laten bouwen op grond die bij beide echtelieden in eigendom was en de facturering van de voor de bouw verschuldigde bedragen aan het echtpaar (of aan één van hen), is het Hof van oordeel dat het pand is opgeleverd aan het echtpaar [A/B] . Het Hof neemt daarbij mede in aanmerking dat met de betaling van de bouwkosten door belanghebbende en de daaraan gerelateerde afboekingen op de kapitaalrekening van het echtpaar [A/B] bij belanghebbende, er feitelijk sprake is van een betaling van de bouw door voornoemd echtpaar. Het is in overeenstemming met de economische en commerciële realiteit om dan ook dat echtpaar als afnemer van het pand aan te merken.”
 
 5.4
 
 Vervolgens heeft Hof Amsterdam beoordeeld of belanghebbende het pand tot haar bedrijfsvermogen mocht rekenen. Ook die vraag heeft Hof Amsterdam ontkennend beantwoord, overwegende:
 
-“6.7. Uitgangspunt voor de vermogensetikettering is, gelet op het arrest Charles en Charles-Tijmens van het Hof van Justitie (…), dat een investeringsgoed dat door een entiteit zowel voor zakelijk gebruik als voor privé-gebruik wordt aangewend, geheel tot het ondernemingsvermogen - en daarmee tot "het bedrijf” in de zin van artikel 6, lid 2, letter a, van de Zesde richtlijn - mag worden gerekend. In dit geval gaat het echter om een goed dat is geleverd aan het echtpaar [A/B]. Een gelijktijdig zakelijk en privé-gebruik door belanghebbende is dan niet aan de orde. Belanghebbende kan daarbij uitsluitend zakelijk beschikken over de werkkamer. Alsdan is er geen sprake van dat het pand tot het bedrijf van belanghebbende behoort in de zin van artikel 6, lid 2, letter a, van de Zesde richtlijn.”
+“6.7. Uitgangspunt voor de vermogensetikettering is, gelet op het arrest Charles en Charles-Tijmens van het Hof van Justitie (…), dat een investeringsgoed dat door een entiteit zowel voor zakelijk gebruik als voor privé-gebruik wordt aangewend, geheel tot het ondernemingsvermogen - en daarmee tot "het bedrijf” in de zin van artikel 6, lid 2, letter a, van de Zesde richtlijn - mag worden gerekend. In dit geval gaat het echter om een goed dat is geleverd aan het echtpaar [A/B] . Een gelijktijdig zakelijk en privé-gebruik door belanghebbende is dan niet aan de orde. Belanghebbende kan daarbij uitsluitend zakelijk beschikken over de werkkamer. Alsdan is er geen sprake van dat het pand tot het bedrijf van belanghebbende behoort in de zin van artikel 6, lid 2, letter a, van de Zesde richtlijn.”
 
 5.5
 
@@ -275,7 +275,7 @@ In haar tweede middel komt belanghebbende met rechts- en motiveringsklachten op 
 
 6.1.3
 
-Belanghebbendes derde middel bestrijdt het oordeel van Hof Amsterdam dat een gelijktijdig zakelijk en privégebruik van het pand door belanghebbende niet aan de orde kan zijn. Onbegrijpelijk en in strijd met het maatschapsarrest acht belanghebbende de overweging in punt 6.7 van de uitspraak van Hof Amsterdam dat belanghebbende uitsluitend zakelijk kan beschikken over de werkkamer, nu dit Hof even daarvoor heeft geoordeeld dat het pand geleverd is aan het echtpaar [A/B].
+Belanghebbendes derde middel bestrijdt het oordeel van Hof Amsterdam dat een gelijktijdig zakelijk en privégebruik van het pand door belanghebbende niet aan de orde kan zijn. Onbegrijpelijk en in strijd met het maatschapsarrest acht belanghebbende de overweging in punt 6.7 van de uitspraak van Hof Amsterdam dat belanghebbende uitsluitend zakelijk kan beschikken over de werkkamer, nu dit Hof even daarvoor heeft geoordeeld dat het pand geleverd is aan het echtpaar [A/B] .
 
 6.2
 
@@ -386,7 +386,7 @@ In aanmerking nemende de artikelen 35 en 15, lid 1, aanhef en onder a, van de We
 
 9.8
 
-Blijkens de vastgestelde feiten heeft het echtpaar [A/B] opdracht gegeven tot de bouw van het pand en zijn de facturen in verband met de bouw van het pand ook gericht aan het echtpaar [A/B], dan wel aan de echtelieden afzonderlijk. Gezien de hiervoor aangehaalde rechtspraak ligt de conclusie voor de hand dat het echtpaar de afnemer van de prestatie(s) van de aannemer is, nu het echtpaar de contractuele relatie met de aannemer met betrekking tot de bouw van het pand had en de facturen ook aan het echtpaar dan wel de echtelieden gericht waren. Dat belanghebbende de betaling heeft verricht, doet daaraan op zich niet af.
+Blijkens de vastgestelde feiten heeft het echtpaar [A/B] opdracht gegeven tot de bouw van het pand en zijn de facturen in verband met de bouw van het pand ook gericht aan het echtpaar [A/B] , dan wel aan de echtelieden afzonderlijk. Gezien de hiervoor aangehaalde rechtspraak ligt de conclusie voor de hand dat het echtpaar de afnemer van de prestatie(s) van de aannemer is, nu het echtpaar de contractuele relatie met de aannemer met betrekking tot de bouw van het pand had en de facturen ook aan het echtpaar dan wel de echtelieden gericht waren. Dat belanghebbende de betaling heeft verricht, doet daaraan op zich niet af.
 
 9.9
 
@@ -904,7 +904,7 @@ Hoge Raad der Nederlanden
 
 Advocaat-Generaal
 
-De inspecteur van de Belastingdienst/ [P].
+De inspecteur van de Belastingdienst/ [P] .
 
 De hierna weergegeven feiten heb ik ontleend aan het nader te melden arrest van de Hoge Raad van 15 april 2011, nr. 10/00275, ECLI:NL:HR:2011:BQ1213 en de daarop door Hof Amsterdam in zijn uitspraak van 22 mei 2014, nr. 13/00464, ECLI:NL:GHAMS:2014:1991 waarvan cassatie, gegeven aanvulling. Deze aanvulling is overigens geen ‘echte’ aanvulling in die zin dat hetgeen Hof Amsterdam ‘aanvult’ (grotendeels) feiten betreft die al in de eerste procedure zijn vastgesteld door Hof ’s-Hertogenbosch in zijn uitspraak van 4 december 2009, nr. 08/00286, ECLI:NL:GHSHE:2009:BL4975.
 
@@ -956,11 +956,11 @@ Deze formulering kennen we ook uit het arrest van het HvJ van 3 maart 1994, Tols
 
 Zie in dit verband ook E. Sparidis, De rechtsbetrekking in de BTW, WFR 2015/290, m.n. onderdeel 2.3.
 
-Dat dit bewijsvermoeden weerlegbaar is, volgt uit HR 15 juni 2007, nr. 37646, ECLI:NL:HR:2007:BA7189 (https://www.navigator.nl/), BNB 2007/250 (https://www.navigator.nl/) m.nt. Van Zadelhoff, waarin de Hoge Raad oordeelde dat de uitspraak van Hof Amsterdam – inhoudende dat belanghebbende geen afnemer is van de ziekenhuisapparatuur (ondanks dat de factuur aan haar was gericht) – geen blijk geeft van een onjuiste rechtsopvatting.
+Dat dit bewijsvermoeden weerlegbaar is, volgt uit HR 15 juni 2007, nr. 37646, ECLI:NL:HR:2007:BA7189, BNB 2007/250 m.nt. Van Zadelhoff, waarin de Hoge Raad oordeelde dat de uitspraak van Hof Amsterdam – inhoudende dat belanghebbende geen afnemer is van de ziekenhuisapparatuur (ondanks dat de factuur aan haar was gericht) – geen blijk geeft van een onjuiste rechtsopvatting.
 
 Zie ook punt 2.4.2 van het arrest van de Hoge Raad van 10 april 2015, nr. 14/01189, ECLI:NL:HR:2015:874.
 
-Zie in dit verband HvJ 21 april 2005, C-25/03, HE, ECLI:EU:C:2005:241 (hierna: arrest HE), punt 66: “Bovendien is de vraag wie van beide mede-eigenaren feitelijk de rekeningen betreffende de bouw van het huis heeft betaald, niet relevant voor de beantwoording van de gestelde vraag, nu de tegenprestatie blijkens artikel 11, A, lid 1, sub a, van de Zesde richtlijn ook door een derde kan worden betaald.”. Ik merk op dat Hof Amsterdam heeft geoordeeld dat in wezen ook sprake is van betaling door de echtelieden [A/B], nu is afgeboekt op de kapitaalrekening van het echtpaar bij belanghebbende (zie punt 6.6 van de in punt 5.3 aangehaalde uitspraak van Hof Amsterdam).
+Zie in dit verband HvJ 21 april 2005, C-25/03, HE, ECLI:EU:C:2005:241 (hierna: arrest HE), punt 66: “Bovendien is de vraag wie van beide mede-eigenaren feitelijk de rekeningen betreffende de bouw van het huis heeft betaald, niet relevant voor de beantwoording van de gestelde vraag, nu de tegenprestatie blijkens artikel 11, A, lid 1, sub a, van de Zesde richtlijn ook door een derde kan worden betaald.”. Ik merk op dat Hof Amsterdam heeft geoordeeld dat in wezen ook sprake is van betaling door de echtelieden [A/B] , nu is afgeboekt op de kapitaalrekening van het echtpaar bij belanghebbende (zie punt 6.6 van de in punt 5.3 aangehaalde uitspraak van Hof Amsterdam).
 
 Het citaat is ontleend aan punt 64 van het arrest HE, maar is ook in andere arresten te vinden, voor het eerst in HvJ 8 februari 1990, SAFE, C-320/88, ECLI:EU:C:1990:61, punt 8. Hoewel het HvJ in deze arresten toespitst op het begrip ‘levering’, zie ik niet in waarom hetgeen daaromtrent is overwogen niet zou gelden voor andere civielrechtelijke begrippen.
 
