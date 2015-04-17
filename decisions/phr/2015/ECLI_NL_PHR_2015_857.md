@@ -135,7 +135,7 @@ Het ontbreken van de in art. 16 lid 4 Wet Bopz genoemde stukken leidt niet zonde
 
 Vgl. P. van Ginneken, Een zodanig gevaar. Het gevaarscriterium bij gedwongen opneming in een psychiatrisch ziekenhuis, Utrecht NCGV, 1993, blz. 22, onder verwijzing naar de nadere Memorie van Antwoord bij het wetsvoorstel Bopz (Kamerstukken II 1979-1980, 11 270, nr. 12, blz. 18).
 
-MvA, Kamerstukken II 1976/77, 11 270, nr. 7 (http://www.statengeneraaldigitaal.nl/uitgebreidzoeken/zoekresultaten?&documentType=Kamerstukken&kamerstukken%5bkamerstuknummer%5d=11270&kamerstukken%5bondernummer%5d=7), blz. 7: "De ernst van het gevaar zal moeten opwegen tegen de ernst van de op te leggen dwangmaatregel.". Zie ook (de conclusie voor) HR 30 januari 2009, ECLI:NL:HR:2009:BG5287 (http://www.ljn.nl/BG5287), BJ 2009/9 m.nt. T.P. Widdershoven.
+MvA, Kamerstukken II 1976/77, 11 270, nr. 7, blz. 7: "De ernst van het gevaar zal moeten opwegen tegen de ernst van de op te leggen dwangmaatregel.". Zie ook (de conclusie voor) HR 30 januari 2009, ECLI:NL:HR:2009:BG5287, BJ 2009/9 m.nt. T.P. Widdershoven.
 
 Zie de nadere omschrijving in rubriek 3.a van de geneeskundige verklaring en verder rubriek 4 (“sociale uitstoting, maatschappelijke teloorgang”, met als symptomen: “betrokkene loopt vast in haar werkleven, heeft diverse banen verloren omdat ze paranoïde belevingen heeft, onder meer vergiftigingswaan; betrokkene heeft geen contact meer met familie, denkt dat haar moeder niet haar ware moeder is.”; “al deze 3 bronnen geven aan dat betrokkene zich oninvoelbaar en paranoïde opstelt in de afgelopen 3 jaren”).
 
@@ -151,4 +151,4 @@ Proces-verbaal van de mondelinge behandeling, blz. 1.
 
 P. van Ginneken, Een zodanig gevaar, 1993, reeds aangehaald, blz. 30 - 31.
 
-Vaste rechtspraak; zie onder meer: HR 4 oktober 1996, ECLI:NL:HR:1996:ZC2166 (http://www.ljn.nl/ZC2166), NJ 1997/359 (https://www.navigator.nl/) m.nt. JdB; HR 17 maart 2000, ECLI:NL:HR:2000:AA5164 (http://www.ljn.nl/AA5164), NJ 2000/312 (https://www.navigator.nl/).
+Vaste rechtspraak; zie onder meer: HR 4 oktober 1996, ECLI:NL:HR:1996:ZC2166, NJ 1997/359 m.nt. JdB; HR 17 maart 2000, ECLI:NL:HR:2000:AA5164, NJ 2000/312.
