@@ -68,11 +68,11 @@ en procesverloop
 
 Eigen woning toegedeeld
 
-2.1 Partijen behoort in eenvoudige mede-eigendom toe de onroerende zaak staande en gelegen aan [a-straat] te [plaats], kadastraal bekend [001] ter grootte van 3 are en 81 centiare. Partijen hebben deze onroerende zaak in eigendom verkregen door inschrijving in de kadastrale registers van de notariële akte die op 1 april 2008 verleden is voor notaris mr. J. Kroes van Kroes en Partners te gemeente [plaats].
+2.1 Partijen behoort in eenvoudige mede-eigendom toe de onroerende zaak staande en gelegen aan [a-straat] te [plaats] , kadastraal bekend [001] ter grootte van 3 are en 81 centiare. Partijen hebben deze onroerende zaak in eigendom verkregen door inschrijving in de kadastrale registers van de notariële akte die op 1 april 2008 verleden is voor notaris mr. J. Kroes van Kroes en Partners te gemeente [plaats] .
 
 2.2 De in art. 2.1 genoemde onroerende zaak wordt voor de daaraan volgens het taxatierapport van Drieman Garantiemakelaars toegekende waarde van € 325.000,-- toegedeeld aan de vrouw, onder de opschortende voorwaarde zoals vermeld in art. 2.5.
 
-2.3 Op de in art. 2.1 genoemde onroerende zaak rust een schuld uit hoofde van hypothecaire geldlening, afgesloten bij BNP Paribas Personal Finance (voorheen: UCB Hypotheken B.V.), correspondentieadres Postbus 2687 (3800 GE) te Amersfoort. De akte van geldlening met hypotheekstelling ter grootte van € 400.000,-- is op 1 april 2008 verleden voor notaris mr. J. Kroes van Kroes en Partners te gemeente [plaats].
+2.3 Op de in art. 2.1 genoemde onroerende zaak rust een schuld uit hoofde van hypothecaire geldlening, afgesloten bij BNP Paribas Personal Finance (voorheen: UCB Hypotheken B.V.), correspondentieadres Postbus 2687 (3800 GE) te Amersfoort. De akte van geldlening met hypotheekstelling ter grootte van € 400.000,-- is op 1 april 2008 verleden voor notaris mr. J. Kroes van Kroes en Partners te gemeente [plaats] .
 
 2.4 De restanthoofdsom van de in art. 2.3 genoemde hypothecaire geldlening bedraagt per 1 november 2012 ad € 400.000,--. Vanaf de datum waarop de hierna te noemen akte van verdeling wordt verleden neemt de vrouw op zich om bij uitsluiting van de man alle uit deze hypothecaire geldlening voortvloeiende verplichtingen als eigen schuld te voldoen.
 
@@ -481,7 +481,7 @@ In het echtscheidingsconvenant hebben partijen de tot de huwelijksgemeenschap be
 
 Zie in dit verband Asser/Perrick 3-V* (2011), nr. 117, en S. Perrick, Enkele opmerkingen over de verdeling van een registergoed en de vernietiging daarvan, WPNR 2008/6745, p. 192-199, in het bijzonder p.193.
 
-Zie het verweerschrift, tevens zelfstandig verzoek, in de kop waarvan is opgenomen “Beroep op artikel 3:196 BW”, en voorts onder 3 en 11. Zie voorts het beroepschrift onder 1.1 (“[de man] heeft de rechtbank zelfstandig verzocht om de echtscheiding uit te spreken, met nevenvoorzieningen tot vernietiging van het echtscheidingsconvenant op grond van artikel 3:196 BW (…)”), alsmede het petitum van het beroepschrift onder 1a-1c, ook weergegeven in rov. 2 van de beschikking van het hof van 18 juni 2014.
+Zie het verweerschrift, tevens zelfstandig verzoek, in de kop waarvan is opgenomen “Beroep op artikel 3:196 BW”, en voorts onder 3 en 11. Zie voorts het beroepschrift onder 1.1 (“ [de man] heeft de rechtbank zelfstandig verzocht om de echtscheiding uit te spreken, met nevenvoorzieningen tot vernietiging van het echtscheidingsconvenant op grond van artikel 3:196 BW (…)”), alsmede het petitum van het beroepschrift onder 1a-1c, ook weergegeven in rov. 2 van de beschikking van het hof van 18 juni 2014.
 
 Zie het beroepschrift onder 4.I.
 
@@ -509,7 +509,7 @@ Kamerstukken II 2002/03, 28 867, nr.3, p.16-20.
 
 Kamerstukken II 2002/03, 28 867, nr. 3, p. 17-18 en T.F.H. Reijnen, De betekenis van vergoedingsrechten sinds de invoering van de derde tranche huwelijksvermogensrecht, WPNR 2014/7004, p. 99-106, in het bijzonder p. 99.
 
-Onder het vóór 1 januari 2012 geldende recht werd eveneens aangenomen dat, wanneer ten aanzien van een vermogensverschuiving een overeenkomst tussen de echtgenoten is gesloten, de in de jurisprudentie ontwikkelde regeling ten aanzien van vergoedingsrechten mogelijk niet van toepassing is. Zie bijv. HR 15 september 1995, ECLI:NL:HR:1995:ZC1808, NJ 1996/616, m.nt. WMK, rov. 3.3: “Bij de beoordeling van de middelen moet het volgende worden vooropgesteld. Wanneer een echtgenoot die met uitsluiting van elke gemeenschap is gehuwd, geheel of gedeeltelijk de tegenprestatie voldoet voor een goed dat op naam van de andere echtgenoot wordt geplaatst, of wanneer hij hem toebehorende geldbedragen op een rekening ten name van de andere echtgenoot zet, krijgt eerstgenoemde echtgenoot in beginsel jegens de andere recht op vergoeding van het nominale bedrag van de door hem aldus aan de andere echtgenoot verstrekte gelden. Dit kan anders zijn wanneer tussen de echtgenoten anders is overeengekomen of wanneer een en ander is geschied om te voldoen aan een natuurlijke verbintenis van de ene echtgenoot tot verzorging van de andere, terwijl ook niet is uitgesloten dat uit goede trouw, of naar huidig recht uit redelijkheid en billijkheid, in verband met de omstandigheden van het geval anders voortvloeit (HR 30 januari 1991, NJ 1992, 191) (https://www.navigator.nl/).”
+Onder het vóór 1 januari 2012 geldende recht werd eveneens aangenomen dat, wanneer ten aanzien van een vermogensverschuiving een overeenkomst tussen de echtgenoten is gesloten, de in de jurisprudentie ontwikkelde regeling ten aanzien van vergoedingsrechten mogelijk niet van toepassing is. Zie bijv. HR 15 september 1995, ECLI:NL:HR:1995:ZC1808, NJ 1996/616, m.nt. WMK, rov. 3.3: “Bij de beoordeling van de middelen moet het volgende worden vooropgesteld. Wanneer een echtgenoot die met uitsluiting van elke gemeenschap is gehuwd, geheel of gedeeltelijk de tegenprestatie voldoet voor een goed dat op naam van de andere echtgenoot wordt geplaatst, of wanneer hij hem toebehorende geldbedragen op een rekening ten name van de andere echtgenoot zet, krijgt eerstgenoemde echtgenoot in beginsel jegens de andere recht op vergoeding van het nominale bedrag van de door hem aldus aan de andere echtgenoot verstrekte gelden. Dit kan anders zijn wanneer tussen de echtgenoten anders is overeengekomen of wanneer een en ander is geschied om te voldoen aan een natuurlijke verbintenis van de ene echtgenoot tot verzorging van de andere, terwijl ook niet is uitgesloten dat uit goede trouw, of naar huidig recht uit redelijkheid en billijkheid, in verband met de omstandigheden van het geval anders voortvloeit (HR 30 januari 1991, NJ 1992, 191).”
 
 Ingevolge art. 1:96b BW is art. 1:87 lid 4 BW van overeenkomstige toepassing op vergoedingsrechten ten aanzien van vermogensverschuivingen waarbij de huwelijksgemeenschap is betrokken.
 
@@ -541,7 +541,7 @@ Beroepschrift onder 4.2: “(…) Bij de vaststelling van de waarde c.q. hoogte 
 
 Zie beroepschrift onder 4.3. Zie ook de schriftelijke toelichting van de man onder 3.5.
 
-Zie beroepschrift onder 4.15: “(…) De waarde c.q. de hoogte van het vergoedingsrecht. Voor zover het vergoedingsrecht van [de vrouw] niet kan worden voldaan uit de goederen van de gemeenschap, is [de man] op grond van de jurisprudentie slechts verplicht om de helft van het niet voldane bedrag van € 110.000,-, derhalve € 55.000 te voldoen aan [de vrouw].”
+Zie beroepschrift onder 4.15: “(…) De waarde c.q. de hoogte van het vergoedingsrecht. Voor zover het vergoedingsrecht van [de vrouw] niet kan worden voldaan uit de goederen van de gemeenschap, is [de man] op grond van de jurisprudentie slechts verplicht om de helft van het niet voldane bedrag van € 110.000,-, derhalve € 55.000 te voldoen aan [de vrouw] .”
 
 Zoals hiervóór (onder 2.21-2.24) toegelicht, sluit het feit dat er tussen partijen een aparte overeenkomst bestaat ten aanzien van de afwikkeling van de extra investering door de vrouw van een bedrag van € 110.000,- toepasselijkheid van de (jurisprudentiële c.q. wettelijke) regeling inzake vergoedingsrechten uit.
 
