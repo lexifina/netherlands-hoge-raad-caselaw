@@ -32,7 +32,7 @@ Conclusie inzake:
 
 1.	Het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, heeft bij arrest van 20 december 2013 de verdachte wegens het onder 4 primair en subsidiair ten laste gelegde vrijgesproken en wegens 1. “deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven”, 2. “opzetheling, meermalen gepleegd”, 3. “oplichting, meermalen gepleegd” en 5. “witwassen, meermalen gepleegd” veroordeeld tot een gevangenisstraf voor de duur van 27 maanden, met aftrek als bedoeld in artikel 27 Sr. Voorts heeft het hof vorderingen van benadeelde partijen toegewezen en schadevergoedingsmaatregelen opgelegd, één en ander zoals in het arrest omschreven.
 
-2.	Namens de verdachte is beroep in cassatie ingesteld en heeft mr. R.J. Baumgardt, advocaat te Spijkenisse, bij schriftuur drie middelen van cassatie voorgesteld. Deze zaak hangt samen met de zaken tegen de medeverdachten [medeverdachte 1], [medeverdachte 2] en [medeverdachte 4], met respectievelijk de zaaknummers 14/00041, 14/00113 en 14/00251, waarin ik vandaag eveneens concludeer.
+2.	Namens de verdachte is beroep in cassatie ingesteld en heeft mr. R.J. Baumgardt, advocaat te Spijkenisse, bij schriftuur drie middelen van cassatie voorgesteld. Deze zaak hangt samen met de zaken tegen de medeverdachten [medeverdachte 1] , [medeverdachte 2] en [medeverdachte 4] , met respectievelijk de zaaknummers 14/00041, 14/00113 en 14/00251, waarin ik vandaag eveneens concludeer.
 
 3.	Het gaat in de onderhavige zaak om het volgende. De verdachte is door het hof veroordeeld wegens onder meer deelname aan een criminele organisatie, die was gericht op de verkoop van zogenaamde duplo-auto’s. Het gaat daarbij om gestolen auto’s die een gefaseerd traject afleggen alvorens deze in omgekatte vorm worden verkocht aan een koper, die in de veronderstelling verkeert een originele auto te kopen van de rechthebbende. Nadat een gestolen auto is verkregen, wordt de identiteit van een auto van een gelijk merk, type, bouwjaar en kleur achterhaald, waarna de gestolen auto wordt voorzien van het VIN-nummer, de kentekenplaten en het kentekenbewijs van de originele auto. De gehele identiteit van een voertuig wordt overgenomen, waardoor er in Nederland op hetzelfde moment twee voertuigen rondrijden met een ogenschijnlijk gelijke ‘identiteit’, zonder dat beide eigenaren daarvan op de hoogte zijn. De eigenaar van het originele voertuig ontdekt de identiteitsdiefstal dikwijls door een brief van de RDW met de mededeling dat hij recht heeft op de teruggave van een bedrag aan wegenbelasting omdat de auto van eigenaar is gewisseld, of omdat de eigenaar per post bekeuringen voor snelheidsovertredingen binnen krijgt die hij niet heeft begaan. De niets vermoedende eigenaar van de duplo-auto wordt vaak door de politie op de hoogte gesteld van het feit dat hij in een gestolen auto rijdt, die hij vervolgens moet inleveren. Duplo-auto’s worden bijvoorbeeld  via de website marktplaats.nl verkocht. Het gaat doorgaans om courante merken en typen uit het middensegment. Deze auto’s worden in de regel te koop aangeboden voor een prijs die net onder de gemiddelde verkoopprijs ligt. Op de foto is veelal geen kenteken te lezen. De onderhavige organisatie bood de duplo-auto’s op marktplaats.nl aan, waarbij werd verwezen naar een mobiel telefoonnummer. Met een geïnteresseerde koper werd een afspraak gemaakt. Nadat de auto na aankoop bij het postkantoor was overgeschreven, vertrok de verkoper te voet. Wanneer de koper nadien ontdekte dat hij een duplo-auto had gekocht en contact trachtte op te nemen met de verkoper, bleek het mobiele nummer niet meer in gebruik.
 
@@ -40,7 +40,7 @@ Conclusie inzake:
 
 5. Ten laste van de verdachte is bewezen verklaard dat:
 
-“1. hij in de periode van 23 mei 2005 tot 8 april 2009 in Nederland, heeft deelgenomen aan een organisatie, te weten een samenwerkingsverband tussen hem verdachte en [medeverdachte 2], [medeverdachte 4] en [betrokkene 1], welke organisatie tot oogmerk had het plegen van misdrijven, namelijk:
+“1. hij in de periode van 23 mei 2005 tot 8 april 2009 in Nederland, heeft deelgenomen aan een organisatie, te weten een samenwerkingsverband tussen hem verdachte en [medeverdachte 2] , [medeverdachte 4] en [betrokkene 1] , welke organisatie tot oogmerk had het plegen van misdrijven, namelijk:
 
 -het plegen van diefstallen als bedoeld in artikel 311 Wetboek van Strafrecht en/of
 
@@ -68,7 +68,7 @@ Conclusie inzake:
 
 -een op 10 juli 2008 in Rotterdam weggenomen BMW 320d [007] en
 
--een op 10 december 2008 in Kloetinge weggenomen BMW [008];
+-een op 10 december 2008 in Kloetinge weggenomen BMW [008] ;
 
 3. hij op verschillende tijdstippen in de periode van 23 mei 2005 tot 8 april 2009 in Nederland telkens met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen telkens door het aannemen van een valse naam en van een valse hoedanigheid hierna genoemde (aspirant) kopers van auto's heeft bewogen tot de afgifte van hierna genoemde geldbedragen, hebbende verdachte toen aldaar telkens met vorenomschreven oogmerk - zakelijk weergegeven - valselijk en/of listiglijk en/of bedrieglijk en/of in strijd met de waarheid:
 
@@ -142,7 +142,7 @@ Uit de vaststellingen van het hof volgt dat zowel de politie als het televisiepr
 
 “lk ben werkzaam als verslaggever voor het televisieprogramma ‘Tros-opgelicht'.
 
-In januari 2008 hebben wij van het televisieprogramma een uitzending uitgezonden over het klonen van auto's. Na enig speurwerk op de site "Marktplaats.nl" troffen wij begin november op het internet een voor ons verdachte auto aan. Dit was een Volkswagen Polo. Mijn collega heeft toen contact gezocht met de verkoper van de Polo en aan de verkoper het kenteken gevraagd. Met dit kenteken hebben wij verder onderzoek verricht. De verkoper noemde zich [betrokkene 8]. Hierop hebben we op 10 november 2008, een afspraak gemaakt bij een winkelcentrum met de verkoper van de Polo. Dit was ergens in Barendrecht. We hebben toen eerst een proefrit met de auto gemaakt en daarna een uurtje bedenktijd gevraagd. De verkoper had ons aangegeven dat de Polo van zijn vriendin was en dat hij zelf in een Porsche Cayenne reed.
+In januari 2008 hebben wij van het televisieprogramma een uitzending uitgezonden over het klonen van auto's. Na enig speurwerk op de site "Marktplaats.nl" troffen wij begin november op het internet een voor ons verdachte auto aan. Dit was een Volkswagen Polo. Mijn collega heeft toen contact gezocht met de verkoper van de Polo en aan de verkoper het kenteken gevraagd. Met dit kenteken hebben wij verder onderzoek verricht. De verkoper noemde zich [betrokkene 8] . Hierop hebben we op 10 november 2008, een afspraak gemaakt bij een winkelcentrum met de verkoper van de Polo. Dit was ergens in Barendrecht. We hebben toen eerst een proefrit met de auto gemaakt en daarna een uurtje bedenktijd gevraagd. De verkoper had ons aangegeven dat de Polo van zijn vriendin was en dat hij zelf in een Porsche Cayenne reed.
 
 De verkoper is toen met de Polo weggereden. Wij hebben toen de verkoper onopvallend gevolgd naar de omgeving van vermoedelijk zijn woning. Daar hebben wij de bewuste Polo in de gaten gehouden. Na een uurtje hebben we de verkoper gebeld en hem medegedeeld dat wij de auto wilden kopen. De verkoper vertelde ons dat zijn neef het financiële gedeelte met ons af zou gaan handelen. Toen wij, de vermoedelijke neef, in de Polo zagen stappen en deze weg wilde rijden, zijn wij naar de Polo toegereden. Hierbij wilden wij de verkopende man confronteren met de gekloonde auto, die hij aan ons wilde verkopen. De man is bij het zien van ons gevlucht, met achterlating van de Volkswagen Polo inclusief sleutels.”
 
@@ -190,9 +190,9 @@ en geldbedragen (welke door de verkoop van die auto's waren verkregen) voorhande
 
 2007 en 2008: geen loongegevens aanwezig
 
-In 2004 stond een bedrag van € 1.495,- op een bankrekening 32.95.06.560 t.n.v. [verdachte].
+In 2004 stond een bedrag van € 1.495,- op een bankrekening 32.95.06.560 t.n.v. [verdachte] .
 
-In 2005 stond een bedrag van € 1.425,- op een bankrekening 32.95.06.560 t.n.v. [verdachte].
+In 2005 stond een bedrag van € 1.425,- op een bankrekening 32.95.06.560 t.n.v. [verdachte] .
 
 Tussen 2 januari 2006 en 4 september 2009 is een bedrag van € 83.089,06 op bankrekening 32.95.06.560 gestort aan contanten.
 
@@ -200,7 +200,7 @@ Op de bankrekening [009] t.n.v. [betrokkene 9] is tussen 15 februari 2007 en 4 s
 
 Uit de door de belastingdienst aangeleverde gegevens met betrekking tot [betrokkene 9] blijkt het volgende:
 
-- [betrokkene 9] is vanaf 2 januari 2003 tot en met 31 december 2006 eigenaresse van haarstudio [A].
+- [betrokkene 9] is vanaf 2 januari 2003 tot en met 31 december 2006 eigenaresse van haarstudio [A] .
 
 - De belastbare winst van de onderneming betreft ongeveer € 16.000,- per jaar;
 
@@ -268,7 +268,7 @@ Dit behoeft echter niet tot cassatie te leiden, nu, gelet op de in geval van toe
 
 27. Resteert de vraag naar de kwalificatie van het onder 5 bewezen verklaarde voor zover het gaat om de daarin genoemde “geldbedragen (welke door de verkoop van die auto’s waren verkregen)”. Uit de bewezenverklaring volgt dat het hof doelt op de geldbedragen die de verdachte door de verkoop van de gestolen auto’s heeft verkregen. Uit de bewezenverklaring en de bewijsvoering volgt voorts dat de verdachte zich bij de verkoop van auto’s heeft schuldig heeft gemaakt aan oplichting (feit 3). Daarmee zijn de in de bewezenverklaring bedoelde geldbedragen afkomstig uit enig door de verdachte zelf begaan misdrijf. In de onderhavige zaak is niet slechts het verwerven en/of voorhanden hebben van onmiddellijk door eigen misdrijf verkregen voorwerpen is bewezen verklaard, maar ook het overdragen en/of omzetten daarvan. Uit de bewijsoverweging in het verkorte arrest volgt dat het hof in dit verband doelt op de stortingen van de desbetreffende geldbedragen op de rekening van de verdachte en op een (andere) rekening van zijn toenmalige partner en op het vervolgens uitgeven van die geldbedragen. Het hof heeft geoordeeld dat de verdachte aldus de herkomst van het geld heeft verhuld.
 
-28. In die gevallen waarin het enkele storten op een eigen bankrekening van contante geldbedragen die onmiddellijk uit eigen misdrijf afkomstig zijn kan worden aangemerkt als het ‘omzetten’ of ‘overdragen’ in de betekenis van art. 420bis, eerste lid (https://www.navigator.nl/) sub b, Sr, zal in de regel sprake zijn van een bijzonder geval als in de rechtspraak van de Hoge Raad bedoeld, hetgeen meebrengt dat, wil het handelen kunnen worden aangemerkt als ‘witwassen’, sprake dient te zijn van een gedraging die een op het daadwerkelijk verbergen of verhullen van de criminele herkomst van die geldbedragen gericht karakter heeft. Uit de door het hof gegeven motivering kan echter niet worden afgeleid dat ten aanzien van de onderhavige stortingen, voor deze betrekking hebben op de bankrekening van de verdachte, sprake is van gedragingen van de verdachte die (kennelijk) ook gericht zijn geweest op het daadwerkelijk verbergen of verhullen van de criminele herkomst van die geldbedragen, zodat het oordeel van het hof dat het bewezen verklaarde als witwassen kan worden gekwalificeerd, in zoverre ontoereikend is gemotiveerd.
+28. In die gevallen waarin het enkele storten op een eigen bankrekening van contante geldbedragen die onmiddellijk uit eigen misdrijf afkomstig zijn kan worden aangemerkt als het ‘omzetten’ of ‘overdragen’ in de betekenis van art. 420bis, eerste lid sub b, Sr, zal in de regel sprake zijn van een bijzonder geval als in de rechtspraak van de Hoge Raad bedoeld, hetgeen meebrengt dat, wil het handelen kunnen worden aangemerkt als ‘witwassen’, sprake dient te zijn van een gedraging die een op het daadwerkelijk verbergen of verhullen van de criminele herkomst van die geldbedragen gericht karakter heeft. Uit de door het hof gegeven motivering kan echter niet worden afgeleid dat ten aanzien van de onderhavige stortingen, voor deze betrekking hebben op de bankrekening van de verdachte, sprake is van gedragingen van de verdachte die (kennelijk) ook gericht zijn geweest op het daadwerkelijk verbergen of verhullen van de criminele herkomst van die geldbedragen, zodat het oordeel van het hof dat het bewezen verklaarde als witwassen kan worden gekwalificeerd, in zoverre ontoereikend is gemotiveerd.
 
 29. Resteert de vraag of dit motiveringsgebrek tot cassatie dient te leiden. Ik meen dat zulks niet het geval is. De bewezenverklaring is beperkt tot “geldbedragen”. Daaronder vallen ook de geldbedragen die de verdachte op de rekening van zijn toenmalige partner heeft gestort. Het oordeel van het hof dat het storten van de geldbedragen op deze bankrekening een verhullend karakter heeft, getuigt niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk. Daarbij komt dat in cassatie niet wordt bestreden het oordeel van het hof dat de op de bank gestorte gelden weer zijn (opgenomen en) uitgegeven. Nu door een partiële vernietiging bovendien de aard en de ernst van het bewezen verklaarde in zijn geheel beschouwd niet worden aangetast, kan het middel niet tot cassatie leiden.
 
