@@ -86,7 +86,7 @@ De richtlijn met nr. 2008/115/EG van het Europees Parlement en de Raad van 16 de
 
 Vgl. HR 4 november 2014, ECLI:NL:HR:2014:3091, NJ 2015/25, rov. 2.4, HR 1 juli 2014, ECLI:NL:HR:2014:1579, rov. 3.2, HR 15 april 2014, ECLI:NL:HR:2014:918, rov. 2.2, HR 3 december 2013, ECLI:NL:HR:2013:1563, NJ 2014/43, rov. 2.5 en HR 21 mei 2013, ECLI:NL:HR:2013:BY3151, NJ 2014/216 m.nt. Klip, rov. 4.7.
 
-Zie ook Klip in zijn noot onder HR 21 mei 2013, ECLI:NL:HR:2013:BZ3928, NJ 2014/218: “Is de vreemdeling bijvoorbeeld, nadat zijn overtreding van art. 197 (https://www.navigator.nl/) Sr was vastgesteld inmiddels Nederland toch uit (of uitgezet), dan kan hij thans niet meer aangemerkt worden als iemand die valt binnen de werkingssfeer van de richtlijn.”
+Zie ook Klip in zijn noot onder HR 21 mei 2013, ECLI:NL:HR:2013:BZ3928, NJ 2014/218: “Is de vreemdeling bijvoorbeeld, nadat zijn overtreding van art. 197 Sr was vastgesteld inmiddels Nederland toch uit (of uitgezet), dan kan hij thans niet meer aangemerkt worden als iemand die valt binnen de werkingssfeer van de richtlijn.”
 
 Vgl. HR 4 november 2014, ECLI:NL:HR:2014:3093, NJ 2015/24 (middel, art. 81 RO), HR 18 februari 2014, ECLI:NL:HR:2014:358 (middel 2, art. 81 RO), HR 7 januari 2014, ECLI:NL: HR:2014:18 (middel 3, art. 81 RO) en HR 3 december 2013, ECLI:NL:HR:2013:1563, NJ 2014/43, rov. 2.
 
