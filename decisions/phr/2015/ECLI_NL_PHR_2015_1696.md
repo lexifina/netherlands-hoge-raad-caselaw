@@ -8,7 +8,7 @@ published: "2015-09-03"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:1696"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/1898", "FutD 2015-2159", "JAR 2016/14", "NTFR 2015/3000 met annotatie van mr. J.D. Schouten", "NTFR 2015/2759 met annotatie van mr. J.D. Schouten"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/1898", "JAR 2016/14", "NTFR 2015/2759 met annotatie van mr. J.D. Schouten", "FutD 2015-2159", "Viditax (FutD) 2015090414"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2015:3310, Gevolgd"]]
 ---
 
@@ -559,7 +559,7 @@ Op 17 maart 2004 boog gerechtshof Arnhem zich over een zaak waarin een bestuurde
 
 4.5. (…)
 
-Onjuist is de stelling van de Inspecteur dat de Overeenkomst moet worden aangemerkt als een bijzondere omstandigheid als bedoeld in het in 3.3 genoemde arrest. Zoals de Hoge Raad in zijn arrest van 21 februari 2001 nr. 35 796, BNB 2001/150 (https://www.navigator.nl/) nader heeft verduidelijkt gaat het daarbij om omstandigheden zoals afspraken in de arbeidsovereenkomst en rechtspositionele regelingen waaraan de gelaedeerde een recht op vergoeding ontleent. Daaronder is niet te begrijpen een minnelijke overeenkomst als de onderhavige die, nadat het schadeveroorzakende ongeval zich heeft voorgedaan, wordt opgemaakt ter beëindiging van een lopende procedure.
+Onjuist is de stelling van de Inspecteur dat de Overeenkomst moet worden aangemerkt als een bijzondere omstandigheid als bedoeld in het in 3.3 genoemde arrest. Zoals de Hoge Raad in zijn arrest van 21 februari 2001 nr. 35 796, BNB 2001/150 nader heeft verduidelijkt gaat het daarbij om omstandigheden zoals afspraken in de arbeidsovereenkomst en rechtspositionele regelingen waaraan de gelaedeerde een recht op vergoeding ontleent. Daaronder is niet te begrijpen een minnelijke overeenkomst als de onderhavige die, nadat het schadeveroorzakende ongeval zich heeft voorgedaan, wordt opgemaakt ter beëindiging van een lopende procedure.
 
 4.34
 
@@ -623,7 +623,7 @@ In de onderhavige zaak werd een (...) verzoek door de kantonrechter afgewezen en
 
 Over dit onderscheid in criteria schreef Van Dijck (reeds) in zijn noot bij HR BNB 1987/248 het volgende:
 
-(…) Het is niet verwonderlijk dat het hof – in navolging van HR BNB 1984/2 (https://www.navigator.nl/) [zie onderdeel 4.26; A-G] – heeft overwogen dat de vergoeding 'niet zo zeer verband' houdt met de dienstbetrekking. Het hof beslist voorts dat de schade aan eer en goede naam onvoldoende verband houdt met de dienstbetrekking om de vergoeding daarvan aan te merken als te zijn genoten uit dienstbetrekking. Het valt nu op dat de HR de beslissing van het hof inzake het onvoldoende verband herhaalt en niet de beslissing dat de vergoeding 'niet zo zeer verband' houdt. Het is nu onduidelijk of de HR hiermede iets nieuws bedoelt. 'Niet voldoende' heeft een meer kwantitatieve klank dan 'niet zo zeer', waar een meer kwalitatieve betekenis aan gehecht kan worden. (…). Het gaat dan (…) niet om een kwantitatief element, zoals meer of minder verband, maar om een kwalitatieve waardering van alle van belang zijnde factoren. Men moet overigens hopen dat de HR er ooit toe komt de tegenstellingen 'zo zeer – niet zo zeer' of 'voldoende – niet voldoende' nader onder woorden te brengen. Op den duur zijn deze tegenstellingen toch te primitief om voor de rechtstheorie en rechtspraktijk bevredigend te zijn.
+(…) Het is niet verwonderlijk dat het hof – in navolging van HR BNB 1984/2 [zie onderdeel 4.26; A-G] – heeft overwogen dat de vergoeding 'niet zo zeer verband' houdt met de dienstbetrekking. Het hof beslist voorts dat de schade aan eer en goede naam onvoldoende verband houdt met de dienstbetrekking om de vergoeding daarvan aan te merken als te zijn genoten uit dienstbetrekking. Het valt nu op dat de HR de beslissing van het hof inzake het onvoldoende verband herhaalt en niet de beslissing dat de vergoeding 'niet zo zeer verband' houdt. Het is nu onduidelijk of de HR hiermede iets nieuws bedoelt. 'Niet voldoende' heeft een meer kwantitatieve klank dan 'niet zo zeer', waar een meer kwalitatieve betekenis aan gehecht kan worden. (…). Het gaat dan (…) niet om een kwantitatief element, zoals meer of minder verband, maar om een kwalitatieve waardering van alle van belang zijnde factoren. Men moet overigens hopen dat de HR er ooit toe komt de tegenstellingen 'zo zeer – niet zo zeer' of 'voldoende – niet voldoende' nader onder woorden te brengen. Op den duur zijn deze tegenstellingen toch te primitief om voor de rechtstheorie en rechtspraktijk bevredigend te zijn.
 
 4.42
 
