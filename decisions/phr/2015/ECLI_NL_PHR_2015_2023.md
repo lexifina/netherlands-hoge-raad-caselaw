@@ -8,7 +8,7 @@ published: "2015-10-05"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:2023"
-published_in: ["Rechtspraak.nl", "FutD 2015-2807"]
+published_in: ["Rechtspraak.nl", "FutD 2015-2807", "Viditax (FutD) 2015111704"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2015:3264, Gevolgd"]]
 ---
 
@@ -134,7 +134,7 @@ Deze zaak hangt samen met de zaak tegen [betrokkene 1] met als nummer 15/00454 P
 
 De uitspraak van het hof dateert van voor de inwerkingtreding van de Wet van 19 november 2014, Stb. 445, in werking getreden op 1 januari 2015, waarbij art. 36e, achtste lid, Sr als volgt is komen te luiden: “De rechter kan bij de bepaling van de hoogte van het voordeel kosten in mindering brengen die rechtstreeks in verband staan met het begaan van strafbare feiten, bedoeld in het eerste tot en met derde lid, en die redelijkerwijs voor aftrek in aanmerking komen.” De wetswijziging blijft in het vervolg van de conclusie buiten beschouwing.
 
-Vgl. onder meer HR 5 februari 2008, ECLI:NL:HR:2008:BC2913, NJ 2008/288 (https://www.navigator.nl/), HR 28 september 2010, ECLI:NL:HR:2010:BM6894, NJ 2010/534 en HR 16 november 2010, ECLI:NL:HR:2010:BN8234.
+Vgl. onder meer HR 5 februari 2008, ECLI:NL:HR:2008:BC2913, NJ 2008/288, HR 28 september 2010, ECLI:NL:HR:2010:BM6894, NJ 2010/534 en HR 16 november 2010, ECLI:NL:HR:2010:BN8234.
 
 Zie in dezelfde zin: HR 11 december 2012, ECLI:NL:HR:2012:BY4839.
 
