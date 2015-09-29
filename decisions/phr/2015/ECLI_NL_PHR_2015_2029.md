@@ -8,7 +8,7 @@ published: "2015-10-06"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:2029"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1180", "V-N Vandaag 2015/2184", "V-N 2016/3.20 met annotatie van Redactie", "FutD 2015-2485", "NTFR 2015/2845 met annotatie van mr. A.H.W. Steijn", "XpertHR.nl 2015-414395"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1180", "V-N Vandaag 2015/2184", "V-N 2016/3.20", "NTFR 2015/2845 met annotatie van mr. A.H.W. Steijn", "Brightmine 2015-414395", "FutD 2015-2485", "Viditax (FutD) 2015100918"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2016:360, Gevolgd"]]
 ---
 
@@ -857,7 +857,7 @@ De huisvestingskosten buiten het land van herkomst van een extraterritoriale wer
 
 - (Eerste) huisvestingskosten
 
-Als de werknemer, naar de omstandigheden beoordeeld, niet in het land van herkomst is blijven wonen, dan is geen sprake van dubbele huisvestingskosten. In het besluit van 26 november 2001, nummer CPP2001/2970 (Red.; opgenomen in BNB 2002/61 (https://www.navigator.nl/)) (vraag en antwoord 17), is uit het oogpunt van doelmatigheid opgenomen dat de normale huisvestingskosten op 18% van het loon uit tegenwoordige dienstbetrekking (exclusief eventuele bijtelling voor huisvesting) kunnen worden gesteld. In zoverre is sprake van loon. Voor zover het bedrag van de vergoeding of verstrekking ziet op het bedrag dat uitgaat boven 18% van het loon is sprake van extraterritoriale kosten.
+Als de werknemer, naar de omstandigheden beoordeeld, niet in het land van herkomst is blijven wonen, dan is geen sprake van dubbele huisvestingskosten. In het besluit van 26 november 2001, nummer CPP2001/2970 (Red.; opgenomen in BNB 2002/61 (vraag en antwoord 17), is uit het oogpunt van doelmatigheid opgenomen dat de normale huisvestingskosten op 18% van het loon uit tegenwoordige dienstbetrekking (exclusief eventuele bijtelling voor huisvesting) kunnen worden gesteld. In zoverre is sprake van loon. Voor zover het bedrag van de vergoeding of verstrekking ziet op het bedrag dat uitgaat boven 18% van het loon is sprake van extraterritoriale kosten.
 
 Is sprake van huisvesting in een gemeubileerde woning, dan moet een splitsing worden aangebracht tussen de kosten die zien op de woning en het deel dat betrekking heeft op het meubilair en dergelijke. Voor de woning geldt hetgeen hiervoor is opgenomen.
 
