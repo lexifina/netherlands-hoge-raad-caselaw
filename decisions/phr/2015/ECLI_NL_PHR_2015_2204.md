@@ -8,7 +8,7 @@ published: "2015-11-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:2204"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2392", "V-N 2015/61.9 met annotatie van Redactie", "FutD 2015-2703", "NTFR 2015/3023 met annotatie van dr. D. Molenaar"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2392", "V-N 2015/61.9", "NTFR 2015/3023 met annotatie van dr. D. Molenaar", "FutD 2015-2703", "Viditax (FutD) 2015110611"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2016:354, Gedeeltelijk contrair"]]
 ---
 
@@ -672,7 +672,7 @@ In een recent arrest was aan de orde een geval waarin – naar achteraf bleek �
 
 3.1.3.
 
-Uit het hiervoor (…) overwogene volgt dat het economische belang in [BB] vanaf de oprichting bij [I] berustte. Mitsdien kon, gelet op het bepaalde in artikel 15, lid 1 (https://www.navigator.nl/), eerste volzin, van de Wet op de vennootschapsbelasting 1969 geen fiscale eenheid tussen belanghebbende en [BB] tot stand komen.
+Uit het hiervoor (…) overwogene volgt dat het economische belang in [BB] vanaf de oprichting bij [I] berustte. Mitsdien kon, gelet op het bepaalde in artikel 15, lid 1), eerste volzin, van de Wet op de vennootschapsbelasting 1969 geen fiscale eenheid tussen belanghebbende en [BB] tot stand komen.
 
 8.3
 
