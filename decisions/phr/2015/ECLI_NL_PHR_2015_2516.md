@@ -8,7 +8,7 @@ published: "2016-01-19"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2015:2516"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/197", "V-N 2016/9.12 met annotatie van Redactie", "FutD 2016-0196", "NTFR 2016/554 met annotatie van Prof. dr. J.P. Boer"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/197", "V-N 2016/9.12 met annotatie van Redactie", "NTFR 2016/554 met annotatie van Prof. dr. J.P. Boer", "FutD 2016-0196", "Viditax (FutD) 2016012208"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2016:1207, Contrair"]]
 ---
 
