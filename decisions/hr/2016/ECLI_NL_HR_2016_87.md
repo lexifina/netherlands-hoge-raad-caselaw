@@ -1,0 +1,43 @@
+---
+ecli: "ECLI:NL:HR:2016:87"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "15/05348"
+decided: "2016-01-22"
+published: "2016-01-21"
+type: "uitspraak"
+procedure: "Herziening"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:87"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:HR:2016:87 Hoge Raad , 22-01-2016 / 15/05348
+
+## Inhoudsindicatie
+
+HR verklaart het verzoek tot herziening n-o met toepassing van art. 80a RO.
+
+## Uitspraak
+
+22 januari 2016
+
+Nr. 15/05348
+
+Arrest
+
+gewezen op het verzoek van [X] te [Z] (hierna: belanghebbende) tot herziening van het arrest van de Hoge Raad der Nederlanden van 16 oktober 2015, nr. 15/03564, ECLI:NL:HR:2015:3091.
+
+1
+Beoordeling van de ontvankelijkheid van het verzoek tot herziening
+
+De Hoge Raad is van oordeel dat het ingediende verzoek geen behandeling in cassatie rechtvaardigt omdat het klaarblijkelijk niet tot herziening van voormeld arrest en derhalve niet tot cassatie kan leiden, aangezien het verzoekschrift geen feiten of omstandigheden als bedoeld in artikel 8:119, lid 1, van de Awb behelst.
+
+De Hoge Raad zal daarom – gezien artikel 80a van de Wet op de rechterlijke organisatie en gehoord de Procureur-Generaal – het verzoek niet-ontvankelijk verklaren.
+
+2
+Beslissing
+
+De Hoge Raad verklaart het verzoek tot herziening niet‑ontvankelijk.
+
+Dit arrest is gewezen door de vice-president R.J. Koopman  als voorzitter, en de raadsheren M.A. Fierstra en J. Wortel, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 22 januari 2016.
