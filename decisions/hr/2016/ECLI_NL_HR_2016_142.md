@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:142"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/288", "V-N 2016/13.1.7", "FutD 2016-0281", "NTFR 2016/579"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/288", "V-N 2016/13.1.7", "FutD 2016-0281", "Viditax (FutD) 2016012916"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2015:2019"]]
 ---
 
