@@ -8,7 +8,7 @@ published: "2016-02-18"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2016:55"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/366", "V-N 2016/15.14 met annotatie van Redactie", "FutD 2016-0439", "NTFR 2016/744 met annotatie van mr. J. Zandee-Dingemanse"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/366", "V-N 2016/15.14 met annotatie van Redactie", "NTFR 2016/744 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2016-0439", "Viditax (FutD) 2016021914"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2016:426, Gevolgd"]]
 ---
 
