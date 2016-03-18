@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:426"
-published_in: ["Rechtspraak.nl", "V-N 2016/17.14 met annotatie van Redactie", "V-N Vandaag 2016/600", "BNB 2016/121", "FutD 2016-0703", "NTFR 2016/944", "NLF 2017/0119 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N 2016/17.14 met annotatie van Redactie", "V-N Vandaag 2016/600", "BNB 2016/121", "NLF 2017/0119", "FutD 2016-0703", "Viditax (FutD) 2016031808"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:55, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2014:3983, Bekrachtiging/bevestiging"]]
 ---
 
