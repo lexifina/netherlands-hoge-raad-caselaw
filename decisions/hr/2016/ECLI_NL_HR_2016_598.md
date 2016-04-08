@@ -1,0 +1,52 @@
+---
+ecli: "ECLI:NL:HR:2016:598"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "15/05592"
+decided: "2016-04-08"
+published: "2016-04-07"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:598"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:HR:2016:598 Hoge Raad , 08-04-2016 / 15/05592
+
+## Inhoudsindicatie
+
+HR verklaart het beroep in cassatie n-o.
+
+## Uitspraak
+
+8 april 2016
+
+Nr. 15/05592
+
+Arrest
+
+gewezen op het beroep in cassatie van [X] te [Z] (hierna: belanghebbende) tegen de uitspraak van de Rechtbank Den Haag van 27 oktober 2015, nr. 15/4708, op het verzet van belanghebbende tegen de uitspraak van de Rechtbank van 7 augustus 2015.
+
+1
+Beoordeling van de ontvankelijkheid van het beroep in cassatie
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van 8 januari 2016, die volgens de gegevens van Track&Trace van PostNL is afgeleverd op het door belanghebbende opgegeven adres, gewezen op de verschuldigdheid van griffierecht en voor de betaling een termijn van vier weken gesteld. Het griffierecht is niet binnen de gestelde termijn voldaan.
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van 8 februari 2016, die volgens de gegevens van Track&Trace van PostNL is afgeleverd op het door belanghebbende opgegeven adres, in de gelegenheid gesteld mee te delen waarom het griffierecht niet tijdig is betaald. Hetgeen belanghebbende in zijn op 26 februari 2016 bij de Hoge Raad ingekomen brief aanvoert, vormt geen grond voor het oordeel dat belanghebbende niet in verzuim is geweest.
+
+Het beroep in cassatie moet op grond van artikel 8:41, lid 6, Awb derhalve niet-ontvankelijk worden verklaard.
+
+2
+Proceskosten
+
+De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten.
+
+3
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie niet‑ontvankelijk.
+
+Dit arrest is gewezen door de raadsheer C. Schaap als voorzitter, en de raadsheren Th. Groeneveld en M.E. van Hilten, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 8 april 2016.
+
+Het door belanghebbende als griffierecht betaalde bedrag van € 123 wordt door de griffier van de Hoge Raad aan belanghebbende teruggegeven.
