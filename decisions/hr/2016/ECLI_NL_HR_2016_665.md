@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:665"
-published_in: ["Rechtspraak.nl", "NJB 2016/833", "AR 2016/1127", "RvdW 2016/546", "RI 2016/56", "V-N 2016/28.16 met annotatie van Redactie", "JWB 2016/156", "V-N Vandaag 2016/1035", "Belastingadvies 2016/12.9", "NJ 2016/289 met annotatie van F.M.J. Verstijlen", "JOR 2016/215 met annotatie van prof. mr. N.E.D. Faber", "NTFR 2016/1252 met annotatie van mr. R.B.H. Beune", "TvI 2016/39 met annotatie van J.J. VETTER", "TvPP 2016, afl. 4, p. 106", "NTHR 2016, afl. 5, p. 297", "INS-Updates.nl 2016-0186", "UDH:TvCu/13149 met annotatie van prof. mr. A.W. Jongbloed"]
+published_in: ["Rechtspraak.nl", "NJB 2016/833", "AR 2016/1127", "RvdW 2016/546", "RI 2016/56", "V-N 2016/28.16", "JWB 2016/156", "V-N Vandaag 2016/1035", "Belastingadvies 2016/12.9", "NJ 2016/289 met annotatie van F.M.J. Verstijlen", "JOR 2016/215 met annotatie van prof. mr. N.E.D. Faber", "TvI 2016/39 met annotatie van J.J. VETTER", "TvPP 2016, afl. 4, p. 106", "NTHR 2016, afl. 5, p. 297", "INS-Updates.nl 2016-0186", "UDH:TvCu/13149 met annotatie van prof. mr. A.W. Jongbloed", "NTFR 2016/1252 met annotatie van mr. R.B.H. Beune"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:24, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2014:4778, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-039.md", "netherlands/national/acts/faillissementswet/art-057.md", "netherlands/national/acts/invorderingswet-1990/art-021.md"]
 ---
