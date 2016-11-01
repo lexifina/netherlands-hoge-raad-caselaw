@@ -1,0 +1,123 @@
+---
+ecli: "ECLI:NL:PHR:2016:1418"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "15/04136"
+decided: "2016-11-01"
+published: "2017-01-24"
+type: "conclusie"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2016:1418"
+published_in: ["Rechtspraak.nl", "JIN 2017/59 met annotatie van M.L.C.C. de Bruijn-Lückers"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2017:167, Gevolgd"]]
+---
+
+# ECLI:NL:PHR:2016:1418 Parket bij de Hoge Raad , 01-11-2016 / 15/04136
+
+## Inhoudsindicatie
+
+OM-cassatie. Wijziging c.q. verruiming van art. 240b Sr; strafbaarstelling van het zich d.m.v. een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang verschaffen tot kinderporno (naast “het bezitten” daarvan). De HR licht het strafbaar gestelde nader toe en wijst erop dat het enkele bekijken van kinderporno niet strafbaar is gesteld. HR overweegt voorts: van "zich toegang verschaffen" is sprake als verdachte een gedraging verricht die is gericht op het verkrijgen van toegang tot kinderporno. Het opzet van verdachte dient, al dan niet in voorwaardelijke vorm, te zijn gericht op het verkrijgen van die toegang. In de overweging van het Hof ligt als zijn oordeel besloten dat voor bewezenverklaring van het bestanddeel "zich d.m.v. een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang daartoe verschaft" uit de b.m. moet blijken dat gebruik is gemaakt van technologische middelen zoals "versleuteling of een besloten computernetwerk". Dat oordeel getuigt van een te beperkte en dus onjuiste uitleg van art. 240b.1 Sr. Volgt vernietiging en terugwijzing.
+
+## Conclusie
+
+Nr. 15/04136
+
+Zitting: 1 november 2016
+
+Mr. D.J.C. Aben
+
+Conclusie inzake:
+
+[verdachte]
+
+1. Bij arrest van 30 december 2014 heeft het gerechtshof Den Haag de verdachte vrijgesproken van de aan hem onder 1 en onder 3 tenlastegelegde ontuchtfeiten en van de aan hem onder 2 tenlastegelegde gedragingen met betrekking tot (gegevensdragers die) kinderpornografische afbeeldingen (bevatten).
+
+2. Namens het openbaar ministerie heeft mr. J.J.J. Wubben, advocaat-generaal bij het ressortsparket Den Haag, beroep in cassatie ingesteld. Mr. H.H.J. Knol, eveneens advocaat-generaal bij het ressortsparket Den Haag, heeft namens het openbaar ministerie één middel van cassatie voorgesteld.
+
+3. Het hof heeft ten aanzien van het onder 2 tenlastegelegde geoordeeld dat niet bewezen kan worden verklaard dat de verdachte zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang heeft verschaft tot kinderpornografische afbeeldingen. Met het middel wordt naar de kern genomen gesteld dat dit oordeel (en met name de motivering van de vrijspraak) getuigt van een onjuiste rechtsopvatting.
+
+3.1. In de onderhavige zaak is aan de verdachte onder 2 tenlastegelegd dat:
+
+“hij, in of omstreeks de periode van 01 januari 2011 tot en met 02 juni 2011 te Spijkenisse, in elk geval in Nederland, één of meermalen (telkens) 147, althans een aantal, afbeelding(en), te weten 137 foto's en/of 10 films en/of (een) gegevensdrager(s) bevattende (een) afbeelding(en), heeft verspreid en/of aangeboden en/of openlijk tentoongesteld en/of vervaardigd en/of ingevoerd en/of doorgevoerd en/of uitgevoerd en/of verworven en/of in bezit gehad en/of zich daartoe door middel van een geautomatiseerd werk en/of met gebruikmaking van een communicatiedienst de toegang heeft verschaft, terwijl op die afbeelding(en) (een) seksuele gedraging(en) zichtbaar is/zijn, waarbij (telkens) een persoon die kennelijk de leeftijd van achttien jaar nog niet had bereikt, was betrokken of schijnbaar was betrokken, welke voornoemde seksuele gedragingen bestonden uit:
+
+- het oraal en/of anaal penetreren (met de penis en/of (een) vinger(s)/hand en/of de mond/tong) van het lichaam van een persoon die kennelijk de leeftijd van 18 jaar nog niet heeft bereikt en/of
+
+- het oraal en/of vaginaal en/of anaal penetreren van het lichaam van een (ander) persoon door een persoon die kennelijk de leeftijd van 18 jaar nog niet heeft bereikt (met de penis en/of (een) vinger(s)/hand en/of de mond/tong) en/of
+
+- het betasten en/of aanraken van de geslachtsdelen en/of de billen van een persoon die kennelijk de leeftijd van 18 jaren nog niet heeft bereikt (met de-penis en/of (een) vinger(s)/hand en/of de mond/tong)
+
+- en/of het betasten en/of aanraken van de geslachtsdelen en/of de billen van een (ander) persoon door een persoon die kennelijk de leeftijd van 18 jaren nog niet heeft bereikt (met de penis en/of (een) vinger(s)/hand en/of de mond/tong) en/of
+
+- het geheel of gedeeltelijk naakt (laten) poseren van (een) perso(o)n(en) die kennelijk de leeftijd van 18 jaren nog niet heeft/hebben bereikt, waarbij deze perso(o)n(en) gekleed en/of opgemaakt is/zijn en/of in een omgeving en/of met (een) voorwerp(en) en/of in (een)(erotisch getinte) houding(en) poseert/poseren die niet bij haar/hun leeftijd past/passen en/of waarbij deze perso(o)n(en) zich (vervolgens) in opeenvolgende afbeeldingen/filmfragmenten van haar/hun kleding ontdoet/ontdoen en/of (waarna) door het camerastandpunt en/of de (onnatuurlijke) pose en/of de wijze van kleden van deze perso(o)n(en) en/of de uitsnede van de afbeelding(en)/film(s) nadrukkelijk de (ontblote) geslachtsdelen in beeld gebracht worden (waarbij) de afbeelding (aldus) een onmiskenbaar seksuele strekking heeft en/of strekt tot seksuele prikkeling en/of
+
+- het masturberen boven/bij en/of ejaculeren op het lichaam van een perso(o)n(en) die kennelijk de leeftijd van 18 jaar nog niet heeft/hebben bereikt
+
+- en/of het houden van een (stijve) penis bij/naast het gezicht/lichaam van een perso(o)n(en) die kennelijk de leeftijd van 18 jaar nog niet heeft/hebben bereikt, (waarbij) de afbeelding (aldus) een onmiskenbaar seksuele strekking heeft en/of strekt tot seksuele prikkeling, van welk(e) misdrijf/misdrijven hij, verdachte, een gewoonte heeft gemaakt.”
+
+3.2. In het bestreden arrest heeft het hof zijn vrijspraak van de verdachte van het onder 2 tenlastegelegde als volgt gemotiveerd:
+
+“Onder 2 wordt de verdachte - kort gezegd - verweten dat hij in de periode van 1 januari 2011 tot en met 2 juni 2011 afbeeldingen en films en (een) gegevensdrager(s) in bezit heeft gehad met afbeeldingen waarop seksuele gedragingen te zien zijn van personen die de leeftijd van achttien jaar nog niet hadden bereikt, dat hij zich daar door middel van een geautomatiseerd werk dan wel met gebruikmaking van een communicatiedienst de toegang toe heeft verschaft en daarvan een gewoonte heeft gemaakt.
+
+De verdediging heeft vrijspraak bepleit.
+
+Het hof overweegt hieromtrent als volgt.
+
+Uit het politieonderzoek van de bij verdachte in beslag genomen computer volgt dat van de 147 afbeeldingen die kinderpornografisch van aard waren 32 foto’s en 2 films toegankelijk en benaderbaar waren voor de verdachte zonder dat de computer daarvoor in verbinding met het internet hoefde te staan (zie bijlage III en IIIa-bij het proces-verbaalnummer 258/2011). Voornoemde bestanden zijn aangetroffen in het zogenaamde cachegeheugen van verdachtes computer.
+
+De verdachte heeft ter terechtzitting in hoger beroep verklaard dat hij die bestanden nimmer bewust heeft opgeslagen op zijn computer.
+
+Hoewel het hof vraagtekens zet bij de uitleg die de verdachte ter terechtzitting in hoger beroep heeft gegeven aan zijn computergedrag, is het hof van oordeel dat niet wettig en overtuigend kan worden bewezen dat de verdachte de kinderpornografische afbeeldingen die op de computer van de verdachte zijn aangetroffen en blijkens politieonderzoek waren opgeslagen in het zogenaamde cachegeheugen, opzettelijk in zijn bezit heeft gehad, nu het hof van oordeel is dat de niet-geëigende plek waar de bestanden zijn aangetroffen en de relatief geringe hoeveelheid van het aangetroffen materiaal niet wijzen op het opzettelijk bezit van kinderporno.
+
+Gelet op het vorenstaande kan niet bewezen worden verklaard dat verdachte het opzet heeft gehad op het bezit van dat materiaal.
+
+Het enkel bekijken van kinderpornografische afbeeldingen is door de wetgever niet strafbaar gesteld en anders dan de advocaat-generaal kennelijk meent is in deze niet aan de orde dat de verdachte zich met gebruikmaking van technologische middelen als versleuteling of een besloten computernetwerk toegang heeft verschaft tot een verzameling kinderpornografie die niet op zijn eigen computer is opgeslagen.
+
+Naar het oordeel van het hof kan dan ook evenmin bewezen worden verklaard dat de verdachte door middel van een geautomatiseerd werk en/of met gebruikmaking van een communicatiedienst de toegang heeft verschaft tot kinderpornografisch materiaal.
+
+Naar ’s hofs oordeel dient de verdachte derhalve van het hem onder 2. tenlastegelegde te worden vrijgesproken.”
+
+3.3. Voor de beoordeling van het middel is daarnaast de volgende inhoud van het ter terechtzitting van het hof van 16 december 2014 gehouden requisitoir van de advocaat-generaal van belang:
+
+“Uit deze bevindingen kan in ieder geval al blijken, dat verdachte zich in de tenlastegelegde periode door middel van een computer (eigen computer, provider en zoekmachine/server) en/of met gebruikmaking van een communicatiedienst (provider en zoekmachine/server) de toegang heeft verschaft tot die 113 resp 7 kinderpornografische afbeeldingen. Dat betekent ook, dat die gedragingen van verdachte – zoeken naar en downloaden van afbeeldingen (alvorens deze in de “deleted files” resp. “temporary files” terechtkwamen) vallen onder het bestanddeel in artikel 240b Sr: namelijk (naast o.a. bezit) van het zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang daartoe verschaffen. Met de zinsnede “toegang daartoe” wordt dan bedoeld de toegang tot kinderpornografische afbeeldingen.”
+
+3.4. Art. 240b, eerste lid, Sr. luidt:
+
+“Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft degene die een afbeelding – of een gegevensdrager, bevattende een afbeelding – van een seksuele gedraging, waarbij iemand die kennelijk de leeftijd van achttien jaar nog niet heeft bereikt, is betrokken of schijnbaar is betrokken, verspreidt, aanbiedt, openlijk tentoonstelt, vervaardigt, invoert, doorvoert, uitvoert, verwerft, in bezit heeft of zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang daartoe verschaft.”
+
+3.5. Het voorgestelde middel richt zich meer bepaald tegen de hierboven onder 3.2 weergegeven overweging van het hof dat “anders dan de advocaat-generaal kennelijk meent […] in deze niet aan de orde [is] dat de verdachte zich met gebruikmaking van technologische middelen als versleuteling of een besloten computernetwerk toegang heeft verschaft tot een verzameling kinderpornografie die niet op zijn eigen computer is opgeslagen” en dat “naar het oordeel van het hof […] dan ook evenmin bewezen [kan] worden verklaard dat de verdachte door middel van een geautomatiseerd werk en/of met gebruikmaking van een communicatiedienst de toegang heeft verschaft tot kinderpornografisch materiaal.” Volgens de steller van het middel getuigt deze overweging in zoverre van een onjuiste rechtsopvatting, dat noch uit de tekst van art. 240b, eerste lid, Sr noch uit de in verband met deze bepaling relevante wetsgeschiedenis blijkt dat de strafbaarstelling van het zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst de toegang verschaffen tot kinderpornografische afbeeldingen beperkt is tot gedragingen die inhouden dat gebruik wordt gemaakt van technologische middelen als versleuteling of een besloten computernetwerk. Van het zich toegang verschaffen tot kinderpornografische afbeeldingen kan volgens de steller van het middel ook sprake zijn, wanneer door een verdachte (bijvoorbeeld) actief en gericht op het internet is gezocht naar kinderpornografische afbeeldingen door middel van het intikken van bepaalde zoektermen of het bewust klikken op links van websites waarop kinderpornografische afbeeldingen kunnen worden aangetroffen.
+
+3.6. De strafbaarstelling van het zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst toegang verschaffen tot kinderpornografische afbeeldingen ex art. 240b, eerste lid, Sr strekt tot uitvoering van het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik (Trb. 2008, 58) (hierna: het Verdrag van Lanzarote) en heeft als doel een vangnet te vormen voor de aanpak van bepaalde gedragingen die niet onder de strafbaarstelling van het bezit van kinderpornografische afbeeldingen kunnen worden gebracht. De wetsgeschiedenis van art. 240b, eerste lid, Sr houdt in dit verband onder meer het volgende in:
+
+“Ad 1) Aanscherping strafbaarstelling kinderpornografie
+
+Artikel 20 van het Verdrag verplicht tot strafbaarstelling van een reeks opzettelijk gepleegde gedragingen met betrekking tot kinderpornografie. De in het eerste lid, onderdelen (a) tot en met (e) genoemde gedragingen zijn ook opgenomen in andere internationale instrumenten. Deze gedragingen vallen onder het bereik van de in artikel 240b Sr strafbaar gestelde gedragingen, al zijn er verschillen in de omschrijving ervan in het Verdrag en in artikel 240b Sr. Zo zijn in artikel 20, eerste lid, van het Verdrag als afzonderlijke categorieën van gedragingen opgenomen het aanbieden van kinderpornografie (onderdeel b) en het verwerven van kinderpornografie (onderdeel d). Deze gedragingen zijn thans niet als afzonderlijke categorie opgenomen in artikel 240b Sr. Zij kunnen worden gebracht onder een van de in artikel 240b Sr strafbaar gestelde gedragingen. Degene die kinderporno aanbiedt, is immers steeds bezitter daarvan (geweest). Soms kan hij worden aangemerkt als degene die verspreidt, openlijk tentoonstelt, invoert, doorvoert of uitvoert. Degene die kinderporno verwerft, komt steeds in het bezit daarvan.
+
+De NVvR heeft in haar advies de vraag opgeworpen of het niet de voorkeur zou verdienen om in artikel 240b Sr nadrukkelijker aan te sluiten bij de opsomming van gedragingen als opgenomen in artikel 20 van het Verdrag. Bij nader inzien ben ik met de NVvR van mening dat het aanbeveling verdient meer aan te sluiten bij de systematiek van artikel 20 van het Verdrag en het aanbieden en het verwerven van kinderpornografie als afzonderlijke gedragingen op te nemen in artikel 240b Sr. Daarmee wordt beter inzichtelijk dat de Nederlandse wetgever ten volle aan zijn implementatieverplichtingen voldoet.
+
+Het Verdrag voegt aan de strafbaarstelling van kinderpornografie nog een nieuwe gedraging toe. In onderdeel (f) wordt strafbaar gesteld het zich, door middel van informatie- en communicatietechnologie, welbewust toegang verschaffen tot kinderpornografie. De discussie over het opnemen van deze strafbaarstelling in het Verdrag is door Nederland geïnitieerd. Omdat een aantal lidstaten van de Raad van Europa zorgen had over de handhaafbaarheid van deze uitbreiding, is deze strafbaarstelling uiteindelijk als optionele bepaling in het Verdrag opgenomen. Bij een eerdere gelegenheid heb ik reeds aangegeven artikel 240b Sr in genoemde zin te willen aanscherpen (Kamerstukken II 2007/08, Aanhangsel van de Handelingen, nr. 1189). Het onderhavige voorstel strekt daartoe. De achtergrond van deze aanscherping van de strafbaarstelling van kinderpornografie is de volgende. Door technologische ontwikkelingen is het mogelijk om met gebruik van informatietechnologie toegang te verkrijgen tot op afstand geplaatste bestanden waarop zich kinderpornografisch materiaal, al dan niet versleuteld, bevindt. Aldus bestaat er een mogelijkheid om over het materiaal te beschikken en dit desgewenst te bekijken, zonder dat daarbij het materiaal op de eigen computer wordt opgeslagen. De vraag rijst of deze wijze van het verkrijgen van toegang tot kinderpornografie in alle gevallen onder de bestaande strafbaarstelling van «bezit» kan worden gebracht. Het begrip «bezit» heeft immers van oudsher een fysieke connotatie. In een digitale context wordt daarbij in de eerste plaats gedacht aan vastgelegde data. De jurisprudentie over artikel 240b Sr geeft nog geen duidelijk antwoord op de vraag naar de reikwijdte van het begrip «bezit» in een digitale context. Voorkomen moet evenwel worden dat personen die zich bijvoorbeeld met gebruik van versleutelingstechnieken of besloten computernetwerken toegang verschaffen tot kinderpornografie, bij afwezigheid van gedownload materiaal op de eigen computer, niet strafrechtelijk kunnen worden vervolgd. Daarbij kan ook worden gedacht aan personen die zich tegen betaling toegang verschaffen tot kinderpornografie, maar de strafbare beelden uitsluitend «real time», zonder gelijktijdig op de harde schijf te downloaden, bekijken. In het bijzonder de personen die zich op professionele en commerciële schaal bezighouden met kinderpornografie, blijken vindingrijk in versleutelingstechnieken en nieuwe technische methoden om hun gedragingen zoveel mogelijk af te schermen. De voorgestelde aanscherping van artikel 240b Sr biedt een ruimer bereik en vormt een nuttig en wenselijk vangnet voor gevallen die mogelijk niet onder de strafbaarstelling van «bezit» zouden kunnen worden gebracht. Het scherpt bovendien in dat de relatieve afstandelijkheid en anonimiteit van het internet geen vrijplaats bieden om straffeloos dit soort ernstige feiten te plegen.
+
+Het bekijken van kinderpornografie als zodanig is niet strafbaar gesteld. Dat is een bewuste keuze van de wetgever. De voorgestelde aanscherping strekt ook niet tot strafbaarstelling daarvan. Strafbaarstelling van kijken naar kinderpornografie is in de praktijk niet handhaafbaar en dient om die reden achterwege te blijven. Daarbij komt een ander argument. Degene die een bepaald bestand ongevraagd krijgt toegestuurd en dat bekijkt, dient wanneer dat bestand kinderpornografie bevat en hij zich van dat bestand ontdoet niet voor het bekijken ervan met straf te worden bedreigd. Noch in het Verdrag noch in andere internationale instrumenten is voor strafbaarstelling van het kijken naar kinderpornografie als zodanig gekozen.
+
+De strafbaarstelling van het «zich toegang verschaffen tot» vereist meer dan uitsluitend het bekijken van kinderpornografie. Het «zich toegang verschaffen tot» impliceert een actieve handeling die op het verkrijgen van toegang is gericht. Evenals bij strafbaar bezit, is opzet een vereiste voor strafbaarheid. Het opzet van betrokkene dient te zijn gericht op het verkrijgen van toegang tot kinderpornografie. Bij degene die nietsvermoedend een hyperlink naar een website aanklikt waarmee hij zichzelf ongewild toegang tot kinderpornografie blijkt te verschaffen, zal van opzet niet gauw sprake zijn. Dit komt evenwel mogelijk anders te liggen op het moment dat bijvoorbeeld de benaming van een hyperlink een indicatie bevat voor de aanwezigheid van kinderpornografie op de desbetreffende website of wanneer de betrokkene eerder heeft kunnen constateren dat op een bepaalde website kinderpornografie voorkomt, maar dit hem er niet van heeft weerhouden die website nogmaals te bezoeken. Belangrijk bewijs voor opzet zal veelal kunnen worden gevonden in de handeling waarmee betrokkene zichzelf toegang tot het kinderpornografisch materiaal verschaft. Daarbij kan worden gedacht aan (online) betalingsverkeer dat is terug te leiden tot websites waarop kinderpornografie wordt aangeboden. Ook het beschikken over de voor het verkrijgen van toegang tot het materiaal benodigde wachtwoorden of inloggegevens, kan – samen met de historische gegevens van bezochte websites – het bewijs opleveren dat iemand zich opzettelijk de toegang tot kinderpornografie heeft verschaft.”
+
+3.7. In deze passage uit de wetsgeschiedenis van art. 240b, eerste lid, Sr wordt met ‘het gebruikmaken van technologische middelen als versleuteling of een besloten computernetwerk’ een illustratie gegeven van het zich door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst toegang verschaffen tot kinderpornografische afbeeldingen. Het toepassingsbereik van het bestanddeel ‘zich toegang verschaffen tot kinderpornografische afbeeldingen’ dient echter niet tot dit voorbeeld beperkt te worden geacht. Aangenomen mag worden dat het gegeven voorbeeld voor deze strafbaarstelling een vingerwijzing inhoudt. De wetgever heeft er immers uitdrukkelijk voor gekozen het (enkele) bekijken van kinderpornografie zelf niet strafbaar te stellen. Zowel in deze keuze als in het genoemde voorbeeld van de gebruikmaking van technologische middelen als versleuteling of een besloten computernetwerk ligt min of meer besloten dat de wetgever zijn pijlen wil richten op gedragingen die aan de aanbodzijde van kinderpornografie als zodanig moeten worden geplaatst of die in ieder geval met enig (direct) gewicht aan het voortbestaan van kinderpornografie bijdragen.
+
+3.8. Tegelijkertijd heeft de wetgever met deze wetswijziging gekozen voor de strafbaarstelling van een breed scala aan gedragingen die vallen onder (digitale) kinderpornografie. De begrenzing van de strafbaarheid ligt genuanceerd. Volgens de wetgever is voor een strafbare gedraging in dit verband in zoverre méér vereist dan het (enkele) bekijken van kinderpornografie, dat het bestanddeel ‘zich de toegang verschaffen tot’ uit art. 240b, eerste lid, Sr impliceert dat sprake moet zijn van een actieve, op het verkrijgen van toegang gerichte handeling. De wetgever inventariseert enkele indicaties voor het bestaan van een dergelijke – op het verkrijgen van toegang gerichte – handeling, zoals het gebruik van wachtwoorden of inloggegevens, het doen van betalingen, het aanklikken van hyperlinks waarvan de benaming een aanwijzing voor de aanwezigheid van kinderpornografie bevat of het bezoeken van websites ten aanzien waarvan een verdachte al eerder heeft kunnen zien dat zij kinderpornografie bevatten. Deze beschouwingen uit de wetsgeschiedenis verhouden zich slecht tot een categorische uitsluiting van strafbaarheid van andere gedragingen dan gedragingen als het gebruikmaken van technologische middelen als versleuteling of een besloten computernetwerk.
+
+3.9. De door het middel bedoelde overweging waarmee het hof de verdachte van het onder 2 tenlastegelegde heeft vrijgesproken komt wel op een dergelijke categorische uitsluiting van strafbaarheid neer. Zoals volgt uit de hierboven onder 3.3 weergegeven passage van het requisitoir, heeft de advocaat-generaal in hoger beroep aangevoerd dat uit de onderzoeksbevindingen in de onderhavige zaak blijkt dat “de verdachte zich in de tenlastegelegde periode door middel van een computer (eigen computer, provider en zoekmachine/server) en/of met gebruikmaking van een communicatiedienst (provider en zoekmachine/server) de toegang heeft verschaft tot die 113 resp 7 kinderpornografische afbeeldingen” en dat de verdachte zich daarmee schuldig heeft gemaakt aan een gedraging die binnen het bereik van de strafbaarstelling van art. 240b, eerste lid, Sr valt. Door te overwegen dat “anders dan de advocaat-generaal kennelijk meent […] in deze niet aan de orde [is] dat de verdachte zich met gebruikmaking van technologische middelen als versleuteling of een besloten computernetwerk toegang heeft verschaft tot een verzameling kinderpornografie die niet op zijn eigen computer is opgeslagen”, heeft het hof (impliciet) geoordeeld dat de door de advocaat-generaal genoemde gedraging van het zich toegang verschaffen tot kinderpornografie door middel van een eigen computer en met gebruikmaking van een internetprovider en een zoekmachine voor de vraag of sprake is van strafbaarheid op grond van art. 240b, eerste lid, Sr niet van belang kan zijn. Dit oordeel getuigt mijns inziens inderdaad van een onjuiste rechtsopvatting, zodat het voorgestelde middel doel treft.
+
+3.10. Het middel slaagt.
+
+4. Ambtshalve heb ik geen gronden aangetroffen die tot vernietiging van de bestreden uitspraak aanleiding behoren te geven.
+
+5. Deze conclusie strekt tot vernietiging van de bestreden uitspraak, maar uitsluitend wat betreft de beslissingen van het hof ten aanzien van het aan de verdachte onder 2 tenlastegelegde.
+
+De procureur-generaal
+
+bij de Hoge Raad der Nederlanden
+
+AG
+
+In de toelichting op het middel wordt in dit verband verwezen naar een tweetal uitspraken uit de feitenrechtspraak, te weten: hof Arnhem/Leeuwarden 18 maart 2015, ECLI:NL:GHARL:2015:2016 en hof Den Haag 17 november 2015, ECLI:NL:GHDHA:2015:3259.
+
+Zie Kamerstukken II 2008/09, 31810, nr. 3, p. 2-4.
