@@ -8,7 +8,7 @@ published: "2017-02-08"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2017:52"
-published_in: ["Rechtspraak.nl", "NLF 2017/0372 met annotatie van Corina van Lindonk", "V-N Vandaag 2017/308", "V-N 2017/11.12 met annotatie van Redactie", "FutD 2017-0384", "NTFR 2017/477 met annotatie van Dr. A.W. Hofman"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0372 met annotatie van Corina van Lindonk", "V-N Vandaag 2017/308", "V-N 2017/11.12 met annotatie van Redactie", "NTFR 2017/477 met annotatie van Dr. A.W. Hofman", "FutD 2017-0384", "Viditax (FutD) 2017021014"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2017:640"]]
 ---
 
