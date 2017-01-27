@@ -1,0 +1,56 @@
+---
+ecli: "ECLI:NL:HR:2017:105"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "16/04165"
+decided: "2017-01-27"
+published: "2017-01-26"
+type: "uitspraak"
+procedure: "Artikel 81 RO-zaken"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:105"
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/235", "FutD 2017-0247", "NTFR 2017/371"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2016:2793"]]
+---
+
+# ECLI:NL:HR:2017:105 Hoge Raad , 27-01-2017 / 16/04165
+
+## Inhoudsindicatie
+
+HR: 81.1 RO.
+
+## Uitspraak
+
+27 januari 2017
+
+Nr. 16/04165
+
+Arrest
+
+gewezen op het beroep in cassatie van [X] te [Z] (hierna: belanghebbende) tegen de uitspraak van het Gerechtshof Amsterdam van 7 juli 2016, nr. 16/00026, op het hoger beroep van belanghebbende tegen een uitspraak van de Rechtbank Noord-Holland (nr. HAA 14/2480) betreffende de aan belanghebbende voor het jaar 2011 opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1
+Geding in cassatie
+
+Belanghebbende heeft tegen ’s Hofs uitspraak beroep in cassatie ingesteld en daarbij een aantal klachten aangevoerd.
+
+De Staatssecretaris van Financiën heeft een verweerschrift ingediend.
+
+Belanghebbende heeft een conclusie van repliek ingediend.
+
+2
+Beoordeling van de klachten
+
+De klachten kunnen niet tot cassatie leiden. Dit behoeft, gezien artikel 81, lid 1, van de Wet op de rechterlijke organisatie, geen nadere motivering, nu de klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+3
+Proceskosten
+
+De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten.
+
+4
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie ongegrond.
+
+Dit arrest is gewezen door de vice-president R.J. Koopman als voorzitter, en de raadsheren M.A. Fierstra en J. Wortel, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 27 januari 2017.
