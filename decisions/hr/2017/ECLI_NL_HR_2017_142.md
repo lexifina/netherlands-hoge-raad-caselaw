@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:142"
-published_in: ["Rechtspraak.nl", "RCR 2017/33", "AR 2017/597", "RvdW 2017/190", "NJ 2017/78", "NJB 2017/373", "JWB 2017/42", "RN 2017/31", "RF 2017/31", "AA20170508 met annotatie van H.N.  Schelhaas", "JOR 2017/149 met annotatie van prof. mr. S.C.J.J. Kortmann", "NTHR 2017, afl. 2, p. 80"]
+published_in: ["Rechtspraak.nl", "RCR 2017/33", "AR 2017/597", "RvdW 2017/190", "NJ 2017/78", "NJB 2017/373", "JWB 2017/42", "RN 2017/31", "RF 2017/31", "AA20170508 met annotatie van Schelhaas H.N. Harriët", "JOR 2017/149 met annotatie van prof. mr. S.C.J.J. Kortmann", "NTHR 2017, afl. 2, p. 80"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1120, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2015:3240, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-061.md"]
 ---
