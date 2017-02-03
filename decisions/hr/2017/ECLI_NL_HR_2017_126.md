@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:126"
-published_in: ["Rechtspraak.nl", "NLF 2017/0327 met annotatie van Gino Sparidis", "FED 2017/104 met annotatie van M. Sanders", "V-N Vandaag 2017/246", "V-N 2017/9.25 met annotatie van Redactie", "RN 2017/32", "Belastingadvies 2017/5.6", "BNB 2017/75 met annotatie van B.G. van Zadelhoff", "FutD 2017-0298 met annotatie van Fiscaal up to Date", "NTFR 2017/332 met annotatie van dr. A. Rozendal"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0327 met annotatie van E. Sparidis MSc", "FED 2017/104 met annotatie van M. Sanders", "V-N Vandaag 2017/246", "V-N 2017/9.25", "RN 2017/32", "Belastingadvies 2017/5.6", "BNB 2017/75 met annotatie van B.G. van Zadelhoff", "NTFR 2017/332 met annotatie van dr. A. Rozendal", "FutD 2017-0298", "Viditax (FutD) 2017020303"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:854, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2015:3623, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
