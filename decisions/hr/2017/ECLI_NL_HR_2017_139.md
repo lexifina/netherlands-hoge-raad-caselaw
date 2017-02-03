@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:139"
-published_in: ["Rechtspraak.nl", "AR 2017/587", "RvdW 2017/196", "NJB 2017/371", "JWB 2017/41", "PJ 2017/31", "AR-Updates.nl 2017-0126", "PR-Updates.nl AR-2017-0126"]
+published_in: ["Rechtspraak.nl", "AR 2017/587", "RvdW 2017/196", "NJB 2017/371", "JWB 2017/41", "PJ 2017/31", "AR-Updates.nl 2017-0126", "PR-Updates.nl AR-2017-0126", "PR-Updates.nl 2017-0126"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1022"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2015:1043, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
