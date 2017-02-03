@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:143"
-published_in: ["Rechtspraak.nl", "JONDR 2017/539", "AR 2017/604", "RvdW 2017/260", "NJB 2017/369", "JWB 2017/43", "JIN 2017/74 met annotatie van N.R.M. van Hellenberg Hubar", "JOR 2017/150 met annotatie van prof. mr. S.C.J.J. Kortmann", "NTHR 2017, afl. 2, p. 80"]
+published_in: ["Rechtspraak.nl", "JONDR 2017/539", "AR 2017/604", "RvdW 2017/260", "NJB 2017/369", "JWB 2017/43", "JIN 2017/74 met annotatie van N.R.M. van Hellenberg Hubar", "JOR 2017/150 met annotatie van prof. mr. S.C.J.J. Kortmann", "NTHR 2017, afl. 2, p. 80", "AA20170508 met annotatie van Schelhaas H.N. Harriët"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1023, Gedeeltelijk contrair"], ["Formele relatie", "Arrest: ECLI:NL:HR:2017:277"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-061.md"]
 ---
