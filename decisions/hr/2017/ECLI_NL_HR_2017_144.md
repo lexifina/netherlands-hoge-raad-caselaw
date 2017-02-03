@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:144"
-published_in: ["Rechtspraak.nl", "JONDR 2017/240", "Ondernemingsrecht 2017/90 met annotatie van W.J.M. van Veen", "AR 2017/588", "RvdW 2017/191", "NJ 2017/79", "NJB 2017/374", "JWB 2017/40", "RN 2017/34", "RCR 2017/32", "AR 2017/1966", "NTHR 2017, afl. 4, p. 196", "JOR 2017/85 met annotatie van prof. mr. S.C.J.J. Kortmann en prof. mr. J.S. Kortmann", "OR-Updates.nl 2017-0053"]
+published_in: ["Rechtspraak.nl", "JONDR 2017/240", "Ondernemingsrecht 2017/90 met annotatie van W.J.M. van Veen", "AR 2017/588", "RvdW 2017/191", "NJ 2017/79", "NJB 2017/374", "JWB 2017/40", "RN 2017/34", "RCR 2017/32", "AR 2017/1966", "NTHR 2017, afl. 4, p. 196", "JOR 2017/85 met annotatie van Prof. mr. J.S. Kortmann, prof. mr. S.C.J.J. Kortmann", "OR-Updates.nl 2017-0053", "AA20170508 met annotatie van Schelhaas H.N. Harriët"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1225, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2015:3002, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Verwijzing naar: ECLI:NL:GHARL:2018:724"]]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-203.md", "netherlands/national/acts/bw-boek-3/art-033.md", "netherlands/national/acts/bw-boek-3/art-037.md", "netherlands/national/acts/bw-boek-3/art-069.md"]
 ---
