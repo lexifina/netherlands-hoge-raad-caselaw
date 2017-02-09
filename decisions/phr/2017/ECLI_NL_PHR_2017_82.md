@@ -8,7 +8,7 @@ published: "2017-02-22"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2017:82"
-published_in: ["Rechtspraak.nl", "NLF 2017/0598 met annotatie van Roel Monteiro", "V-N Vandaag 2017/494", "V-N 2017/18.16 met annotatie van Redactie", "FutD 2017-0543 met annotatie van Fiscaal up to Date", "NTFR 2017/719 met annotatie van Drs. M. Nieuweboer"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0598 met annotatie van Roel Monteiro", "V-N Vandaag 2017/494", "V-N 2017/18.16 met annotatie van Redactie", "NTFR 2017/719 met annotatie van Drs. M. Nieuweboer", "FutD 2017-0543", "Viditax (FutD) 2017030318"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2017:730"]]
 ---
 
