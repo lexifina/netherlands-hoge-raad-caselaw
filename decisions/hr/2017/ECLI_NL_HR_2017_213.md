@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:213"
-published_in: ["Rechtspraak.nl", "RI 2017/58", "AR 2017/722", "NJB 2017/429", "RvdW 2017/217", "JWB 2017/58", "RBP 2017/34", "Ondernemingsrecht 2017/67 met annotatie van Mr. dr. G.C. van Daal en mr. I.A.J. Deijkers", "NJ 2018/89 met annotatie van H.J. Snijders", "JOR 2017/139 met annotatie van Mr. B.A. Schuijling", "NTHR 2017, afl. 3, p. 164"]
+published_in: ["Rechtspraak.nl", "RI 2017/58", "AR 2017/722", "NJB 2017/429", "RvdW 2017/217", "JWB 2017/58", "RBP 2017/34", "Ondernemingsrecht 2017/67 met annotatie van G.C. van Daal, I.A.J. Deijkers", "NJ 2018/89 met annotatie van H.J. Snijders", "JOR 2017/139 met annotatie van Mr. B.A. Schuijling", "NTHR 2017, afl. 3, p. 164"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1169, Gevolgd"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-251.md", "netherlands/national/acts/bw-boek-3/art-268.md"]
 ---
