@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:287"
-published_in: ["Rechtspraak.nl", "NLF 2017/0545 met annotatie van Dick Barmentlo", "V-N Vandaag 2017/424", "NJB 2017/575", "V-N 2017/12.20.10", "Belastingadvies 2017/7.1", "FutD 2017-0479 met annotatie van Fiscaal up to Date", "NTFRB 2017/36 met annotatie van mr.dr. A.J.H. van Suilen", "NTFR 2017/562 met annotatie van mr. M.J.A. Castelijn"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0545 met annotatie van mr. D.G. Barmentlo", "V-N Vandaag 2017/424", "NJB 2017/575", "V-N 2017/12.20.10", "Belastingadvies 2017/7.1", "FutD 2017-0479", "Viditax (FutD) 2017022401"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:883"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:885"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2015:1087, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
