@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:288"
-published_in: ["Rechtspraak.nl", "NLF 2017/0546 met annotatie van Dick Barmentlo", "V-N Vandaag 2016/1838", "V-N Vandaag 2017/425", "V-N 2017/12.20.16", "Module Privacy en persoonsgegevens 2018/1177", "FutD 2017-0479 met annotatie van Fiscaal up to Date", "NTFRB 2017/36 met annotatie van mr.dr. A.J.H. van Suilen", "NTFR 2017/562 met annotatie van mr. M.J.A. Castelijn", "JBP 2017/10"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0546 met annotatie van mr. D.G. Barmentlo", "V-N Vandaag 2016/1838", "V-N Vandaag 2017/425", "V-N 2017/12.20.16", "JBP 2017/10", "Module Privacy & AVG 2018/1177", "FutD 2017-0479", "Viditax (FutD) 2017022401"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:853"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:885"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2015:3207, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/grondwet/art-010.md"]
 ---
