@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:588"
-published_in: ["Rechtspraak.nl", "RvdW 2017/467", "FutD 2017-0847", "NBSTRAF 2017/172 met annotatie van mr. T. Urbanus", "SR-Updates.nl 2017-0179"]
+published_in: ["Rechtspraak.nl", "RvdW 2017/467", "SR-Updates.nl 2017-0179", "NbSr 2017/172 met annotatie van mr. T. Urbanus", "FutD 2017-0847", "Viditax (FutD) 2017040605", "AA20170730 met annotatie van Stevens L. Lonneke"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1048"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2015:5007, (Gedeeltelijke) vernietiging met terugwijzen"], ["Formele relatie", "Procedure voortgezet met: ECLI:NL:GHAMS:2018:1434"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-094.md", "netherlands/national/acts/wetboek-van-strafvordering/art-095.md", "netherlands/national/acts/wetboek-van-strafvordering/art-096.md", "netherlands/national/acts/wetboek-van-strafvordering/art-104.md"]
 ---
