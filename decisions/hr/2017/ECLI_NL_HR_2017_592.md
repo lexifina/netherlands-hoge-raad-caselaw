@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:592"
-published_in: ["Rechtspraak.nl", "NJ 2017/230 met annotatie van T. Kooijmans", "JOW 2017/21", "TPWS 2017/45", "NJB 2017/926", "RvdW 2017/456", "NBSTRAF 2017/164 met annotatie van mr. T. Urbanus", "SR-Updates.nl 2017-0178 met annotatie van J.H.J. Verbaan"]
+published_in: ["Rechtspraak.nl", "NJ 2017/230 met annotatie van T. Kooijmans", "JOW 2017/21", "TPWS 2017/45", "NJB 2017/926", "RvdW 2017/456", "SR-Updates.nl 2017-0178 met annotatie van J.H.J. Verbaan", "NbSr 2017/164 met annotatie van mr. T. Urbanus", "AA20170730 met annotatie van Stevens L. Lonneke"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2016:1047"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2015:2954, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-094.md", "netherlands/national/acts/wetboek-van-strafvordering/art-095.md", "netherlands/national/acts/wetboek-van-strafvordering/art-096.md", "netherlands/national/acts/wetboek-van-strafvordering/art-104.md", "netherlands/national/acts/wetboek-van-strafvordering/art-148.md", "netherlands/national/acts/wetboek-van-strafvordering/art-359a.md"]
 ---
