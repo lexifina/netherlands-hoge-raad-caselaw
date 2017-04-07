@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:635"
-published_in: ["Rechtspraak.nl", "RCR 2017/61", "RF 2017/59", "AR 2017/4008", "NJB 2017/920", "Ondernemingsrecht 2017/120 met annotatie van M.H.E. Rongen", "JWB 2017/147", "RvdW 2017/484", "AR 2017/1819", "RI 2017/49", "NJ 2017/177", "JONDR 2017/890", "JIN 2017/100 met annotatie van A.I. Mekes", "JOR 2017/213 met annotatie van Mr. G.J.L. Bergervoet", "JIN 2017/76 met annotatie van F. el Houzi en S.A. van Aalst", "NTHR 2017, afl. 4, p. 215", "NTHR 2017, afl. 5, p. 324", "OR-Updates.nl 2017-0128", "INS-Updates.nl 2017-0138"]
+published_in: ["Rechtspraak.nl", "RCR 2017/61", "RF 2017/59", "AR 2017/4008", "NJB 2017/920", "Ondernemingsrecht 2017/120 met annotatie van M.H.E. Rongen", "JWB 2017/147", "RvdW 2017/484", "AR 2017/1819", "RI 2017/49", "NJ 2017/177", "JONDR 2017/890", "JIN 2017/100 met annotatie van A.I. Mekes", "JOR 2017/213 met annotatie van Mr. G.J.L. Bergervoet", "JIN 2017/76 met annotatie van F. el Houzi, S.A. van Aalst", "NTHR 2017, afl. 4, p. 215", "NTHR 2017, afl. 5, p. 324", "OR-Updates.nl 2017-0128", "INS-Updates.nl 2017-0138"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:112, Gevolgd"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-042.md", "netherlands/national/acts/faillissementswet/art-054.md"]
 ---
