@@ -1,0 +1,44 @@
+---
+ecli: "ECLI:NL:HR:2017:681"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "16/04871"
+decided: "2017-04-14"
+published: "2017-04-13"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:681"
+published_in: ["Rechtspraak.nl", "NTFR 2017/1003"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2016:5004"]]
+---
+
+# ECLI:NL:HR:2017:681 Hoge Raad , 14-04-2017 / 16/04871
+
+## Inhoudsindicatie
+
+HR verklaart het beroep in cassatie n-o met toepassing van art. 80a RO.
+
+## Uitspraak
+
+14 april 2017
+
+Nr. 16/04871
+
+Arrest
+
+gewezen op het beroep in cassatie van [X] te [Z] (hierna: belanghebbende) tegen de uitspraak van het Gerechtshof Amsterdam van 23 augustus 2016, nrs. 14/00906 en 15/00001, op het principale en incidentele hoger beroep van belanghebbende en het hoger beroep van de Inspecteur tegen een uitspraak van de Rechtbank Noord-Holland (nr. HAA 13/2952) betreffende aan belanghebbende uitgereikte uitnodigingen tot betaling van douanerechten.
+
+1
+Beoordeling van de ontvankelijkheid van het beroep in cassatie
+
+De Hoge Raad is van oordeel dat de aangevoerde klacht geen behandeling in cassatie rechtvaardigt omdat de partij die het cassatieberoep heeft ingesteld klaarblijkelijk onvoldoende belang heeft bij het cassatieberoep dan wel omdat de klacht klaarblijkelijk niet tot cassatie kan leiden.
+
+De Hoge Raad zal daarom – gezien artikel 80a van de Wet op de rechterlijke organisatie en gehoord de Procureur-Generaal – het beroep in cassatie niet-ontvankelijk verklaren.
+
+2
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie niet-ontvankelijk.
+
+Dit arrest is gewezen door de vice-president J.A.C.A. Overgaauw als voorzitter, en de raadsheren P.M.F. van Loon en M.E. van Hilten, in tegenwoordigheid van de waarnemend griffier E. Cichowski, en in het openbaar uitgesproken op 14 april 2017.
