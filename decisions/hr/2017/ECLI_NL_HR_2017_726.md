@@ -1,0 +1,58 @@
+---
+ecli: "ECLI:NL:HR:2017:726"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "16/04186"
+decided: "2017-04-18"
+published: "2017-04-19"
+type: "uitspraak"
+procedure: "Artikel 81 RO-zaken"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:726"
+published_in: ["Rechtspraak.nl", "RvdW 2017/558"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:302, Gevolgd"]]
+---
+
+# ECLI:NL:HR:2017:726 Hoge Raad , 18-04-2017 / 16/04186
+
+## Inhoudsindicatie
+
+Diefstal door twee of meer verenigde personen door middel van verbreking. Bewijs medeplegen en uitleg van het bestanddeel medeplegen. HR: art. 81.1 RO.
+
+## Uitspraak
+
+18 april 2017
+
+Strafkamer
+
+nr. S 16/04186
+
+KD/EC
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+op het beroep in cassatie tegen een arrest van het Gerechtshof Den Haag van 8 december 2015, nummer 22/002693-14, in de strafzaak tegen:
+
+[verdachte]
+, geboren te [geboorteplaats] op [geboortedatum] 1995.
+
+1
+Geding in cassatie
+
+Het beroep is ingesteld door de verdachte. Namens deze heeft R.I. Takens, advocaat te Amsterdam, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De Advocaat-Generaal P.C. Vegter heeft geconcludeerd tot verwerping van het beroep.
+
+2
+Beoordeling van het middel
+
+Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+3
+Beslissing
+
+De Hoge Raad verwerpt het beroep.
+
+Dit arrest is gewezen door de vice-presiden W.A.M. van Schendel als voorzitter, en de raadsheren H.A.G. Splinter-van Kan en Y. Buruma, in bijzijn van de waarnemend griffier L. Nuy, en uitgesproken ter openbare terechtzitting van 18 april 2017.
