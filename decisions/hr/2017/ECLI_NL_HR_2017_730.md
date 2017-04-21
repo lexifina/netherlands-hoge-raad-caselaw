@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:730"
-published_in: ["Rechtspraak.nl", "BNB 2017/164 met annotatie van P.G.H. ALBERT", "FED 2017/122 met annotatie van D.S. Smit", "V-N Vandaag 2017/899", "V-N 2017/22.12 met annotatie van Redactie", "FutD 2017-0963 met annotatie van Fiscaal up to Date", "NTFR 2017/1032 met annotatie van Drs. M. Nieuweboer", "NLF 2017/1033 met annotatie van", "NLF 2017/1033 met annotatie van"]
+published_in: ["Rechtspraak.nl", "BNB 2017/164 met annotatie van P.G.H. ALBERT", "FED 2017/122 met annotatie van D.S. Smit", "V-N Vandaag 2017/899", "V-N 2017/22.12 met annotatie van Redactie", "NLF 2017/1033", "NLF 2017/1033", "NTFR 2017/1032 met annotatie van Drs. M. Nieuweboer", "FutD 2017-0963", "Viditax (FutD) 2017042101"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:82"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2016:2219"]]
 ---
 
