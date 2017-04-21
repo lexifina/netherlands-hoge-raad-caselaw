@@ -1,0 +1,53 @@
+---
+ecli: "ECLI:NL:HR:2017:765"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "16/05866"
+decided: "2017-04-21"
+published: "2017-04-20"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:765"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2016:4213"]]
+---
+
+# ECLI:NL:HR:2017:765 Hoge Raad , 21-04-2017 / 16/05866
+
+## Inhoudsindicatie
+
+HR verklaart het beroep in cassatie n-o.
+
+## Uitspraak
+
+21 april 2017
+
+Nr. 16/05866
+
+Arrest
+
+gewezen op het beroep in cassatie van [X] te [Z], Marokko (hierna: belanghebbende) tegen de uitspraak van de Centrale Raad van Beroep van 4 november 2016, nr. 16/562 AOW, betreffende een besluit van de Sociale verzekeringsbank ingevolge de Algemene Ouderdomswet en de Algemene nabestaandenwet.
+
+1
+Beoordeling van de ontvankelijkheid van het beroep in cassatie
+
+Belanghebbende heeft niet gekozen voor een domicilieadres in Nederland.
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van 18 januari 2017 gewezen op de verschuldigdheid van griffierecht en voor de betaling een termijn van vier weken gesteld. Het griffierecht is niet voldaan.
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van 20 februari 2017, welke brief eveneens per gewone post is verzonden aan het door belanghebbende opgegeven adres in het buitenland, in de gelegenheid gesteld binnen vier weken na dagtekening van deze brief mee te delen waarom het griffierecht niet tijdig is betaald. Belanghebbende heeft van deze gelegenheid geen gebruik gemaakt.
+
+Het beroep in cassatie moet op grond van artikel 8:41, lid 6, Awb derhalve niet-ontvankelijk worden verklaard.
+
+2
+Beoordeling van het middel
+
+De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten.
+
+3
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie niet‑ontvankelijk.
+
+Dit arrest is gewezen door de raadsheer J. Wortel als voorzitter, en de raadsheren Th. Groeneveld en A.F.M.Q. Beukers-van Dooren, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 21 april 2017.
