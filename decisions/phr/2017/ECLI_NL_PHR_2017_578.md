@@ -1,0 +1,903 @@
+---
+ecli: "ECLI:NL:PHR:2017:578"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "16/02731"
+decided: "2017-05-23"
+published: "2017-07-03"
+type: "conclusie"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2017:578"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2017:1216, Gevolgd"]]
+---
+
+# ECLI:NL:PHR:2017:578 Parket bij de Hoge Raad , 23-05-2017 / 16/02731
+
+## Inhoudsindicatie
+
+Unus testis. HR verwijst naar ECLI:NL:HR:2010:BM2452 m.b.t. art. 342.2 Sv. I.c. kan niet worden gezegd dat de tot bewijs gebezigde verklaringen van beide aangeefsters onvoldoende steun vinden in het overige bewijsmateriaal, in aanmerking genomen dat het Hof t.a.v. deze feiten niet onbegrijpelijk heeft vastgesteld dat de verklaringen van aangeefsters elkaar over en weer ondersteunen wat betreft de aard van de ontuchtige handelingen gepleegd door verdachte en de wijze waarop die handelingen in de woning van verdachte plaatsvonden, terwijl het Hof in de bewijsvoering tevens heeft betrokken de verklaring van een getuige aan wie een van de aangeefsters haar verhaal heeft gedaan. Anders dan in het tweede en het derde middel wordt betoogd, is van schending van art. 342.2 Sv geen sprake. De bewezenverklaringen zijn voldoende naar de eis der wet met redenen omkleed. Volgt verwerping. CAG over gebruik schakelbewijs als steunbewijs.
+
+## Conclusie
+
+Nr. 16/02731
+
+Zitting: 23 mei 2017
+
+Mr. E.J. Hofstee
+
+Conclusie inzake:
+
+[verdachte]
+
+De verdachte is bij arrest van 17 mei 2016 door het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, wegens 1 en 2 “met iemand beneden de leeftijd van twaalf jaren handelingen plegen die bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, meermalen gepleegd” en 3 “met iemand die de leeftijd van twaalf jaren maar nog niet die van zestien jaren heeft bereikt, buiten echt, ontuchtige handelingen plegen die bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, meermalen gepleegd”, veroordeeld tot een gevangenisstraf voor de duur van vijf jaar. Daarnaast heeft het hof de vordering van de benadeelde partij toegewezen en aan de verdachte een schadevergoedingsmaatregel opgelegd, een en ander als nader in het arrest omschreven.
+
+Namens de verdachte heeft mr. J. Boksem, advocaat te Leeuwarden, drie middelen van cassatie voorgesteld.
+
+Het eerste middel klaagt dat het hof voor het bewijs van het onder 1, 2 en 3 tenlastegelegde gebruik heeft gemaakt van een zogenoemde schakelbewijsconstructie, terwijl aan de voorwaarden daarvoor niet is voldaan. Het tweede middel klaagt dat het hof in strijd heeft gehandeld met de bewijsminimumregel van art. 342, tweede lid, Sv doordat het hof het bewijs dat de verdachte het onder 1 tenlastegelegde heeft begaan uitsluitend heeft aangenomen op verklaringen van de aangeefster [betrokkene 1] . Het derde middel bevat eenzelfde klacht met betrekking tot het bewijs van de feiten 2 en 3, dat uitsluitend zou steunen op de verklaringen van de aangeefster [betrokkene 2] . De middelen lenen zich voor een gezamenlijke bespreking.
+
+Ten laste van de verdachte is bewezenverklaard dat:
+
+“1. hij in de periode van 8 oktober 2003 tot en met 7 oktober 2009 in de gemeente Veendam, meermalen, met [betrokkene 1] (geboren [geboortedatum] 1997), die toen de leeftijd van twaalf jaren nog niet had bereikt, handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van [betrokkene 1] , hebbende verdachte
+
+- zijn (stijve) penis aan [betrokkene 1] getoond en
+
+- zijn (stijve) penis laten vastpakken door [betrokkene 1] en
+
+- zich door [betrokkene 1] laten aftrekken en
+
+- zijn (stijve) penis in de vagina van [betrokkene 1] geduwd/gebracht en
+
+- zijn (stijve) penis in de mond van [betrokkene 1] geduwd/gebracht en
+
+- een of meer vinger(s) in de vagina van [betrokkene 1] geduwd/gebracht;
+
+2. hij in de periode van 27 maart 1995 tot en met 26 maart 1998 te Nieuw-Buinen en te Ter Apel, meermalen, met [betrokkene 2] (geboren [geboortedatum] 1986), die toen de leeftijd van twaalf jaren nog niet had bereikt, handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van [betrokkene 2] , hebbende verdachte
+
+- zijn tong in de mond van [betrokkene 2] gestopt en
+
+- zijn (stijve) penis aan [betrokkene 2] getoond en
+
+- zijn (stijve) penis laten vastpakken door [betrokkene 2] en
+
+- zich door [betrokkene 2] laten aftrekken en
+
+- zijn (stijve) penis in de mond van [betrokkene 2] geduwd/gebracht en
+
+- de clitoris van [betrokkene 2] aangeraakt en
+
+- een vinger in de vagina van [betrokkene 2] geduwd/gebracht en
+
+- met zijn tong aan de vagina van [betrokkene 2] gelikt;
+
+3. hij in de periode van 27 maart 1998 tot en met 26 maart 2002 te Ter Apel en te Wildervank, meermalen, met [betrokkene 2] (geboren [geboortedatum] 1986), die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van [betrokkene 2] , hebbende verdachte
+
+- zijn (stijve) penis aan [betrokkene 2] getoond en
+
+- zijn (stijve) penis laten vastpakken door [betrokkene 2] en
+
+- zich door [betrokkene 2] laten aftrekken en
+
+- zijn (stijve) penis in de vagina van [betrokkene 2] geduwd/gebracht en
+
+- zijn (stijve) penis in de mond van [betrokkene 2] geduwd/gebracht en
+
+- geëjaculeerd en geplast in de mond en de vagina van [betrokkene 2] en
+
+- een of meer vinger(s) in de vagina van [betrokkene 2] geduwd/gebracht en
+
+- [betrokkene 2] in opdracht van verdachte een bierflesje in haar vagina laten duwen/brengen en
+
+- met zijn tong aan de vagina van [betrokkene 2] gelikt.”
+
+5. Deze bewezenverklaringen steunen op de volgende bewijsmiddelen:
+
+“1. Een in de wettelijke vorm op 30 januari 2014 opgemaakt proces-verbaal van aangifte, nummer PL01VG- 2013126686-1, opgemaakt door [verbalisant 1] , brigadier (bevoegd zedenrechercheur) en [verbalisant 2] , hoofdagent (bevoegd zedenrechercheur), van politie Groningen, opgenomen op de pagina's 22 tot en met 44 van een dossier met proces-verbaalnummer 2013126686 van de politie Noord-Nederland, Unit Districtsrecherche Groningen, Cluster Zeden, in de wettelijke vorm opgemaakt door [verbalisant 3] , brigadier, en gesloten op 4 juli 2014, voor zover inhoudende, zakelijk weergegeven:
+
+als verklaring van [betrokkene 2] , geboren op [geboortedatum] 1986, aangeefster:
+
+V = Vraag verbalisant
+
+A = Antwoord aangeefster
+
+V: Je had al verteld dat je ouders uit elkaar waren gegaan. Hoe oud was je toen zij uit elkaar gingen?
+
+A: Ik was 7 jaar oud. Dat was toen mijn moeder met mij vertrok uit mijn ouderlijk huis.
+
+V: Hoe ging het met jouw moeder qua relaties?
+
+A: Ik weet het niet. Ik denk dat ze meer scharrels heeft gehad, maar geen relaties. Tot ik negen jaar oud was. Toen ging ik weer verhuizen, ook in Nieuw Buinen. Toen kwam [verdachte] (het hof begrijpt: verdachte [verdachte]) in ons leven. Dat is nu mijn stiefvader.
+
+V: Wat voor een man was [verdachte] ?
+
+A: Eerst was hij heel aardig tegen mij, maar ik merkte wel dat hij overheersend tegen mij was.
+
+V: Hebben je moeder en [verdachte] samen nog kinderen gekregen?
+
+A: Ja, [betrokkene 1] en [betrokkene 3] . [betrokkene 1] is op [geboortedatum] -1997 geboren en [betrokkene 3] is van [geboortedatum] -1999.
+
+V: Je ben hier gekomen om aangifte te doen. Waar doe je aangifte van?
+
+A: Van seksueel misbruik.
+
+V: Wanneer is dat begonnen?
+
+A: Toen ik 9 jaar oud was. Hij woonde een paar maanden bij mijn moeder.
+
+V: Met hij bedoel je?
+
+A: [verdachte] .
+
+V: Wat kun je vertellen over de eerste keer dat [verdachte] jou op seksueel gebied benaderde?
+
+A: Ik weet dat ik sliep. Het was al nacht. Mijn moeder sliep ook al. Ik weet nog dat mijn kamerdeur openging en ik werd wakker. Hij zei iets. Ik weet niet meer wat. Ik rook een alcohollucht. Hij ging boven op mij liggen. Hij begon mij kusjes te geven en daarna stak hij zijn tong bij mij naar binnen in mijn mond. Ik vond dat wel raar. [verdachte] zei dat het heel normaal was, omdat mensen dat doen als ze heel veel van elkaar houden. Dat was de eerste keer.
+
+V: Hoe stopte dat?
+
+A: Het hield gewoon op. Hij is volgens mij bij mijn moeder in bed gaan slapen, niet bij mij in elk geval.
+
+V: Hoe is het toen verder gegaan?
+
+A: Vanaf die tijd ging ik vaker met hem douchen. Op een bepaald moment zei hij dat ik zijn piemel wel mocht wassen. Ik vond het wat ongemakkelijk, nee niet ongemakkelijk, maar meer giechelen. Vanaf dat moment moest ik onder de douche zijn piemel wassen. Na het douchen gingen we altijd in bed liggen, naakt. Dat noemde hij "lekker warm worden". Toen zat er niet veel tijd tussen dat ik, zeg maar, aan zijn piemel ging zitten in bed.
+
+V: Waarom ging je daar aan zitten?
+
+A: Hij zei dat ik zijn piemel ook had gewassen en dat ik er ook aan kon zitten als hij droog was. Dat dat niet erg is. Hij zei ook, dat ben ik nooit meer vergeten: 'Het is niet erg als je eraan likt. Het is net een lolly".
+
+V: En toen?
+
+A: Toen was het een tijdje rustig. Hij kreeg werk. Op zaterdag en zondag was hij sowieso thuis. Zaterdag was echt een standaarddag dat ik met hem moest douchen. Hij stuurde mijn moeder naar de markt voor boodschapjes. We gingen dan douchen, dan in bed liggen en ik moest met zijn piemel spelen. Op een bepaald moment liet hij me weten dat het voor hem lekker voelt. Maar dat ik ook een plekje had waar het lekker voelt. Toen ging hij dus aan mijn vagina zitten. Eerst liet hij het zien en zei: 'Dat voelt lekker', terwijl hij aan mijn clitoris zat. Hij probeerde ook een vinger in mijn vagina te doen, maar dat deed pijn. Maar dat doen mensen als ze van elkaar houden, zei hij dan. Ik zei wel eens dat hij toch van mijn moeder hield. En hij zei soms: "Eigenlijk ben ik ook wel stiekem een beetje verliefd op jou". Dat ging bijna elke zaterdag hetzelfde.
+
+(...) Toen was mijn moeder zwanger. We zijn, voordat ze moest bevallen, nog verhuisd naar Ter Apel.
+
+(...) Mijn moeder was altijd moe tijdens de zwangerschap. Toen ging ze niet meer naar de markt, maar dan liet [verdachte] mij tot laat opblijven. Eerst bleef het erbij dat ik hem in de avond moest aftrekken. Dat was ook de eerste keer dat ik wist wat klaarkomen was. Hij werkte toen bij Avebe in Ter Apelkanaal, in ploegendiensten. Dan haalde hij mij soms midden in de nacht uit bed. Dan wilde hij ook dat ik hem ging aftrekken. Toen was er een periode dat mijn zusje [betrokkene 1] werd geboren. Mijn moeder had het best druk met de baby. Soms sliep mijn moeder al vroeg in de avond. Toen begon [verdachte] ook iets verder te gaan. Hij wilde mijn vagina likken. Dat vond ik heel ongemakkelijk en ik schaamde me, dus ik deed mijn handen altijd voor mijn ogen.
+
+(...) Toen mijn moeder zwanger was van [betrokkene 3] en [betrokkene 1] in bed lag, begon hij te proberen zijn piemel in mijn vagina te stoppen. Dat deed heel erg pijn. Hij zei: "De eerste keer doet het altijd pijn, dus je moet het gewoon volhouden." Hij stopte toen op dat moment, omdat het mij teveel pijn deed en ik heel hard moest huilen. Diezelfde week nog heeft hij het wel gedaan. Toen lukte het wel, maar dat deed bij mij heel erg pijn.
+
+V: Hoe ging het verder?
+
+A: Op een gegeven moment begon ik het ook niet meer leuk te vinden en was ik 12 jaar en besefte dat bepaalde dingen niet normaal waren. Ik mocht ook niets tegen mijn moeder zeggen. Dat was me wel duidelijk vanaf het begin. Het was ons geheim, zei hij, dat mijn moeder niet mocht weten dat hij stiekem verliefd op mij was.
+
+(...) Soms zaten we beneden en was mijn moeder in slaap gevallen. Dan maakte mijn vader een beweging met zijn hand bij zijn mond, waardoor ik wist wat hij wilde. Ik moest dan 'ja' zeggen en naar boven. Dan kwam hij er vlak achteraan.
+
+(Opmerking verbalisant: Aangeefster maakt een beweging met haar hand bij haar mond en die beweging is alsof je een piemel pijpt.)
+
+(...) Hij vroeg me toen een keer of ik ermee wilde stoppen. Ik zei toen: "Ja". Toen zei hij volgens mij: "Dan is alles nu klaar". Toen begon hij heel lelijk tegen mij te doen, mij te negeren. Als mijn moeder het niet doorhad, zei hij dingen als: "Houd je bek, niemand die het interesseert". Ik voelde me compleet buitengesloten. Ik maaide ook wel het gras en als er dan visite was dan zei [verdachte] : "Welke mongool heeft het gras gemaaid?" Hij probeerde me met alles te kwetsen. Na een week zat ik te huilen. Ik voelde me niet welkom in mijn eigen huis en ongelukkig. Toen begon hij midden in de nacht met mij te praten. Uiteindelijk kwam het erop neer dat het beter niet kon stoppen, omdat hij dan weer normaal tegen mij zou doen. Ik moest wel verplicht seks met hem hebben om me niet buitengesloten te voelen. Op een avond had hij weer wat gedronken en hij zei dat ik maar moest bewijzen hoeveel ik van hem hield. Ik was inmiddels geen maagd meer. Hij zette een bierflesje op de grond. Ik moest op mijn hurken op de grond. Ik moest het bierflesje in mijn vagina laten glijden. Ik zei de hele tijd dat ik dat niet wilde. Toen begon hij weer heel raar te doen, dat gemene. Ik heb dat toen wel gedaan.
+
+(...) Ik kwam in de brugklas in Ter Apel. Ik begon jongens leuk te vinden. Ik kreeg een vriendje toen, [betrokkene 4] . We kregen verkering. [verdachte] vroeg steeds: "Heb je een vriendje, heb je een vriendje?" Toen zei ik dat dat zo was. Ik was toen alleen met hem. Hij zei: "Dat is mooi. Nu ben je niet meer helemaal van mij". Hij zei dat op een denigrerende manier. Ik was een keer met [verdachte] alleen thuis. Het was een hele mooie dag. Hij begon weer over mijn vriendje, of ik met hem had gezoend. Hij zei weer dat ik niet meer alleen van hem was. Uit schaamte heb ik toen gezegd dat dat wel zo was, dat ik niks met mijn vriendje deed. Toen moest ik bewijzen hoeveel ik van hem hield en ik moest toen seks met hem hebben, helemaal, met alles erop en eraan. Penetreren en ik moest ook anale seks met hem hebben, maar dat lukte absoluut niet. Op een gegeven moment werd er van mij geëist dat ik het uit moest maken met mijn vriendje. Het was niet goed voor mij en mijn cijfers zouden eronder lijden. Mijn moeder sprak helemaal met [verdachte] mee. Toen heb ik het uitgemaakt met mijn vriendje.
+
+(...)
+
+V: Ik zie dat je huilt.
+
+A: Ja, ik voel me diep ongelukkig als ik eraan terugdenk en dat gevoel wil ik niet meer terug. Het is zoveel en het is zo vaak gebeurd. Ik had het altijd in een potje weggestopt, maar nu komt het allemaal weer boven en ik vraag me ook af hoe het kan en of mijn moeder dan nooit iets doorgehad heeft.
+
+V: Je komt dan op een leeftijd dat je ongesteld gaat worden. Hoe oud was je toen?
+
+A: Ik zei gisteren 11, maar volgens mij was ik 12 jaar oud. Iedereen op school gebruikte tampons, maar ik moest maandverband gebruiken van [verdachte] , want anders zou ik niet meer zo strak zijn daar beneden. Dat zou voor hem niet meer lekker zijn.
+
+V: Was je wel eens bang dat je zwanger zou raken?
+
+A: Nee, hij gebruikte condooms en na die tijd blies hij ze ook wel op om te kijken of ze lek waren.
+
+(...) Het was bijna om de dag.
+
+(...) Ik wilde niet meer zo vaak seks, dan zei ik ook nee. Ik moest met hem praten over wat ik normaal zou vinden qua hoeveelheid seks per week. Toen zei ik dat ik een keer wel genoeg vond. Hij werd toen boos, omdat volgens hem normale mensen elke dag wel seks hebben. Uiteindelijk kwamen we op een hoeveelheid van drie keer per week seks. Hij had tekens met mij afgesproken, zoals met die hand wat ik net deed. Als mijn moeder dan niet oplette en hij deed bijvoorbeeld dit (aangeefster heeft een gebalde vuist met de duim tussen de wijs- en middelvinger), dan betekende dat neuken en dan moest ik eerst naar boven. Als hij dat deed, dan keek hij heel vrolijk en blij, maar als ik dan dat teken zag en naar beneden keek en met mijn hoofd zacht nee schudde, zodat mijn moeder het ook niet zag, dan zag ik zijn gezichtsuitdrukking veranderen. In helemaal boos. Dan ging hij weer kwetsende dingen zeggen of mij negeren.
+
+(...) Ik weet nog dat het zomer was. Ik had een zomerjurkje aan. Ik hield daar niet van, maar ik moest van hem een jurkje aan. Als ik met hem meeging, dan mocht ik er geen onderbroek onder aan.
+
+(...) Dat was toen wij al naar Wildervank waren verhuisd. Ik moest aan hem laten zien, hoeveel ik voor hem overhad en ik moest op mijn knieën naast de wc zitten en hij ging in mijn mond plassen. Dat moest ik doorslikken van hem en daarna plaste hij verder uit in de wc.
+
+V: Wanneer woonde jij in Nieuw-Buinen?
+
+A: Mijn hele leven tot mijn 12e.
+
+V: Naar welk adres ben je toen gegaan?
+
+A: De [a-straat] in Ter Apel. Dat zal in 1996 of 1997 geweest zijn. Daar hebben we tot 2002 gewoond.
+
+V: Wat is het volgende adres?
+
+A: In 2002 zijn we naar Wildervank verhuisd, naar de [b-straat 1] . Daar heb ik gewoond tot ik het huis uitging. Ik was toen 17 of bijna 18.
+
+V: Wanneer gebeurde dat voorval met dat bierflesje?
+
+A: Dat was in Ter Apel. Dat was tussen mijn 12e en 13e jaar.
+
+V: En met dat zomerjurkje?
+
+A: Ook in die periode, in Ter Apel. En dat hij in mijn mond plaste was in Wildervank. Ik was toen 16 jaar.
+
+V: Hoe was jouw positie als je hem moest pijpen?
+
+A: Of hij lag op het bed en ik zat op mijn knieën naast hem en dat ik hem zo moest pijpen of ik moest met mijn vagina op zijn gezicht zitten zodat hij mij kon likken en ik hem ondertussen moest pijpen.
+
+V: Over wat voor houdingen hebben we het als je gepenetreerd werd?
+
+A: Of hij lag bovenop mij, of ik moest op mijn knieën en dan zat hij achter mij. Of ik moest bovenop hem zitten.
+
+V: Je zei dat hij gezegd had dat hij stiekem verliefd op je was. Hoe denk jij erover na alles wat hij gezegd heeft en hoe het gegaan is toen je verkering had en later ook seks had met die andere jongen?
+
+A: Dat hij mij zag als zijn bezit. Dat ik alleen maar seks met hem mocht hebben.
+
+Dat ik een mooie reserve voor hem was als mijn moeder geen seks wilde, dat hij dan bij mij kwam.
+
+(...) Op zondag ging ik met mijn zusje fietsen en dan ging [verdachte] mee. Dan zei hij wel eens: "Zie je dat, mensen denken allemaal dat je mijn vriendin bent". Ik schaamde mij ervoor.
+
+(...) Ik schaam me, omdat ik altijd het gevoel heb dat ik dit gewild heb, omdat hij dat altijd tegen mij zei: "Jij hebt dit gewild, hè, dat moet je nooit vergeten, begrijp je dat?"
+
+V: Je vertelde gisteren ook over een verwonding aan je lip. Hoe zat dat?
+
+A: Ik was toen 17 jaar oud. Ik had het uitgemaakt met mijn vriendje [betrokkene 5] . [verdachte] wilde weten wat ik had gedaan, of we hadden gezoend, of ik ook echt seks met hem had gehad. Ik zei: "Nee". Hij hoefde niet alles te weten. Hij geloofde me niet en zei dat ik loog. Hij begon te flippen. Hij werd hartstikke boos en sloeg mij vol in mijn gezicht.
+
+V: Waar waren jullie toen?
+
+A: We waren niet thuis. We reden in de auto over Wildervanksterdallen, over zo'n tussendoorweg. Ik geloof dat we naar de markt gingen in Stadskanaal. We waren uitgestapt en toen werd hij nog bozer en trapte me achter in mijn rug.
+
+V: Wat was het gevolg van het slaan?
+
+A: Dat mijn hele lip open lag. Je kan het nu nog wel zien, een litteken. Volgens mij was er een tand door mijn lip gegaan. Bij mijn hoektand zit het litteken. Het bloedde heel erg. Ik was doodsbang op dat moment.
+
+V: Wat is volgens jou de reden dat hij zo flipte?
+
+A: Jaloers. Jaloezie.
+
+V: En daarna?
+
+A: We zijn niet naar de markt geweest. Ik weet niet meer of we nog ergens geweest zijn of dat we naar huis zijn gegaan. Ik moest thuis van [verdachte] zeggen dat ik tegen de autodeur was gevallen. Mijn moeder zei dat ik een sukkel was.
+
+V: Hoe was de band met je moeder door de jaren heen?
+
+A: Slecht. Alleen als ik alleen met haar thuis was, dan was ze gewoon. Soms had ik het idee dat zij jaloers was dat ik zoveel aandacht kreeg van [verdachte] . Ik voelde mij soms schuldig dat ik die aandacht kreeg die ik helemaal niet wilde.
+
+V: Hoe ging hun huwelijk? Wat heb je daarvan gezien?
+
+A: Ze hadden vaak ruzie. Ik denk dat zij ook geen seks hadden. Mijn moeder snurkte heel erg. [verdachte] ging bij Perfox werken. Als hij thuiskwam, dan wilde hij slapen. Dan moest mijn moeder beneden op de bank slapen en hij lag dan in hun bed. Dan wist ik al dat ik 's nachts het haasje was.
+
+(...)
+
+V: Heb jij er ooit met je moeder over gesproken?
+
+A: Nee.
+
+V: Hoe komt dat?
+
+A: Schaamte. En je wilt niet dat je haar leven in één keer helemaal op de kop zet. Dat wilde ik niet. Dan vond ik zielig.
+
+V: Hoe denk je daar nu over?
+
+A: Anders. Er zijn nou twee kinderen uit huis en ik vind gewoon dat ze moet inzien dat die dingen niet zomaar gebeuren. Dat ze moet weten met wat voor man ze al jaren getrouwd is.
+
+(...)
+
+Ik heb van [betrokkene 6] , de begeleidster van [betrokkene 1] gehoord, dat het ook met [betrokkene 1] was gebeurd. Ik vroeg het haar en [betrokkene 6] zei: "Ja". Ik vroeg haar naar de leeftijd waarop het gebeurd was. [betrokkene 6] zei: "Van haar 6e tot haar 11e". Ik moest het weten. Ik voelde me ook zo schuldig. Ik ging het huis uit toen [betrokkene 1] zes jaar was. Dan denk ik: ik was ouder. Ik had beter kunnen blijven. Ik denk dat hij begonnen is met [betrokkene 1] , toen ik ben weggegaan.
+
+V: Je zei gisteren: [betrokkene 1] is zijn eigen dochter. Dat is anders, dacht je.
+
+A: Ja, ik ben niet zijn eigen dochter. Dan kan ik me voorstellen dat dat anders is dan met je eigen bloed, dat wat jij hebt gemaakt. Dat is van jou. Daar blijf je toch helemaal vanaf.
+
+V: Wanneer heb je er voor het eerst met iemand over gesproken?
+
+A: Voor het eerst was in augustus of september 2013 bij Inter-Psy in Veendam. Ik kwam toen bij [betrokkene 7] voor mijn oudste zoon, [betrokkene 8] . Ik zat met zijn gedrag. Heel druk, veel ruzie maken, slecht meekomen op school. Dat soort dingen. Mijn oudste dochter had verteld dat [betrokkene 8] en [betrokkene 9] (het hof begrijpt: een dochter van aangeefster) hadden geneukt. Ik hoorde direct allemaal alarmbellen afgaan. Bij Inter-Psy wilden ze eerst een beeld van de ouders hebben om te kijken waar zijn gedrag vandaan zou kunnen komen. Ik kreeg dus heel veel vragen, indringende vragen, en toen kwam het eruit bij mij. Ik heb gezegd dat ik misbruikt ben door mijn stiefvader.
+
+V: Hoe ging het toen verder?
+
+A: Toen heb ik een afspraak gemaakt. [betrokkene 7] zou daarbij zijn. Een soort overdrachtsgesprek. Toen bleek [betrokkene 7] ziek en ben ik naar huis gegaan. Ik dacht: laat maar. Dat was eind december 2013. Ik heb nog gesproken met [betrokkene 10] over wat ik zou kunnen doen, wel aangifte of niet. Ik wist het nog niet van [betrokkene 1] . Ik had toen zoiets van: ik ga niks doen. Ik laat het zoals het is. Ik had echt het gevoel dat ik niet verder kwam ermee en mezelf een extra probleem zou aanpraten.
+
+2. Een in de wettelijke vorm op 25 februari 2014 opgemaakt proces-verbaal van verhoor aangeefster, nummer PL01VG- 2013126686-5, opgemaakt door [verbalisant 4] , hoofdagent (bevoegd zedenrechercheur) en [verbalisant 2] , hoofdagent (bevoegd zedenrechercheur, van politie Groningen, opgenomen op de pagina's 46 tot en met 59 van het onder 1 genoemde dossier, voor zover inhoudende, zakelijk weergegeven:
+
+als verklaring van [betrokkene 2] , aangeefster:
+
+V = Vraag verbalisant
+
+A = Antwoord aangeefster
+
+V: Wat kan je moeder gemerkt hebben van het seksueel misbruik?
+
+A: Dat [verdachte] haar zeg maar op bepaalde momenten wegstuurde. Dat hij lang met mij boven zat op de slaapkamer of op de zolder. Als zij dan naar boven kwam, dan had hij altijd wel een zin om ervoor te zorgen dat zij naar beneden ging. Hij zei dan bijvoorbeeld: "Wat doe je boven? We komen er zo aan". En dan rondde hij het op zijn manier af en dan gingen we ook naar beneden, omdat ik denk dat hij ook bang was betrapt te worden. Hij wist dat hij mijn moeder zo onder de duim had dat zij niet naar boven kwam. Maar ik denk dat mijn moeder het ook wel fijn vond om even niet met hem opgescheept te zitten en dat ze daarom ook wel graag beneden bleef.
+
+V: Je zei de vorige keer dat je het gedrag van [betrokkene 1] herkende als dat van jou, toen. Wat zijn dat voor dingen die je zag of hoorde of herkende?
+
+A: Ik moet even nadenken hoe ik dat gedrag uit wil leggen. Toen zij een paar jaar geleden waren verhuisd, toen zag ik haar onderdanige en stille gedrag. Ik heb haar toen gezegd dat ze mij alles kon vertellen, wat er ook was. Ze begon alleen maar te huilen. Ik weet dat als iemand mij dat had gevraagd ik precies hetzelfde gereageerd zou hebben. Ik zou gaan huilen en het niet vertellen uit loyaliteit. Toen ik hoorde dat mijn zusje zichzelf ging snijden, dacht ik: dan heeft dat een reden. Ik zocht ook altijd naar een reden om mijzelf pijn te doen.
+
+V: Wat deed jij dan?
+
+A: Met schroeven mezelf bekrassen en met een stanleymes sneetjes maken. Maar nooit zo erg als [betrokkene 1] heeft gedaan. Ik weet niet waarom. Omdat je dan wat vergeet. Misschien ook om een signaal af te geven naar anderen, op die manier, omdat je het niet kan zeggen.
+
+(...)
+
+V: Wat zijn de minder sterke kanten van je stiefvader?
+
+A: Hij is overheersend, altijd aanwezig, laat iemand anders zich minderwaardig voelen. Hij denkt dat hij alles beter weet en de beste is. Hij heeft een waanzincomplex. Hij vertelde vaak niet de waarheid. Wij als gezin moeten dan 'ja' zeggen, terwijl we niet wisten van het hoe en wat en het niet waar was. Hij vertelde verhalen aan mensen, waarvan wij wisten dat het niet waar was. Wij moesten dit dan beamen tegenover die andere mensen. Anders kreeg je op z'n minst een hele vuile blik. Mijn moeder ging dan met hem mee, omdat ze geen ruzie wilde met [verdachte] . Je kreeg het gevoel dat hij zelf in zijn eigen leugens geloofde.
+
+V: Wil je omschrijven hoe het misbruik doorgaans verliep?
+
+A: Bijvoorbeeld in Ter Apel. Mijn moeder was toen volgens mij zwanger van [betrokkene 3] . Mijn moeder was vrij moe en ging vroeger naar bed. Ik sliep vaak ook al, omdat ik de volgende dag weer naar school moest. 's Avonds kwam hij naar mijn kamer en maakte mij zachtjes wakker. Soms zonder te vragen stak hij ook wel zijn hand in mijn onderbroek en begon mij te vingeren. Ik vertelde wel eens dat ik moe was, maar dat werd dan niet geaccepteerd. Als hij mij 's nachts wakker maakte, was dat voornamelijk omdat ik hem moest pijpen net zolang tot hij klaarkwam. Hij zei dan wel: "Des te sneller ik klaar ben, des te sneller jij weer kunt slapen". Ik moest dan altijd op het randje van het bed gaan zitten en hem pijpen. De eerste keer vertelde hij wat ik moest doen. Later ging het vanzelf. Als hij zeker wist dat mijn moeder vast sliep en pijpen was niet genoeg voor hem, dan moest ik mee naar beneden.
+
+(...) Hij droeg vaak een joggingbroek en een onderbroek. Deze liet hij dan naar beneden zakken.
+
+(...) Ik moest zijn piemel vaak zelf nog hard maken.
+
+(...) Ik moest vaak met één hand zijn ballen vasthouden en met de andere hand zijn piemel. Soms mocht ik hem ook niet vasthouden en moest ik hem zonder handen pijpen. Zonder handen was het voor hem soms lekkerder, zei hij.
+
+(...) In het begin mocht ik zijn sperma uitspugen en als mijn moeder vast sliep nam hij expres geen handdoek mee en moest ik het doorslikken. Ik vond dat heel erg vies. Ik kreeg er kokhalsneigingen van. Ik had daar op een gegeven moment een blokkade voor opgebouwd. Ik wist op den duur dat ik niet moest ademhalen en zo snel mogelijk moest doorslikken, weg ermee.
+
+V: Wat doet hij dan als hij klaargekomen is?
+
+A: Dan deed hij zijn broek weer omhoog en liep weg zonder iets te zeggen. Zo respectloos. Ik voelde mij altijd gebruikt. Ik voelde mij als een hoer. Soms ging ik in mijn bed nog huilen. Op een gegeven moment bouw je een soort van muur op. Je gaat weer liggen en valt weer in slaap. Lichamelijk heeft het ook veel met mij gedaan. Ik lag verkrampt in bed, omdat ik altijd bang was dat iemand de deur open zou doen. Dat heb ik nu nog steeds. Ik kan nog steeds niet relaxed in slaap vallen.
+
+V: Soms moest je ook wel mee naar beneden.
+
+A: Ja, daar wilde hij dan het uitgebreide pakketje, zo noem ik het maar. Hij kwam dan binnen en maakte mij wakker. Hij liep weer terug naar de deur en maakte een gebaar dat ik moest meekomen. Ik moest dan heel zachtjes mijn bed uitkomen en de slaapkamerdeur dichtdoen, zodat mijn moeder niet zou merken dat ik niet in bed lag als zij wakker zou worden.
+
+V: Hoe gaat dat dan?
+
+A: Ik moest mee naar beneden. Ik wist wat er ging gebeuren. Ik mocht eerst wat drinken, iets van sinas of cola, en dan begon het al snel. Hij begon mij te vingeren.
+
+Ik moest dan naast hem liggen op de bank met mijn benen naar zijn hoofd toe. Het was een brede bank. Ik moest hem dan pijpen, terwijl hij mij vingerde. Op een gegeven moment pakte hij een condoom, omdat hij dan in mij wilde klaarkomen.
+
+V: Hoe oud was je toen dit zo begon op deze manier dat je mee moest naar beneden?
+
+A: Een jaar of 13/14.
+
+(...) Hij zei vrij weinig. Alleen dat ik me om moest draaien of dat ik anders moest gaan zitten.
+
+V: Je vertelde dat dit op de bank gebeurde. Gebeurde dit ook wel eens ergens anders?
+
+A: Ja, op een gegeven moment werd mijn zusje geboren. Ik verhuisde toen naar de zolder. Hij kwam dan naar de zolder toe. Hij kon toen nog meer zijn gang gaan, omdat mijn moeder toen helemaal niks meer kon horen.
+
+V: De vorige keer vertelde jij dat je ook vaak in zijn slaapkamer moest komen.
+
+A: Ja, dat was vaak overdag.
+
+V: Je vertelde ook dat je ongeveer 11 jaar was toen hij begon met penetratie.
+
+A: Ja, 11/12, in die leeftijd.
+
+(...) Mijn moeder ging als eerste naar bed. Hij bleef altijd wakker. Ze gingen bijna nooit tegelijk naar bed. Hij ging dan om twee of drie uur 's nachts naar bed.
+
+(...) Hij sliep soms ook wel op de bank. Soms viel mijn moeder in het begin van de avond op de bank in slaap. Hij nam mij dan mee naar boven naar zijn slaapkamer. (...) Ik probeerde na het pijpen soms nog wel stiekem mijn tanden te poetsen.
+
+V: Wat verwacht je dat je stiefvader gaat zeggen als hij hoort dat jij aangifte tegen hem hebt gedaan van seksueel misbruik?
+
+A: Ik denk dat hij boos wordt. Ik denk dat hij heel hysterisch gaat reageren op een manier van: "Hoe kan ze dat nu doen?" Ik denk dat hij laat overkomen alsof hij stomverbaasd is en vals beschuldigd.
+
+V: In hoeverre heb jij last gekregen van psychische klachten?
+
+A: Ik vind het moeilijk om dingen positief te zien. Ik haal eerst het negatieve uit de dingen. Ik vlak mezelf helemaal weg. Ik ben voor mijn gevoel nooit belangrijk geweest. Er is geen dag dat ik niet aan vroeger denk. Er zijn bepaalde triggers die mij raken: een tv-programma, een muzieknummer, een geur, een persoon die op hem lijkt.
+
+3. De door [betrokkene 2] op 18 februari 2016 ten overstaan van de (gedelegeerd) raadsheer-commissaris in strafzaken bij het gerechtshof Arnhem-Leeuwarden onder ede afgelegde verklaring, voor zover inhoudende, zakelijk weergegeven:
+
+RHC houdt beschuldigingen voor, feit 2 en feit 3. Getuige verklaart dat alle handelingen in de tenlastegelegde periode hebben plaatsgevonden.
+
+De verklaringen bij de politie heb ik naar waarheid afgelegd.
+
+(...)
+
+Ik had een vriendje, [betrokkene 5] . [verdachte] kwam erachter. Hij heeft me een litteken bezorgd op mijn bovenlip, want hij sloeg me in het gezicht. Hij heeft me in de auto gezet, vroeg wat ik met [betrokkene 5] had gedaan en hij geloofde niet dat ik alleen met hem had gezoend. Hij vroeg of zijn geslachtsdeel groter was dan die van [betrokkene 5] . Hij kon zich niet meer inhouden, heeft mij toen geslagen op de bovenlip en in mijn rug.
+
+Waarneming RHC: de RHC constateert dat er in de rechter mondhoek op de bovenlip een verdikking te zien is. De mondhoek ziet er enigszins hobbelig uit.
+
+Ik heb voor het eerst over het misbruik gesproken bij [betrokkene 7] van Inter Psy. Ik heb er met [betrokkene 1] voor het eerst over gesproken, nadat ik mijn eerste verklaring bij de politie heb gedaan. Eind januari/februari 2014. Ik heb eerst van [betrokkene 6] gehoord wat [betrokkene 1] was overkomen. Later vertelde [betrokkene 1] het aan mij.
+
+4. Een in de wettelijke vorm op 13 februari 2014 opgemaakt proces-verbaal van bevindingen, nummer PL01VG- 2014013264-4, opgemaakt door [verbalisant 2] en [verbalisant 4] , beiden hoofdagent en bevoegd zedenrechercheur van politie Groningen, opgenomen op pagina 67 tot en met 78 van het onder 1 genoemde dossier, houdende een weergave van het met [betrokkene 1] , geboren op [geboortedatum] 1997, gehouden informatie gesprek, voor zover inhoudende, zakelijk weergegeven:
+
+V = vraag verbalisant
+
+A = antwoord [betrokkene 1]
+
+(...)
+
+V: We laten jou vertellen wat je vanaf het begin kunt vertellen. Als je op weg geholpen wilt worden of liever antwoord geeft op vragen, dan kan dat ook. Wat vind je prettiger?
+
+A: Vragen.
+
+V: Hoe is de band met je vader?
+
+A: Aan de ene kant wel goed soms. Nadat het gebeurd was. Gingen we midden in de nacht gamen of film kijken. Dat kon wel gezellig zijn. Maar hij kon ook heel boos worden.
+
+V: Wat bedoel je met nadat het gebeurd was?
+
+A: Het misbruik.
+
+V: Hoe oud was je toen het begon?
+
+A: Zes.
+
+V: Hoe weet je dat?
+
+A: Omdat ik jarig was. Ik ben jarig op 8 oktober.
+
+V: Toen je zes werd op 8 oktober is dat begonnen?
+
+A: Ja.
+
+V: Waar was je toen dat begon?
+
+A: Mijn moeder lag op de bank te slapen. Mijn vader en moeder sliepen niet samen. Ik dacht dat ik mocht opblijven. Ik was in mijn eigen kamer.
+
+V: Is het dan middag of begin van de avond?
+
+A: Nee, in de nacht.
+
+V: Was je die dag al jarig of de volgende dag?
+
+A: Ik was al jarig geweest.
+
+V: Je moeder lag op de bank en jij lag op je eigen kamer. Wat gebeurt er dan?
+
+A: Hij kwam mijn kamer binnen en toen... Ja.... Ja...
+
+V: Waar was jij in je kamer.
+
+A:In bed.
+
+V: Waar gaat hij naartoe als hij de kamer in komt?
+
+A: Naar mij. Hij vroeg of ik naar zijn kamer wilde komen. Ik zei: dat is goed en dacht waarom niet.
+
+V: Wat bedoel je met zijn kamer.
+
+A: De slaapkamer.
+
+V: En dan?
+
+A: Ik dacht voor de gezelligheid. Ik dacht er niets bij. We gingen op zijn bed zitten. Ik dacht: chillen zoals ik dat nu noem.
+
+V: Wat gebeurt er dan?
+
+Opmerking verbalisant: Getuige blijft stil.
+
+V: Wat zegt hij als jullie op het bed zitten?
+
+A: Ik weet nog dat hij vroeg of ik een leuke verjaardag had gehad. Hij vroeg of ik bij hem kwam slapen. Ik vond dat goed.
+
+V: Wat doe je dan?
+
+A: Ik ging bij hem onder de dekens liggen.
+
+V: Weet je nog wat je aan had?
+
+A: Nee. Jawel. Het was een nachtjapon, met roze, wat net boven de knieën uitkwam.
+
+V: Weet je nog wat je vader aan had?
+
+A : Zijn shirt en zijn boxer.
+
+V : Je ligt onder de dekens. Wat gebeurt er op dat moment?
+
+A: Mag ik eerst wat roken?
+
+V: Ik kan je helpen door vragen te stellen. Maar ik kan niet gaan gissen naar wat er mogelijk gebeurd is. Ik zal moeten wachten tot je mij iets vertelt.
+
+A: Dat weet ik. Ik weet ook dat jullie geen vragen mogen stellen, waaruit ik iets kan halen.
+
+Korte onderbreking voor een sigaret.
+
+V: Gaat het een beetje?
+
+A: Ja. Is het goed dat ik mijn schriftje erbij pak?
+
+V: Ja, natuurlijk. Je mag het vertellen, zoals jij het wilt.
+
+A: Ik had opgeschreven: het was leuk en spannend dat ik bij hem mocht komen. Het was voor mij iets van opblijven, snap je. Mijn zusje en moeder sliepen al. Mijn moeder sliep altijd op de bank. Mijn vader kwam soms pas tegen de nacht weer thuis van zijn werk. Mijn moeder lag dan alleen op de bank. Ik bleef dan altijd wakker tot mijn vader thuiskwam. Dan kon ik gaan slapen.
+
+V: Wat heb je opgeschreven over het moment dat het begon?
+
+A: Dat probeerde ik steeds over te slaan.
+
+V: Dat begrijpen we ook. Maar we komen op het punt dat je je uit kunt spreken.
+
+Dan kunnen we ook verder.
+
+A: Ja. Hij duwde zich toen tegen mij aan. Ik was altijd een soort beetje van bang voor hem. Ik weet niet waarom. Het was altijd dubbel. Ik zag er geen kwaad in om bij hem te slapen. Hij deed altijd opdringerig. Hij kwam 's nachts ook bij mij voor gesprekken, toen ik wat ouder was. Je kon daar geen ’nee' tegen zeggen. Je moest dan gewoon luisteren. De gesprekken gingen over wat ik fout had gedaan die dag. Hij begon mij aan te raken op plekken, waar hij mij nog nooit eerder had aangeraakt. Ik vertrouwde hem daar toch ook wel in. Hoe ik precies reageerde, weet ik niet meer. Een soort van twijfelachtig iets. Hij zei dat als ik ouder werd, dan zou het lekkerder worden. Ik dacht: "Het zal wel goed zijn". Ik dacht ook dat het een positief iets was. Dus ik stemde ermee in. Ook door het opdringerige.
+
+V: Op wat voor plekken heeft hij je aangeraakt?
+
+A: Tussen mijn benen.
+
+V: Wat bedoel je daarmee?
+
+A: Mijn kut, zeg maar.
+
+V: Hoe deed hij dat?
+
+A: Met zijn hand. Ik lag op mijn zij en hij kwam aan de achterkant tegen mij aanliggen.
+
+V: Hij raakt je kut aan via de achterkant?
+
+A: Nee, de voorkant.
+
+V: Wat doet hij met die hand?
+
+A: Gewoon voelen, zeg maar. Ik had mijn kleren nog wel aan.
+
+V: Voelt hij dan over of onder je kleding?
+
+A: Boven de kleding.
+
+V: Is er die nacht nog meer gebeurd?
+
+A: Ja.
+
+V: Wat is er nog meer gebeurd?
+
+A: Ik moest mijn kleren uitdoen en hij ging de deur op slot doen. Ik hoorde weleens, als mijn moeder boven kwam voor een gesprek, dan deden ze de deur ook op slot. Ik dacht dat we misschien een gesprek zouden hebben.
+
+V: Hij deed de deur op slot en jij moest je kleren uitdoen en dan?
+
+A: Hij ging overal aan mij zitten. Moet ik dat ook zo zeggen...?
+
+V: Zeg het maar gewoon.
+
+A: Moet ik het zeggen?
+
+(...) Gewoon overal aan mij zitten. Proberen met zijn vingers in mijn kut te gaan. Toen begreep ik dat niet. Maar achteraf gezien begrijp ik meer wat zijn bedoeling was.
+
+V: Lukte het ook om met zijn vingers in je kut te komen?
+
+A: Ik denk het wel, want het deed heel veel pijn.
+
+V: Wat zei hij?
+
+A: Niets. Nou ja, dat ik niet mocht huilen.
+
+V: Wat zei jij?
+
+A: Ik zei niets.
+
+V: Wat heeft hij nog meer gedaan die nacht?
+
+A: Ja, uhm. Ik begreep het niet. Ik vroeg me af wat ik had gedaan waarom hij mij daar pijn moest doen. Ik probeerde mij ook groot te houden. Hij had gezegd dat het fijn zou worden als ik ouder was. Toen begreep ik dat niet. Ik wilde me ook niet aanstellen. En thuis mocht je nooit emoties laten zien. Als mijn vader er was tenminste. Als ik emoties zou tonen, wist ik dat hij agressiever werd. Toch bleef ik huilen. Omdat het pijn deed.
+
+V: Wat gebeurt er daarna?
+
+A: Daarna ging hij met zichzelf bezig. Nu achteraf weet ik wat dat is.
+
+V: Dat geeft niet dat je dat toen niet wist. Je was ook 6 jaar. Als hij dat doet, wat bedoel je daarmee?
+
+A: Zichzelf aftrekken.
+
+V: Wat gebeurt er dan?
+
+A: Ik moest er naar kijken van hem.
+
+V: En hoe stopt dat?
+
+A: Hij stopte er op een gegeven moment mee. Hoe noem je dat?
+
+Opmerking: Getuige huilt en leest in haar boekje.
+
+A: Ik heb het niet opgeschreven en dan moet ik eraan terugdenken. Ik weet niet waarom hij stopte.
+
+V: Was dat voordat hij klaarkwam? Of kwam hij niet klaar?
+
+A: Volgens mij kwam hij niet klaar. Hij ging verder met mij. Hij draaide mij om. Ik lag op mijn rug. Hij probeerde in mij te gaan. Ik weet niet of dat gelukt is. Het deed wel pijn.
+
+V: Waarmee ging hij in je?
+
+A: Met zijn pik ging hij in me.
+
+V: Waar probeerde hij dan in te gaan?
+
+A: In mijn kut. Maar dat wist ik toen nog niet. Ik wist toen volgens mij niet eens dat daar überhaupt iets in kon.
+
+V: Wat gebeurde er verder?
+
+A: Ik weet nog dat hij een paar keer op en neer ging en toen stopte. Daarna zei hij dat ik moest gaan slapen. (...) Toen wist ik niet wat het betekende. Maar achteraf weet ik dat hij geen emoties had. Hij was heel koel en bot erna. Ik kon niet slapen die nacht.
+
+V: Kun jij benoemen welke seksuele handelingen er nog meer zijn gebeurd na die avond?
+
+A: Het was weer een avond. Wel een tijd later. Ik weet nog wel dat het in hetzelfde jaar was. Ik moest weer naar zijn kamer. Mijn moeder lag weer beneden op de bank. Mijn zusje op de kamer ernaast. Hij lag in zijn boxer. Ik weet nog dat het vies smaakte en dat ik zijn pik in mijn mond moest doen. Hij zei iets, ik weet niet meer wat. Maar ik moest met mijn hoofd naar beneden gaan. Ik vroeg volgens mij nog wel waarom, maar.... Volgens mij gaf hij helemaal geen antwoord. Ik weet ook niet of ik mijn hoofd er naartoe deed of dat hij mijn hoofd er naartoe drukte.
+
+V: Waar moest je je hoofd naartoe bewegen?
+
+A: Naar zijn pik. Dat is meerdere keren gebeurd.
+
+(…)
+
+V: Hoe vaak is hij met zijn pik in je kut geweest?
+
+A: Dat zou ik niet weten. Soms een hele tijd niet. Dan gebeurde het weer. Het werd steeds meer. Toen stopte het. Ik dacht toen: "Houd je niet meer van mij?" Het gebeurde ook wel als mijn moeder weg was en mijn zusje bij een vriendin. Mijn moeder kookte dan vooraf voor ons. Ik at dan alleen met mijn vader en moest dan met hem naar boven. Mijn zusje was ook wel eens beneden als ik met hem naar boven moest.
+
+V: Wat zei hij als het gebeurde?
+
+A: Dat het normaal was en dat het later lekkerder was. Toen ik in de klas zat, werd ook wel gevraagd hoe de week was geweest. Ik hoorde klasgenoten er niet over spreken, dus ik sprak er ook maar niet over.
+
+(…)
+
+In het begin had ik wel het idee dat het normaal was. Ik vertrouwde hem wel. Toen ik ouder werd, wist ik wel dat het niet normaal was.
+
+V: Was het misbruik toen al gestopt?
+
+A: Het stopte toen ik elf was. Ik begon mezelf te beschadigen, in mij te snijden. Ik had gesprekken op school. De juffrouw van toen had gezien dat ik mezelf sneed. Ik heb gesproken met de juf en ook met de psycholoog. Toen mijn vader dit wist, heeft hij het nooit weer gedaan. Ik moest praten met een mevrouw. Ik moest toen ook mijn moeder vertellen, waarom ik mezelf sneed. Ik wist het zelf ook niet toen. Ik vertelde toen dat iemand aan mij had gezeten. Ik kon niet zeggen dat het mijn vader was, dus ik vertelde dat mijn vriendje het gedaan had. Daar is verder nooit onderzoek naar gedaan.
+
+(...) In groep 8 werd ontdekt dat ik mezelf beschadigde.
+
+V: Hoe ging het die laatste keer?
+
+A: Snel. Leek het voor mij. Sneller dan de vorige keren.
+
+V: Waar gebeurde die laatste keer?
+
+A: In het bed van mijn vader. Ook 's nachts.
+
+V: Het ging sneller dan de vorige keren?
+
+A: Hij zat niet aan mij. Hij ging met zijn pik in mij en daarna moest ik gelijk naar mijn slaapkamer toe.
+
+(...)
+
+V: Je vertelde net dat je andere keren ook wel aan hem moest zitten. Als je dan aan zijn pik moest zitten, wat moest je dan doen?
+
+A: Eraan zitten.
+
+V: Aftrekken of anders?
+
+A: Aftrekken.
+
+V: En als zijn pik in je mond zit?
+
+A: Toen moest ik op en neer bewegen.
+
+V: Hoe noem je dat?
+
+A: Pijpen.
+
+V: Als hij aan jou zat, hoe noem je dat dan wat hij deed?
+
+A: Met zijn vingers in mijn kut en over mijn kut wrijven. Alleen dat eigenlijk.
+
+V: Hoe zit het met orale seks bij jou?
+
+A: Nee, dat deed hij niet.
+
+V: Kwam hij ook klaar?
+
+A: Dat weet ik niet.
+
+(...)
+
+V : Op welk moment hoorde jij voor het eerst dat je vader dit ook met haar had gedaan?
+
+A: Dat was toen ik hier was. [betrokkene 6] wist het eerder dan mij. [betrokkene 6] vertelde mij dat mijn zus hetzelfde had meegemaakt.
+
+(...)
+
+Ik heb een weekje terug met mijn vader gesproken. Hij vertelde dat hij van mij hield en dat hij mij miste. Ja, wat moet je dan zeggen? Ik vertelde hem dat ik ook van hem hield.
+
+V: Wat doet dat met jou?
+
+A: Dat maakt mij heel erg in de war. Het is zo dubbel.
+
+(...) Als hij niets met mijn zusje (het hof begrijpt: haar zusje [betrokkene 3]) gedaan heeft, dan is het net of ik haar haar vader ontnomen heb. Daar zou ik me heel schuldig over voelen.
+
+Als hij ontkent.....Wat hij vast gaat doen, hij kan heel goed manipuleren. Hij praat
+
+dan ook tegen mijn moeder dat we tegen hem zijn. Stel, mijn moeder gelooft mijn vader en ze zou bij hem blijven. Dan ben ik bang dat mijn moeder boos op mij zou worden. Mijn vader trekt haar overal in mee. Hij kan haar manipuleren. Mijn moeder is een kopie van mijn vader geworden.
+
+5. Een in de wettelijke vorm op 26 februari 2014 opgemaakt proces-verbaal van verhoor getuige, nummer PL01VG- 2014013264-5, opgemaakt door [verbalisant 4] , hoofdagent (bevoegd zedenrechercheur) en [verbalisant 2] , hoofdagent (bevoegd zedenrechercheur), van politie Groningen, opgenomen op de pagina's 79 tot en met 90 van het onder 1 genoemde dossier, voor zover inhoudende, zakelijk weergegeven:
+
+als verklaring van [betrokkene 1] , getuige:
+
+Opmerking verbalisant: In eerste instantie werd er met getuige een afspraak gemaakt voor het doen van aangifte. Getuige bevindt zich in een loyaliteitsconflict en kan en wil op dit moment geen aangifte doen. Wel wenst getuige een getuigenverklaring af te leggen in de zaak tegen haar vader, welke is gestart naar aanleiding van een aangifte door de zus van getuige.
+
+V : Hoe komt het dat het gestopt is?
+
+A: Omdat hij volgens mij bang was dat ik zou gaan praten.
+
+(...)
+
+V : Ik heb begrepen dat je ouders niet samen in een kamer sliepen. Wat kun je daarover vertellen?
+
+A: Dat klopt. Meestal als mijn vader in de nacht werkte, ging mijn moeder voor 24.00 uur naar bed. Als mijn vader thuiskwam, viel hij soms in slaap op de bank. Meestal ging hij naar boven en sliep mijn moeder beneden op de bank. Als mijn vader in de ochtend moest werken, ging hij vroeg naar bed en moest mijn moeder ook op de bank liggen.
+
+V : Hoe lang is dat al zo?
+
+A: Zo lang als ik mij kan herinneren.
+
+6. De door [betrokkene 1] op 18 februari 2016 ten overstaan van de (gedelegeerd) raadsheer-commissaris in strafzaken bij het gerechtshof Arnhem-Leeuwarden onder ede afgelegde verklaring, voor zover inhoudende, zakelijk weergegeven:
+
+Op vragen van de raadsheer-commissaris antwoordt de getuige als volgt:
+
+De verklaringen zijn naar waarheid afgelegd.
+
+RHC houdt aanklacht officier van justitie voor, feit 1. In hoeverre hebben de handelingen plaatsgevonden? Hebben ze plaatsgevonden?
+
+Getuige: Ja. Allemaal. Ik heb gewoond in Ter Apel. We zijn daarna naar Wildervank verhuisd en hebben vervolgens in Veendam gewoond. Alle handelingen die in de tenlastelegging worden genoemd hebben plaatsgevonden.
+
+Ik heb het teruggebracht tot een getuigenverklaring, omdat ik het heel moeilijk vond. Zodra mijn vader niet meer in het leven van mijn moeder is, kan ze niks meer. Ik wilde geen belastende verklaring afleggen, omdat ik het zielig vond voor mijn moeder en [betrokkene 3] . Het was erg dubbel. Het is allemaal gebeurd. De reden waarom ik niet uitgebreid heb verklaard is niet, omdat het niet zou hebben plaatsgevonden.
+
+Ik herhaal: het heeft wel degelijk plaatsgevonden.
+
+Het misbruik is begonnen op mijn 6e. Op mijn verjaardag, in de nacht toen ik 6 werd. Ik heb bij de politie naar waarheid over de gebeurtenis verklaard. Alles bij de politie is naar waarheid verklaard. Als ik terugdenk aan alle gebeurtenissen maakt het me nu boos. Boos en verdrietig.
+
+Ik dacht eerst dat het normaal was. Later besefte ik van niet. Daar kwam ik achter door gesprekken in de klas en op tv.
+
+Het verschilde hoe vaak het misbruik plaatsvond. De ene keer eens per week, de andere keer eens per maand. Er waren perioden dat het een paar maanden niet gebeurde. Het heeft in al die jaren (2003-2009) wel plaatsgevonden.
+
+Ik heb bij [betrokkene 6] voor het eerst hierover gesproken. Ik was opgepakt en daarheen gebracht. Ik was weggelopen. De politie heeft me gevonden. Ik ben slachtoffer van loverboys geweest. Het is nu voorbij. Ik heb nu geen relatie.
+
+(...)
+
+Ik zou de getuigenverklaring van toen nu wel willen aanmerken als een aangifte.
+
+(...) Eerst wilde ik vertellen over mijn vader. Maar ik wilde dat niet vertellen en ik durfde het ook niet echt, dus ik heb er toen ‘jongen’ van gemaakt. Maar het ging wel over mijn vader.
+
+Nadere bewijsoverweging
+
+Uit de pagina’s 6, 8 en 9 van bijlage A bij het proces-verbaal van politie leidt het hof af dat het gezin [van verdachte] op 10 mei 2002 in Wildervank en op 30 november 2006 in Veendam is gaan wonen en op 1 september 2011 binnen Veendam is verhuisd. Het is een feit van algemene bekendheid dat Wildervank en Veendam liggen in de gemeente Veendam.
+
+7. Een in de wettelijke vorm op 6 mei 2014 opgemaakt proces-verbaal van verhoor getuige, nummer PL01VG- 2013126686-8, opgemaakt door [verbalisant 5] , brigadier (bevoegd zedenrechercheur) en [verbalisant 2] , hoofdagent (bevoegd zedenrechercheur), van politie Groningen, opgenomen op de pagina's 109 tot en met 113 van het onder 1 genoemde dossier, voor zover inhoudende, zakelijk weergegeven:
+
+als verklaring van [betrokkene 7] , getuige:
+
+Ik ben [betrokkene 7] . Ik ben als gedragswetenschapper in dienst bij bureau Jeugdzorg Groningen. In 2003 ben ik afgestudeerd. Toen ben ik gaan werken bij Jeugdzorg. Ik ben sinds een jaar in opleiding als gezondheidspsycholoog. In die hoedanigheid ben ik een keer per week gedetacheerd bij Inter-Psy. Ik leer daar behandelen, kinderen en jeugd.
+
+V: Je bent hier vanwege [betrokkene 2] . Wie is [betrokkene 2] ?
+
+A: [betrokkene 2] is de moeder van een oud-cliënt van mij. We hebben het dan over [betrokkene 8] . Ik heb op 27 augustus 2013 voor het eerst kennisgemaakt met [betrokkene 2] . Het ging om een verwijzing van de huisarts. Er was seksueel grensoverschrijdend gedrag van [betrokkene 8] richting zijn zusjes. Moeder was in paniek en wist niet hiermee om te gaan.
+
+V: Wat ik belangrijk vind is om te weten waarom jij hier bent. Zij heeft voor het eerst iets aan jou verteld, waarvan zij bij ons aangifte heeft gedaan.
+
+A: In het eerste gesprek was ze erg in paniek. Ik heb uitgelegd dat het misschien experimenteren was van [betrokkene 8] . Moeder gaf aan dat het erg aan [betrokkene 8] lag, dat viel mij op. Dat het meer door [betrokkene 8] zou zijn en minder door zijn zusjes. Zij werd emotioneel. Zij gaf toen aan dat zij bang was dat [betrokkene 8] dader werd. Ik vroeg waarom ze dat dacht van [betrokkene 8] en niet van zijn zusjes. Moeder gaf daarna aan dat zij zelf vroeger misbruikt was.
+
+V: Wat heeft zij verteld over het misbruik?
+
+A: Even denken. Wat zij aangaf is dat zij is misbruikt door haar stiefvader. (Het hof begrijpt: verdachte [verdachte]) Ik vroeg wanneer deze stiefvader in beeld was. Zij vertelde mij dat zij vanaf haar negende tot zij het huis uitging misbruikt was. Volgens mij was ze toen 18 jaar. Ik heb gevraagd of het langdurig en fors misbruik was, in andere bewoordingen. Ze vertelde dat ze er nu last van had. Zij gaf aan dat het rond haar 11e was dat ze was ontmaagd door haar stiefvader. En dat het regelmatig gebeurde. Ik heb nog gevraagd of ze het met iemand heeft gedeeld. Bijvoorbeeld met haar moeder. Zij vertelde dat ze nooit wat tegen haar moeder of een vriendinnetje heeft gezegd. Haar moeder wist van niets. Ook aan haar man heeft ze niets verteld. Ik was de eerste aan wie ze het vertelde.
+
+V: Wanneer was dat?
+
+A: Volgens mij was dat op 17 september 2013.
+
+V: Hoe was het met [betrokkene 2] toen ze dit vertelde?
+
+A: Heel emotioneel. Ze huilde en ze kwam steeds moeilijker uit haar woorden.
+
+(...)
+
+Ze vertelde dat haar moeder twee dochters met hem heeft gekregen. Volgens mij waren ze 14 en 16 jaar. Ik vroeg haar of ze niet vreesde voor haar zusjes, in andere bewoordingen. Ze zei: Nee, dat zijn toch zijn echte dochters. Ik was verbaasd dat ze hier nooit over na had gedacht, dat ze de risicofactoren niet kende. Maar ze leek oprecht in haar antwoord dat ze zich geen zorgen maakte over haar zusjes.
+
+8. Een in de wettelijke vorm op 15 mei 2014 opgemaakt proces-verbaal van verhoor getuige, nummer PL01VG- 2013126686-10, opgemaakt door [verbalisant 4] , hoofdagent (bevoegd zedenrechercheur) en [verbalisant 2] , hoofdagent (bevoegd zedenrechercheur), van politie Groningen, opgenomen op de pagina's 122 tot en met 133 van het onder 1 genoemde dossier, voor zover inhoudende, zakelijk weergegeven:
+
+als verklaring van [getuige] , getuige:
+
+V: Je bent hier uit hoofde van je functie. Waar werk je en wat is je functie daar?
+
+A: Intern begeleidster bij de [a-school] . (Het hof begrijpt: in Wildervank) Ik werk al 34 jaar in het basisonderwijs.
+
+(...)
+
+Wat ik weet is dat tot en met groep 6 [betrokkene 1] een verlegen, introvert meisje was. In groep 7 werd bij de leerlingbesprekingen verteld dat [betrokkene 1] huilerig was.
+
+Groep 7 deed ze in 2008-2009. Ze was verdrietig. Ze had moeite met haar werk en motivatie. Wat ik als intern begeleider zeg is dat als een kind huilt als ze een sommetje niet snapt er meer aan de hand is. Rond november 2009 begon ze heel veel te huilen. (...) Rond december heeft de leerkracht schrammen gezien op haar armen. [betrokkene 1] vertelde dat ze van de trap was gegleden. Ze wilde er niet over spreken. In januari-maart werden de schrammen erger, op armen en benen. [betrokkene 1] zei niets. Wel dat ze zich niet goed voelde. Uiteindelijk, eind maart 2010, vertelde [betrokkene 1] dat ze zichzelf sneed. Ik vroeg aan de moeder of zij dit wist. Moeder wist dat [betrokkene 1] dit deed en was heel verdrietig. Moeder wilde geen gesprek met de schoolarts. Ze zou er zelf wel met [betrokkene 1] over spreken. Ik vertelde moeder dat het een schreeuw om hulp was van [betrokkene 1] . Moeder wilde toen wel een gesprek met de schoolarts. Ik vroeg aan moeder of vader ook mee wilde komen, maar dat wilde moeder toen niet. Dat gesprek vond plaats. Moeder wilde verder geen gesprekken meer met de schoolarts.
+
+De leerkracht heeft mij verteld dat [betrokkene 1] aan haar klasgenoten vertelde dat ze zwanger was. Dat vonden de klasgenoten gek. Ze was 12 jaar, groep 8. De juf vroeg hoe dat kon en of het klopte. [betrokkene 1] vertelde dat ze dit niet verteld had. In april/mei vertelde ze aan juf dat ze een groot geheim heeft. De juf vroeg wat het geheim was, maar dat wilde ze niet zeggen. Dan duurt het een paar weken. Dan is het al mei, geloof ik. [betrokkene 1] durfde te vertellen dat er iets was gebeurd tussen een jongen en haar. De stiefzus heeft een vriend en daar een vriend of een neef van. Meer wilde [betrokkene 1] niet benoemen. Besloten werd dat [betrokkene 1] op de hoofdlocatie met mij zou praten. Wat ik weet van het gesprek is dat [betrokkene 1] haar haar voor het gezicht had. Ze zei dat een jongen iets met haar had gedaan. Dat zei ze niet meteen. Ik vroeg aan haar of ze het mij wilde vertellen. Ze had een groot geheim. Eerst zei ze niets. Het is heel lang heel stil. En dan komen er twee zinnen uit. Het duurt wel een kwartier en dan kreeg je maar twee of drie zinnen eruit. Het was een intens verdrietig kind. Ze zei dat een jongen aan haar had gezeten. Ze wilde niet dat papa en mama dit zouden weten.
+
+(...) Moeder vertelde heel voorzichtig dat haar man niet overal van op de hoogte was.
+
+(...) Er was altijd angst en voorzichtigheid als je rond of in dat gezin wilde.”
+
+6. Het hof heeft onder het hoofd “Overwegingen omtrent het bewijs voor het ten laste gelegde” het volgende overwogen:
+
+“Aan verdachte is ten laste gelegd dat hij zich schuldig heeft gemaakt aan - kort gezegd - seksueel misbruik van zijn stiefdochter [betrokkene 2] (hierna te noemen: [betrokkene 2] ) en zijn dochter [betrokkene 1] (hierna te noemen: [betrokkene 1] ), zoals nader is gepreciseerd in de hiervoor opgenomen tenlastelegging. Verdachte heeft dit misbruik van meet af aan ontkend. Na een vordering van de officier van justitie tot bewezenverklaring van het ten laste gelegde en verdachte te veroordelen tot een gevangenisstraf voor de duur van vijf jaren, en een verzoek tot vrijspraak zijdens de verdediging wegens het ontbreken van wettig en overtuigend bewijs, heeft de rechtbank verdachte bij vonnis van 22 september 2014 vrijgesproken van de gehele tenlastelegging. In genoemd vonnis wordt uiteengezet dat er weliswaar geen aanleiding is om te twijfelen aan de betrouwbaarheid van de (getuigen)verklaring van [betrokkene 1] en de aangifte van [betrokkene 2] , maar dat er onvoldoende steunbewijs is om tot een bewezenverklaring te komen. De rechtbank heeft daarbij met name gelet op het bepaalde in artikel 342, tweede lid, van het Wetboek van Strafvordering, waarin wordt bepaald dat het bewijs dat een ten laste gelegd feit is begaan niet uitsluitend kan worden aangenomen op de verklaring van één getuige. De officier van justitie is van dat vonnis in hoger beroep gekomen, welk appel nader is onderbouwd bij schriftuur van 10 oktober 2014.
+
+Ter terechtzitting van het hof van 5 november 2015 is de zaak inhoudelijk behandeld. De advocaat-generaal heeft op die zitting gerequireerd conform de vordering in eerste aanleg. De raadsvrouw heeft het woord ter verdediging gevoerd en andermaal om vrijspraak verzocht wegens het ontbreken van wettig en overtuigend bewijs.
+
+Het hof heeft het onderzoek gesloten, maar bij tussenarrest van 19 november 2015 heropend. Op grond van de betwisting zijdens de verdediging van de betrouwbaarheid van de aangifte van [betrokkene 2] en de verklaring van [betrokkene 1] achtte het hof het wenselijk dat zij beiden onder ede door een gedelegeerd raadsheer-commissaris zouden worden gehoord. Deze verhoren hebben op 18 februari 2016 plaatsgevonden. Zowel [betrokkene 2] als [betrokkene 1] hebben hun ten overstaan van verbalisanten afgelegde verklaringen bij die gelegenheid bevestigd. [betrokkene 1] heeft aangegeven haar eerder afgelegde getuigenverklaring alsnog te willen aanmerken als een aangifte van het jegens haar door haar vader begane misbruik.
+
+De betrouwbaarheid van de verklaringen van [betrokkene 2] en [betrokkene 1]
+
+De beantwoording van de vraag of de aangiftes van [betrokkene 2] en [betrokkene 1] als betrouwbaar kunnen worden aangemerkt is van cruciaal belang in de onderhavige procedure, temeer daar de inhoud van die aangiftes diametraal staat tegenover de stellige ontkenning van de zijde van verdachte.
+
+Volledigheidshalve stelt het hof vast dat de raadsvrouw haar ter terechtzitting van 5 november 2015 gedane (subsidiaire) verzoek om een deskundigenonderzoek te gelasten naar de betrouwbaarheid van de verklaringen van [betrokkene 2] en [betrokkene 1] ter terechtzitting van 3 mei 2016 niet heeft herhaald. Gelet hierop en op de afwijzing van het betreffende verzoek bij tussenarrest van 19 november 2015, houdt het hof het ervoor dat de raadsvrouw haar eerdere verzoek niet handhaaft. Ook ambtshalve ziet het hof geen aanleiding of noodzaak tot een dergelijk onderzoek.
+
+Verdachte kwalificeert de verklaringen van aangeefsters als een 'opeenstapeling van leugens', waarmee ze hem kapot willen maken. Desgevraagd kan verdachte geen verklaring of motief bedenken voor de in zijn ogen valse beschuldigingen. Hij zegt een goede vader te zijn geweest en zijn kinderen netjes te hebben opgevoed. Hij heeft zijn best gedaan en hen nooit geslagen of mishandeld. Verdachte zegt er stellig van overtuigd te zijn dat [betrokkene 1] , uit loyaliteit met haar oudere zus, is meegegaan in de valse aangifte van [betrokkene 2] .
+
+De raadsvrouw heeft - onder meer - aangevoerd dat de gedetailleerde aangifte van [betrokkene 2] niets zegt over het waarheidsgehalte ervan. De raadsvrouw verwijst voorts naar de aan het dossier toegevoegde brief van [betrokkene 2] aan haar ouders - vermoedelijk geschreven in 2006, in elk geval geruime tijd nadat zij de ouderlijke woning had verlaten - waarin zij haar ouders bedankt voor de haar gegeven opvoeding en haar spijt betuigt over haar gedrag. Bij [betrokkene 1] is kennelijk sprake van diverse soorten problematiek, tot uiting komend in het meermalen weglopen van huis, loverboy-connecties, geheugentekorten en een gesloten plaatsing in jeugdinrichting Het Poortje, hetgeen - zo suggereert de raadsvrouw - een zeker licht werpt op de betrouwbaarheid van haar verklaringen. Voorts is [betrokkene 1] - zij het tijdelijk - teruggekomen op haar bewering seksueel misbruikt te zijn door haar vader.
+
+De raadsvrouw stelt zich voorts op het standpunt dat de verhoren van [betrokkene 2] en [betrokkene 1] door de raadsheer-commissaris de betrouwbaarheid van hun verklaringen verder heeft ondermijnd, nu deze hetzij afwijken van hetgeen zij ten overstaan van verbalisanten hebben verklaard, hetzij ongeloofwaardig dan wel onduidelijk of oppervlakkig zijn. Ook in de visie van de raadsvrouw heeft [betrokkene 1] een verklaring afgelegd om 'haar zus er niet mee te laten zitten', waarbij wordt aangetekend dat ook de aangifte van [betrokkene 2] - opnieuw - onbetrouwbaar moet worden geacht. Het hof verwijst in dit verband naar de pleitnota's, zoals die door de raadsvrouw zijn overgelegd ter terechtzittingen van 5 november 2015 en 3 mei 2016.
+
+Het hof overweegt hierover het navolgende.
+
+In alle strafzaken dienen aangiftes kritisch, zorgvuldig en behoedzaam te worden bezien. Dit geldt temeer in zedenzaken, waarin doorgaans naast aangever en verdachte geen getuigenverklaringen voorhanden zijn. In de onderhavige zaak volgt het hof de conclusie van de rechtbank dat de verklaringen van [betrokkene 2] en [betrokkene 1] als betrouwbaar zijn aan te merken. De gedetailleerdheid van de aangifte van [betrokkene 2] brengt weliswaar op zichzelf niet zonder meer de vereiste betrouwbaarheid mee, de wijze echter waarop zij misbruikincidenten telkens verbindt met objectieve en/of erkende feiten en/of persoonlijke waarnemingen (zoals de zwangerschappen van haar moeder, de verhuizingen van het gezin, de seizoenen, de sfeer in het gezin en de rol van haar stiefvader daarin, de werkkringen en ploegendiensten van haar stiefvader, de slaapgewoontes van haar ouders) doet dat - in samenhang met de door [betrokkene 2] genoemde details van het misbruik - wel. De door de raadsvrouw genoemde brief van [betrokkene 2] aan haar ouders acht het hof niet redengevend voor de beweer[de]lijke onbetrouwbaarheid van de aangifte, nog afgezien van de daarvoor door [betrokkene 2] gegeven verklaring.
+
+Wat [betrokkene 1] betreft, heeft het hof gelet op de door haar telkens getoonde loyaliteitsproblemen ten opzichte van, met name, haar ouders. De daarmee gepaard gaande verscheurdheid kan haar (aanvankelijke) terughoudendheid en ambivalentie verklaren. Zo zegt [betrokkene 1] nog van haar vader te houden en haar moeder en haar zusje [betrokkene 3] hun echtgenoot en vader niet te willen ontnemen. Bovendien gaat zij er - evenals overigens [betrokkene 2] - vanuit dat haar vader het misbruik zal ontkennen en zal trachten hen te manipuleren. Voorts zijn er aanwijzingen dat haar moeder druk op [betrokkene 1] heeft uitgeoefend om haar verklaringen in te trekken. Zie proces-verbaal van bevindingen op dossierpagina 94.
+
+De wijze waarop [betrokkene 1] de aanvang van het misbruik in de nacht, volgend op haar zesde verjaardag, heeft verwoord (bewijsmiddel 4), is authentiek. Dat zij in haar (vroege) puberteit min of meer is ontspoord ondermijnt naar het oordeel van het hof de betrouwbaarheid van haar verklaringen niet.
+
+Het hof deelt evenmin de visie van de raadsvrouw, als zouden [betrokkene 2] en [betrokkene 1] ten overstaan van de raadsheer-commissaris een (geheel) andere verklaring hebben afgelegd. Het gaat om geringe afwijkingen van hun eerder tegenover verbalisanten afgelegde verklaringen op volledig ondergeschikte punten. Ten overstaan van verbalisanten heeft [betrokkene 1] aangegeven (zie bewijsmiddel 4) dat zij de voorkeur geeft aan het beantwoorden van vragen en moeite heeft met uit zichzelf vertellen over hetgeen er is gebeurd.
+
+In dit verband acht het hof het van belang dat [betrokkene 1] bij de raadsheer-commissaris heeft aangegeven thans in staat te zijn haar twee jaar eerder afgelegde getuigenverklaring aan te merken als een aangifte. Dat het pijnlijke proces van 'disclosure' bij [betrokkene 1] een andere uitingsvorm en fasering heeft dan bij [betrokkene 2] dient beiden niet te worden tegengeworpen. Dat geldt evenzeer voor de niet op alle onderdelen overeenkomende seksuele handelingen van verdachte, zoals die uit de verklaringen van aangeefsters naar voren komen. Niet onaannemelijk is dat deze verschillen - sommige van de jegens [betrokkene 2] gepleegde handelingen zijn extremer dan die jegens [betrokkene 1] zijn begaan - verband houden met het feit dat verdachte bij [betrokkene 1] gestopt is met het misbruik toen zij 11 jaar oud was en zichzelf ging beschadigen en bij [betrokkene 2] pas op of omstreeks haar 17e jaar.
+
+Door en namens verdachte is aangegeven dat de verklaringen van [betrokkene 1] louter voortkomen uit loyaliteit met [betrokkene 2] . Zij zou onder invloed staan van haar oudere zus en zich genoodzaakt voelen [betrokkene 2] te ondersteunen in haar (valse) aangifte door zelf ook een valse aangifte te doen van vermeend eigen misbruik.
+
+Het hof ziet voor dit scenario geen enkel aanknopingspunt in de processtukken. Uit het dossier blijkt dat [betrokkene 2] in of omstreeks het jaar 2004 de ouderlijke woning heeft verlaten om zelfstandig te gaan wonen. Zij heeft toen het misbruik naar eigen zeggen 'in een potje weggestopt en er met niemand, ook niet met haar levenspartner, met wie zij in 2006 een gezin is begonnen, over gesproken. Problemen met haar zoontje wegens seksueel grensoverschrijdend gedrag tegenover zijn zusjes en contacten daarover met het bureau Inter-Psy (bewijsmiddelen 1 en 7) hebben [betrokkene 2] in september 2013 zodanig uit haar (relatieve) evenwicht gebracht dat zij tegenover de psychologe van haar zoontje voor het eerst het haar overkomen misbruik heeft genoemd. Niet in te zien valt dat zij, reeds jarenlang uit de invloedssfeer van verdachte en op dat moment nog onkundig van het seksueel misbruik van haar zusje [betrokkene 1] , om welke beweegredenen dan ook tot een dergelijk verzinsel zou komen. Ook [betrokkene 2] heeft nadien nog enkele maanden geaarzeld of zij aangifte zou doen, gelet op alle voorzienbare en onvoorzienbare gevolgen.
+
+Uit de stukken valt af te leiden dat [betrokkene 1] , eveneens onwetend aangaande het misbruik van [betrokkene 2] , voor het eerst gesproken heeft over het haar overkomen misbruik toen zij in verband met haar Ioverboycontacten een gesprek had met medewerkers van het Regionaal Uitbuiting Interventie Team (RUIT). Dat was op 12 november 2013. Zie de inleiding op het informatieve gesprek op dossierpagina 63. De moeite die ook [betrokkene 1] vervolgens heeft gehad om verder gevolg te geven aan haar 'disclosure' is reeds aan de orde geweest. In januari 2014 hebben [betrokkene 2] en [betrokkene 1] voor het eerst en uiterst globaal met elkaar gesproken over het feit dat zij beiden door hun (stief)vader seksueel waren misbruikt.
+
+Uit het vorenstaande volgt dat aangeefsters, door de omstandigheden waarin zij zich op dat moment elk voor zich bevonden daartoe 'getriggerd', onafhankelijk van elkaar en onkundig van elkaars misbruik hun verhaal hebben gedaan. De beweerdelijke beïnvloeding van [betrokkene 2] in de richting van [betrokkene 1] is derhalve niet aan de orde. Het hof acht de verklaringen van aangeefsters voorts, ook waar het [betrokkene 1] betreft, consistent en gedetailleerd. De op het punt van de betrouwbaarheid zijdens de verdediging gevoerde verweren worden dan ook verworpen.
+
+Het steunbewijs
+
+Zoals gezegd is verdachte in eerste aanleg vrijgesproken vanwege onvoldoende steunbewijs voor de op zichzelf ook door de rechtbank betrouwbaar geachte aangiften. Het hof constateert, evenals de rechtbank, dat [betrokkene 2] en [betrokkene 1] niet kunnen verklaren over elkaars misbruik bij gebrek aan wetenschap destijds. De verklaringen van [betrokkene 7] en [getuige], die zij op grond van hun professionele betrokkenheid bij aangeefsters hebben afgelegd (zie de bewijsmiddelen 7 en 8), bevestigen weliswaar onderdelen van de verklaringen van [betrokkene 2] en [betrokkene 1] en zijn in die zin van belang, maar eveneens onvoldoende toereikend om als steunbewijs te dienen.
+
+De vraag of aan het bewijsminimum van artikel 342, tweede lid, van het Wetboek van Strafvordering is voldaan, laat zich niet - zo blijkt uit op dit punt relevante jurisprudentie van de Hoge Raad - in algemene zin beantwoorden, maar vergt een beoordeling van het concrete geval.
+
+Alle aspecten van de onderhavige strafzaak beziende is het hof, anders dan de rechtbank, van oordeel dat de aangifte van de één in dit geval zeer wel kan dienen als steunbewijs voor die van de ander. De omstandigheid dat er sprake is van twee afzonderlijke, betrouwbaar geachte aangiftes van soortgelijke, zo niet identieke delicten tegen dezelfde verdachte kan in deze zaak tot geen andere conclusie leiden dan dat deze elkaar over en weer, niet alleen in feitelijke, maar ook in bewijstechnische zin, ondersteunen. Op grond van hetgeen hiervoor is overwogen en de hierna opgenomen bewijsmiddelen kan niet worden gesproken van slechts één bron. De evidente samenhang tussen beide bronnen zou daarmee ten onrechte worden miskend.
+
+Het hof acht derhalve bewezen dat verdachte het onder 1, 2 en 3 ten laste gelegde heeft begaan en bezigt daarbij de navolgende bewijsmiddelen.”
+
+7. Steunbewijs en kettingbewijs zijn verschillende eenheden, maar dat neemt niet weg dat soms – bijvoorbeeld bij eenzelfde modus operandi – schakelbewijs de vorm van relevant steunbewijs kan aannemen. De vraag is nu of daarvan in de onderhavige zaak sprake is. Eerst iets over de bewijsminimumregel als bedoeld in art. 342, tweede lid, Sv en het steunbewijs.
+
+8. In het arrest van 10 juni 2014, ECLI:NL:HR:2014:1355 heeft de Hoge Raad omtrent de bewijsminimumregel het volgende overwogen:
+
+“Volgens het tweede lid van art. 342 Sv - dat de tenlastelegging in haar geheel betreft en niet een onderdeel daarvan - kan het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, door de rechter niet uitsluitend worden aangenomen op de verklaring van één getuige. Deze bepaling strekt ter waarborging van de deugdelijkheid van de bewijsbeslissing, in die zin dat zij de rechter verbiedt tot een bewezenverklaring te komen ingeval de door één getuige gereleveerde feiten en omstandigheden op zichzelf staan en onvoldoende steun vinden in ander bewijsmateriaal. De vraag of aan het bewijsminimum van art. 342, tweede lid, Sv is voldaan, laat zich niet in algemene zin beantwoorden, maar vergt een beoordeling van het concrete geval. Opmerking verdient nog dat het bij de in cassatie aan te leggen toets of aan het bewijsminimum van art. 342, tweede lid, Sv is voldaan, van belang kan zijn of de feitenrechter zijn oordeel dat dat het geval is, nader heeft gemotiveerd (vgl. HR 13 juli 2010, ECLI:NL:HR:2010:BM2452, NJ 2010/515).”
+
+9. Voorts kan met betrekking tot zedenzaken uit de rechtspraak van de Hoge Raad worden afgeleid dat niet is vereist dat het misbruik zelf steun vindt in ander bewijsmateriaal. Als maar de verklaring van de aangever op specifieke punten bevestiging vindt in het overige bewijsmateriaal en tussen dit een en ander niet een te ver verwijderd verband bestaat. Afweging en beoordeling daaromtrent dienen plaats te vinden op basis van de concrete feiten en omstandigheden van het voorliggende geval.
+
+10. Hoewel de vraag of aan het bewijsminimum is voldaan zich volgens de Hoge Raad niet in algemene zin laat beantwoorden maar per geval moet worden beoordeeld, is wel duidelijk dat wanneer de modus operandi van de tenlastegelegde feiten met elkaar overeenkomt, schakelbewijs voldoende steunbewijs kan opleveren. Bij de bespreking van de bewijsminimumregel van art. 342, tweede lid, Sv wijzen Corstens en Borgers in hun handboek onder het hoofd “De eerste hoofdvraag: bewijs” ook op deze mogelijkheid:
+
+“Ook schakelbewijs kan soms dienen als bewijsgrond die voldoende steun biedt aan de verklaring van een getuige. In dat geval wordt de vereiste voldoende steun ontleend aan een bewijsmiddel waaruit blijkt dat de verdachte een ander, soortgelijk strafbaar feit heeft begaan. Een voorbeeld daarvan betreft een zaak waarin voor de bewezenverklaring van een poging tot verkrachting – waarvoor in essentie alleen de aangifte van en de herkenning door het slachtoffer als bewijs aanwezig is – tevens gebruikt is gemaakt van de bewijsmiddelen die betrekking hebben op een (eveneens bewezenverklaarde) poging tot aanranding van een ander persoon door dezelfde verdachte. Het gerechtshof wijst daarbij op de hoge mate van overeenstemming in de wijze waarop de slachtoffers door de dader zijn benaderd en behandeld (waaronder de wijze van aanspreken, de wijze van betasten en het benaderen van de slachtoffers door deze per fiets te achtervolgen).”
+
+11. Voorts vindt blijkens HR 6 september 2016, ECLI:NL:HR:2016:2024, NJ 2017/38 m.nt. Schalken geen steun in het recht de opvatting dat bij de bewijsvoering slechts van schakelbewijs gebruik kan worden gemaakt indien de aan dat bewijs ontleende modus operandi steunt op de aan meer dan een ander bewezenverklaard feit ten grondslag gelegde bewijsmiddelen.
+
+12. Een voorbeeld van schakelbewijs als steunbewijs is onder meer te vinden in HR 7 juli 2015, ECLI:NL:HR:2015:1817, NJ 2015/488 m.nt. Borgers. Het betreft een zaak waarin het hof ten laste van de verdachte zowel het ontucht plegen met diens minderjarige dochter alsook het met haar vriendinnetje ontuchtige handelingen plegen had bewezenverklaard. Ten aanzien van deze bewezenverklaringen overwoog het hof:
+
+"Het feit dat twee verschillende meisjes aangifte hebben gedaan van door de verdachte jegens dat meisje gepleegde ontuchtige handelingen, versterkt de bewijskracht van de door beide meisjes afgelegde verklaringen."
+
+Na herhaling van de relevante overwegingen uit ECLI:NL:HR:2010:BM2452 met betrekking tot art. 342, tweede lid, Sv (zie hierboven onder 8), oordeelde de Hoge Raad:
+
+“In het onderhavige geval kan niet worden gezegd dat de tot het bewijs gebezigde verklaringen van de aangeefster G. met betrekking tot feit 1 en de aangeefster T. met betrekking tot feit 2 onvoldoende steun vinden in het overige bewijsmateriaal, in aanmerking genomen dat het Hof heeft vastgesteld dat de verklaringen van de aangeefsters elkaar over en weer ondersteunen wat de betreft de aard van de ontuchtige handelingen gepleegd door de verdachte en de wijze waarop die handelingen plaatsvonden, waarbij de verklaringen van T. over het door de verdachte aanraken van haar lichaam wanneer zij naast hem op de bank zat en over het bang zijn om alleen met de verdachte thuis te zijn en voor wat hij kon doen steun vinden in de verklaring van haar moeder dat het haar opviel dat als de verdachte bij T. kwam zitten T. ergens anders ging zitten en dat T. het vervelend vond als de verdachte naast haar kwam zitten. Anders dan in het middel wordt betoogd, is dus van schending van art. 342, tweede lid, Sv geen sprake.”
+
+13. Terug naar de onderhavige zaak. Voor zover het eerste middel klaagt dat het oordeel van het hof “dat de aangifte van de een in dit geval zeer wel kan dienen als steunbewijs voor die van de ander” van een onjuiste rechtsopvatting blijk geeft, faalt het. Ik volsta daarvoor met verwijzing naar de hierboven aangehaalde rechtspraak van de Hoge Raad.
+
+14. Dan de klacht dat in ’s hofs arrest de noodzakelijke motivering tekortschiet. Het hof is – alle aspecten van de zaak in overweging nemende – van oordeel dat “de aangifte van de een (…) zeer wel kan dienen als steunbewijs voor die van de ander” omdat de omstandigheid “dat er sprake is van twee afzonderlijke, betrouwbaar geachte aangiftes van soortgelijke, zo niet identieke delicten tegen dezelfde verdachte in deze zaak tot geen andere conclusie [kan] leiden dan dat ze elkaar over weer, niet alleen in feitelijke, maar ook in bewijstechnische zin, ondersteunen”, waarbij het hof tevens heeft gewezen op de, uit de gebezigde bewijsmiddelen blijkende, “evidente samenhang tussen beide bronnen”.
+
+15. Het bewijs is aan de krappe kant en dat maakt – in zoverre heeft de steller van het middel wel een punt – dat het niet zou hebben misstaan indien het hof had aangegeven op welke met elkaar overeenkomende feitelijke omstandigheden het precies het oog heeft. Daartoe kunnen niet dienen de overwegingen die het hof heeft gewijd aan de betrouwbaarheid van de verklaringen van de beide aangeefsters. Het gemotiveerde oordeel van de feitenrechter over de betrouwbaarheid van bijvoorbeeld een verklaring van een zedenslachtoffer maakt immers enkel inzichtelijk waarom die verklaring zodanig betrouwbaar is dat zij voor het bewijs kan worden gebezigd. Indien dat oordeel is ontleend aan ander materiaal – te denken valt dan aan de bevindingen van een deskundige – brengt dat uiteraard niet mee dat om die reden (ook) dat andere materiaal een zekere bewijsstatus verkrijgt en als steunbewijs kan dienen. Dit heeft het hof onderkend door te overwegen dat de beide de auditu verklaringen van [betrokkene 7] en [getuige], die zij op grond van hun professionele betrokkenheid in relatie tot de aangeefsters hebben afgelegd, weliswaar onderdelen van de verklaringen van aangeefsters bevestigen en in die zin van belang zijn, maar ontoereikend zijn om als steunbewijs te dienen.
+
+16. Niettemin meen ik dat in het licht van de gebezigde bewijsmiddelen het oordeel van het hof betreffende het gebruik van schakelbewijs als steunbewijs niet alleen niet van een onjuiste rechtsopvatting getuigt, maar tevens toereikend is gemotiveerd. Daarbij zij opgemerkt dat ik de bewijsmiddelen 6 en 7 buiten beschouwing heb gelaten en mij in navolging van het hof enkel heb gericht op de vraag of de drie verklaringen van dochter [betrokkene 1] met betrekking tot feit 1 (de bewijsmiddelen 4, 5 en 6) voldoende steun bieden aan de voor het bewijs van de feiten 2 en 3 gebezigde drie verklaringen van stiefdochter [betrokkene 2] (de bewijsmiddelen 1, 2 en 3), én omgekeerd.
+
+17. Anders dan het eerste middel stelt heeft het hof in zijn nadere bewijsoverweging niet enkel uitdrukkelijk geoordeeld dat sprake is van een “evidente samenhang tussen beide bronnen”. De nadere motivering waaruit die samenhang dan wel precies bestaat ligt namelijk deels reeds besloten in ’s hofs vaststelling van de omstandigheid dat “sprake is van twee afzonderlijke, betrouwbaar geachte aangiftes van soortgelijke, zo niet identieke delicten tegen dezelfde verdachte”, terwijl die nadere motivering voorts voor het overige rechtstreeks uit de door het hof gebezigde bewijsmiddelen volgt. Uit die bewijsmiddelen kan immers worden afgeleid dat sprake is van een duidelijke onderlinge samenhang in de aard van de ontuchtige handelingen en de wijze waarop die handelingen plaatsvonden. Ik noem hier de volgende elementen:
+
+(i) de wijze waarop de dochter en de stiefdochter voor het eerst door de verdachte werden benaderd: in beide gevallen ’s nachts begonnen, toen hun moeder sliep;
+
+(ii) de momenten waarop de ontuchtige handelingen doorgaans plaatsvonden: ’s avonds of ’s nachts als hun moeder (op de bank) lag te slapen;
+
+(iii) het slapen van de moeder op de bank, het niet samen slapen van moeder en (stief)vader en de ploegendiensten;
+
+(iv) de wijze van aanspreken bij de eerste keer binnendringen: “De eerste keer doet het altijd pijn, dus je moet het gewoon volhouden” respectievelijk “Hij had gezegd dat het fijn zou worden als ik ouder was”;
+
+(v) het was heel normaal omdat mensen het doen als ze heel veel van elkaar houden respectievelijk dat het normaal was;
+
+(vi) het boos worden van de verdachte in geval van weigering;
+
+(vii) de wijze waarop de verdachte zijn aanvankelijke misbruik van zijn stiefdochter direct heeft voortgezet met dat van zijn biologische dochter.
+
+18. Voorts wijs ik erop dat de overwegingen waarmee het hof het gebruik van het steunbewijs ter voldoening aan het bewijsminimum – en daarmee ook het gebruik van het schakelbewijs – nader heeft gemotiveerd, enigszins vergelijkbaar zijn met de overwegingen in de hiervoor onder 12 aangehaalde zaak. Het hof heeft immers overwogen dat de “twee afzonderlijke, betrouwbaar geachte aangiftes van soortgelijke, zo niet identieke delicten tegen dezelfde verdachte (…) elkaar over en weer, niet alleen in feitelijke, maar ook in bewijstechnische zin, ondersteunen”. Gelet daarop en op de gebezigde bewijsmiddelen, zo overweegt het hof voorts, “kan niet worden gesproken van slechts één bron”, omdat dit naar het oordeel van het hof een miskenning zou betekenen van de “evidente samenhang tussen beide bronnen”.
+
+19. Mede gezien de hierboven (onder 10 t/m 12) genoemde zaken, voldoet mijns inziens de bewijsvoering van het hof aan de bewijsminimumvoorschriften van art. 342, tweede lid, Sv, ook aangaande het gebruik van het schakelbewijs als steunbewijs. In de onderhavige zaak kan niet worden gezegd dat de tot het bewijs gebezigde verklaringen van aangeefster [betrokkene 1] met betrekking tot feit 1 en de verklaringen van aangeefster [betrokkene 2] met betrekking tot de feiten 2 en 3 onvoldoende steun vinden in het andere bewijsmateriaal. Daarbij neem ik in aanmerking dat het hof heeft vastgesteld dat de afzonderlijke, betrouwbaar geachte verklaringen van de twee aangeefsters betreffende de door dezelfde verdachte – hun (stief)vader – jegens hen gepleegde ontuchtige handelingen “elkaar over en weer ondersteunen”, niet alleen in feitelijke maar ook in bewijstechnische zin, terwijl in deze zaak er geen te ver verwijderd verband is tussen de verklaringen van de biologische dochter van de verdachte enerzijds en de verklaringen van de stiefdochter van de verdachte anderzijds.
+
+20. Dit brengt mee dat – anders dan in het tweede en in het derde middel wordt betoogd – met betrekking tot de bewezenverklaringen van de feiten 1, 2 en 3, zich niet een schending van art. 342, tweede lid, Sv voordoet, terwijl het dienovereenkomstige oordeel van het hof evenmin onbegrijpelijk is en voorts toereikend is gemotiveerd.
+
+21. De drie middelen falen.
+
+22. Gronden waarop de Hoge Raad gebruik zou moeten maken van zijn bevoegdheid de bestreden uitspraak ambtshalve te vernietigen, heb ik niet aangetroffen.
+
+23.  Deze conclusie strekt tot verwerping van het beroep.
+
+De Procureur-Generaal
+
+bij de Hoge Raad der Nederlanden
+
+AG
+
+HR 26 januari 2010, ECLI:NL:HR:2010:BK2094, NJ 2010/512 m.nt. Borgers en de annotatie van Schalken onder HR 6 maart 2012, ECLI:NL:HR:2012:BQ6144, NJ 2012/252. Zie voorts (ook met betrekking tot het jonge zedenslachtoffer) mijn conclusie voorafgaand aan HR 12 november 2013, ECLI:NL:HR:2013:1158, NJ 2014/252 m.nt. Reijntjes.
+
+Zie HR 17 februari 2015, ECLI:NL:HR:2015:326, HR 22 december 2015, ECLI:NL:HR:2015:3638, NJ 2017/39 en HR 6 september 2016, ECLI:NL:HR:2016:2024, NJ 2017/38, beide laatste uitspraken voorzien van een annotatie van Schalken.
+
+Dit betreft HR 26 april 2011, ECLI:NL:HR:2011:BP9336. Vgl. ook HR 15 november 2011, ECLI:NL:HR:2011:BQ8600, NJ 2012/279 m.nt. Reijntjes.
+
+Het Nederlands Strafprocesrecht, achtste druk 2014, p. 806-807.
+
+Wel heeft het hof deze verklaringen als bewijsmiddelen 7 en 8 in het arrest opgenomen.
