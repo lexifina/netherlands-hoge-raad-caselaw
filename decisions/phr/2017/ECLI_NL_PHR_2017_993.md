@@ -137,7 +137,7 @@ Vanuit haar rol als System Integrator kan Wincor Nixdorf alle activiteiten in he
 
 1.9
 
-Op 10 februari 2008 stuurt [betrokkene 1] (hierna: [betrokkene 1]) van FDS een e-mail naar (onder meer) [betrokkene 2] (hierna: [betrokkene 2]) van Wincor Nixdorf met, voor zover hier relevant, de volgende inhoud:
+Op 10 februari 2008 stuurt [betrokkene 1] (hierna: [betrokkene 1] ) van FDS een e-mail naar (onder meer) [betrokkene 2] (hierna: [betrokkene 2] ) van Wincor Nixdorf met, voor zover hier relevant, de volgende inhoud:
 
 “Sinds eind vorig jaar weten we feitelijk in grote lijnen welke richting we op gaan met Lidl Nederland.
 
@@ -179,7 +179,7 @@ Wij zullen onze uiterste best doen om volgende week volgens planning Lidl te sta
 
 1.11
 
-Per brief gedateerd 13 februari 2008 schrijft [betrokkene 2] van Wincor Nixdorf vervolgens aan [betrokkene 3] (hierna: [betrokkene 3]) en [betrokkene 1] van FDS, voor zover hier relevant:
+Per brief gedateerd 13 februari 2008 schrijft [betrokkene 2] van Wincor Nixdorf vervolgens aan [betrokkene 3] (hierna: [betrokkene 3] ) en [betrokkene 1] van FDS, voor zover hier relevant:
 
 “Betreft: Migratie GK Kassensoftware Lidl
 
@@ -215,7 +215,7 @@ FDS heeft de werkzaamheden in verband met de migratie naar GK Kassensoftware ver
 
 1.13
 
-Per e-mail van 18 juni 2008 schrijft [betrokkene 3] van FDS aan onder meer [betrokkene 4] (hierna: [betrokkene 4]) van Wincor Nixdorf, met een afschrift (in cc) aan de advocaat van FDS, mr. H.J.W. Alt, voor zover hier van belang:
+Per e-mail van 18 juni 2008 schrijft [betrokkene 3] van FDS aan onder meer [betrokkene 4] (hierna: [betrokkene 4] ) van Wincor Nixdorf, met een afschrift (in cc) aan de advocaat van FDS, mr. H.J.W. Alt, voor zover hier van belang:
 
 “De overeenkomst zoals die er nu ligt kan ik helaas niet tekenen.
 
@@ -255,7 +255,7 @@ Het in de mantelovereenkomst genoemde roll out contract is nooit gesloten. Ook d
 
 1.17
 
-Op 24 januari 2008 heeft [betrokkene 5] (hierna: [betrokkene 5]) van Wincor Nixdorf aan [betrokkene 1] van FDS per e-mail het volgende bericht:
+Op 24 januari 2008 heeft [betrokkene 5] (hierna: [betrokkene 5] ) van Wincor Nixdorf aan [betrokkene 1] van FDS per e-mail het volgende bericht:
 
 “Onderwerp: Klus
 
@@ -279,7 +279,7 @@ In augustus en september 2008 heeft de volgende e-mailwisseling plaatsgevonden o
 
 (…) graag even aangeven of je deze order wilt en kunt uitvoeren.”
 
-- op 20 augustus 2008 schrijft [betrokkene 1] aan [betrokkene 5]:
+- op 20 augustus 2008 schrijft [betrokkene 1] aan [betrokkene 5] :
 
 “Vooropgesteld dat ik deze projecten graag voor je had uitgevoerd, moet ik je berichten dat wij dit simpelweg niet kunnen uitvoeren, omdat we niet kunnen werken voor de aangeboden uurtarieven.
 
@@ -299,11 +299,11 @@ Maar wel volgens voorwaarden waar wij ons beide[n] prettig mee voelen.
 
 Ik hoor graag van je.”
 
-- daarop bericht [betrokkene 2] van Wincor Nixdorf op 21 augustus 2008 aan [betrokkene 1]:
+- daarop bericht [betrokkene 2] van Wincor Nixdorf op 21 augustus 2008 aan [betrokkene 1] :
 
 “Het spijt ons dat de aangeboden uitrol trajecten bij KPN en ALDI niet door jullie kunnen worden uitgevoerd. De prijsstelling van dit soort opdrachten wordt bepaald op basis van de marktwerking en aangenomen tegen een vaste prijs, waarbij de door jou genoemde uurtarieven niet realistisch zijn. Bovendien zijn de door jou genoemde uurtarieven alleen van toepassing op dienstverlening aan Lidl, zoals overeengekomen.”
 
-- na enige tussenliggende e-mails schrijft [betrokkene 2] op 17 september 2008 aan [betrokkene 1]:
+- na enige tussenliggende e-mails schrijft [betrokkene 2] op 17 september 2008 aan [betrokkene 1] :
 
 “Zoals eerder gezegd is het uurtarief van EUR 62,40 niets meer of minder dan het uurtarief wat is overeengekomen tussen Lidl en WN t.b.v. de overeengekomen dienstverlening in hoofdaannemerschap van WN.
 
@@ -323,11 +323,11 @@ Wij kunnen niet anders dan deze zaken nu door anderen te laten uitvoeren en zull
 
 Op 27 juli 2009 heeft de volgende e-mailwisseling plaatsgevonden tussen [betrokkene 5] van Wincor Nixdorf en [betrokkene 1] van FDS inzake swap diensten ten behoeve van AS Watson:
 
-- [betrokkene 5] bericht aan [betrokkene 1]:
+- [betrokkene 5] bericht aan [betrokkene 1] :
 
 “Wij zijn doende met een nieuwe klant waar we swap service gaan uitvoeren. Voor deze dienst zijn we op zoek naar een partner d[i]e dit zou kunnen uitvoeren. Graag verneem ik tegen welke tarieven FD dit zou kunnen uitvoeren.”
 
-- daarop antwoordt [betrokkene 1]:
+- daarop antwoordt [betrokkene 1] :
 
 “Lastige vraag.
 
@@ -373,11 +373,11 @@ Voorwaarde welke ik bij IKEA neerleg is;
 
 Indien aantallen in vestigingen hoger zijn dan in bijlage worden extra uren conform tarieven en gemiddelden doorbelast on top of bedrag in offerte van 3850.”
 
-- op 16 oktober 2009 schrijft [betrokkene 1] aan [betrokkene 5]:
+- op 16 oktober 2009 schrijft [betrokkene 1] aan [betrokkene 5] :
 
 “Alleen ik kan opdracht geven namens First Data Services.
 
-Dit beteken[t] dat (lees: dan, A-G) ook dat indien wij de hulp nodig hebben van [betrokkene 6], wij hier zelf de opdracht voor verstrekken.
+Dit beteken[t] dat (lees: dan, A-G) ook dat indien wij de hulp nodig hebben van [betrokkene 6] , wij hier zelf de opdracht voor verstrekken.
 
 Wij verwachten eea ook zelf uit te kunnen voeren, afhankelijk van wensen.
 
@@ -534,9 +534,9 @@ Sub-subonderdeel 2.1.B-I betoogt in de eerste plaats dat het hof – gelet op de
 
 3.8
 
-Deze klacht treft geen doel. Het hiervoor genoemde betoog is in de genoemde randnummers niet ontwikkeld. Randnummers 1.6 en 1.7 van de memorie van grieven bevatten slechts een weergave van de verklaringen van de getuigenverklaringen van [betrokkene 3] en [betrokkene 1], waaraan verder geen gevolgtrekkingen worden verbonden. Ook randnummer I.22 van de memorie van grieven heeft geen betrekking op de prijs die een monteur minimaal zou moeten opbrengen om uit de kosten te komen. Deze passage luidt als volgt:
+Deze klacht treft geen doel. Het hiervoor genoemde betoog is in de genoemde randnummers niet ontwikkeld. Randnummers 1.6 en 1.7 van de memorie van grieven bevatten slechts een weergave van de verklaringen van de getuigenverklaringen van [betrokkene 3] en [betrokkene 1] , waaraan verder geen gevolgtrekkingen worden verbonden. Ook randnummer I.22 van de memorie van grieven heeft geen betrekking op de prijs die een monteur minimaal zou moeten opbrengen om uit de kosten te komen. Deze passage luidt als volgt:
 
-“I.22 Ten onrechte heeft de rechtbank in r.o. 2.8 geoordeeld dat FDS een en ander niet heeft bewezen omdat in deze situatie moet worden aangenomen dat de clausule inzake de € 500.000,- additionele werkzaamheden ertoe strekte om FDS een redelijke compensatie voor de teruggang in omzet te verschaffen. De rechtbank heeft dit oordeel, dat het moet gaan om een ‘redelijke compensatie’ in het geheel niet toegelicht, dit oordeel is daarnaast in strijd met datgene dat partijen bij het aangaan van de overeenkomst voor ogen heeft gestaan en eveneens kan dit oordeel ook niet volgen uit de (delen van) de getuigenverklaringen die de rechtbank in r.o. 2.7. citeert. In de citaten van zowel [betrokkene 3] als [betrokkene 1] volgt nu juist wel dat het zou gaan om opdrachten met een uurloon van rond de € 62,- ([betrokkene 3]) dan wel het tarief dat gehanteerd werd in de relatie tussen FDS en WN ([betrokkene 1]). De rechtbank heeft in r.o. 2.8 derhalve een onbegrijpelijk oordeel gegeven.”
+“I.22 Ten onrechte heeft de rechtbank in r.o. 2.8 geoordeeld dat FDS een en ander niet heeft bewezen omdat in deze situatie moet worden aangenomen dat de clausule inzake de € 500.000,- additionele werkzaamheden ertoe strekte om FDS een redelijke compensatie voor de teruggang in omzet te verschaffen. De rechtbank heeft dit oordeel, dat het moet gaan om een ‘redelijke compensatie’ in het geheel niet toegelicht, dit oordeel is daarnaast in strijd met datgene dat partijen bij het aangaan van de overeenkomst voor ogen heeft gestaan en eveneens kan dit oordeel ook niet volgen uit de (delen van) de getuigenverklaringen die de rechtbank in r.o. 2.7. citeert. In de citaten van zowel [betrokkene 3] als [betrokkene 1] volgt nu juist wel dat het zou gaan om opdrachten met een uurloon van rond de € 62,- ( [betrokkene 3] ) dan wel het tarief dat gehanteerd werd in de relatie tussen FDS en WN ( [betrokkene 1] ). De rechtbank heeft in r.o. 2.8 derhalve een onbegrijpelijk oordeel gegeven.”
 
 3.9
 
@@ -552,7 +552,7 @@ Tot slot wordt in sub-subonderdeel 2.1.B-I geklaagd over het passeren van het be
 
 3.12
 
-Sub-subonderdeel 2.1.B-II komt op tegen de overweging in rov. 11. dat FDS niet heeft aangevoerd dat Wincor Nixdorf ten tijde van het sluiten van de overeenkomst ervan op de hoogte was dat FDS slechts kostendekkend kon draaien bij een uurtarief van minimaal € 58,65. FDS zou in de memorie van grieven en de pleitnota in extenso hebben gesteld wat de bedoeling van de bepaling is, zodat het in dat kader niet nodig was om expliciet te stellen dat Wincor Nixdorf ten tijde van het sluiten van de overeenkomst op de hoogte was van de kostprijs. Verder verwijst FDS naar de verklaring van [betrokkene 3]. Naar FDS in cassatie aanvoert, heeft [betrokkene 3] aangegeven dat de kostprijs € 52,50 bedraagt, dat dit een marge betekent van zo’n € 6,-- per uur en dat met die marge de verlaging van het uurtarief voor werkzaamheden voor Lidl moet worden goedgemaakt. Volgens FDS volgt daaruit dat partijen de prijs tevoren in beeld hadden en dat daarmee in het kader van alle onderhandelingen rekening is gehouden. Het zou dan onbegrijpelijk zijn dat Wincor Nixdorf iets onder die bepaling kan en mag aanbieden wat ver onder die kostprijs zit, zoals werk voor een uurtarief van € 35,--. FDS zou niet werkelijk worden gecompenseerd door extra uren te draaien die niet of nauwelijks worden gedekt door het uurloon.
+Sub-subonderdeel 2.1.B-II komt op tegen de overweging in rov. 11. dat FDS niet heeft aangevoerd dat Wincor Nixdorf ten tijde van het sluiten van de overeenkomst ervan op de hoogte was dat FDS slechts kostendekkend kon draaien bij een uurtarief van minimaal € 58,65. FDS zou in de memorie van grieven en de pleitnota in extenso hebben gesteld wat de bedoeling van de bepaling is, zodat het in dat kader niet nodig was om expliciet te stellen dat Wincor Nixdorf ten tijde van het sluiten van de overeenkomst op de hoogte was van de kostprijs. Verder verwijst FDS naar de verklaring van [betrokkene 3] . Naar FDS in cassatie aanvoert, heeft [betrokkene 3] aangegeven dat de kostprijs € 52,50 bedraagt, dat dit een marge betekent van zo’n € 6,-- per uur en dat met die marge de verlaging van het uurtarief voor werkzaamheden voor Lidl moet worden goedgemaakt. Volgens FDS volgt daaruit dat partijen de prijs tevoren in beeld hadden en dat daarmee in het kader van alle onderhandelingen rekening is gehouden. Het zou dan onbegrijpelijk zijn dat Wincor Nixdorf iets onder die bepaling kan en mag aanbieden wat ver onder die kostprijs zit, zoals werk voor een uurtarief van € 35,--. FDS zou niet werkelijk worden gecompenseerd door extra uren te draaien die niet of nauwelijks worden gedekt door het uurloon.
 
 3.13
 
@@ -564,7 +564,7 @@ Sub-subonderdeel 2.1.B-III komt op tegen de overweging in rov. 11. dat Wincor Ni
 
 3.15
 
-Voor het overige neemt sub-subonderdeel 2.1.B-III tot uitgangspunt dat de partijen bij het sluiten van de overeenkomst bekend waren met de kostprijs en dat de afspraken in dat licht zijn gemaakt. Dat uitgangspunt ligt ook ten grondslag aan de klachten van sub-subonderdeel 2.1.B-IV die zich richten tegen de waardering van de verklaringen van getuigen [betrokkene 1] en [betrokkene 3] in rov. 12. en 13. Die klachten falen op de hiervoor in randnummer 3.13 genoemde gronden. Overigens berust sub-subonderdeel 2.1.B-IV op een verkeerde lezing van de gedingstukken (in het bijzonder de verklaring van [betrokkene 1]) voor zover daaraan ten grondslag ligt dat [betrokkene 1] heeft verklaard dat er geen rekening mee werd gehouden dat Wincor Nixdorf met andere opdrachtgevers andere tarieven afspreekt. [betrokkene 1] heeft verklaard dat hij er geen rekening mee heeft gehouden dat Wincor Nixdorf in de relatie met andere opdrachtgevers andere tarieven zou hanteren en dat hij daar ook niet op is gewezen (rov. 13.).
+Voor het overige neemt sub-subonderdeel 2.1.B-III tot uitgangspunt dat de partijen bij het sluiten van de overeenkomst bekend waren met de kostprijs en dat de afspraken in dat licht zijn gemaakt. Dat uitgangspunt ligt ook ten grondslag aan de klachten van sub-subonderdeel 2.1.B-IV die zich richten tegen de waardering van de verklaringen van getuigen [betrokkene 1] en [betrokkene 3] in rov. 12. en 13. Die klachten falen op de hiervoor in randnummer 3.13 genoemde gronden. Overigens berust sub-subonderdeel 2.1.B-IV op een verkeerde lezing van de gedingstukken (in het bijzonder de verklaring van [betrokkene 1] ) voor zover daaraan ten grondslag ligt dat [betrokkene 1] heeft verklaard dat er geen rekening mee werd gehouden dat Wincor Nixdorf met andere opdrachtgevers andere tarieven afspreekt. [betrokkene 1] heeft verklaard dat hij er geen rekening mee heeft gehouden dat Wincor Nixdorf in de relatie met andere opdrachtgevers andere tarieven zou hanteren en dat hij daar ook niet op is gewezen (rov. 13.).
 
 3.16
 
@@ -600,7 +600,7 @@ Sub-subonderdeel 2.1.D-I houdt het volgende in. Het hof zou hebben miskend dat, 
 
 3.24
 
-Sub-subonderdeel 2.1.D-I verdedigt verder dat het hof op een onbegrijpelijke wijze invulling zou hebben gegeven aan de beoordeling van hetgeen partijen over en weer van elkaar mochten verwachten in het licht van de getuigenverklaring van [betrokkene 3]. In zoverre neemt het sub-subonderdeel tot uitgangspunt dat partijen bij het sluiten van de overeenkomst bekend waren met de kostprijs en dat de afspraken in dat licht zijn gemaakt. De klacht faalt in zoverre bij gebrek aan feitelijke grondslag (hiervoor randnummers 3.7-3.9 en 3.13).
+Sub-subonderdeel 2.1.D-I verdedigt verder dat het hof op een onbegrijpelijke wijze invulling zou hebben gegeven aan de beoordeling van hetgeen partijen over en weer van elkaar mochten verwachten in het licht van de getuigenverklaring van [betrokkene 3] . In zoverre neemt het sub-subonderdeel tot uitgangspunt dat partijen bij het sluiten van de overeenkomst bekend waren met de kostprijs en dat de afspraken in dat licht zijn gemaakt. De klacht faalt in zoverre bij gebrek aan feitelijke grondslag (hiervoor randnummers 3.7-3.9 en 3.13).
 
 3.25
 
@@ -654,7 +654,7 @@ Het tweede onderdeel (2.2) komt op tegen de beoordeling in rov. 15. van het stan
 
 3.33
 
-Het hof heeft dit betoog verworpen omdat FDS niet voldoende heeft onderbouwd wat in de branche destijds als een gebruikelijk loon dan wel redelijk loon gold. Volgens FDS is dit oordeel onbegrijpelijk. Zij wijst er daartoe op dat zij, zoals in subonderdeel 2.1.B aangevoerd is in het licht van de verklaring van [betrokkene 3], heeft gesteld en onderbouwd dat partijen een berekening hebben gemaakt van wat een monteur minimaal moest kosten en vervolgens een uurtarief van € 58,60 per uur hebben vastgesteld. Verder zou het hof hebben miskend dat, waar partijen voor soortgelijke werkzaamheden reeds een uurtarief van € 58,60 hebben afgesproken, dat bedrag als ‘redelijk loon’ moet worden aangemerkt. Tegen die achtergrond zou volgens FDS onjuist of onbegrijpelijk zijn om te oordelen dat in die omstandigheden voor het bepalen van een redelijk loon moet worden aangesloten bij wat in de branche gebruikelijk zou zijn en niet wat partijen overigens hebben afgesproken.
+Het hof heeft dit betoog verworpen omdat FDS niet voldoende heeft onderbouwd wat in de branche destijds als een gebruikelijk loon dan wel redelijk loon gold. Volgens FDS is dit oordeel onbegrijpelijk. Zij wijst er daartoe op dat zij, zoals in subonderdeel 2.1.B aangevoerd is in het licht van de verklaring van [betrokkene 3] , heeft gesteld en onderbouwd dat partijen een berekening hebben gemaakt van wat een monteur minimaal moest kosten en vervolgens een uurtarief van € 58,60 per uur hebben vastgesteld. Verder zou het hof hebben miskend dat, waar partijen voor soortgelijke werkzaamheden reeds een uurtarief van € 58,60 hebben afgesproken, dat bedrag als ‘redelijk loon’ moet worden aangemerkt. Tegen die achtergrond zou volgens FDS onjuist of onbegrijpelijk zijn om te oordelen dat in die omstandigheden voor het bepalen van een redelijk loon moet worden aangesloten bij wat in de branche gebruikelijk zou zijn en niet wat partijen overigens hebben afgesproken.
 
 3.34
 
@@ -754,7 +754,7 @@ Het hof heeft in dat verband in rov. 42.-46. als volgt overwogen:
 
 43. Ter gelegenheid van het pleidooi heeft FDS erkend dat Wincor Nixdorf swap diensten voor AS Watson heeft aangeboden en dat daarover gesprekken zijn gevoerd. Volgens FDS bleek tijdens die besprekingen echter dat een gedeelte van die werkzaamheden in België moest worden uitgevoerd, wat FDS niet kan doen omdat zij daar geen infrastructuur heeft. Partijen waren nog in gesprek over het Nederlandse deel van de opdracht, maar FDS hoorde niets meer en toen zij navraag deed, bleek dat Wincor Nixdorf het werk zelf ging doen. Met betrekking tot de door Wincor Nixdorf overgelegde facturen voert FDS aan dat daaruit niet blijkt dat die betrekking hebben op de werkzaamheden die aan FDS zijn aangeboden. Er kan van alles in die facturen zitten: geleverde hardware bijvoorbeeld of geleverde software of zelfs de IMAC werkzaamheden die FDS ten behoeve van AS Watson heeft gedaan, aldus nog steeds FDS.
 
-44. Het hof overweegt dat uit de e-mail correspondentie van 27 juli 2009 (zie 2.r [in deze conclusie weergegeven in randnummer 1.19, A-G]) valt op te maken dat Wincor Nixdorf bereid is om FDS de swap werkzaamheden te gunnen ([betrokkene 5]:“wil je graag aan extra werk helpen ”), maar dat partijen zich realiseren dat het door FDS gewenste uurtarief een obstakel zou kunnen zijn. De stelling van Wincor Nixdorf, ondersteund door de schriftelijke verklaring van [betrokkene 5], dat de deal na gesprekken tussen partijen niet is doorgegaan omdat FDS geen competitief uurtarief wilde bieden, maar vasthield aan het Lidl-tarief, is in lijn hiermee. Tegenover deze onderbouwde stelling van Wincor Nixdorf was het aan FDS om voldoende concreet te stellen - en zo nodig te bewijzen - dat Wincor Nixdorf zodanig heeft gehandeld dat het aan haar te wijten was dat deze werkzaamheden, die Wincor Nixdorf blijkens de e-mail correspondentie nog aan FDS wilde gunnen, uiteindelijk toch niet aan FDS werden gegund. De verder niet nader onderbouwde, en door Wincor Nixdorf betwiste stelling dat een deel van de werkzaamheden in België moest worden verricht en dat FDS verder niets meer hoorde, is daartoe onvoldoende. Daarbij komt dat FDS geen specifiek aanbod heeft gedaan om te bewijzen dat haar versie van de gang van zaken de juiste is. Gelet op het voorgaande gaat het hof ervan uit dat Wincor Nixdorf de swap diensten ten behoeve van AS Watson wel aan FDS heeft aangeboden in de zin van de aanbiedingsbepaling.
+44. Het hof overweegt dat uit de e-mail correspondentie van 27 juli 2009 (zie 2.r [in deze conclusie weergegeven in randnummer 1.19, A-G]) valt op te maken dat Wincor Nixdorf bereid is om FDS de swap werkzaamheden te gunnen ( [betrokkene 5] :“wil je graag aan extra werk helpen ”), maar dat partijen zich realiseren dat het door FDS gewenste uurtarief een obstakel zou kunnen zijn. De stelling van Wincor Nixdorf, ondersteund door de schriftelijke verklaring van [betrokkene 5] , dat de deal na gesprekken tussen partijen niet is doorgegaan omdat FDS geen competitief uurtarief wilde bieden, maar vasthield aan het Lidl-tarief, is in lijn hiermee. Tegenover deze onderbouwde stelling van Wincor Nixdorf was het aan FDS om voldoende concreet te stellen - en zo nodig te bewijzen - dat Wincor Nixdorf zodanig heeft gehandeld dat het aan haar te wijten was dat deze werkzaamheden, die Wincor Nixdorf blijkens de e-mail correspondentie nog aan FDS wilde gunnen, uiteindelijk toch niet aan FDS werden gegund. De verder niet nader onderbouwde, en door Wincor Nixdorf betwiste stelling dat een deel van de werkzaamheden in België moest worden verricht en dat FDS verder niets meer hoorde, is daartoe onvoldoende. Daarbij komt dat FDS geen specifiek aanbod heeft gedaan om te bewijzen dat haar versie van de gang van zaken de juiste is. Gelet op het voorgaande gaat het hof ervan uit dat Wincor Nixdorf de swap diensten ten behoeve van AS Watson wel aan FDS heeft aangeboden in de zin van de aanbiedingsbepaling.
 
 45. Tegenover de door Wincor Nixdorf gestelde en met facturen onderbouwde waarde van het project, heeft FDS naar het oordeel van het hof onvoldoende ingebracht. Wincor Nixdorf heeft weersproken dat in de facturen - zoals FDS als mogelijkheid suggereert - bedragen voor hardware en software zijn opgenomen. Dit standpunt van Wincor Nixdorf strookt met de op de facturen vermelde omschrijving ‘installatiewerkzaamheden’. De enkele opmerking van FDS dat in het door Wincor Nixdorf genoemde bedrag wellicht ook het bedrag is opgenomen voor het IMAC project voor AS Watson, dat via Wincor Nixdorf door FDS is uitgevoerd (zie hierna), is dermate weinig specifiek - terwijl van FDS verwacht mocht worden dat zij aan de hand van de facturen zou aangeven welke facturen betrekking zouden kunnen hebben op het door FDS uitgevoerde IMAC project - dat het hof daaraan voorbij gaat.
 
@@ -802,11 +802,11 @@ Subonderdeel 2.3.5 betoogt allereerst dat het hof heeft miskend dat de stelling 
 
 3.64
 
-In subonderdeel 2.3.5 wordt vervolgens aangevoerd dat de memorie van grieven, anders dan het hof overweegt, niet vermeldt dat het project Ikea is geweigerd omdat die aanbieding te laag zou zijn. Daartoe wordt de volgende passage geciteerd uit randnummer IV.8 van de memorie van grieven: “Van Ikea heeft FDS vervolgens niets meer mogen vernemen. Ikea is wel geaccepteerd. WN heeft het vervolgens niet gegund (getuige [betrokkene 1]).”
+In subonderdeel 2.3.5 wordt vervolgens aangevoerd dat de memorie van grieven, anders dan het hof overweegt, niet vermeldt dat het project Ikea is geweigerd omdat die aanbieding te laag zou zijn. Daartoe wordt de volgende passage geciteerd uit randnummer IV.8 van de memorie van grieven: “Van Ikea heeft FDS vervolgens niets meer mogen vernemen. Ikea is wel geaccepteerd. WN heeft het vervolgens niet gegund (getuige [betrokkene 1] ).”
 
 3.65
 
-Bij de beoordeling van deze klacht stel ik voorop dat de uitleg van de gedingstukken in beginsel is voorbehouden aan het hof als hoogste feitenrechter. Deze uitleg kan slechts op begrijpelijkheid worden getoetst. De volledige passage in de memorie van grieven luidt, voor zover van belang, als volgt: “De Ikea opdracht vertegenwoordigde een omzetwaarde – volgens de eigen stukken van WN) van € 3.850,= (productie 6 bij inleidende dagvaarding). Werkzaamheden tegen of onder kostprijs tellen niet mee ter compensatie van een lager uurtarief van € 85 naar € 62,40. Van Ikea heeft FDS vervolgens niets meer mogen vernemen. Ikea is wel geaccepteerd. WN heeft het vervolgens niet gegund (getuige [betrokkene 1]).” De passage over IKEA vermeldt dus alleen in algemene zin dat werkzaamheden tegen of onder de kostprijs niet zouden meetellen ter compensatie van het lagere uurtarief. De passage valt mijns inziens niet aldus te begrijpen dat ‘de werkzaamheden [met betrekking tot het project inventarisatie Ikea stores] door FDS niet zijn geaccepteerd omdat het hier werkzaamheden betreft tegen een tarief dat onder de kostprijs zou vallen.’ Het subonderdeel klaagt daarom terecht dat die overweging onbegrijpelijk is.
+Bij de beoordeling van deze klacht stel ik voorop dat de uitleg van de gedingstukken in beginsel is voorbehouden aan het hof als hoogste feitenrechter. Deze uitleg kan slechts op begrijpelijkheid worden getoetst. De volledige passage in de memorie van grieven luidt, voor zover van belang, als volgt: “De Ikea opdracht vertegenwoordigde een omzetwaarde – volgens de eigen stukken van WN) van € 3.850,= (productie 6 bij inleidende dagvaarding). Werkzaamheden tegen of onder kostprijs tellen niet mee ter compensatie van een lager uurtarief van € 85 naar € 62,40. Van Ikea heeft FDS vervolgens niets meer mogen vernemen. Ikea is wel geaccepteerd. WN heeft het vervolgens niet gegund (getuige [betrokkene 1] ).” De passage over IKEA vermeldt dus alleen in algemene zin dat werkzaamheden tegen of onder de kostprijs niet zouden meetellen ter compensatie van het lagere uurtarief. De passage valt mijns inziens niet aldus te begrijpen dat ‘de werkzaamheden [met betrekking tot het project inventarisatie Ikea stores] door FDS niet zijn geaccepteerd omdat het hier werkzaamheden betreft tegen een tarief dat onder de kostprijs zou vallen.’ Het subonderdeel klaagt daarom terecht dat die overweging onbegrijpelijk is.
 
 3.66
 
@@ -951,7 +951,7 @@ Zie Asser/A.S. Hartkamp & C.H. Sieburgh, Verbintenissenrecht (deel 6-III), Deven
 
 Gedoeld wordt kennelijk op productie 4 bij de inleidende dagvaarding.
 
-R.J.B. Boonekamp & W.L. Valk (red.), Stelplicht & Bewijslast, Deventer: Wolters Kluwer 2017, aant. bij art. 6:74 BW, onder verwijzing naar Groene Serie Verbintenissenrecht, art. 6:74 BW (B.J. Broekema-Engelen), aant. 52.1 en HR 15 mei 1981, ECLI:NL:HR:1981:AG4189, NJ 1981/641 (https://www.navigator.nl/document/id15761981051511664nj1981641dosred) m.nt. C.J.H. Brunner (Joba/Gerber).
+R.J.B. Boonekamp & W.L. Valk (red.), Stelplicht & Bewijslast, Deventer: Wolters Kluwer 2017, aant. bij art. 6:74 BW, onder verwijzing naar Groene Serie Verbintenissenrecht, art. 6:74 BW (B.J. Broekema-Engelen), aant. 52.1 en HR 15 mei 1981, ECLI:NL:HR:1981:AG4189, NJ 1981/641 m.nt. C.J.H. Brunner (Joba/Gerber).
 
 In productie 9 bij akte overlegging producties d,d. 30 november 2011 wordt gesproken over ‘Network Team Leusden’.
 
@@ -965,7 +965,7 @@ In het subonderdeel worden strikt genomen alleen rov. 42.-45. genoemd. Rov. 46. 
 
 Deze akte ontbreekt overigens in het door FDS gefourneerde dossier.
 
-Bedoeld wordt: ‘[betrokkene 5]’.
+Bedoeld wordt: ‘ [betrokkene 5] ’.
 
 Uit de betreffende passage maak ik op dat FDS van mening is dat zij, gezien het aangeboden uurtarief, niet gehouden was om de betreffende werkzaamheden aan te nemen, maar dat zij niettemin heeft voorgesteld die werkzaamheden uit te voeren teneinde de schade als gevolg van de vermeende wanprestatie van Wincor Nixdorf zo beperkt mogelijk te houden.
 
