@@ -8,7 +8,7 @@ published: "2017-10-25"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2017:1134"
-published_in: ["Rechtspraak.nl", "NLF 2017/2659 met annotatie van Corné Brouwers", "V-N 2017/55.10 met annotatie van Redactie", "V-N Vandaag 2017/2538", "Viditax (FutD), 27-10-2017", "FutD 2017-2690", "NTFR 2017/2681 met annotatie van Dr. W. Bruins Slot"]
+published_in: ["Rechtspraak.nl", "NLF 2017/2659 met annotatie van Corné Brouwers", "V-N 2017/55.10 met annotatie van Redactie", "V-N Vandaag 2017/2538", "NTFR 2017/2681 met annotatie van Dr. W. Bruins Slot", "FutD 2017-2690", "Viditax (FutD) 2017102702"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2018:123, Gevolgd"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2018:124, Gevolgd"]]
 ---
 
