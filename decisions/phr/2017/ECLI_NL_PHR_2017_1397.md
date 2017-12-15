@@ -8,7 +8,7 @@ published: "2017-12-20"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2017:1397"
-published_in: ["Rechtspraak.nl", "NLF 2018/0203 met annotatie van Sonja Dusarduijn", "V-N Vandaag 2018/59", "V-N 2018/4.6 met annotatie van Redactie", "Viditax (FutD), 05-01-2018", "FutD 2018-0117", "NTFR 2018/422 met annotatie van mr. J. Nieuwenhuizen"]
+published_in: ["Rechtspraak.nl", "NLF 2018/0203 met annotatie van Sonja Dusarduijn", "V-N Vandaag 2018/59", "V-N 2018/4.6 met annotatie van Redactie", "NTFR 2018/422 met annotatie van mr. J. Nieuwenhuizen", "FutD 2018-0117", "Viditax (FutD) 2018010501"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2018:511, Gedeeltelijk contrair"]]
 ---
 
