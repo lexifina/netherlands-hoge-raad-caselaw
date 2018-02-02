@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:124"
-published_in: ["Rechtspraak.nl", "V-N 2018/8.20.1", "V-N Vandaag 2018/236", "V-N Vandaag 2018/234", "Viditax (FutD), 02-02-2018", "FutD 2018-0330 met annotatie van Fiscaal up to Date", "NTFR 2018/361 met annotatie van Dr. W. Bruins Slot", "NLF 2018/0390 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N 2018/8.20.1", "V-N Vandaag 2018/236", "V-N Vandaag 2018/234", "NLF 2018/0390", "FutD 2018-0330", "Viditax (FutD) 2018020202"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:1134, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2016:5325, Bekrachtiging/bevestiging"]]
 ---
 
