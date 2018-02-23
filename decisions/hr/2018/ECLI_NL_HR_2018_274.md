@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:274"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/537", "Viditax (FutD), 23-02-2018", "FutD 2018-0538", "NTFR 2018/476"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/537", "NTFR 2018/476", "FutD 2018-0538", "Viditax (FutD) 2018022318"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2017:2099"]]
 cites_law: ["netherlands/national/acts/awb/art-07-002.md", "netherlands/national/acts/awb/art-08-069.md", "netherlands/national/acts/awr/art-008.md", "netherlands/national/acts/awr/art-025.md", "netherlands/national/acts/awr/art-027e.md"]
 ---
