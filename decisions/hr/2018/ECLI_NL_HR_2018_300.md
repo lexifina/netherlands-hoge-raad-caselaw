@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:300"
-published_in: ["Rechtspraak.nl", "NJB 2018/550", "RvdW 2018/297", "RCR 2018/41", "PJ 2018/48", "NJ 2018/317 met annotatie van M. Heemskerk", "JAR 2018/90 met annotatie van mr. B.C.L. Kanen", "AR-Updates.nl 2018-0259", "PR-Updates.nl PR-2018-0026"]
+published_in: ["Rechtspraak.nl", "NJB 2018/550", "RvdW 2018/297", "RCR 2018/41", "PJ 2018/48", "NJ 2018/317 met annotatie van M. Heemskerk", "JAR 2018/90 met annotatie van mr. B.C.L. Kanen", "AR-Updates.nl 2018-0259", "PR-Updates.nl PR-2018-0026", "VAAN-AR-Updates.nl 2018-0259", "PR-Updates.nl 2018-0026"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:1221, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2016:3725, Bekrachtiging/bevestiging"]]
 ---
 
