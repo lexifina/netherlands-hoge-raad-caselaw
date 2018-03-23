@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:424"
-published_in: ["Rechtspraak.nl", "NJB 2018/700", "RI 2018/54", "RCR 2018/50", "NJ 2018/290 met annotatie van F.M.J. Verstijlen", "JIN 2018/94 met annotatie van J.L. Snijders", "JIN 2018/72 met annotatie van E.S. Ebels, G. te Winkel en N.A. van Loon", "RvdW 2018/363", "NTHR 2018, afl. 3, p. 184", "NTHR 2018, afl. 4, p. 167", "JOR 2018/254 met annotatie van prof. mr. N.E.D. Faber en mr. N.S.G.J. Vermunt", "INS-Updates.nl 2018-0114", "AA20180720 met annotatie van Wibier R.M. Reinout"]
+published_in: ["Rechtspraak.nl", "NJB 2018/700", "RI 2018/54", "RCR 2018/50", "NJ 2018/290 met annotatie van F.M.J. Verstijlen", "JIN 2018/94 met annotatie van J.L. Snijders", "JIN 2018/72 met annotatie van E.S. Ebels, G. te Winkel, N.A. van Loon", "RvdW 2018/363", "NTHR 2018, afl. 3, p. 184", "NTHR 2018, afl. 4, p. 167", "JOR 2018/254 met annotatie van mr. N.S.G.J. Vermunt, prof. mr. N.E.D. Faber", "INS-Updates.nl 2018-0114", "AA20180720 met annotatie van Wibier R.M. Reinout"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:1593"], ["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:RBAMS:2017:1971"]]
 ---
 
