@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:511"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/761", "NLF 2018/0948 met annotatie van Sonja Dusarduijn", "NJB 2018/846", "V-N 2018/20.3 met annotatie van Redactie", "VFP 2018/46", "Viditax (FutD), 06-04-2018", "FutD 2018-0964 met annotatie van Fiscaal up to Date", "FED 2018/110 met annotatie van T.C. Gerverdinck", "BNB 2018/137 met annotatie van M.R.T. Pauwels", "NTFRB 2018/14 met annotatie van mr.dr. C. Bruijsten", "NTFR 2018/857 met annotatie van mr. J. Nieuwenhuizen", "RF 2018/79", "JONDR 2018/1402"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/761", "NLF 2018/0948 met annotatie van mr. dr. S.M.H. Dusarduijn RB", "NJB 2018/846", "V-N 2018/20.3 met annotatie van Redactie", "VFP 2018/46", "FED 2018/110 met annotatie van T.C. Gerverdinck", "BNB 2018/137 met annotatie van M.R.T. Pauwels", "RF 2018/79", "JONDR 2018/1402", "NTFR 2018/857 met annotatie van mr. J. Nieuwenhuizen", "FutD 2018-0964", "Viditax (FutD) 2018040601"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2017:1397, Gedeeltelijk contrair"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2017:1614, Bekrachtiging/bevestiging"]]
 ---
 
