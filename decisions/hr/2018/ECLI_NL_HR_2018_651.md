@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:651"
-published_in: ["Rechtspraak.nl", "NJB 2018/890", "RvdW 2018/534", "TRA 2018/60 met annotatie van M.D. Ruizeveld", "RAR 2018/97", "Prg. 2018/161", "JIN 2018/124 met annotatie van S.I. Evers", "TvPP 2018, afl. 4, p. 130", "PJ 2018/160", "JAR 2018/129 met annotatie van mr. E.L.J. Bruyninckx", "AR-Updates.nl 2018-0504", "GZR-Updates.nl 2018-0209", "NJ 2019/69 met annotatie van B. Barentsen", "PR-Updates.nl PR-2018-0045", "XpertHR.nl 2018-20001378"]
+published_in: ["Rechtspraak.nl", "NJB 2018/890", "RvdW 2018/534", "TRA 2018/60 met annotatie van M.D. Ruizeveld", "RAR 2018/97", "Prg. 2018/161", "JIN 2018/124 met annotatie van S.I. Evers", "TvPP 2018, afl. 4, p. 130", "PJ 2018/160", "JAR 2018/129 met annotatie van mr. E.L.J. Bruyninckx", "AR-Updates.nl 2018-0504", "GZR-Updates.nl 2018-0209", "NJ 2019/69 met annotatie van B. Barentsen", "PR-Updates.nl PR-2018-0045", "VAAN-AR-Updates.nl 2018-0504", "Brightmine 2018-20001378", "PR-Updates.nl 2018-0045"]
 relations: [["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:RBMNE:2017:3249"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2018:158"]]
 ---
 
@@ -118,7 +118,7 @@ Op grond van art. 7:673 lid 1, aanhef en onder a, BW is de werkgever aan de werk
 
 3.3.2
 
-Met het oog op de beantwoording van de prejudiciële vragen kan voor de toepassing van art. 7:673 lid 7, aanhef en onder b, BW onderscheid gemaakt worden tussen (1) werknemers die bij het einde van de arbeidsovereenkomst de AOW-leeftijd of een hogere leeftijd hebben bereikt, en (2) werknemers voor wie ingevolge wet of overeenkomst een lagere ontslagleeftijd dan de AOW-leeftijd geldt. De arbeidsovereenkomst van [verzoeker] is geëindigd wegens het bereiken van de AOW-leeftijd (zie hiervoor in 3.1 onder (iii)). Het vervolg van de onderhavige uitspraak heeft daarom uitsluitend betrekking op de regel in art. 7:673 lid 7, aanhef en onder b, BW voor zover die het recht op een transitievergoeding uitsluit voor werknemers die bij het eindigen van de arbeidsovereenkomst de AOW-leeftijd (of een hogere leeftijd) hebben bereikt. Voor de hiervoor als tweede genoemde categorie werknemers is beantwoording van de prejudiciële vragen niet nodig om op het verzoek van  te beslissen (vgl. art. 392 lid 1 Rv).
+Met het oog op de beantwoording van de prejudiciële vragen kan voor de toepassing van art. 7:673 lid 7, aanhef en onder b, BW onderscheid gemaakt worden tussen (1) werknemers die bij het einde van de arbeidsovereenkomst de AOW-leeftijd of een hogere leeftijd hebben bereikt, en (2) werknemers voor wie ingevolge wet of overeenkomst een lagere ontslagleeftijd dan de AOW-leeftijd geldt. De arbeidsovereenkomst van [verzoeker] is geëindigd wegens het bereiken van de AOW-leeftijd (zie hiervoor in 3.1 onder (iii)). Het vervolg van de onderhavige uitspraak heeft daarom uitsluitend betrekking op de regel in art. 7:673 lid 7, aanhef en onder b, BW voor zover die het recht op een transitievergoeding uitsluit voor werknemers die bij het eindigen van de arbeidsovereenkomst de AOW-leeftijd (of een hogere leeftijd) hebben bereikt. Voor de hiervoor als tweede genoemde categorie werknemers is beantwoording van de prejudiciële vragen niet nodig om op het verzoek van [verzoeker] te beslissen (vgl. art. 392 lid 1 Rv).
 
 3.3.3
 
