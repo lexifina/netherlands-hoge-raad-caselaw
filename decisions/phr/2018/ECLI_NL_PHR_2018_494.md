@@ -8,7 +8,7 @@ published: "2018-05-23"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2018:494"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1080", "NLF 2018/1304 met annotatie van Marlies Kastelein", "Viditax (FutD), 25-05-2018", "FutD 2018-1404", "V-N 2018/38.7 met annotatie van Redactie", "NTFR 2018/1533 met annotatie van mr. M.E. Kastelein"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1080", "NLF 2018/1304 met annotatie van Marlies Kastelein", "V-N 2018/38.7 met annotatie van Redactie", "FutD 2018-1404", "Viditax (FutD) 2018052512"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2018:1200, Gevolgd"]]
 ---
 
