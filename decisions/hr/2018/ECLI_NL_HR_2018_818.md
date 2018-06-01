@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:818"
-published_in: ["Rechtspraak.nl", "NJB 2018/1148", "RvdW 2018/690", "JAR 2018/166 met annotatie van mr. drs. A.M. Helstone", "RAR 2018/123", "RF 2018/78", "JOR 2018/215 met annotatie van mr. E.L.H. van der Vos", "JONDR 2018/795", "AR-Updates.nl 2018-0621", "NJ 2020/406 met annotatie van H.B. Krans"]
+published_in: ["Rechtspraak.nl", "NJB 2018/1148", "RvdW 2018/690", "JAR 2018/166 met annotatie van mr. drs. A.M. Helstone", "RAR 2018/123", "RF 2018/78", "JOR 2018/215 met annotatie van mr. E.L.H. van der Vos", "JONDR 2018/795", "AR-Updates.nl 2018-0621", "NJ 2020/406 met annotatie van H.B. Krans", "VAAN-AR-Updates.nl 2018-0621"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2018:154, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2016:3626, Bekrachtiging/bevestiging"]]
 ---
 
