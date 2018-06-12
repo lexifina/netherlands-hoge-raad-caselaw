@@ -1,0 +1,171 @@
+---
+ecli: "ECLI:NL:PHR:2018:598"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "17/00892"
+decided: "2018-06-12"
+published: "2018-06-11"
+type: "conclusie"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2018:598"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2018:1546"]]
+---
+
+# ECLI:NL:PHR:2018:598 Parket bij de Hoge Raad , 12-06-2018 / 17/00892
+
+## Inhoudsindicatie
+
+Conclusie AG over bewijsvoering omvang wederrechtelijk verkregen voordeel volgens methode van kasopstelling. De AG geeft de Hoge Raad in overweging het arrest van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba te vernietigen.
+
+## Conclusie
+
+Nr. 17/00892 PA
+
+Zitting: 12 juni 2018
+
+Mr. E.J. Hofstee
+
+Conclusie inzake:
+
+[betrokkene]
+
+1. Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (verder: het Hof) heeft bij ontnemingsvonnis van 11 juli 2016 het wederrechtelijk door de betrokkene verkregen voordeel vastgesteld op Afl. 753.933,63 en aan de betrokkene de verplichting opgelegd tot betaling van dat bedrag aan het Land ter ontneming van wederrechtelijk verkregen voordeel, bij gebreke van (volledige) betaling of verhaal met toepassing van vervangende hechtenis voor de duur van achttien maanden hechtenis (welke duur niet wordt verminderd door het voldoen van slechts een gedeelte van het verschuldigde bedrag).
+
+2. Er bestaat samenhang met de zaak 17/00895 PA. Ook in die zaak zal ik vandaag concluderen.
+
+3. Namens de betrokkene heeft mr. R.J. Baumgardt, advocaat te Spijkenisse, een middel van cassatie voorgesteld.
+
+4. Het middel valt in twee klachten uiteen. Volgens de eerste klacht kan uit het ontnemingsvonnis bezwaarlijk anders volgen dat het Hof de beslissing met betrekking tot het wederrechtelijk verkregen voordeel niet slechts heeft gebaseerd op wettige bewijsmiddelen, maar ten onrechte ook heeft ontleend “aan hetgeen uit het onderzoek ter terechtzitting is gebleken”. De tweede klacht houdt in dat het Hof niet met voldoende mate van nauwkeurigheid de wettige bewijsmiddelen heeft aangeduid waaraan het zijn oordeel ontleent.
+
+5. De Bijlage, behorende bij de beslissing van het Hof omvat een groot aantal – niet genummerde – bewijsmiddelen. Daarnaast heeft het Hof in het ontnemingsvonnis onder meer het volgende overwogen:
+
+“Wederrechtelijk verkregen voordeel en op te leggen betalingsverplichting
+
+Op grond van het dossier en het verhandelde ter terechtzitting in hoger beroep bepaalt het Hof het aandeel van de veroordeelde bij het wederrechtelijk verkregen voordeel op een geldbedrag van Afl. 837.704,03. Vastgesteld wordt dat in deze zaak de redelijke termijn met meer dan zes jaren is overschreden. Het Hof ziet hierin aanleiding om het ontnemingsbedrag met 10% te verminderen, derhalve het ontnemingsbedrag vast te stellen op Afl. 753.933,63. Het Hof legt aan de veroordeelde de verplichting op tot betaling van laatstgenoemd bedrag aan het Land ter ontneming van dit wederrechtelijk verkregen voordeel, daarbij tevens bepalend dat bij gebreke van volledige betaling of verhaal vervangende hechtenis wordt toegepast.
+
+De raadsvrouw heeft een draagkrachtverweer gevoerd. Het Hof acht niet aannemelijk geworden dat de veroordeelde onvoldoende verhaal biedt, althans in de toekomst, mede gelet op zijn nog betrekkelijk jonge leeftijd, onvoldoende verhaal zal bieden voor de ontneming van het vastgestelde bedrag aan wederrechtelijk verkregen voordeel. Ook overigens ziet het Hof geen aanleiding het ontnemingsbedrag lager vast te stellen dan Afl. 753.933,63. Het Hof ontleent dit oordeel aan de inhoud van de wettige bewijsmiddelen, alsmede aan hetgeen uit het onderzoek ter terechtzitting is gebleken. De bewijsmiddelen zullen in geval van beroep in cassatie in een aan dit vonnis te hechten bijlage worden opgenomen.”
+
+6. Ik begin met bespreking van de tweede klacht. Daarbij zij vooropgesteld dat de berekening van de omvang van het wederrechtelijk verkregen voordeel in het vonnis of arrest helder moet zijn en geen zoekplaatje mag opleveren. Hoe de rechter tot het eindbedrag van de betalingsverplichting is gekomen, moet (betrekkelijk eenvoudig) kunnen worden nagegaan aan de hand van de bewijsvoering (de wettige bewijsmiddelen al dan niet in samenhang met een bewijsoverweging).
+
+7. Helaas levert de bewijsvoering van het Hof in de onderhavige zaak wel een zoekplaatje op en vertoont zij daarnaast een aantal gebreken. Als ik goed geteld heb, zijn er 35 bewijsmiddelen. Het belangrijkste bewijsmiddel ontbreekt echter, te weten het overzicht bevattende de berekening van het wederrechtelijk verkregen voordeel door het Korps Politie Aruba, Bureau Financiële Onderzoeken (hierna: BFO), zoals, naar een blik over de papieren muur leert, is neergelegd in het financiële rapport onder “26: Berekening Wederrechtelijk Verkregen Voordeel” (p. 81). In dit rapport (verder: het BFO-rapport) heeft het Arubaanse BFO een op de zogenoemde methode van kasopstelling gebaseerde berekening gemaakt en deze in dat overzicht (een tabel) puntsgewijs weergegeven. Het BFO heeft daarbij een beginsaldo vastgesteld en daarna achtereenvolgens alle legaal verkregen inkomsten in een bepaalde periode bij elkaar opgeteld en gekeken naar de feitelijke uitgaven die door beide betrokkenen zijn gedaan. De berekening die met de methode van kasopstelling gepaard gaat, levert dan uiteindelijk een onverklaarbaar (en onverklaard) negatief verschil op tussen de uitgaven en de legale ontvangsten, welk verschil indicatief is voor voordeel dat wederrechtelijk is verkregen in de zin van art. 1:77 van het Wetboek van Strafrecht van Aruba (vergelijkbaar met art. 36e Sr). Ter illustratie haal ik uit het op schrift gestelde requisitoir dat de advocaat-generaal ter terechtzitting van het Hof van 20 juni 2016 heeft gehouden, het volgende overzicht (de tabel) aan, dat afgezien van enkele door de advocaat-generaal aangebrachte wijzigingen overeenkomt met het overzicht uit het BFO-rapport (p. 81):
+
+“Ontnemingsbedrag
+
+Het ontnemingsbedrag dient op grond van de rapportage en al het voorgaande te worden vastgesteld als volgt. Opgemerkt wordt daarbij nog dat het in eerste aanleg bij de “Slotmemorie ontnemingsvorderingen” wegens m.b.t. de geldwisselingen en geldaankopen aangepaste koersberekeningen aangebrachte verschil van AWG 2001,35 (d.w.z. AWG 1.000,67 per persoon) moet zijn een verschil van AWG 1.933,75 (vide het proces-verbaal van 18 mei 2015, blz. 4). Dat is hierna gecorrigeerd.
+
+Contanten per 1 januari 2001 				           AWG   25.000,00
+
+Banksaldi per 1 januari 2001 				           AWG   14.927,69 +/+
+
+A. Beginsaldo contanten en banksaldi per 1 januari 2001 	           AWG   39.927,69
+
+Legaal inkomen [medebetrokkene] en [betrokkene] :
+
+Bijstandsuitkering [betrokkene] in Nederland 			            AWG   15.899,25
+
+Bijstandsuitkering [medebetrokkene] in Nederland 			            AWG   20.135,16
+
+Uitkering kinderbijslag [medebetrokkene] in Nederland 		            AWG      9.544,89
+
+Uitkering [medebetrokkene] in Aruba 					            AWG   40.230,00
+
+Arbeid Tempo Team [medebetrokkene] 				            AWG         553,60
+
+Verhuur appartementen [a-straat] 			            AWG      4.086,57 +/+
+
+B. Totaal legale inkomsten [medebetrokkene] en [betrokkene] 		            AWG 237.449,47
+
+Saldo contanten en banksaldi op 7 maart 2007:
+
+Contanten op 7 maart 2007				            AWG       4.134,50
+
+Saldo ABN AMRO [001]				            AWG  117.770,23
+
+Saldo Postbank [002]					            AWG     28.943,02
+
+Saldo MCB Curaçao [003]				            AWG     60.558,90
+
+Saldo MCB Curaçao [004]				            AWG     75.000,00
+
+Saldo MCB Curaçao [005]				            AWG     33.667,04
+
+Saldo MCB Aruba [006]				            AWG           196,23 +/+
+
+C. Totaal saldo contanten en giraal geld per 7 maart 2007 	            AWG    320.269,92
+
+D. Beschikbaar voor het doen van uitgaven 			            AWG      42.892,76
+
+Feitelijke uitgaven:
+
+Totaal aan uitgaven banken 				            AWG   803.010,99
+
+Geldaankoop Nederland 					            AWG   588.110,80
+
+Geldwisselingen Aruba 					            AWG   129.807,20
+
+Western Union transfers 					            AWG   141.586,32 +/+
+
+E. Totaal uitgaven 2001-2007 				            AWG 1.632.515,31
+
+F. Wederrechtelijk voordeel 				            AWG 1.675.408,07
+
+Wederrechtelijk verkregen voordeel per persoon 		            AWG     837.704,03
+
+Als op dit bedrag een correctie van 10% wegens het overschrijden van de redelijke termijn wordt toegepast, levert dat uiteindelijk op een bedrag van AWG 837.704,03 - AWG 83.770,40 = AWG 753.933,63.”
+
+8. Opgemerkt dient te worden dat dit eindsaldo niet correspondeert met de omvang van het in het BFO-rapport geschatte wederrechtelijk verkregen voordeel per persoon, te weten Awg. 1.677.145,59 : 2 = 838.572,80.
+
+9. Het Hof heeft kennelijk getracht in de bij zijn beslissing behorende bijlage de bedragen die aan de totaalsom ten grondslag liggen te specificeren. De inhoud van de desbetreffende bewijsmiddelen kan dat bedrag echter niet verklaren (terwijl de redengevendheid van een deel daarvan mij niet is gebleken). Ik reken voor. Het wederrechtelijk verkregen voordeel is door het Hof voor de betrokkene (en ook voor de medebetrokkene) vastgesteld op een totaalbedrag van Afl. 753.933,63, dit is Afl. 837.704,03 minus 10% daarvan wegens overschrijding van de redelijke termijn. In overeenstemming met de methode van kasopstelling is gekeken naar het “beginsaldo contant en giraal geld”. Het beginsaldo contant giraal geld (Awg. 39.927,69) + de legale ontvangsten (Awg. 237.449,47) is op 1 januari 2001 Awg. 277.377,16. Het is mij na enig puzzelen gelukt de herkomst van deze bedragen te achterhalen, zij het niet aan de hand van louter de bewijsmiddelen die in de onderhavige zaak zijn gebezigd, maar ook door (weer) een blik achter de papieren de muur te werpen en door voorts kennis te nemen van de bewijsmiddelen die in de samenhangende zaak van de medebetrokkene zijn gebruikt. Met betrekking tot het bedrag van Awg. 39.927,69 blijkt in het BFO-rapport – te weten op p. 22, maar ook deze pagina ontbreekt in de onderhavige bewijsconstructie – een stelpost cash geld van Awg. 25.000,- en een post banksaldi ad Awg. 14.927,69 (door mij, A-G, niet achterhaald kunnen worden in de bewijsvoering) te zijn opgenomen. Vervolgens zijn de legale inkomens van de betrokkene en de medebetrokkene onder de loep genomen. De totstandkoming van het daarop betrekking hebbend totaalbedrag van Afl. 237.449,47 is deels terug te vinden in de bewijsmiddelen die voor de betrokkene gelden, doch voor het andere deel in de bewijsmiddelen die in de bijlage bij het ontnemingsvonnis aangaande de medebetrokkene zijn vermeld. Omdat de totaalsom uiteindelijk door twee wordt gedeeld, hadden de bewijsmiddelen uiteraard over en weer in beide zaken moeten worden gebezigd om de berekening (althans tot hiertoe) begrijpelijk te maken. Het gaat om:                                                                                                       - een bijstandsuitkering van de betrokkene van Afl. 15.899,25 (b.m. 2; het bewijsmiddel ontbreekt bij de medebetrokkene);                                                                                               - een bijstandsuitkering van de medebetrokkene van Afl. 20.135,16 (het bewijsmiddel ontbreekt bij de betrokkene;  b.m. 2 medebetrokkene);                                                                             - kinderbijslag van de medebetrokkene van Afl. 9.544,89 (het bewijsmiddel ontbreekt bij de betrokkene; b.m. 4 medebetrokkene);                                                                                                            - een uitkering Aruba [medebetrokkene] van Afl. 40.230,00 (het bewijsmiddel ontbreekt bij de betrokkene; b.m. 5 medebetrokkene);                                                                                                                                         - Arbeid Tempo team [medebetrokkene] van Afl. 553,60 (het bewijsmiddel ontbreekt bij de betrokkene; b.m. 8 medebetrokkene);                                                                                                                                               - verhuur appartementen à Afl. 147.000,- (b.m. 9 betrokkene;  b.m. 12 medebetrokkene); en                                                                                                                  - loterijwinsten Afl. 4.086,57 (b.m. 7 betrokkene; b.m. 10 medebetrokkene).
+
+10. Vervolgens is gekeken naar wat er aan giraal en cash geld is aangetroffen op 7 maart 2007. Vanaf hier wordt het in zekere mate speculeren en nader invullen. Volgens het overzicht in het BFO-rapport zou het in dit verband om een totaal van Afl. 320.073,69 gaan, volgens de advocaat-generaal om Awg 320.269,92. Dit bedrag komt als zodanig niet terug in de bewijsmiddelen, en evenmin als totaalsom van een aantal in de bewijsmiddelen genoemde deelposten. In het negentiende bewijsmiddel wordt verwezen naar p. 59 van het ontnemingsrapport, maar enkel voor zover het gaat om het aldaar weergegeven relaas van de verbalisanten dat in de periode 2001/2007 in totaal Awg. 803.010,99 werd uitgegeven via bankrekeningen van de betrokkene en de medebetrokkene. In geen van de bewijsmiddelen wordt verwezen naar de mededeling op diezelfde pagina dat de aangetroffen contanten in totaal Afl. 4.134,50 bedroegen. Het gaat mij te ver om het bewijsmiddel in dit opzicht verbeterd te lezen. Dan is in zowel het overzicht van de advocaat-generaal als in het BFO-overzicht het bedrag van Awg. 117.770,23 geplaatst. Het veertiende bewijsmiddel rept echter van Afl. 117.624,36. Mogelijk is dit bedrag gecorrigeerd in verband met een koersverschil (vgl. p. 59 van het BFO-rapport), maar met zekerheid is dat niet te zeggen. In het overzicht van de advocaat-generaal alsook in het BFO-overzicht staat achter Postbank een bedrag van Afl. 28.943,02. Noch deze post, noch dit bedrag (al dan niet als optelsom) is terug te vinden in de ten laste van de betrokkene gebezigde bewijsmiddelen. De post Postbank is wel opgenomen in (kort gezegd) de in de ontnemingszaak van de medebetrokkene gebruikte bewijsmiddelen (gelet op het vermelde rekeningnummer), zij het in euro’s, te weten 12.110,05 (het veertiende bewijsmiddel medebetrokkene). Mogelijk, maar ook dit is gissen, zou dat na toepassing van een bepaalde wisselkoers leiden tot Afl. 28.943,02. De bedragen die aan de MCB Curaçao zijn gekoppeld – Afl. 60.558,90, Afl. 75.000,00 en Afl. 33.667,04 – zijn terug te vinden in het zeventiende bewijsmiddel.
+
+11. Verder zou er Afl. 1.634.449,06 zijn uitgegeven. De bedragen waaruit dit totaal is opgebouwd, komen wel in de bewijsmiddelen tot uitdrukking, en wel als volgt:                       - Banken: Afl. 803.010,99 (b.m. 19);                                                                                         - Geldaankoop Nederland: Afl. 560.044,55 (b.m. 30);                                                               - Geldwisseling Aruba: Afl. 129.807,20 (b.m. 28);                                                                                  - Western Union: Afl. 141.586,32 (b.m. 22).
+
+12. Hoe dient nu het middel te worden beoordeeld in het licht van de voorafgaande beschouwingen? Piketpaaltjes die reeds in de rechtspraak van de Hoge Raad zijn neergezet, wijzen de weg naar het antwoord. Zo dient vooreerst de uitspraak van de feitenrechter de bewijsmiddelen te vermelden waaraan de schatting van het wederrechtelijk verkregen voordeel is ontleend met weergave van de inhoud daarvan, voor zover bevattende de voor die schatting redengevende feiten en omstandigheden. Zo’n wettig bewijsmiddel kan zijn een financieel rapport met bijvoorbeeld een berekeningswijze die wordt aangeduid als kasopstelling. Een dergelijk rapport is doorgaans zo ingericht dat daarin onder verwijzing naar of samenvatting van aan de inhoud van andere wettige bewijsmiddelen ontleende gegevens gevolgtrekkingen worden gemaakt omtrent de verschillende posten die door de opsteller(s) van het rapport aan het totale wederrechtelijk verkregen voordeel ten grondslag worden gelegd. Volgens de Hoge Raad staat in beginsel geen rechtsregel eraan in de weg om de schatting van het wederrechtelijk verkregen voordeel uitsluitend op de inhoud van een financieel rapport als zojuist bedoeld te doen berusten. Indien en voor zover een in het financieel rapport gemaakte gevolgtrekking is ontleend aan de inhoud van een of meer wettige, voldoende nauwkeurig in dat rapport aangeduide bewijsmiddelen en die gevolgtrekking — blijkens vaststelling door de rechter — door of namens de betrokkene niet of onvoldoende gemotiveerd is betwist, kan de rechter bij de opgave van de bewijsmiddelen waaraan de schatting van het wederrechtelijk verkregen voordeel is ontleend, volstaan met de vermelding van (het onderdeel van) het financieel rapport als bewijsmiddel waaraan de schatting (in zoverre) is ontleend en het weergeven van die gevolgtrekking uit het rapport. Indien echter door of namens de betrokkene zo een gevolgtrekking wel voldoende gemotiveerd is betwist, dienen aan de motivering van de schatting van het wederrechtelijk verkregen voordeel nadere eisen te worden gesteld. In dat geval zal de rechter in zijn overwegingen met betrekking tot die schatting moeten motiveren op grond waarvan hij ondanks hetgeen door of namens de betrokkene tegen die gevolgtrekking en de onderliggende feiten en omstandigheden is aangevoerd, die gevolgtrekking aanvaardt. Indien de rechter de aan het financieel rapport of aan andere wettige bewijsmiddelen ontleende feiten en omstandigheden, die hij bij zijn oordeel daaromtrent betrekt en die redengevend zijn voor de schatting van het wederrechtelijk verkregen voordeel, in de overwegingen (samengevat) weergeeft onder nauwkeurige vermelding van de vindplaatsen daarvan, is aan de uit art. 359, derde lid, Sv voortvloeiende verplichting voldaan. Hetzelfde zal denk ik hebben te gelden voor art. 402, derde lid, (in verbinding met art. 503d, eerste lid) van het Wetboek van Strafvordering van Aruba. Indien de rechter de redengevende feiten en omstandigheden waarop de schatting is gebaseerd heeft opgenomen in een bewijsredenering waarbij hij heeft verwezen naar de wettige bewijsmiddelen waaraan die feiten en omstandigheden zijn ontleend, behoort die verwijzing zo nauwkeurig te zijn dat kan worden beoordeeld of de samenvatting geen ongeoorloofde conclusies inhoudt dan wel of de bewijsmiddelen niet zijn gedenatureerd.
+
+13. Gelet op het proces-verbaal terechtzitting van het Hof van 20 juni 2016 en de daaraan gehechte pleitnota van de raadsvrouw – het Hof heeft dit niet zelf expliciet vastgesteld – zijn de daarin aangeduide bewijsmiddelen en gevolgtrekkingen door de betrokkene en diens raadsvrouw niet betwist. Het Hof had dus hier bij de opgave van de bewijsmiddelen kunnen volstaan met de vermelding van (het onderdeel van) het financieel rapport als bewijsmiddel waaraan de schatting (in zoverre) is ontleend en het weergeven van die gevolgtrekking uit het rapport. Dat heeft het Hof niet gedaan. Het Hof heeft onder de bewijsmiddelen ten eerste niet als bewijsmiddel opgenomen het overzicht dat door de verbalisanten is opgesteld en in het BFO-rapport is neergelegd (p. 81). Ik meen dat de enkele overweging van het Hof in het ontnemingsvonnis, inhoudende dat het Hof op grond van “het dossier en het verhandelde ter terechtzitting in hoger beroep” het aandeel van de veroordeelde bepaalt op een bedrag van Afl. 837.704,03, niet als vangnet kan dienen. Want wat bedoelt het Hof precies met het dossier en het verhandelde ter terechtzitting? Ziet het daarbij op het overzicht van de verbalisanten (rapport, p. 81) en/of het overzicht van de advocaat-generaal? Als dat zo zou zijn, waarom heeft het Hof dit dan niet gewoon als bewijsmiddel opgenomen? Voor zover de eerste klacht daarop doelt, heeft de steller van het middel een punt. Daarbij komt dat het mij (ook) te ver gaat om te concluderen dat het middel niet tot cassatie zou kunnen leiden omdat de bedragen niet één en voor één en expliciet in de schriftuur zijn betwist, daarbij in aanmerking nemend dat mede wordt geklaagd dat de vindplaats van de bewijsmiddelen niet met voldoende mate zijn aangegeven en dat deze klacht in ieder geval juist is voor wat betreft (i) het beginsaldo in de kasopstelling, (ii) enkele bewijsmiddelen die (kort gezegd) niet in de zaak van de betrokkene (maar wel in de zaak van de medebetrokkene) zijn opgenomen en (iii) sommige bedragen die kennelijk per abuis niet zijn meegenomen in de wel gebezigde bewijsmiddelen. Over de overige hier niet genoemde bewijsmiddelen kan men de redengevendheid ervan betwisten, maar daarover wordt niet geklaagd.
+
+14. Al met al ben ik van mijn mening dat de bewijsconstructie teveel manco’s vertoont om in cassatie te kunnen worden gladgestreken, waarbij ik tevens heb acht geslagen op de volgende overweging van de Hoge Raad in het zogenoemde ‘tweede overzichtsarrest 80a’ van 7 juni 2016, ECLI:NL:HR:2016:1005, NJ 2016/430 m.nt. Van Kempen:
+
+“Voorts moet worden gewezen op enkele arresten met betrekking tot de klacht dat niet alle onderdelen van de bewezenverklaring kunnen worden afgeleid uit de bewijsvoering:
+
+"Opmerking verdient dat in gevallen als het onderhavige waarin niet alle onderdelen van de bewezenverklaring kunnen worden afgeleid uit de gebezigde bewijsmiddelen, het verhandelde ter terechtzitting – waaronder begrepen de inhoud van de aldaar voorgehouden stukken van het dossier alsmede hetgeen aldaar naar voren is gebracht – onder omstandigheden aanleiding kan zijn voor het oordeel dat een hernieuwde behandeling van de zaak niet tot een andere uitkomst ten aanzien van de bewezenverklaring zal leiden, zodat de verdachte in cassatie niet een voldoende in rechte te respecteren belang heeft bij zijn klacht over de toereikendheid van de bewijsvoering."
+
+Het betreft hier echter een onderwerp waarbij bijzondere voorzichtigheid is geboden. Uitgangspunt van de Nederlandse strafrechtspraak is immers dat het aan de rechter die over de feiten oordeelt, is voorbehouden om tot het bewijs te bezigen wat deze uit een oogpunt van betrouwbaarheid daartoe dienstig voorkomt en datgene terzijde te stellen wat deze voor het bewijs van geen waarde acht. Dit brengt mee dat in cassatie ervan moet worden uitgegaan dat de in de bestreden uitspraak neergelegde bewijsvoering steunt op een weloverwogen selectieproces. Dat betekent dat toepassing van art. 80a RO in verband met de ongegrondverklaring van de klacht dat het bewijs ontoereikendheid is, slechts mogelijk is indien over de toereikendheid en de betrouwbaarheid van het bewijs in redelijkheid geen twijfel kan bestaan. (…).”
+
+15. Het middel slaagt, lijkt mij.
+
+16. Gronden waarop de Hoge Raad gebruik zou moeten maken van zijn bevoegdheid de bestreden uitspraak ambtshalve te vernietigen, heb ik niet aangetroffen.
+
+17. Deze conclusie strekt tot vernietiging van de bestreden uitspraak en tot terugwijzing van de zaak naar het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba teneinde op het bestaande beroep opnieuw te worden berecht en afgedaan.
+
+De Procureur-Generaal
+
+bij de Hoge Raad der Nederlanden
+
+AG
+
+De betrokkene en de medebetrokkene zijn beiden reeds onherroepelijk veroordeeld in de hoofdzaak, die in cassatie bekend zijn onder onderscheidenlijk de nummers 08/04368A en 08/04367A. De cassatieberoepen in die hoofdzaken richtten zich destijds tegen de strafvonnissen van het Hof van 4 september 2008. Wat betreft de hoofdzaak van de betrokkene, vernietigde de Hoge Raad bij arrest van 12 januari 2008 de uitspraak van het Hof partieel en wees hij de zaak terug ten aanzien van (kort gezegd) feit 3 en de strafoplegging. Dit speelt in de voorliggende ontnemingszaak geen rol. Tegen het na de terugwijzing door de Hoge Raad gewezen strafvonnis van het Hof, is geen cassatie ingesteld.
+
+Hier is het inkomen uit loterijwinsten van € 4.086,57 ten onrechte gekoppeld aan de inkomsten uit verhuur appartementen. De verhuur-inkomsten (AWG 147.000,00, zo blijkt uit het BFO-rapport, p. 81) zijn echter wel meegerekend; dit kan worden afgeleid uit de totaalsom van AWG 237.449,47.
+
+Dit bedrag is gelet op het BFO-rapport onjuist weergegeven.
+
+Hier en hierna als zodanig door mij genummerd.
+
+4x loon van Afl. 8.940,-, 1x loon van Afl. 3.725,- en 1x loon van Afl. 745,-, dus in totaal Afl. 40.230.
+
+8 dagen gewerkt, uurloon 8,65. Niet opgenomen, en kennelijk per abuis weggevallen, is dat een werkdag 8 uur bedraagt. Dus 8 (dagen) x 8 (uur)  à 5,65 = 553,60.
+
+Volgens de advocaat-generaal om Awg 320.269,92 (zie het overzicht hierboven in 7 weergegeven) .
+
+Over het verschil tussen 117.770,02 en 117.624,36 wordt in de cassatieschriftuur niet in het bijzonder geklaagd. Verder is in hoger beroep het bedrag door de advocaat-generaal in het voordeel van de betrokkene met Afl. 196,23 bijgesteld.
+
+HR 9 april 2013, ECLI:NL:HR:2013:BT6251, NJ 2013/545 m.nt. Borgers en HR 18 maart 2014, ECLI:NL:HR:2014:652.
+
+HR 26 maart 2013, ECLI:NL:HR:BV9087, NJ 2013/544 m.nt. Borgers en HR 11 juni 2013, ECLI:NL:HR:2013:BU2056, NJ 2013/547 m.nt. Borgers. HR 28 januari 2014, ECLI:NL:HR:2014:184 herhaalt deze rechtspraak met de toevoeging: mede gelet op hetgeen daaromtrent door de verdediging is aangevoerd. Vgl. ook HR 3 januari 2017, ECLI:NL:HR:2017:8, NJ 2017/92 m.nt. Reijntjes. Zie voorts HR 10 november 2015, ECLI:NL:HR:2015:3255/3257.
+
+HR 15 mei 2007, ECLI:NL:HR:2007:BA0424, NJ 2007/387 m.nt. Buruma en HR 18 maart 2014, ECLI:NL:HR:2014:652.
+
+Het is mij eveneens een brug te ver om de Hoge Raad voor te stellen om, nu de zaken van de betrokkene en de medebetrokkene in cassatie met elkaar samenhangen en de Hoge Raad van beide zaken kennis zal nemen, het als een kennelijke misslag te beschouwen dat (kort gezegd) een bepaald bewijsmiddel in de ene zaak wel is opgenomen en in de andere zaak niet, zulks terwijl ze in beide zaken opgenomen hadden moeten worden.
