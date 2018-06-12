@@ -100,7 +100,7 @@ Volgens de advocaat-generaal om Awg 320.269,92 (zie het overzicht hierboven in 7
 
 Over het verschil tussen 117.770,02 en 117.624,36 wordt in de cassatieschriftuur niet in het bijzonder geklaagd. Verder is in hoger beroep het bedrag door de advocaat-generaal in het voordeel van de betrokkene met Afl. 196,23 bijgesteld.
 
-HR 9 april 2013, ECLI:NL:HR:2013:BT6251, NJ 2013/545 m.nt. Borgers en HR 18 maart 2014, ECLI:NL:HR:2014:652 (https://www.navigator.nl/document/idc8150f3332cd4d65885835c04928977c?anchor=id-65ebcdb8-30e3-472b-80f1-e576504f859f).
+HR 9 april 2013, ECLI:NL:HR:2013:BT6251, NJ 2013/545 m.nt. Borgers en HR 18 maart 2014, ECLI:NL:HR:2014:652.
 
 HR 26 maart 2013, ECLI:NL:HR:BV9087, NJ 2013/544 m.nt. Borgers en HR 11 juni 2013, ECLI:NL:HR:2013:BU2056, NJ 2013/547 m.nt. Borgers. HR 28 januari 2014, ECLI:NL:HR:2014:184 herhaalt deze rechtspraak met de toevoeging: mede gelet op hetgeen daaromtrent door de verdediging is aangevoerd. Vgl. ook HR 3 januari 2017, ECLI:NL:HR:2017:8, NJ 2017/92 m.nt. Reijntjes. Zie voorts HR 10 november 2015, ECLI:NL:HR:2015:3255/3257.
 
