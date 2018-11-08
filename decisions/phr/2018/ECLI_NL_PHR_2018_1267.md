@@ -8,7 +8,7 @@ published: "2018-11-08"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2018:1267"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 11-01-2019", "V-N Vandaag 2019/88", "NLF 2019/0240 met annotatie van Frank Werger", "V-N 2019/7.6 met annotatie van Redactie", "NTFR 2019/288 met annotatie van mr. M. Wolff", "FutD 2019-0084"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/88", "NLF 2019/0240 met annotatie van Frank Werger", "V-N 2019/7.6 met annotatie van Redactie", "NTFR 2019/288 met annotatie van mr. M. Wolff", "FutD 2019-0084", "Viditax (FutD) 2019011108"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2019:188"]]
 ---
 
