@@ -8,7 +8,7 @@ published: "2018-12-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2018:1346"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 07-12-2018", "FutD 2018-3223", "NLF 2019/0081 met annotatie van Heleen Elbert", "NTFR 2019/51 met annotatie van mr. J. Rolleman"]
+published_in: ["Rechtspraak.nl", "NLF 2019/0081 met annotatie van Heleen Elbert", "NTFR 2019/51 met annotatie van mr. J. Rolleman", "FutD 2018-3223", "Viditax (FutD) 2018120714"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2019:482"]]
 ---
 
@@ -1116,7 +1116,7 @@ Zie art. 76(2)(b) Wet mrb 1994, ingevoerd bij art. XXII(J) Wet van 3 juli 2008 t
 
 HR 17 februari 2006, nr. 41 660, ECLI:NL:HR:2006:AV1717, BNB 2006/169, met noot Snoijink:
 
-“3.3. Volgens artikel 69, lid 2, van de Wet wordt de na te heffen belasting berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag waarop het gebruik van de weg wordt geconstateerd. Op deze tijdsduur maakt de Wet geen uitzondering (vergelijk HR 14 december 2001, nr. 36 575, BNB 2002/69 (https://www.navigator.nl/document/inod0d54e5e50e364abc522190c18e5760d7?h1=(41)%2C(660)&idp=https%3A%252F%252Flogin.rechtsorde.nl%252Fsso)). Het Hof heeft dit miskend. Mede gelet op het bepaalde in artikel 69, lid 2, van de Wet moet worden geoordeeld dat het belastbare feit 'gebruik van de weg' moet worden opgevat als gebruik per kalenderdag. Nu in het onderhavige geval sprake was van twee constateringen op verschillende kalenderdagen van gebruik van de weg, stond het de Inspecteur vrij twee naheffingsaanslagen op te leggen, beide berekend over een tijdsduur van twaalf maanden.”
+“3.3. Volgens artikel 69, lid 2, van de Wet wordt de na te heffen belasting berekend over een tijdsduur van twaalf maanden, waarbij als laatste dag geldt de dag waarop het gebruik van de weg wordt geconstateerd. Op deze tijdsduur maakt de Wet geen uitzondering (vergelijk HR 14 december 2001, nr. 36 575, BNB 2002/69). Het Hof heeft dit miskend. Mede gelet op het bepaalde in artikel 69, lid 2, van de Wet moet worden geoordeeld dat het belastbare feit 'gebruik van de weg' moet worden opgevat als gebruik per kalenderdag. Nu in het onderhavige geval sprake was van twee constateringen op verschillende kalenderdagen van gebruik van de weg, stond het de Inspecteur vrij twee naheffingsaanslagen op te leggen, beide berekend over een tijdsduur van twaalf maanden.”
 
 HR 2 maart 2012, nr. 10/00348, na conclusie Van Hilten, ECLI:NL:HR:2012:BP3858, BNB 2012/123 met noot Snoijink.
 
