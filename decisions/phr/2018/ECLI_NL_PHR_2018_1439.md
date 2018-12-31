@@ -8,7 +8,7 @@ published: "2019-01-03"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2018:1439"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 03-01-2019", "FutD 2019-0001 met annotatie van Fiscaal up to Date", "V-N 2019/3.9 met annotatie van Redactie", "V-N Vandaag 2019/15", "NLF 2019/0127 met annotatie van Sonja Dusarduijn", "NTFR 2019/153 met annotatie van mr. M.A.A. Ramaekers"]
+published_in: ["Rechtspraak.nl", "V-N 2019/3.9 met annotatie van Redactie", "V-N Vandaag 2019/15", "NLF 2019/0127 met annotatie van Sonja Dusarduijn", "NTFR 2019/153 met annotatie van mr. M.A.A. Ramaekers", "FutD 2019-0001", "Viditax (FutD) 2019010301"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2019:816"]]
 ---
 
