@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:54"
-published_in: ["Rechtspraak.nl", "NJB 2019/209", "RvdW 2019/164", "JIN 2019/27 met annotatie van E.J.H. Zandbergen en S. Lubberhuizen", "JONDR 2019/131", "RBP 2019/42", "RI 2019/35", "TvI 2019/22 met annotatie van A.J. Berends", "Ondernemingsrecht 2019/90 met annotatie van L.M. van Bochove", "JOR 2019/165 met annotatie van prof. mr. P.M. Veder", "NJ 2019/364 met annotatie van Th.M. de Boer"]
+published_in: ["Rechtspraak.nl", "NJB 2019/209", "RvdW 2019/164", "JIN 2019/27 met annotatie van E.J.H. Zandbergen, S. Lubberhuizen", "JONDR 2019/131", "RBP 2019/42", "RI 2019/35", "TvI 2019/22 met annotatie van A.J. Berends", "Ondernemingsrecht 2019/90 met annotatie van L.M. van Bochove", "JOR 2019/165 met annotatie van prof. mr. P.M. Veder", "NJ 2019/364 met annotatie van Th.M. de Boer"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2018:1017, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2017:1695, Bekrachtiging/bevestiging"]]
 ---
 
