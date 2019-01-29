@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:123"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2019-0014 met annotatie van J.H.J. Verbaan", "NJB 2019/327", "RvdW 2019/212", "NBSTRAF 2019/66 met annotatie van Dekkers, J.C.", "TPWS 2019/30", "NJ 2019/217 met annotatie van W.H. Vellinga", "NbSr 2019/66 met annotatie van Dekkers, J.C."]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2019-0014 met annotatie van J.H.J. Verbaan", "NJB 2019/327", "RvdW 2019/212", "TPWS 2019/30", "NJ 2019/217 met annotatie van W.H. Vellinga", "NbSr 2019/66 met annotatie van Dekkers, J.C."]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2018:1072"]]
 ---
 
