@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:236"
-published_in: ["Rechtspraak.nl", "NJB 2019/421", "INS-Updates.nl 2019-0039", "RvdW 2019/261", "NJ 2019/91", "JIN 2019/42 met annotatie van J.R. Everhardus", "RAV 2019/34", "JONDR 2019/282", "JOR 2019/152 met annotatie van mr. P.D. Olden en mr. J.K.G. Meijer", "OR-Updates.nl 2019-0026"]
+published_in: ["Rechtspraak.nl", "NJB 2019/421", "INS-Updates.nl 2019-0039", "RvdW 2019/261", "NJ 2019/91", "JIN 2019/42 met annotatie van J.R. Everhardus", "RAV 2019/34", "JONDR 2019/282", "JOR 2019/152 met annotatie van mr. J.K.G. Meijer, mr. P.D. Olden", "OR-Updates.nl 2019-0026"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2017:3799, Meerdere afhandelingswijzen"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2018:1501, Gevolgd"]]
 ---
 
