@@ -1,0 +1,285 @@
+---
+ecli: "ECLI:NL:HR:2019:292"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "17/04066"
+decided: "2019-02-22"
+published: "2019-02-22"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:292"
+published_in: ["Rechtspraak.nl", "NJB 2019/479", "NJ 2019/100", "RvdW 2019/290"]
+---
+
+# ECLI:NL:HR:2019:292 Hoge Raad , 22-02-2019 / 17/04066
+
+## Inhoudsindicatie
+
+IPR, internationaal publiekrecht. Bevoegdheid Nederlandse rechter inzake vorderingen tot opheffing van in België gelegd conservatoir derdenbeslag en verbod om opnieuw conservatoir beslag te leggen; vorderingen gegrond op immuniteit van executie van internationale organisatie. Is sprake van burgerlijke en handelszaken (art. 1 lid 1 Verordening Brussel I-bis) en van exclusieve bevoegdheid van Belgische rechter (art. 24, aanhef en onder 5, Verordening Brussel I-bis)? Ambtshalve onderzoek van bevoegdheid door Hoge Raad (art. 27 Verordening Brussel I-bis). Prejudiciële vragen aan HvJEU.
+
+## Uitspraak
+
+22 februari 2019
+
+Eerste Kamer
+
+17/04066
+
+EV/MD
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+in de zaak van:
+
+1. SUPREME SITE SERVICES GMBH,gevestigd te Glarus, Zwitserland,
+
+2. SUPREME FUELS GMBH & CO KG,gevestigd te Frankfurt, Duitsland,
+
+3. SUPREME FUELS TRADING FZE,gevestigd te Ras al Khaimah, Verenigde Arabische Emiraten,
+
+EISERESSEN tot cassatie, verweersters in het voorwaardelijk incidenteel cassatieberoep,
+
+advocaat: mr. M.J. Schenck,
+
+t e g e n
+
+SUPREME HEADQUARTERS ALLIED POWERS EUROPE,gevestigd te Mons/Bergen, België,
+
+VERWEERSTER in cassatie, eiseres in het voorwaardelijk incidenteel cassatieberoep,
+
+advocaat: mr. G.R. den Dekker.
+
+Partijen zullen hierna ook worden aangeduid als Supreme en SHAPE.
+
+1
+Het geding in feitelijke instanties
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar zijn arrest van 21 december 2018 (ECLI:NL:HR:2018:2361).
+
+2
+Het verdere verloop van het geding in cassatie
+
+In het arrest van 21 december 2018 heeft de Hoge Raad partijen in de gelegenheid gesteld zich uit te laten omtrent de beoogde vragen van uitleg als in die uitspraak vermeld.
+
+De advocaten van partijen hebben zich elk schriftelijk over die vragen uitgelaten. De Hoge Raad ziet daarin aanleiding de passage onder 4.1.4 en vraag 1(b) aan te vullen.
+
+3
+Uitgangspunten in cassatie
+
+3.1
+
+In cassatie kan van het volgende worden uitgegaan.
+
+( i)	SHAPE is een internationale organisatie, opgericht bij het Protocol nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag (Protocol on the status of international military Headquarters set up pursuant to the North Atlantic Treaty), Parijs, 28 augustus 1952 (Trb. 1953, 11; hierna: Paris Protocol). In Brunssum (Nederland) is een regionaal hoofdkwartier gevestigd, ondergeschikt aan SHAPE, te weten het Allied Joint Force Command Brunssum (hierna: JFCB).
+
+(ii)	Supreme heeft op grond van zogenoemde Basic Ordering Agreements (hierna: BOAs) onder meer brandstoffen geleverd aan SHAPE ten behoeve van de ISAF-missie van de NAVO in Afghanistan. Supreme bracht daarvoor aan SHAPE een prijs per liter in rekening, bestaande uit de kosten van de brandstof en een opslag voor andere kosten.
+
+(iii)	In november 2013 hebben JFCB en Supreme een zogenoemde Escrow Agreement ondertekend. In de Escrow Agreement (waarin Supreme ook als ‘contractor’ is aangeduid) is het volgende vermeld:
+
+“RECITALS:
+
+(…)
+
+B. Upon expiry of the Contracts, certain adjustments, close down or trailing costs (‘Costs’) may be payable to Supreme by NATO Authorised Customers (as defined under the Contracts) or amounts owing due to overpayments will be outstanding and recoverable by NATO and NATO authorized Customers.
+
+C. The parties acknowledge that payment for potential costs provided for in the contracts upon expiration of the BOAs will have limited invoicing mechanisms available.
+
+Furthermore, NATO and/or NATO Authorized Customers may not have the requisite funds to pay validated costs upon expiry of the contracts. In order to address these practical issues, the parties have agreed to establish an escrow account under the provision of the Escrow Agreement for cover of indemnification claims or other adjustments and enter into the escrow arrangement as set forth below.
+
+THE PARTIES AGREE as follows:
+
+1. Appointment
+
+1.1
+
+The above recitals are incorporated below as if set forth at length. The Allied Command Operations (ACO) Corporate Accounting and Control (CAC) Officer has been designated as the Escrow Agent for the purpose set forth herein and that as the Escrow Agent accepts such appointment under the terms and conditions listed.
+
+2. Establishment of Escrow Account
+
+2.2
+
+It is noted that ownership of the funds deposited, and that calculated under the Escrow Deposit (Para 3.2), remain that of NATO and NATO Authorized Customers, from the moment of payment by the NATO or NATO Authorized Customers. Any transfer of ownership of the funds deposited can only be executed for cover of approved indemnification claims or other adjustments.
+
+3. Payment into the Escrow Account
+
+3.2
+
+The amount to be deposited each month by Supreme in the Escrow Account is calculated as follows: The (“Escrow Charge”) established as $ 0,05 USD multiplied by the number of liters for which payment has been received from the NATO and NATO Authorized Customers for the relevant month (“Payment Received”) = “Escrow Deposit”. (…)
+
+3.3
+
+On a monthly basis the contractor will transfer the Escrow Deposit into the Escrow Account. (…)
+
+4. Responsibility of Contractor
+
+4.4
+
+The contractor will forward claims directly to the “Release of Funds” working group, and does not have any claim, right or title towards the escrow deposit.
+
+5. Responsibility of the Escrow Agent
+
+5.1
+
+ACO CAC must act as a neutral third party and must ensure that the account is not closed prior to both parties signing a formal agreement that all responsibilities in accordance with the Basic Order Agreement (BOA) as contained in Schedule 1 are concluded.
+
+5.5
+
+The escrow Agent will only release funds to the contractor in line with the provisions of Para. 6 below, and only after duly authorization by the “Release of Funds” working group.”
+
+(iv)	Bij e-mail van 6 mei 2014 heeft de General Counsel & Director of Security van Supreme aan JFCB onder meer meegedeeld:
+
+“I understand that there is a view within JFC(B) that the monies in the Escrow Account can only be released with the approval of Supreme.
+
+I have reviewed the agreement and I can see why this view might be taken. Whilst Clause 2.2 is clear (the monies in the Escrow Account are owned by NATO), under Clause 6 it might be interpreted that release of monies in the Escrow Account to Supreme can only happen if approved by Supreme and NATO.
+
+My view (which is issued on behalf of Supreme Group as their official view) is that:
+
+1. the monies in the Escrow Account are the property of NATO and do not require permission of Supreme to release them;
+
+2. the release clause (Clause 6) is only to deal with the mechanisms of how monies would be released to Supreme once agreed by NATO; and
+
+3. the monies in the Escrow Account remain the property of NATO until NATO decides to release any monies to Supreme - up until that point NATO can withdraw its money at any time it wishes.”
+
+( v)	In een brief van mei 2014 van de Deputy Finance Controller van JFCB aan Supreme is het volgende vermeld:
+
+“As a result the two parties have agreed that a transfer of amounts owed to NATO and NATO approved nations would be deposited by Supreme Fuels into the established escrow account. The escrow account will be used to offset any contingent liabilities at the end of the BOA and any residual will be returned to nations prorated based on the amounts contributed.”
+
+(vi)	In de periode van november 2013 tot november 2014 is op de Escrow Account (hierna: de escrow-rekening) in totaal een bedrag gestort van ongeveer USD 23 miljoen aan de zogenoemde close out-heffingen als bedoeld in art. 3 van de Escrow Agreement, inclusief rente.
+
+(vii)	Naar aanleiding van financiële audits door JFCB bij Supreme heeft Supreme over het jaar 2013 ongeveer USD 122 miljoen aan NAVO terugbetaald wegens te veel in rekening gebrachte bedragen, de zogenoemde overpayments. Het terugbetaalde bedrag is gestort op de escrow-rekening.
+
+(viii) De groep van ondernemingen waartoe Supreme behoort, wordt verdacht van omvangrijke fraude met betrekking tot de levering van brandstoffen en de berekening van kosten in het kader van de ISAF‑missie. In november 2014 hebben twee onderdelen van de Supreme Group een schikking getroffen met de Amerikaanse autoriteiten.
+
+3.2
+
+Supreme heeft SHAPE en JFCB eind 2015 gedagvaard voor de rechtbank Limburg. Deze procedure wordt hierna aangeduid als de bodemprocedure.
+
+In de bodemprocedure heeft Supreme gevorderd, samengevat, dat de rechtbank voor recht zal verklaren dat Supreme aanspraak heeft op betaling van diverse bedragen, en SHAPE en JFCB zal bevelen ervoor zorg te dragen dat die bedragen worden voldaan van het tegoed op de escrow-rekening, al dan niet na bijstorting. Aan haar vordering heeft Supreme ten grondslag gelegd dat zij op grond van de BOAs brandstoffen heeft geleverd aan SHAPE ten behoeve van de ISAF-missie van de NAVO in Afghanistan (zie hiervoor in 3.1 onder (ii)), en dat SHAPE en JFCB de op hen rustende betalingsverplichtingen niet zijn nagekomen.
+
+SHAPE en JFCB hebben in de bodemprocedure nog geen materieel verweer gevoerd, maar in een incident gevorderd dat de rechtbank zich onbevoegd verklaart om van de vorderingen van Supreme kennis te nemen. Daartoe hebben SHAPE en JFCB zich beroepen op immuniteit van jurisdictie.
+
+In het incident in de bodemprocedure heeft de rechtbank bij tussenvonnis van 8 februari 2017 (ECLI:NL:RBLIM:2017:1002) beslist dat zij bevoegd is om van de vordering van Supreme kennis te nemen.
+
+SHAPE is van dit tussenvonnis in hoger beroep gegaan.
+
+3.3
+
+Bij beschikking van 14 april 2016 heeft de voorzieningenrechter in de rechtbank Limburg aan Supreme verlof verleend tot het leggen van conservatoir derdenbeslag onder BNP Paribas te Brussel (België) op het tegoed op de escrow-rekening, waarbij het bedrag waarvoor het verlof is verleend, met inbegrip van rente en kosten, is vastgesteld op USD 217.857.167,--. Deze beslissing wordt hierna aangeduid als het beslagverlof. Het conservatoir derdenbeslag is op 18 april 2016 gelegd.
+
+Het verzoek van Supreme om conservatoir derdenbeslag te mogen leggen, volgde op de mededeling van BNP Paribas aan Supreme dat SHAPE het voornemen had om een bedrag van USD 74.084,83 van het tegoed van de escrow-rekening op te nemen ter betaling van advocaatkosten.
+
+3.4.1
+
+De onderhavige procedure is een kort geding waarin SHAPE vordert, samengevat en voor zover in cassatie van belang, (i) opheffing van het hiervoor in 3.3 genoemde conservatoir derdenbeslag, en (ii) een verbod aan Supreme om opnieuw conservatoir beslag te leggen op het tegoed op de escrow-rekening voor zover gegrond op dezelfde feiten als in dit kort geding aan de orde zijn. Ter onderbouwing van deze vorderingen heeft SHAPE zich onder meer op immuniteit van executie beroepen. De onderhavige procedure wordt hierna aangeduid als het opheffingsgeding.
+
+3.4.2
+
+De voorzieningenrechter heeft de hiervoor in 3.4.1 bedoelde vorderingen van SHAPE toegewezen.
+
+3.4.3
+
+Het hof heeft het vonnis van de voorzieningenrechter bekrachtigd, en heeft daartoe, samengevat en voor zover in cassatie van belang, het volgende overwogen.
+
+De Nederlandse rechter heeft rechtsmacht op grond van art. 35 van Verordening (EU) nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (herschikking) (PbEU 2012, L 351/1; hierna: Verordening Brussel I-bis). Ook in art. 705 Rv ligt besloten dat als de Nederlandse rechter verlof heeft verleend tot het leggen van beslag, de Nederlandse rechter bevoegd is dat beslag op te heffen. (rov. 3.7)
+
+Het Paris Protocol kent, behalve de in art. XI lid 2 daarvan genoemde uitzonderingen, die zich hier niet voordoen, geen uitzonderingen op immuniteit van executie. Uitzonderingen kunnen echter wel worden gebaseerd op internationaal gewoonterecht. (rov. 3.11)
+
+Supreme heeft in dit opheffingsgeding niet voorshands aannemelijk gemaakt dat de gelden op de escrow-rekening geen publieke bestemming (meer) hebben. (rov. 3.12.4)
+
+Evenmin heeft Supreme voorshands aannemelijk gemaakt dat SHAPE afstand van immuniteit heeft gedaan. (rov. 3.13.2)
+
+Ten slotte heeft Supreme niet voorshands aannemelijk gemaakt dat het geld op de escrow-rekening apart is gezet voor Supreme. (rov. 3.14.2)
+
+Het beroep van SHAPE op immuniteit van executie is niet in strijd met art. 6 EVRM. (rov. 3.15-3.15.1)
+
+Het belang van SHAPE bij handhaving van immuniteit van executie prevaleert boven het belang van Supreme bij verhaal van haar vordering op SHAPE. (rov. 3.16.1)
+
+4
+De bevoegdheid van de Nederlandse rechter
+
+Ambtshalve onderzoek van de bevoegdheid van de Nederlandse rechter
+
+4.1.1	In cassatie wordt niet opgekomen tegen het oordeel van het hof (in rov. 3.7) dat de Nederlandse rechter op grond van art. 35 Verordening Brussel I-bis, dan wel art. 705 Rv bevoegd is om kennis te nemen van de hiervoor in 3.4.1 genoemde vorderingen van SHAPE. Op grond van art. 27 Verordening Brussel I-bis is de Hoge Raad echter gehouden om ambtshalve te onderzoeken of een gerecht van een andere lidstaat krachtens art. 24 Verordening Brussel I-bis bij uitsluiting bevoegd is voor een van de vorderingen die SHAPE in dit opheffingsgeding bij de Nederlandse rechter heeft ingesteld. Bij bevestigende beantwoording van die vraag dient de Hoge Raad vervolgens ambtshalve te beslissen dat de Nederlandse rechter ten aanzien van die vordering of vorderingen onbevoegd is. Bij de toepassing van art. 27 Verordening Brussel I-bis is de Hoge Raad niet gebonden aan de in art. 419 lid 1 Rv bedoelde middelen waarop het cassatieberoep rust (zie HvJEU 15 november 1983, zaak 288/82, ECLI:EU:C:1983:326 (Duijnstee q.q./Goderbauer), punt 15).
+
+4.1.2	In dit geval dient – onverminderd hetgeen hierna in 4.1.3 wordt overwogen – te worden onderzocht of art. 24, aanhef en onder 5, Verordening Brussel I-bis aldus moet worden uitgelegd dat het mede betrekking heeft op de vordering van SHAPE tot opheffing van het conservatoir derdenbeslag, in die zin dat die vordering ziet op ‘de tenuitvoerlegging van beslissingen’, waarvoor de gerechten van de lidstaat van de plaats van tenuitvoerlegging bij uitsluiting bevoegd zijn. Bij bevestigende beantwoording van die vraag zijn de Belgische gerechten bij uitsluiting bevoegd om kennis te nemen van SHAPE’s vordering tot opheffing, omdat Supreme het conservatoir derdenbeslag onder BNP Paribas in Brussel heeft gelegd. Over de uitleg van art. 24, aanhef en onder 5, Verordening Brussel I-bis kan redelijkerwijs twijfel bestaan, zodat de Hoge Raad hierover prejudiciële vragen aan het HvJEU zal stellen (zie hierna in 4.3.1-4.3.6).
+
+4.1.3	Aan de hiervoor in 4.1.2 bedoelde vraag gaat echter de vraag vooraf of de door SHAPE ingestelde vorderingen, waaronder de hiervoor in 4.1.2 bedoelde vordering tot opheffing van het conservatoir derdenbeslag, vallen binnen de materiële reikwijdte van de Verordening Brussel I-bis. Doordat SHAPE aan haar vorderingen ten grondslag heeft gelegd dat haar immuniteit van executie toekomt, rijst de vraag of, en zo ja in hoeverre, in dit geding sprake is van een burgerlijke of handelszaak als bedoeld in art. 1 lid 1 Verordening Brussel I-bis. Ook over de uitleg van deze bepaling kan redelijkerwijs twijfel bestaan, zodat de Hoge Raad eveneens hierover prejudiciële vragen aan het HvJEU zal stellen (zie hierna in 4.2.1-4.2.5).
+
+4.1.4	Opmerking verdient dat SHAPE in haar reactie op de conclusie van de Advocaat-Generaal de Hoge Raad ervan in kennis heeft gesteld dat het door Supreme in België gelegde conservatoir derdenbeslag inmiddels is opgeheven, nadat de Belgische rechter – met toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de territoriale rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten, Brussel, 28 maart 1925 (Stb. 1929, 405) - verlof tot tenuitvoerlegging had verleend van het hiervoor in 3.4.2 genoemde vonnis van de voorzieningenrechter, respectievelijk het hiervoor in 3.4.3 genoemde arrest van het hof. Deze opheffing brengt echter niet mee dat Supreme geen belang meer heeft bij haar cassatieberoep. De voorzieningenrechter heeft immers niet alleen het conservatoir derdenbeslag opgeheven, maar ook Supreme verboden om opnieuw conservatoir beslag op de escrow-rekening te leggen, en het hof heeft het vonnis van de voorzieningenrechter op beide punten bekrachtigd, met veroordeling van Supreme in de kosten van het hoger beroep. Supreme heeft in elk geval belang bij haar cassatieberoep voor zover dit betrekking heeft op het verbod om opnieuw beslag te leggen en op haar veroordeling in de kosten van het hoger beroep (zie voor dit laatste HR 28 september 2018, ECLI:NL:HR:2018:1782).
+
+Is sprake van een burgerlijke of handelszaak?
+
+4.2.1	De Verordening Brussel I-bis is op grond van art. 1 lid 1 van toepassing op ‘burgerlijke en handelszaken’. Uit de rechtspraak van het HvJEU kan over de uitleg van dit begrip het volgende worden afgeleid.
+
+Het begrip burgerlijke en handelszaken is een autonoom Unierechtelijk begrip, dat moet worden uitgelegd aan de hand van het doel en het systeem van de Verordening Brussel I-bis en aan de hand van de algemene beginselen die voortvloeien uit de nationale rechtsordes van de lidstaten. Om te bepalen of een zaak een burgerlijke of handelszaak is, moet de aard van de rechtsbetrekkingen tussen partijen bij het geschil of het voorwerp van het geschil worden onderzocht. Ook geschillen tussen een overheidsinstantie en een privaatrechtelijke persoon kunnen onder het begrip burgerlijke en handelszaken vallen, maar dit is niet het geval wanneer de overheidsinstantie handelt in de uitoefening van openbaar gezag. Om te bepalen of dit laatste het geval is, moeten de grondslag van de ingestelde vordering en de regels voor het geldend maken van die vordering worden onderzocht. Zie voor het vorenstaande onder meer HvJEU 12 september 2013, zaak C-49/12, ECLI:EU:C:2013:545 (Sunico), punten 33-35, HvJEU 23 oktober 2014, zaak C‑302/13, ECLI:EU:C:2014:2319 (flyLal), punten 26 en 30, en HvJEU 9 maart 2017, zaak C-551/15, ECLI:EU:C:2017:193 (Pula Parking), punten 33-34.
+
+4.2.2	In dit opheffingsgeding heeft SHAPE aan haar vordering tot opheffing van het conservatoir derdenbeslag en aan haar vordering om Supreme te verbieden opnieuw conservatoir beslag op de escrow-rekening te leggen, immuniteit van executie ten grondslag gelegd. Hierdoor rijst de vraag in hoeverre in dit opheffingsgeding sprake is van een burgerlijke of handelszaak. Meer in het bijzonder is de vraag aan de orde of aan het beroep op immuniteit van executie als grondslag van de vorderingen van SHAPE betekenis toekomt, en zo ja welke, in het kader van de vaststelling in hoeverre de vorderingen van SHAPE vallen binnen de materiële reikwijdte van de Verordening Brussel I-bis. Denkbaar is dat de omstandigheid dat SHAPE in dit opheffingsgeding haar vorderingen heeft gegrond op immuniteit van executie, meebrengt dat zij geacht wordt te handelen in de uitoefening van openbaar gezag in de hiervoor in 4.2.1 bedoelde zin.
+
+Op het vorenstaande ziet prejudiciële vraag 1(a) (zie hierna in 6).
+
+4.2.3	Indien voor de beantwoording van de vraag of sprake is van een burgerlijke of handelszaak, betekenis toekomt aan de omstandigheid dat SHAPE aan haar vorderingen immuniteit van executie ten grondslag heeft gelegd, en niet reeds die enkele grondslag van haar vorderingen meebrengt dat zij geacht wordt te handelen in de uitoefening van openbaar gezag, rijst de vraag in hoeverre de aangezochte rechter is gehouden om te beoordelen of het beroep op immuniteit van executie doel treft.
+
+Ook rijst dan de vraag of in dit verband de regel geldt dat de rechter alle hem ter beschikking staande gegevens in aanmerking moet nemen, daaronder begrepen de betwisting van dat beroep door Supreme (zie HvJEU 16 juni 2016, zaak C-12/15, ECLI:EU:C:2016:449 (Universal Music/Schilling), punt 46), dan wel een andere regel.
+
+Op het vorenstaande ziet prejudiciële vraag 3 (zie hierna in 6).
+
+4.2.4	Voorts rijst de vraag of bij de beantwoording van de hiervoor in 4.2.2 bedoelde vraag betekenis toekomt, en zo ja welke, aan de omstandigheid dat het beslagverlof is verleend voor een vordering die Supreme pretendeert te hebben op SHAPE ter zake van de betaling van brandstoffen die zijn geleverd ten behoeve van de ISAF-missie van de NAVO in Afghanistan, over welke vordering de bodemprocedure aanhangig is (zie hiervoor in 3.2-3.3).
+
+Op het vorenstaande ziet prejudiciële vraag 1(b) (zie hierna in 6).
+
+4.2.5	Omdat over de juiste uitleg van art. 1 lid 1 Verordening Brussel I-bis redelijkerwijs twijfel kan bestaan, zal de Hoge Raad de hiervoor bedoelde prejudiciële vragen aan het HvJEU stellen.
+
+De exclusieve bevoegdheidsbepaling van art. 24, aanhef en onder 5, Verordening Brussel I-bis
+
+4.3.1	In dit opheffingsgeding vordert SHAPE onder meer opheffing van het conservatoir derdenbeslag dat Supreme in België heeft gelegd op grond van het door de Nederlandse rechter verleende beslagverlof. Indien moet worden aangenomen dat deze vordering van SHAPE valt binnen de materiële reikwijdte van de Verordening Brussel I-bis (zie hiervoor in 4.2.1-4.2.5), dient de Hoge Raad ambtshalve te onderzoeken of de Nederlandse rechter bevoegd is om van deze vordering kennis te nemen (zie hiervoor in 4.1.1).
+
+4.3.2	Art. 24, aanhef en onder 5, Verordening Brussel I-bis bepaalt dat ‘voor de tenuitvoerlegging van beslissingen’ uitsluitend bevoegd zijn de gerechten van de lidstaat van de plaats van tenuitvoerlegging.
+
+4.3.3	De vraag rijst of de opheffing van een met toestemming van de rechter gelegd conservatoir beslag, daaronder begrepen een conservatoir derdenbeslag, kan worden gezien als de tenuitvoerlegging van een beslissing als bedoeld in art. 24 onder 5 Verordening Brussel I-bis, en of een vordering tot opheffing van een dergelijk beslag aldus valt onder het bereik van deze exclusieve bevoegdheidsbepaling.
+
+Een ontkennende beantwoording van deze vraag sluit aan bij de strikte uitleg die volgens vaste rechtspraak van het HvJEU moet worden gegeven aan de exclusieve bevoegdheidsbepalingen van (thans) art. 24 Verordening Brussel I-bis (zie bijvoorbeeld HvJEU 26 maart 1992, zaak C-261/90, ECLI:EU:C:1992:149 (Reichert II), punt 25).
+
+Denkbaar is echter ook dat een vordering tot opheffing van een conservatoir beslag wel onder het bereik van art. 24, aanhef en onder 5, Verordening Brussel I-bis valt. Dit sluit aan bij de rechtspraak van het HvJEU dat procedures die een nauwe band hebben met de tenuitvoerleggingsprocedure, worden bestreken door art. 24, aanhef en onder 5, Verordening Brussel I-bis (zie HvJEU 4 juli 1985, zaak 220/84, ECLI:EU:C:1985:302 (AS-Autoteile/Malhé), punt 12).
+
+Op het vorenstaande ziet prejudiciële vraag 2(a) (zie hierna in 6).
+
+4.3.4	In verband met het vorenstaande kan in deze zaak van belang zijn dat SHAPE aan haar vordering tot opheffing van het conservatoir derdenbeslag immuniteit van executie ten grondslag heeft gelegd. Tot uitgangspunt kan immers dienen dat de gerechten van de lidstaat waar ten laste van een internationale organisatie conservatoir beslag is gelegd, het beste in staat zijn te beoordelen of dat beslag onverenigbaar is met de immuniteit van executie die de internationale organisatie geniet op grond van een verdrag dat verbindend is voor die lidstaat, dan wel op grond van het (ook voor die lidstaat geldende) ongeschreven volkenrecht.
+
+Op het vorenstaande ziet prejudiciële vraag 2(b)(zie hierna in 6).
+
+4.3.5	Indien in dit verband betekenis toekomt aan de omstandigheid dat SHAPE aan haar vordering tot opheffing van het conservatoir derdenbeslag immuniteit van executie ten grondslag heeft gelegd, rijst wederom de vraag in hoeverre de aangezochte rechter is gehouden om te beoordelen of het beroep op immuniteit van executie doel treft, en of daarbij de hiervoor in 4.2.3, tweede alinea, genoemde regel geldt.
+
+Op het vorenstaande ziet prejudiciële vraag 3 (zie hierna in 6).
+
+4.3.6	Omdat over de juiste uitleg van art. 24, aanhef en onder 5, Verordening Brussel I-bis redelijkerwijs twijfel kan bestaan, zal de Hoge Raad de hiervoor bedoelde prejudiciële vragen aan het HvJEU stellen.
+
+5.	Omschrijving van de feiten waarop de door het HvJEU te geven uitleg moet worden toegepast
+
+De Hoge Raad verwijst naar de hiervoor in 3.1 vermelde feiten, waarvan moet worden uitgegaan.
+
+6
+Vragen van uitleg
+
+1(a).	Moet Verordening (EU) nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (herschikking) (PbEU 2012, L 351/1; hierna: Verordening Brussel I-bis) aldus worden uitgelegd dat een zaak als de onderhavige, waarin een internationale organisatie vordert (i) opheffing van een door de wederpartij in een andere lidstaat gelegd conservatoir derdenbeslag, en (ii) een verbod aan de wederpartij om opnieuw, op dezelfde feitelijke gronden, conservatoir beslag te leggen, en aan die vorderingen immuniteit van executie ten grondslag is gelegd, geheel of gedeeltelijk moet worden aangemerkt als een burgerlijke of handelszaak als bedoeld in art. 1 lid 1 Verordening Brussel I-bis?
+
+1(b).	Komt bij de beantwoording van vraag 1(a) betekenis toe, en zo ja welke, aan de omstandigheid dat de rechter van een lidstaat het beslagverlof heeft verleend voor een vordering die de wederpartij pretendeert te hebben op de internationale organisatie, over welke vordering in die lidstaat een bodemprocedure aanhangig is die betrekking heeft op een contractueel geschil over de betaling van brandstoffen die zijn geleverd ten behoeve van een vredesoperatie die wordt uitgevoerd door een met de internationale organisatie verbonden internationale organisatie?
+
+2(a).	Indien het antwoord op vraag 1(a) bevestigend luidt, moet art. 24, aanhef en onder 5, Verordening Brussel I-bis aldus worden uitgelegd dat, in een geval waarin de rechter van een lidstaat verlof heeft verleend tot het leggen van conservatoir derdenbeslag en dit beslag vervolgens in een andere lidstaat is gelegd, de gerechten van de lidstaat waar het conservatoir derdenbeslag is gelegd, bij uitsluiting bevoegd zijn om kennis te nemen van een vordering tot opheffing van dat beslag?
+
+2(b).	Komt bij de beantwoording van vraag 2(a) betekenis toe, en zo ja welke, aan de omstandigheid dat de internationale organisatie aan haar vordering tot opheffing van het conservatoir derdenbeslag immuniteit van executie ten grondslag heeft gelegd?
+
+3.	Indien bij de beantwoording van de vraag of sprake is van een burgerlijke of handelszaak als bedoeld in art. 1 lid 1 Verordening Brussel I-bis, respectievelijk de vraag of sprake is van een vordering die valt onder het bereik van art. 24, aanhef en onder 5, Verordening Brussel I-bis, betekenis toekomt aan de omstandigheid dat de internationale organisatie aan haar vorderingen immuniteit van executie ten grondslag heeft gelegd, in hoeverre is de aangezochte rechter gehouden om te beoordelen of het beroep op immuniteit van executie doel treft, en geldt daarbij de regel dat hij alle hem ter beschikking staande gegevens in aanmerking moet nemen, daaronder begrepen, in voorkomend geval, de betwistingen van de verweerder, dan wel een andere regel?
+
+7
+Beslissing
+
+De Hoge Raad:
+
+verzoekt het HvJEU met betrekking tot de hiervoor in 6 geformuleerde vragen uitspraak te doen;
+
+houdt iedere verdere beslissing aan en schorst het geding tot het HvJEU naar aanleiding van dit verzoek uitspraak zal hebben gedaan.
+
+Dit arrest is gewezen door de vicepresident E.J. Numann als voorzitter en de raadsheren A.H.T. Heisterkamp, M.V. Polak, C.H. Sieburgh en H.M. Wattendorff, en in het openbaar uitgesproken door de raadsheer M.V. Polak op 22 februari 2019.
