@@ -1,0 +1,58 @@
+---
+ecli: "ECLI:NL:HR:2019:430"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "17/01867"
+decided: "2019-03-26"
+published: "2019-03-25"
+type: "uitspraak"
+procedure: "Artikel 81 RO-zaken"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:430"
+published_in: ["Rechtspraak.nl", "RvdW 2019/434"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:306"]]
+---
+
+# ECLI:NL:HR:2019:430 Hoge Raad , 26-03-2019 / 17/01867
+
+## Inhoudsindicatie
+
+Zware mishandeling door n.a.v. verkeersruzie ander met kracht tegen hoofd en lichaam te slaan ten gevolge waarvan die ander o.m. gebitsschade heeft opgelopen, art. 302.1 Sr. Gebroken en scheve voortanden aan te merken als “zwaar lichamelijk letsel”? HR: art. 81.1 RO.
+
+## Uitspraak
+
+26 maart 2019
+
+Strafkamer
+
+nr. S 17/01867
+
+ES
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+op het beroep in cassatie tegen een arrest van het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem, van 28 maart 2017, nummer 21/000345-16, in de strafzaak tegen:
+
+[verdachte]
+, geboren te [geboorteplaats] op [geboortedatum] 1977.
+
+1
+Geding in cassatie
+
+Het beroep is ingesteld door de verdachte. Namens deze heeft M.G. Vos, advocaat te Utrecht, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De Advocaat-Generaal B.F. Keulen heeft geconcludeerd tot verwerping van het beroep.
+
+2
+Beoordeling van het middel
+
+Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+3
+Beslissing
+
+De Hoge Raad verwerpt het beroep.
+
+Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren Y. Buruma en A.L.J. van Strien, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van 26 maart 2019.
