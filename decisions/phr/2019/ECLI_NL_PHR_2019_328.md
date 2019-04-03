@@ -207,11 +207,11 @@ Interessant is nog wel om op dit punt een blik (vooruit) te werpen op de Wet for
 
 Het artikel luidt als volgt:
 
-“Aan artikel 37 (https://www.navigator.nl/document/openCitation/idf75ef70cc61eda4c53720d592bde1591) van het Wetboek van Strafrecht, kan bij afzonderlijke beslissing toepassing worden gegeven:
+“Aan artikel 37 van het Wetboek van Strafrecht, kan bij afzonderlijke beslissing toepassing worden gegeven:
 
 1° bij de rechterlijke uitspraak waarbij iemand wegens een strafbaar feit wordt veroordeeld;
 
-2° bij de rechterlijke uitspraak waarbij overeenkomstig artikel 9a (https://www.navigator.nl/document/openCitation/id82c0046cf25c4493859972b240197160) van het Wetboek van Strafrecht wordt bepaald dat geen straf wordt opgelegd;
+2° bij de rechterlijke uitspraak waarbij overeenkomstig artikel 9a van het Wetboek van Strafrecht wordt bepaald dat geen straf wordt opgelegd;
 
 3° bij de rechterlijke uitspraak waarbij de verdachte wordt vrijgesproken of ontslagen van alle rechtsvervolging;
 
