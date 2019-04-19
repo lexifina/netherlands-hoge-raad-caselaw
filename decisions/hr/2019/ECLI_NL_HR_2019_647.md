@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:647"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0428", "NJB 2019/925", "RvdW 2019/524", "JAR 2019/127 met annotatie van Heemskerk, M.", "PJ 2019/65", "TRA 2019/59 met annotatie van D.J. Buijs", "RAR 2019/99", "PR-Updates.nl PR-2019-0046", "NJ 2020/306 met annotatie van B. Barentsen"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0428", "NJB 2019/925", "RvdW 2019/524", "JAR 2019/127 met annotatie van Heemskerk, M.", "PJ 2019/65", "TRA 2019/59 met annotatie van D.J. Buijs", "RAR 2019/99", "PR-Updates.nl PR-2019-0046", "NJ 2020/306 met annotatie van B. Barentsen", "VAAN-AR-Updates.nl 2019-0428", "PR-Updates.nl 2019-0046"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:140, Gevolgd"]]
 ---
 
