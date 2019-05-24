@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:819"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 24-05-2019", "FutD 2019-1411", "V-N Vandaag 2019/1241", "V-N 2019/27.17.2", "NTFR 2019/1379"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1241", "V-N 2019/27.17.2", "NTFR 2019/1379", "FutD 2019-1411", "Viditax (FutD) 2019052425"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2018:4234"]]
 ---
 
