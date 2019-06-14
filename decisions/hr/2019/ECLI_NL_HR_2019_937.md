@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:937"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 14-06-2019", "FutD 2019-1593", "V-N Vandaag 2019/1411", "V-N 2019/31.24.5", "NTFR 2019/1647 met annotatie van HR samenvatter"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1411", "V-N 2019/31.24.5", "FutD 2019-1593", "Viditax (FutD) 2019061407"]
 ---
 
 # ECLI:NL:HR:2019:937 Hoge Raad , 14-06-2019 / 17/03484
