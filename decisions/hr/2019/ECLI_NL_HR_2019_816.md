@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:816"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 14-06-2019", "V-N Vandaag 2019/1378", "FutD 2019-1585 met annotatie van Fiscaal up to Date", "V-N 2019/30.5 met annotatie van Redactie", "NLF 2019/1464 met annotatie van Sonja Dusarduijn", "NJB 2019/1450", "NTFR 2019/1609 met annotatie van mr. J. Nieuwenhuizen", "PS-Updates.nl 2019-0853", "FED 2019/113 met annotatie van G.Th.K. Meussen", "NTFRB 2019/24 met annotatie van mr.dr. C. Bruijsten", "BNB 2019/161 met annotatie van E.J.W. Heithuis"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1378", "V-N 2019/30.5 met annotatie van Redactie", "NLF 2019/1464 met annotatie van mr. dr. S.M.H. Dusarduijn RB", "NJB 2019/1450", "PS-Updates.nl 2019-0853", "FED 2019/113 met annotatie van G.T.K. MEUSSEN", "BNB 2019/161 met annotatie van E.J.W. Heithuis", "NTFR 2019/1609 met annotatie van mr. J. Nieuwenhuizen", "FutD 2019-1585", "Viditax (FutD) 2019061401"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2017:8966"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2018:1439"]]
 ---
 
