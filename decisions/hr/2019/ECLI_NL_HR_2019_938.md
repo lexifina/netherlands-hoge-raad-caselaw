@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:938"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 14-06-2019", "FutD 2019-1592", "V-N Vandaag 2019/1413", "V-N 2019/31.24.6", "NTFR 2019/1646"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1413", "V-N 2019/31.24.6", "FutD 2019-1592", "Viditax (FutD) 2019061408"]
 ---
 
 # ECLI:NL:HR:2019:938 Hoge Raad , 14-06-2019 / 18/03554
