@@ -1,0 +1,311 @@
+---
+ecli: "ECLI:NL:HR:2019:925"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "18/00524"
+decided: "2019-06-14"
+published: "2019-06-13"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Civiel recht; Internationaal privaatrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:925"
+published_in: ["Rechtspraak.nl", "NJB 2019/1437", "PS-Updates.nl 2019-0864", "JOR 2019/190 met annotatie van Bens, T.A.G.", "JIN 2019/144 met annotatie van Haas, P.", "RAV 2019/73", "RvdW 2019/966", "NJ 2019/366", "TvPP 2019, afl. 5, p. 146", "NTHR 2019, af. 5, p. 244", "RF 2019/86", "JONDR 2019/1265"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:115, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2017:4588, Overig"]]
+---
+
+# ECLI:NL:HR:2019:925 Hoge Raad , 14-06-2019 / 18/00524
+
+## Inhoudsindicatie
+
+IPR. Internationale bevoegdheid. Art. 7, aanhef en punt 2, Verordening Brussel I-bis (nr. 1215/2012). Collectieve actie ten behoeve van aandeelhouders met Nederlandse beleggingsrekening op de grond dat BP hen onjuist, onvolledig of misleidend heeft geïnformeerd over de olieramp uit 2010 in de Golf van Mexico. Rechtbank en hof hebben zich onbevoegd verklaard. Biedt schade op beleggingsrekening voldoende aanknopingspunten om Nederland als 'Erfolgsort' te kwalificeren? Bijzondere of bijkomende omstandigheden voor bevoegdheid Nederlandse rechter. Betekenis van de omstandigheid dat sprake is van collectieve actie op de voet van art. 3:305a BW. Voornemen tot het stellen van prejudiciële vragen aan HvJEU.
+
+## Uitspraak
+
+14 juni 2019
+
+Eerste Kamer
+
+18/00524
+
+TT/AS
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+in de zaak van:
+
+VERENIGING VAN EFFECTENBEZITTERS,gevestigd te Den Haag,
+
+EISERES tot cassatie,
+
+advocaat: mr. J. van der Beek,
+
+t e g e n
+
+de vennootschap naar recht van het Verenigd Koninkrijk BP P.L.C.,gevestigd te Londen, Verenigd Koninkrijk,
+
+VERWEERSTER in cassatie,
+
+advocaat: mr. W.H. van Hemel.
+
+Partijen zullen hierna ook worden aangeduid als VEB en BP.
+
+1
+Het geding in feitelijke instanties
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar:
+
+a.	het vonnis in de zaak C/13/589073/HA ZA 15-573 van de rechtbank Amsterdam van 28 september 2016;
+
+b.	het arrest in de zaak 200.206.996/01 van het gerechtshof Amsterdam van 7 november 2017.
+
+Het arrest van het hof is aan dit arrest gehecht.
+
+2
+Het geding in cassatie
+
+Tegen het arrest van het hof heeft VEB beroep in cassatie ingesteld. De procesinleiding is aan dit arrest gehecht en maakt daarvan deel uit.
+
+BP heeft een verweerschrift tot verwerping ingediend.
+
+De zaak is voor partijen toegelicht door hun advocaten en voor BP mede door mrs. A.F.J.A. Leijten, J.S. Kortmann en O.J.W. Schotel.
+
+De conclusie van de Advocaat-Generaal P. Vlas strekt ertoe dat de Hoge Raad, alvorens te beslissen, het Hof van Justitie van de EU (hierna: HvJEU) zal verzoeken over de in de conclusie onder 2.26 bedoelde vragen van uitlegging van art. 7, aanhef en onder punt 2, Verordening Brussel I-bis uitspraak te doen en het geding zal schorsen totdat het HvJEU naar aanleiding van dat verzoek uitspraak zal hebben gedaan.
+
+De advocaten van partijen hebben ieder schriftelijk op die conclusie gereageerd.
+
+3
+Uitgangspunten in cassatie
+
+Feiten en vorderingen
+
+3.1
+
+In cassatie kan van het volgende worden uitgegaan.
+
+(i)	VEB stelt zich statutair ten doel de belangen te behartigen van effectenbezitters in de ruimste zin van het woord. Dat doel tracht zij ingevolge haar statuten onder meer te verwezenlijken door het instellen van collectieve acties: rechtsvorderingen als bedoeld in art. 3:305a Burgerlijk Wetboek (hierna: BW).
+
+(ii)	BP is een wereldwijd opererend olie- en gasbedrijf. Haar gewone aandelen zijn genoteerd aan de beurzen van Londen en Frankfurt. Aan de beurs van New York zijn van de gewone aandelen afgeleide American Depository Shares genoteerd.
+
+(iii)	Op 20 april 2010 heeft zich op het door BP geleaste olieboorplatform Deepwater Horizon, gelegen in de Golf van Mexico, een explosie voorgedaan met doden en gewonden tot gevolg. Tevens is schade aan het milieu ontstaan.
+
+(iv)	VEB heeft BP in 2015 gedagvaard voor de rechtbank Amsterdam en op de voet van art. 3:305a BW een collectieve actie ingesteld ten behoeve van alle personen die in de periode van 16 januari 2007 tot en met 25 juni 2010 gewone aandelen BP hebben gekocht, aangehouden of verkocht via een beleggingsrekening in Nederland of via een beleggingsrekening van een in Nederland gevestigde bank en/of beleggingsonderneming (hierna: de BP-aandeelhouders). Tot deze groep behoren niet de overige aandeelhouders of de houders van de American Depository Shares.
+
+3.2
+
+In deze procedure vordert VEB, samengevat, dat de rechtbank voor recht verklaart:
+
+( i) dat de Nederlandse rechter internationaal bevoegd is om van de schadevergoedingsvorderingen van de BP-aandeelhouders kennis te nemen;
+
+(ii) dat de rechtbank Amsterdam ten aanzien van die vorderingen relatief bevoegd is;
+
+(iii) dat op de schadevergoedingsvorderingen Nederlands recht van toepassing is;
+
+(iv) dat BP jegens de BP-aandeelhouders onjuiste, onvolledige en misleidende mededelingen heeft gedaan over (i) haar veiligheids- en onderhoudsprogramma’s vóór de olieramp op 20 april 2010, en/of (ii) de omvang van deze olieramp, en/of (iii) de rol en verantwoordelijkheid van BP bij deze olieramp;
+
+( v) dat BP met de hiervoor in (iv) genoemde handelwijze onrechtmatig heeft gehandeld jegens de BP-aandeelhouders;
+
+(vi) dat de koop of verkoop van BP-aandelen door de BP-aandeelhouders bij afwezigheid van onrechtmatig handelen van BP tegen een gunstiger marktprijs tot stand zou zijn gekomen, of in het geheel niet;
+
+(vii) dat het condicio sine qua non-verband aanwezig is tussen het onrechtmatig handelen van BP en de daardoor tot stand gekomen (ver)koop(voorwaarden), en de koersschade zoals door de BP-aandeelhouders geleden in de periode tussen 16 januari 2007 tot en met 25 juni 2010.
+
+3.3
+
+BP heeft de bevoegdheid van de Nederlandse rechter betwist en aangevoerd dat de Nederlandse rechter geen internationale bevoegdheid kan ontlenen aan Verordening (EU) nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (herschikking) (PbEU 2012, L 351/1; hierna: Verordening Brussel I-bis) en in het bijzonder niet aan art. 4 en art. 7 Verordening Brussel I-bis.
+
+De oordelen van de rechtbank en het hof
+
+3.4
+
+De rechtbank heeft zich onbevoegd verklaard kennis te nemen van de vorderingen van VEB. Het hof heeft in hoger beroep het vonnis van de rechtbank bekrachtigd. Daartoe heeft het hof, samengevat, het volgende overwogen.
+
+De internationale bevoegdheid van de Nederlandse rechter kan niet worden gegrond op art. 4 lid 1 Verordening Brussel I-bis (woonplaats verweerder), omdat BP haar statutaire zetel in Londen heeft en aldaar haar internationale hoofdkantoor is waar ook het bestuur bijeenkomt. (rov. 3.7) Tussen BP en degenen ten behoeve van wie VEB haar vorderingen instelt, bestaat geen contractuele verhouding. De vorderingen van VEB zien op verbintenissen uit onrechtmatige daad als bedoeld in art. 7, punt 2, Verordening Brussel I-bis, op grond waarvan bevoegd is het gerecht van de plaats waar het schadebrengende feit zich heeft voorgedaan of kan voordoen. Deze bevoegdheidsgrondslag heeft zowel betrekking op de plaats waar de schade is ingetreden (Erfolgsort) als op de plaats van de gebeurtenis die de oorzaak is van de schade (Handlungsort). (rov. 3.9-3.10) Het Handlungsort is niet in Nederland gelegen, omdat niet kan worden aangenomen dat het handelen of nalaten van BP heeft plaatsgevonden in Nederland. (rov. 3.14)
+
+Het hof heeft over de vraag of de Nederlandse rechter als rechter van het Erfolgsort bevoegd is, als volgt overwogen. VEB stelt dat het in dit geding gaat om zuiver financiële schade (vermogensschade) die door aandeelhouders van BP is geleden op de beleggings- of effectenrekening waar de aandelen administratief waren bijgeschreven (en niet op de betaal- of bankrekening die is gebruikt om de aankoopsom van de aandelen te voldoen). (rov. 3.15) VEB en BP zijn verdeeld over de verhouding tussen de uitspraak HvJEU 28 januari 2015, zaak C-375/13, ECLI:EU:C:2015:37 (Kolassa/Barclays Bank) (hierna: het Kolassa-arrest) en de uitspraak HvJEU 16 juni 2016, zaak C-12/15, ECLI:EU:C:2016:449 (Universal Music/Schilling) (hierna: het Universal Music-arrest) en de consequenties daarvan voor de onderhavige zaak. (rov. 3.16)
+
+Het hof sluit zich aan bij het oordeel van de rechtbank dat het HvJEU in het Universal Music-arrest het toepassingsgebied van de in het Kolassa-arrest ontwikkelde regel nader heeft geduid en omlijnd, nu in het Universal Music-arrest is benadrukt dat het Kolassa-arrest is gegeven binnen een bijzondere context en dat de enkele aanwezigheid van een bankrekening niet voldoende is voor de bevoegdheid van een gerecht, maar dat daarvoor bijkomende omstandigheden nodig zijn. (rov. 3.17)
+
+Uitgaande van het voorgaande, overweegt het hof dat het in dit geval gaat om zuiver financiële schade die door beleggers beweerdelijk in Nederland is geleden als gevolg van gebeurtenissen (handelen en/of nalaten van BP) die niet in Nederland hebben plaatsgevonden. Het intreden van schade op een in Nederland aangehouden beleggingsrekening is op zichzelf geen voldoende aanknopingspunt voor rechtsmacht van de Nederlandse rechter op grond van art. 7, punt 2, Verordening Brussel I-bis, maar daarvoor zijn nog andere bijzondere omstandigheden noodzakelijk. Dat BP zich richt op een wereldwijd beleggingspubliek, waaronder Nederlandse beleggers, en dat VEB de belangen behartigt van een groot aantal beleggers die voor het overgrote deel in Nederland woonachtig zijn, zijn geen bijzondere omstandigheden. De door VEB gestelde omstandigheid dat BP in het kader van procedures in de Verenigde Staten van Amerika met andere aandeelhouders een schikking heeft bereikt die niet is aangeboden aan de beleggers van wie VEB de belangen behartigt en het feit dat in Europa nog geen andere soortgelijke procedures worden gevoerd tegen BP, zijn evenmin bijzondere omstandigheden waaruit een band met Nederland kan worden afgeleid. Ook de overige omstandigheden die VEB heeft aangevoerd, zowel afzonderlijk als in onderlinge samenhang bezien, kunnen niet rechtvaardigen dat de Nederlandse rechter zich bevoegd acht. (rov. 3.18)
+
+Het argument dat een efficiënte en effectieve rechtsbescherming is gebaat bij een procedure die door een belangenorganisatie op de voet van art. 3:305a BW kan worden gevoerd, kan VEB niet helpen, nu bij de beantwoording van de bevoegdheidsvraag niet relevant is welke vorderingen – al dan niet bij wijze van collectieve actie – op basis van het nationale recht geldend kunnen worden gemaakt als de rechter eenmaal bevoegd is van het geschil kennis te nemen. (rov. 3.19)
+
+Het hof komt tot de conclusie dat er naast de financiële schade die zich in Nederland heeft voorgedaan, onvoldoende bijzondere omstandigheden voorhanden zijn om de Nederlandse rechter bevoegd te achten van de vorderingen van VEB kennis te nemen. (rov. 3.20)
+
+4
+Beoordeling van het middel
+
+De klachten tegen het oordeel van het hof
+
+4.1
+
+De klachten van het middel richten zich tegen rov. 3.17-3.20 van het bestreden arrest. In de kern genomen stelt het middel de vraag aan de orde of de Nederlandse rechter op grond van art. 7, punt 2, Verordening Brussel I-bis als rechter van de plaats waar de schade is ingetreden (Erfolgsort) bevoegd is kennis te nemen van de vorderingen van VEB.
+
+4.2.1
+
+Onderdeel 1 van het middel betoogt dat het rechtstreeks intreden van zuiver financiële schade op een Nederlandse beleggingsrekening (althans op een Nederlandse beleggingsrekening in Amsterdam of bij een in Amsterdam gevestigde bank of beleggingsonderneming) wel degelijk een voldoende aanknopingspunt is voor rechtsmacht van de Nederlandse rechter (althans de rechter in Amsterdam). Daarnaast zijn geen (andere) bijzondere of bijkomende omstandigheden nodig. Op grond van het voorgaande is het oordeel van het hof in rov. 3.18 dat het intreden van de schade op een in Nederland aangehouden beleggingsrekening in dit geval op zichzelf geen voldoende aanknopingspunt is voor rechtsmacht van de Nederlandse rechter volgens het onderdeel onjuist of onbegrijpelijk.
+
+4.2.2
+
+Voor zover onderdeel 1 niet slaagt, voert onderdeel 2 aan dat het hof heeft miskend dat de in de onderdelen 2.1-2.3 genoemde omstandigheden voldoende bijzondere of bijkomende omstandigheden opleveren en dat het andersluidende oordeel van het hof in rov. 3.18 onvoldoende is gemotiveerd. Het gaat om de volgende omstandigheden. BP richt zich op een wereldwijd beleggingspubliek, waaronder Nederlandse beleggers. VEB behartigt de belangen van een groot aantal beleggers die hun woonplaats voor het overgrote deel in Nederland hebben (onderdeel 2.1). De schikking die BP in de Verenigde Staten van Amerika heeft getroffen met andere aandeelhouders is niet aangeboden aan de beleggers van wie VEB de belangen behartigt en in Europa worden geen andere soortgelijke procedures gevoerd (onderdeel 2.2). Onder de aandeelhouders ten behoeve van wie VEB optreedt, bevinden zich ook consumenten en Verordening Brussel I-bis biedt een bijzondere rechtsbescherming aan consumenten (onderdeel 2.3).
+
+4.2.3
+
+Onderdeel 3 klaagt dat het hof in rov. 3.19 heeft miskend dat bij de beantwoording van de vraag of de Nederlandse rechter bevoegd is om van de vorderingen van VEB kennis te nemen, belang toekomt aan de omstandigheid dat de vorderingen van VEB op de voet van art. 3:305a BW in een collectieve actie zijn ingesteld. Het oordeel van het hof is daarom onjuist althans onvoldoende gemotiveerd, aldus het onderdeel.
+
+4.3
+
+In verband met de beoordeling van de klachten is het volgende van belang.
+
+Grondslag van de vordering
+
+4.4
+
+Het hof heeft geoordeeld dat de vorderingen van VEB zien op verbintenissen uit onrechtmatige daad als bedoeld in art. 7, punt 2, Verordening Brussel I-bis en dat de aansprakelijkheid die in deze procedure aan de orde is, niet berust op een verbintenis uit overeenkomst als bedoeld in art. 7, punt 1 onder a, Verordening Brussel I-bis. Dit oordeel is in cassatie niet bestreden.
+
+Rechtstreekse schade
+
+4.5
+
+Partijen hebben in feitelijke instanties gedebatteerd over de vraag of de schade als gevolg van het beweerde onrechtmatige handelen door BP rechtstreeks is ingetreden op de beleggingsrekeningen. Het hof heeft kennelijk veronderstellenderwijs tot uitgangspunt genomen dat de gestelde (zuiver financiële) schade zich rechtstreeks heeft voorgedaan op de in Nederland aangehouden beleggingsrekeningen. Ook in deze cassatieprocedure moet daarvan worden uitgegaan.
+
+Collectieve actie van art. 3:305a BW
+
+4.6.1
+
+VEB treedt op in dit geding op de voet van art. 3:305a BW. Dit artikel bepaalt, voor zover in deze procedure van belang, het volgende:
+
+“Artikel 305a
+
+1. Een stichting of vereniging met volledige rechtsbevoegdheid kan een rechtsvordering instellen die strekt tot bescherming van gelijksoortige belangen van andere personen, voorzover zij deze belangen ingevolge haar statuten behartigt.
+
+(…)
+
+3. Een rechtsvordering als bedoeld in lid 1 kan (…) niet strekken tot schadevergoeding te voldoen in geld.
+
+(…)”
+
+4.6.2
+
+Art. 3:305a BW is op 1 juli 1994 in werking getreden. De in deze bepaling bedoelde belangen moeten zich lenen voor bundeling. Zij behoeven naar inhoud of omvang niet precies gelijk te zijn. Een stichting of vereniging met volledige rechtsbevoegdheid kan geen vordering op de voet van art. 3:305a BW instellen die strekt tot schadevergoeding te voldoen in geld. Tot de vorderingen die zij wel kan instellen, behoren die tot nakoming of ontbinding van een overeenkomst, vernietiging van een rechtshandeling, schadevergoeding anders dan in geld of een verklaring voor recht, bijvoorbeeld dat onrechtmatig is gehandeld. (Vgl. Kamerstukken II 1991/92, 22486, nr. 3, p. 22-26).
+
+Bepaling van het Erfolgsort bij zuiver financiële schade
+
+4.7.1
+
+Ten behoeve van de nationale procedure volgen hierna in 4.7.2 tot en met 4.7.8 overwegingen over de bepaling van het Erfolgsort bij zuiver financiële schade.
+
+4.7.2
+
+Art. 7, aanhef en punt 2, Verordening Brussel I-bis bepaalt dat een persoon die woonplaats heeft op het grondgebied van een lidstaat, ten aanzien van verbintenissen uit onrechtmatige daad in een andere lidstaat kan worden opgeroepen voor het gerecht van de plaats waar het schadebrengende feit zich heeft voorgedaan of zich kan voordoen. Hieronder valt zowel de plaats waar de schade is ingetreden als de plaats van de gebeurtenis die met de schade in een oorzakelijk verband staat (zie onder meer het Kolassa-arrest, punt 45).
+
+4.7.3
+
+De bijzondere bevoegdheidsregel van art. 7, punt 2, Verordening Brussel I-bis moet autonoom en strikt worden uitgelegd. Zij berust op het bestaan van een bijzonder nauw verband tussen de vordering en de gerechten van de plaats waar het schadebrengende feit zich heeft voorgedaan of zich kan voordoen, op grond waarvan het uit hoofde van een goede rechtsbedeling en nuttige procesinrichting gerechtvaardigd is dat deze gerechten bevoegd zijn. Aangezien de bepaling van een van de aanknopingspunten die in de rechtspraak zijn erkend, het mogelijk moet maken de bevoegdheid te leggen bij het gerecht dat objectief gezien het best in staat is om te beoordelen of de verwerende partij aansprakelijk kan worden gesteld, kan enkel het gerecht van het rechtsgebied waar het relevante aanknopingspunt zich bevindt, rechtsgeldig worden aangezocht. (Zie onder meer het Kolassa-arrest, punt 43 en 46-47.)
+
+4.7.4
+
+Uit HvJEU 19 september 1995, zaak C-364/93, EU:C:1995:289 (Marinari), punt 14, blijkt dat het begrip “plaats waar het schadebrengende feit zich heeft voorgedaan” niet zo ruim kan worden uitgelegd dat het iedere plaats omvat waar de schadelijke gevolgen voelbaar zijn van een feit dat reeds elders daadwerkelijk ingetreden schade heeft veroorzaakt. Uit HvJEU 10 juni 2004, zaak C-168/02, EU:C:2004:364 (Kronhofer), punt 21, blijkt dat de uitdrukking “plaats waar het schadebrengende feit zich heeft voorgedaan” niet ook de plaats omvat waar de verzoeker woont of waar zich het centrum van zijn vermogen bevindt op de enkele grond dat hij aldaar financiële schade heeft geleden die voortvloeit uit het in een andere verdragsluitende staat ingetreden en door hem geleden verlies van onderdelen van zijn vermogen. De bevoegdheid van de gerechten van de woonplaats van verzoeker is daarentegen gerechtvaardigd voor zover de woonplaats van de verzoeker inderdaad de plaats is van de schadebrengende gebeurtenis of het intreden van de schade (Kolassa-arrest, punt 50). Uit de rechtspraak van het HvJEU volgt dat de plaats van het intreden van de schade de plaats is waar de beweerde schade zich concreet voordoet (HvJEU 12 september 2018, zaak C-304/17, ECLI:EU:C:2018:701 (Löber/Barclays Bank), punt 27) (hierna: het Löber-arrest).
+
+4.7.5
+
+Uit het Kolassa-arrest, punt 51, blijkt dat in die zaak sprake was van een waardedaling van certificaten (obligaties aan toonder) die niet te wijten was aan de wisselvalligheden van de financiële markten, maar aan het beheer van de fondsen waarin het geld uit de uitgifte van die certificaten is geïnvesteerd, dat aan het einde een positieve waardeontwikkeling ervan heeft belet, en dat het handelen of nalaten dat aan de schadetoebrenger werd verweten in verband met de wettelijke informatieplichten, had plaatsgevonden vóór de belegging in de certificaten en volgens verzoeker bepalend was voor die belegging. Het HvJEU heeft aangaande het intreden van de schade geoordeeld dat in de hiervoor genoemde omstandigheden moet worden geconstateerd dat de schade zich voordoet op de plaats waar de belegger deze ondervindt en dat de gerechten van de woonplaats van de verzoeker – uit hoofde van het intreden van de schade – bevoegd zijn om van een dergelijke vordering kennis te nemen, onder meer wanneer die schade zich rechtstreeks voordoet op een bankrekening van die verzoeker bij een in het rechtsgebied van die gerechten gevestigde bank (Kolassa-arrest, punt 54-55).
+
+4.7.6
+
+Het HvJEU heeft in dat verband in het Kolassa-arrest, punt 56, nog overwogen dat de aldus bepaalde plaats waar de schade intreedt, in de hiervoor in 4.7.5 genoemde omstandigheden, strookt met het doel van (de voorloper van) de Verordening Brussel I-bis, de rechtsbescherming van in de Unie gevestigde personen te versterken – de verzoeker kan gemakkelijk bepalen welk gerecht hij kan aanzoeken en de verweerder kan redelijkerwijs voorzien voor welk gerecht hij kan worden opgeroepen – daar de emittent van een certificaat die zijn wettelijke verplichtingen met betrekking tot het prospectus niet nakomt erop moet rekenen, wanneer hij besluit het prospectus voor dat certificaat in andere lidstaten te laten notificeren, dat in die lidstaten wonende, onvoldoende geïnformeerde marktdeelnemers in dat certificaat investeren en schade lijden. Zie in die zin ook het Löber-arrest, punt 35.
+
+4.7.7
+
+In het Universal Music-arrest vloeide de schade van Universal Music voort uit een vaststellingsovereenkomst die partijen in Tsjechië hadden gesloten. Het HvJEU stelde vast dat de schade aldus in Tsjechië was ontstaan (punt 32). Het oordeelde dat de enkele omstandigheid dat Universal Music aan haar uit de vaststellingsovereenkomst voortvloeiende betalingsverplichting had voldaan vanaf een bankrekening in Nederland, een onvoldoende aanknopingspunt opleverde voor bevoegdheid van de Nederlandse rechter. In punt 37 overwoog het HvJEU dat de vaststelling in het Kolassa-arrest, punt 55, dat de gerechten van de woonplaats van de verzoeker uit hoofde van het intreden van de schade, bevoegd zijn wanneer die schade zich rechtstreeks voordoet op de bankrekening van die verzoeker bij een in het rechtsgebied van die gerechten gevestigde bank, is gedaan in het bijzondere kader van die zaak, die werd gekenmerkt door omstandigheden die tezamen ertoe strekten deze gerechten bevoegdheid toe te kennen. Vervolgens overwoog het HvJEU in punt 38-39 dat zuiver financiële schade die rechtstreeks intreedt op de bankrekening van de verzoeker, zonder bijkomende omstandigheden, niet kan worden aangemerkt als een relevant aanknopingspunt uit hoofde van (de voorloper van) art. 7, punt 2, Verordening Brussel I-bis. In dat verband heeft het HvJEU opgemerkt dat niet is uitgesloten dat een vennootschap zoals Universal Music de keuze had tussen verschillende bankrekeningen ten laste waarvan zij het in die zaak aan de orde zijnde schikkingsbedrag had kunnen voldoen, zodat de plaats waar deze rekening is gelegen, niet noodzakelijkerwijs een betrouwbaar aanknopingspunt vormt. Uitsluitend in de situatie waarin de andere bijzondere omstandigheden van de zaak eveneens ertoe bijdragen bevoegdheid toe te kennen aan het gerecht van de plaats waar zuiver financiële schade is ingetreden, zou dergelijke schade kunnen rechtvaardigen dat de verzoeker zijn zaak bij dit gerecht aanbrengt.
+
+4.7.8
+
+In het Löber-arrest, punt 31-34, kwam het hof tot het oordeel dat de specifieke omstandigheden van het hoofdgeding tezamen bijdroegen tot toekenning van bevoegdheid aan de gerechten van de woonplaats van verzoekster. Daarvoor was, naast de woonplaats van verzoekster, van belang dat alle betalingen betreffende de in die zaak aan de orde zijnde beleggingstransactie via bankrekeningen in het land van de woonplaats van verzoekster waren verricht, te weten de persoonlijke bankrekening van verzoekster en de speciaal voor de uitvoering van deze transactie bestemde afwikkelingsrekeningen. Volgens het HvJEU was daarenboven uit de verwijzingsbeslissing gebleken dat verzoekster de certificaten (obligaties aan toonder) waar het in het hoofdgeding om ging, had verkregen op de secundaire markt in het land van haar woonplaats, dat de haar verstrekte informatie over de certificaten de informatie in het prospectus betreffende deze certificaten is, waarvan kennis is gegeven aan de Oostenrijkse Centrale Bank (Österreichische Kontrollbank), en dat zij in het land van haar woonplaats op basis van deze informatie zich ertoe heeft verbonden om te beleggen, welke verbintenis definitief op haar vermogen drukte. Het HvJEU achtte toebedeling van de bevoegdheid aan de gerechten van de woonplaats van verzoekster in de omstandigheden als die in het hoofgeding, in overeenstemming met de doelstellingen van voorspelbaarheid van de bevoegdheidsregels waarin (de voorloper van) Verordening Brussel I-bis voorziet, de verbondenheid tussen de door deze regels aangewezen gerechten en de vordering, alsmede de goede rechtsbedeling.
+
+De kernstellingen van partijen
+
+4.8.1
+
+VEB stelt zich in deze procedure onder meer op het standpunt dat de omstandigheden van dit geval vergelijkbaar zijn met die van het Kolassa-arrest en het Löber-arrest. Zij stelt daartoe dat de waardedaling van de aandelen niet te wijten was aan wisselvalligheden van de financiële markten, maar aan het verstrekken van onjuiste, onvolledige en misleidende informatie door BP over de hiervoor in 3.1 onder (iii) bedoelde olieramp, waarmee BP haar wettelijke informatieplichten niet nakwam. De aandeelhouders hebben als gevolg daarvan beleggingsbeslissingen genomen die zij bij een juiste en volledige voorstelling van zaken niet zouden hebben genomen. Toen de juiste informatie alsnog bekend werd, daalde de waarde van hun aandelen en daardoor hebben zij schade geleden. Aangezien de aandelen, althans de aanspraken van de aandeelhouders met betrekking tot deze aandelen, werden geadministreerd (bijgeschreven en afgeschreven) en waren gesitueerd op een Nederlandse beleggingsrekening, heeft deze schade, bestaande in de waardedaling van de aandelen als gevolg van het onrechtmatig handelen van BP, zich rechtstreeks gemanifesteerd in Nederland op een Nederlandse beleggingsrekening. Daarom is de Nederlandse rechter (althans de rechter in Amsterdam) bevoegd om van de vorderingen van VEB kennis te nemen. Voor deze bevoegdheid van de Nederlandse rechter (althans de rechter in Amsterdam) zijn daarnaast geen (andere) bijzondere of bijkomende omstandigheden nodig. Bij de beantwoording van de vraag of de Nederlandse rechter bevoegd is om de vorderingen van VEB te beoordelen, en of sprake is van bijzondere of bijkomende omstandigheden als bedoeld in het Universal Music-arrest komt volgens VEB belang toe aan de omstandigheid dat in deze procedure een collectieve actie is ingesteld.
+
+4.8.2
+
+BP heeft zich onder meer op het standpunt gesteld dat het enkele feit dat de schade zich in het Kolassa-arrest rechtstreeks voordeed op een bankrekening van Kolassa in Oostenrijk, niet voldoende was om de bevoegdheid van de rechter in Oostenrijk aan te nemen. Er waren meer redenen om aan te knopen bij Oostenrijk. Barclays had in Oostenrijk een prospectus gepubliceerd en de certificaten waren door een Oostenrijkse bank (door)verkocht. BP wijst hierbij naar de hiervoor in 4.7.7 aangehaalde overweging uit punt 37 van het Universal Music-arrest. Daaruit blijkt dat de beslissing in het Kolassa-arrest samenhing met omstandigheden die tezamen ertoe strekten de gerechten van de woonplaats van de verzoeker bevoegdheid toe te kennen. BP betoogt op grond van het voorgaande dat zuiver financiële schade die rechtstreeks intreedt op een bankrekening, zonder bijkomende omstandigheden niet kan worden aangemerkt als een relevant aanknopingspunt uit hoofde van (de voorloper van) art. 7, punt 2, Verordening Brussel I-bis. Dat geldt ook als zich niet het gevaar voordoet dat de benadeelde achteraf het Erfolgsort kan manipuleren door te kiezen voor een bankrekening op een plaats die hem uitkomt. Bij afwezigheid van bijkomende omstandigheden is de rechter van de plaats waar de bankrekening wordt gehouden, dus niet bevoegd. Het collectieve karakter van deze procedure maakt het voorgaande niet anders, aldus BP.
+
+Toelichting op de vraagstelling
+
+Vraag 1
+
+4.9.1
+
+Een overeenkomst tussen de feiten in het Kolassa-arrest en het Löber-arrest en de feiten in deze zaak is dat in alle drie de gevallen sprake is van zuiver financiële schade die – naar in deze zaak veronderstellenderwijs moet worden aangenomen, zie hiervoor in 4.5 – rechtstreeks is ingetreden op een bankrekening of beleggingsrekening, waarbij die zuiver financiële schade het gevolg is van een daling van de waarde van de effecten die op die bankrekening of beleggingsrekening als tegoed werden aangehouden. Die situatie verschilt van de situatie in het Universal Music-arrest. Daarin was de zuiver financiële schade op de bankrekening het gevolg van een betaling die vanaf die bankrekening was gedaan om door gedupeerden in het buitenland geleden schade te vergoeden. Anders dan het geval is bij een daling van de waarde van aandelen die op een bankrekening of beleggingsrekening als tegoed worden aangehouden, had de benadeelde in die situatie echter zelf invloed op de daling van het tegoed op zijn bankrekening doordat hem de vrije keuze toekwam een betaling te doen vanaf die bankrekening.
+
+4.9.2
+
+Een verschil tussen de feiten in het Kolassa-arrest en het Löber-arrest en de feiten in deze zaak is dat de vordering in deze zaak niet is gebaseerd op misleidende informatie in een in Nederland verspreid prospectus. Volgens de stellingen van VEB, die door het hof niet zijn verworpen en waarvan dus in cassatie veronderstellenderwijs moet worden uitgegaan, zou BP onjuiste, onvolledige en misleidende informatie openbaar hebben gemaakt via persberichten, op haar website gepubliceerde rapporten, jaarrekeningen en jaarverslagen alsmede via in het openbaar gedane uitlatingen van bestuurders. BP heeft zich bij de gewraakte informatievoorziening niet afzonderlijk of in het bijzonder gericht tot Nederlandse beleggers. Afgaande op de door het hof vastgestelde feiten, lijkt hier evenmin aan de orde de verkoop en koop van financiële producten op de Nederlandse secundaire markt, maar de koop van gewone BP-aandelen, die zijn genoteerd aan de beurs in Londen of Frankfurt, via in Nederland aangehouden beleggingsrekeningen.
+
+4.9.3
+
+De onvoorzienbaarheid voor de verweerder van het forum – waarvan sprake zou kunnen zijn indien de plaats waar een bank- of beleggingsrekening wordt aangehouden als Erfolgsort zou worden aangemerkt – vormt niet in alle gevallen een beletsel voor het toekennen van bevoegdheid aan de rechter van het Erfolgsort. In HvJEU 25 oktober 2011, gevoegde zaken C-509/09 en C-161/10, ECLI:EU:C:2011:685 (eDate Advertising & Olivier Martinez), punt 51, over de aansprakelijkheid voor beweerde schendingen van persoonlijkheidsrechten door op internet geplaatste content, heeft het HvJEU onder meer bevoegdheid toegekend aan de gerechten van elke lidstaat op het grondgebied waarvan op internet geplaatste content toegankelijk is of is geweest, althans voor zover het gaat om het kennisnemen van vorderingen met betrekking tot schade die is veroorzaakt op het grondgebied van de lidstaat van het aangezochte gerecht. De vraag rijst of er aanleiding is voor een vergelijkbare bevoegdheidsregel voor vorderingen die strekken tot het verhalen van schade van aandeelhouders als gevolg van onjuiste, onvolledige of misleidende informatie die openbaar is gemaakt door internationale beursgenoteerde ondernemingen.
+
+Vraag 2
+
+4.9.4
+
+Een belangrijk verschil tussen het Kolassa-arrest en het Löber-arrest en deze zaak is dat het in deze zaak gaat om een collectieve actie op de voet van art. 3:305a BW, die aanleiding kan geven tot (extra) problemen bij het lokaliseren van het Erfolgsort. Doordat de collectieve actie strekt tot bescherming van gelijksoortige belangen (zie hiervoor in 4.6.1 en 4.6.2), wordt geabstraheerd van de individuele omstandigheden van de gedupeerden van wie de belangen in de collectieve actie aan de orde zijn. De bijzonderheden van de individuele aankoopconstructie(s) komen niet in de collectieve actie aan de orde. Het is de vraag of, en zo ja hoe, in een dergelijk geval bijkomende specifieke omstandigheden, indien vereist, moeten worden vastgesteld.
+
+4.9.5
+
+In de zaak die ten grondslag ligt aan HvJEU 21 mei 2015, zaak C-352/13, ECLI:EU:C:2015:335 (CDC/Akzo Nobel) hadden gedupeerden van een waterstofperoxidekartel hun vorderingen gecedeerd aan een claim vehicle. Het HvJEU heeft geoordeeld dat de overdracht van schuldvorderingen door de oorspronkelijke schuldeiser geen invloed kan hebben op de bepaling van het bevoegde gerecht volgens (de voorloper van) art. 7, punt 2, Verordening Brussel I-bis en dat het schadebrengende feit derhalve voor iedere schadevordering afzonderlijk moet worden bepaald, ongeacht een eventuele overdracht of bundeling ervan (punten 35-36 en 56). Het is de vraag of dergelijke strenge regels ook gelden voor de lokalisatie van het Erfolgsort in een collectieve actie op de voet van art. 3:305a BW, nu in een dergelijke procedure een cessie of bundeling van vorderingen niet aan de orde is, maar slechts sprake is van een collectief belang en die regels aan de effectiviteit van het instrument van art. 3:305a BW afbreuk zouden doen.
+
+Vraag 3
+
+4.9.6
+
+Als de Nederlandse rechter bevoegd is in een collectieve actie op de voet van art. 3:305a BW van de vorderingen van VEB kennis te nemen en voor recht zou verklaren dat BP onrechtmatig heeft gehandeld jegens de BP-aandeelhouders, kunnen die aandeelhouders op basis daarvan in een nieuwe procedure individueel een vordering aanhangig maken tot schadevergoeding te voldoen in geld. Als dat zich voordoet, is van belang of dergelijke vorderingen aanhangig gemaakt kunnen worden bij de rechter die bevoegd was over de collectieve actie te oordelen. Die vraag kan opkomen als de woonplaats van de BP-aandeelhouder of de locatie in Nederland van zijn bank- en/of beleggingsrekening gelegen is buiten het rechtsgebied van de aangezochte rechter. In verband daarmee wordt ook verwezen naar vraag 4 en de hierna opgenomen toelichting op die vraag.
+
+Vraag 4
+
+4.9.7
+
+In het Löber-arrest, punt 31, verwijst het HvJEU naar het toekennen van bevoegdheid aan de Oostenrijkse gerechten. De bijzondere bevoegdheidsregels van art. 7 Verordening Brussel I-bis regelen niet alleen de internationale bevoegdheid, maar ook de interne relatieve bevoegdheid (“het gerecht van de plaats waar”). In het Löber-arrest is in het midden gelaten op welke bankrekening de schade rechtstreeks is ingetreden. Enerzijds lijkt uit het Löber-arrest, punt 32, te volgen dat bij het gebruik van de term ‘bankrekeningen’ geen relevant onderscheid wordt gemaakt tussen een ‘persoonlijke’ bankrekening en beleggingsrekeningen. Hieruit zou kunnen worden afgeleid dat beide rekeningen in aanmerking kunnen komen. Anderzijds blijkt uit de conclusie van A-G Bobek, onder 13, dat Löber haar persoonlijke bankrekening aanhield in Wenen, hetgeen tevens haar woonplaats was, en dat de beleggingsrekeningen werden aangehouden in Salzburg en Graz. Kennelijk was in het Löber-arrest voor rechtsmacht van de rechter te Wenen voldoende dat Wenen behalve de woonplaats van Löber, óók de plaats van vestiging was van de bank waar zij haar bankrekening aanhield. Dit roept de vraag op door welke factor(en) de interne relatieve bevoegdheid wordt bepaald. Is dit de woonplaats van de gedupeerde belegger, de vestigingsplaats van de bank waar deze belegger zijn persoonlijke bankrekening aanhoudt of de vestigingsplaats van de bank waar de beleggingsrekening wordt aangehouden, dan wel een ander aanknopingspunt?
+
+Redelijke twijfel mogelijk
+
+4.10
+
+Gelet op hetgeen hiervoor is overwogen, is redelijke twijfel mogelijk over het antwoord op de vraag of Nederland in dit geval kan worden aangemerkt als Erfolgsort. De Hoge Raad zal hierover prejudiciële vragen aan het HvJEU voorleggen.
+
+4.11
+
+De behandeling van de klachten van het middel zal worden aangehouden.
+
+5.	Omschrijving van de feiten en uitgangspunten waarop de door het HvJEU te geven uitleg moet worden toegepast
+
+De Hoge Raad verwijst naar de hiervoor in 3.1 vermelde feiten en uitgangspunten, waarvan in deze procedure moet worden uitgegaan.
+
+6
+Vragen van uitleg
+
+1. a)	Dient art. 7, aanhef en onder 2, van Verordening (EU) nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (herschikking) (PbEU 2012, L 351/1; hierna: Verordening Brussel I-bis) aldus te worden uitgelegd dat het rechtstreeks intreden van zuiver financiële schade op een in Nederland aangehouden beleggingsrekening of een beleggingsrekening van een in Nederland gevestigde bank of beleggingsonderneming, welke schade het gevolg is van beleggingsbeslissingen genomen onder invloed van algemeen verspreide, maar onjuiste, onvolledige en misleidende informatie van een internationale beursgenoteerde onderneming, een voldoende aanknopingspunt oplevert voor internationale bevoegdheid van de Nederlandse rechter uit hoofde van de plaats van het intreden van de schade (Erfolgsort)?
+
+( b)	Zo nee, zijn bijkomende omstandigheden vereist die rechtvaardigen dat de Nederlandse rechter bevoegd is en welke omstandigheden zijn dat? Zijn de bijkomende omstandigheden die hiervoor in 4.2.2 zijn genoemd, voldoende voor bevoegdheid van de Nederlandse rechter?
+
+2. Luidt het antwoord op vraag 1 anders indien het gaat om een vordering die op de voet van art. 3:305a BW is ingesteld door een vereniging die tot doel heeft de collectieve belangen te behartigen van beleggers die schade hebben geleden als bedoeld in vraag 1, hetgeen onder meer meebrengt dat de woonplaatsen van de hiervoor bedoelde beleggers niet zijn vastgesteld, evenmin als de bijzondere omstandigheden van de individuele aankooptransacties?
+
+3. Indien de Nederlandse rechter bevoegd is om op basis van art. 7, punt 2, Verordening Brussel I-bis kennis te nemen van de vordering op de voet van art. 3:305a BW, is dan de aangezochte Nederlandse rechter ook bevoegd om vervolgens kennis te nemen van alle individuele schadevorderingen van de beleggers die schade hebben geleden als bedoeld in vraag 1?
+
+4. Indien vraag 3 ontkennend moet worden beantwoord, wordt dan de interne relatieve bevoegdheid bepaald op grond van de woonplaats van de gedupeerde belegger, de vestigingsplaats van de bank waar deze belegger zijn persoonlijke bankrekening aanhoudt of de vestigingsplaats van de bank waar de beleggingsrekening wordt aangehouden, dan wel een ander aanknopingspunt?
+
+7
+Uitlating partijen
+
+De Hoge Raad stelt partijen in de gelegenheid zich over de hiervoor onder 6 geformuleerde vragen uit te laten bij brief aan de voorzitter van de civiele kamer binnen zes weken na vandaag.
+
+8
+Beslissing
+
+De Hoge Raad houdt iedere verdere beslissing aan totdat de hiervoor onder 7 genoemde termijn is verstreken.
+
+Dit arrest is gewezen door de vicepresident E.J. Numann als voorzitter en de raadsheren A.H.T. Heisterkamp, T.H. Tanja-van den Broek, M.J. Kroeze en H.M. Wattendorff, en in het openbaar uitgesproken door de raadsheer M.V. Polak op 14 juni 2019.
