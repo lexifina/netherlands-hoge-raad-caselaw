@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:995"
-published_in: ["Rechtspraak.nl", "NJB 2019/1498", "V-N Vandaag 2019/1572", "RvdW 2019/744", "NTFR 2019/1821 met annotatie van mr. R.B.H. Beune", "V-N 2019/34.26 met annotatie van Redactie", "NLF 2019/1699 met annotatie van Ton Tekstra", "INS-Updates.nl 2019-0061", "RI 2019/60", "NTHR 2019, af. 5, p. 264", "JOR 2019/262 met annotatie van Faber, N.E.D.", "NJ 2020/16 met annotatie van F.M.J. Verstijlen"]
+published_in: ["Rechtspraak.nl", "NJB 2019/1498", "V-N Vandaag 2019/1572", "RvdW 2019/744", "V-N 2019/34.26", "NLF 2019/1699 met annotatie van Ton Tekstra", "INS-Updates.nl 2019-0061", "RI 2019/60", "NTHR 2019, af. 5, p. 264", "JOR 2019/262 met annotatie van Faber, N.E.D.", "NJ 2020/16 met annotatie van F.M.J. Verstijlen", "NTFR 2019/1821 met annotatie van mr. R.B.H. Beune"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:489, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2017:10701, Bekrachtiging/bevestiging"]]
 ---
 
