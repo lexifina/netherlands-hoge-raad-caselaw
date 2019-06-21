@@ -569,7 +569,7 @@ Daarmee sluit ik mij grotendeels aan bij N. van Tiggele-van der Velde, Bewijsrec
 
 Een aanbod van aanvullend tegenbewijs in hoger beroep, nadat in eerste instantie al getuigen waren gehoord op verzoek van de met tegenbewijs belaste partij, dient daarentegen wel gespecificeerd te zijn. Zie GS Burgerlijke Rechtsvordering, art. 151 Rv, aant. 4 (G.R. Rutgers) onder verwijzing naar HR 12 september 2003, ECLI:NL:HR:2003:AF7677, NJ 2005/268 (Timco/Nationale Nederlanden) m.nt. W.D.H. Asser onder NJ 2005/270 (OZ Export Planten BV/ […]).
 
-HR 9 januari 1998, ECLI:NL:HR:1998:ZC2543 (niet gepubliceerd), NJ 1999/413 (https://www.navigator.nl/document/id1576199801098939nj1999413dosred) m.nt. H.J. Snijders en AB 1998/280 m.nt. Th.G. Drupsteen (L./gemeente Utrecht).
+HR 9 januari 1998, ECLI:NL:HR:1998:ZC2543 (niet gepubliceerd), NJ 1999/413 m.nt. H.J. Snijders en AB 1998/280 m.nt. Th.G. Drupsteen (L./gemeente Utrecht).
 
 Asser Procesrecht/F.B. Bakels, A. Hammerstein en E.M. Wesseling-van Gent, Hoger beroep, Deventer: Wolters Kluwer 2018, nr. 211.
 
