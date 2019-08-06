@@ -8,7 +8,7 @@ published: "2019-08-06"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2019:800"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 30-08-2019", "V-N Vandaag 2019/1960", "FutD 2019-2246", "NTFR 2019/2314 met annotatie van drs. R. van Haperen", "NLF 2019/2074 met annotatie van Remco van der Zwan", "V-N 2019/43.10 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1960", "NLF 2019/2074 met annotatie van Remco van der Zwan", "V-N 2019/43.10", "NTFR 2019/2314 met annotatie van drs. R. van Haperen", "FutD 2019-2246"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:170"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:171"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:172"]]
 ---
 
@@ -407,7 +407,7 @@ Hoge Raad
 
 HR BNB 2003/271 betrof een stichting die de infrastructuur van een centrale-antenne-inrichting (CAI), bestaande uit kabelnet, ontvangststation, versterkers en verdeelkasten, had verkocht aan een B BV. De infrastructuur lag in grond in eigendom van een gemeente. In geschil was (i) of de infrastructuur roerend of onroerend was en (ii) wie vóór de verkoop eigenaar was van de infrastructuur. U overwoog ad (i):
 
-“-3.2.2. Het Hof heeft zijn oordeel dat het kabelnet onroerend is, hierop gegrond dat het moet worden aangemerkt als een werk dat duurzaam met de grond is verenigd in de zin van artikel 3:3, lid 1, BW. Het Hof, dat aldus overwegende de juiste maatstaf heeft gehanteerd, heeft kennelijk, en in het licht van het debat van partijen niet onbegrijpelijk, aangenomen dat het kabelnet, mede gelet op de bedoeling van degene door wie of in wiens opdracht het is aangelegd, naar aard en inrichting bestemd is om duurzaam ter plaatse te blijven en dat dit ook naar buiten kenbaar is (vgl. HR 31 oktober 1997, nr. 16 404, NJ 1998, 97 (https://www.navigator.nl/document/id15761997103116404nj199897dosred)).
+“-3.2.2. Het Hof heeft zijn oordeel dat het kabelnet onroerend is, hierop gegrond dat het moet worden aangemerkt als een werk dat duurzaam met de grond is verenigd in de zin van artikel 3:3, lid 1, BW. Het Hof, dat aldus overwegende de juiste maatstaf heeft gehanteerd, heeft kennelijk, en in het licht van het debat van partijen niet onbegrijpelijk, aangenomen dat het kabelnet, mede gelet op de bedoeling van degene door wie of in wiens opdracht het is aangelegd, naar aard en inrichting bestemd is om duurzaam ter plaatse te blijven en dat dit ook naar buiten kenbaar is (vgl. HR 31 oktober 1997, nr. 16 404, NJ 1998, 97).
 
 3.2.3.
 
