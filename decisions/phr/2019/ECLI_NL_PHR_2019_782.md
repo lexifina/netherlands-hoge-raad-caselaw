@@ -8,7 +8,7 @@ published: "2019-07-18"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2019:782"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 25-10-2019", "FutD 2019-2758", "V-N Vandaag 2019/2363", "V-N 2019/54.15 met annotatie van Redactie", "NLF 2019/2598 met annotatie van Niek de Haan", "NTFR 2019/3031 met annotatie van Mr. D.C. Simonis"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2363", "V-N 2019/54.15 met annotatie van Redactie", "NLF 2019/2598 met annotatie van Niek de Haan", "NTFR 2019/3031 met annotatie van Mr. D.C. Simonis", "FutD 2019-2758", "Viditax (FutD) 2019102503"]
 relations: [["Formele relatie", "Arrest gerechtshof: ECLI:NL:GHSHE:2019:2385"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:115"]]
 ---
 
