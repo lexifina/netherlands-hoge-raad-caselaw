@@ -8,7 +8,7 @@ published: "2019-11-04"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2019:1122"
-published_in: ["Rechtspraak.nl", "JM 2020/21 met annotatie van Pieters, S."]
+published_in: ["Rechtspraak.nl", "JM 2020/21 met annotatie van mr. S. Pieters"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:433"]]
 ---
 
