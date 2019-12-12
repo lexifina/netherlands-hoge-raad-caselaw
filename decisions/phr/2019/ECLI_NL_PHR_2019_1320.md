@@ -8,7 +8,7 @@ published: "2019-12-12"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2019:1320"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 10-01-2020", "FutD 2020-0102", "V-N Vandaag 2020/95", "NTFR 2020/228 met annotatie van mr. drs. F de Jong", "V-N 2020/5.24 met annotatie van Redactie", "NLF 2020/0365 met annotatie van Khadija Bozia"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/95", "V-N 2020/5.24", "NLF 2020/0365 met annotatie van mr. K. Bozia", "NTFR 2020/228 met annotatie van mr. drs. F de Jong", "FutD 2020-0102", "Viditax (FutD) 2020011015"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:698"]]
 ---
 
