@@ -1,0 +1,61 @@
+---
+ecli: "ECLI:NL:HR:2020:53"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "19/04423"
+decided: "2020-01-17"
+published: "2020-01-15"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:53"
+published_in: ["Rechtspraak.nl", "Viditax (FutD), 17-01-2020", "FutD 2020-0183", "V-N Vandaag 2020/245", "V-N 2020/11.23.1", "NTFR 2020/293"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2019:6653"]]
+---
+
+# ECLI:NL:HR:2020:53 Hoge Raad , 17-01-2020 / 19/04423
+
+## Inhoudsindicatie
+
+HR verklaart het beroep in cassatie n-o met toepassing van art. 80a RO.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+BELASTINGKAMER
+
+Nummer	19/04423
+
+Datum	17 januari 2020
+
+ARREST
+
+in de zaak van
+
+[X] te [Z] (hierna: belanghebbende)
+
+tegen
+
+de STAATSSECRETARIS VAN FINANCIËN
+
+op het beroep in cassatie tegen de uitspraak van het Gerechtshof Arnhem-Leeuwarden van 20 augustus 2019, nr. 18/00710, op het hoger beroep van belanghebbende tegen een uitspraak van de Rechtbank Gelderland (nr. AWB 18/1096) betreffende de aan belanghebbende voor het jaar 2016 opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen.
+
+1
+Beoordeling van de ontvankelijkheid van het beroep in cassatie
+
+De Hoge Raad is van oordeel dat de aangevoerde klachten geen behandeling in cassatie rechtvaardigen omdat de partij die het beroep in cassatie heeft ingesteld klaarblijkelijk onvoldoende belang heeft bij het beroep in cassatie of omdat de klachten klaarblijkelijk niet tot cassatie kunnen leiden.
+
+De Hoge Raad zal daarom – gezien artikel 80a van de Wet op de rechterlijke organisatie en gehoord de Procureur-Generaal – het beroep in cassatie niet-ontvankelijk verklaren.
+
+2
+Proceskosten
+
+De Hoge Raad ziet geen aanleiding voor een veroordeling in de proceskosten.
+
+3
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie niet‑ontvankelijk.
+
+Dit arrest is gewezen door de raadsheer J. Wortel als voorzitter, en de raadsheren A.F.M.Q. Beukers-van Dooren en P.A.G.M. Cools, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 17 januari 2020.
