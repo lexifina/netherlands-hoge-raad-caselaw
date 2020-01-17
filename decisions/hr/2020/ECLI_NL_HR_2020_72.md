@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:72"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0052", "RvdW 2020/152", "JAR 2020/53", "PR-Updates.nl PR-2020-0033", "PJ 2020/30", "NJ 2021/85 met annotatie van W.H.A.C.M. Bouwens"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0052", "RvdW 2020/152", "JAR 2020/53", "PR-Updates.nl PR-2020-0033", "PJ 2020/30", "NJ 2021/85 met annotatie van W.H.A.C.M. Bouwens", "VAAN-AR-Updates.nl 2020-0052", "PR-Updates.nl 2020-0033"]
 relations: [["Formele relatie", "Herstelde arrest: ECLI:NL:HR:2019:1864"]]
 ---
 
