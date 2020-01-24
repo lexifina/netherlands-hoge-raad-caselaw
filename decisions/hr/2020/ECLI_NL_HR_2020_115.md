@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:115"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 24-01-2020", "V-N Vandaag 2020/171", "FutD 2020-0245 met annotatie van Fiscaal up to Date", "NTFR 2020/275 met annotatie van Mr. D.C. Simonis", "V-N 2020/7.12 met annotatie van Redactie", "NLF 2020/0315 met annotatie van Niek de Haan", "FED 2020/54 met annotatie van M. Knops", "BNB 2020/165 met annotatie van S.C.W. DOUMA"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/171", "V-N 2020/7.12 met annotatie van Redactie", "NLF 2020/0315 met annotatie van Niek de Haan", "FED 2020/54 met annotatie van M. Knops", "BNB 2020/165 met annotatie van S.C.W. DOUMA", "NTFR 2020/275 met annotatie van Mr. D.C. Simonis", "FutD 2020-0245", "Viditax (FutD) 2020012402"]
 relations: [["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:GHSHE:2019:2385"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:782"], ["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:GHSHE:2017:4323"]]
 ---
 
