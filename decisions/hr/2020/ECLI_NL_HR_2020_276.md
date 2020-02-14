@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:276"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 19-02-2020", "PFR-Updates.nl 2020-0043", "FutD 2020-0521", "NJB 2020/499", "RvdW 2020/258", "PR-Updates.nl PR-2020-0039", "NJ 2020/149 met annotatie van S.F.M. Wortmann", "FJR 2020/32.65", "RFR 2020/70", "JPF 2020/60"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0043", "NJB 2020/499", "RvdW 2020/258", "PR-Updates.nl PR-2020-0039", "NJ 2020/149 met annotatie van S.F.M. Wortmann", "FJR 2020/32.65", "RFR 2020/70", "JPF 2020/60", "FutD 2020-0521", "Viditax (FutD) 2020021907", "PR-Updates.nl 2020-0039"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1007, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2018:8995, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
