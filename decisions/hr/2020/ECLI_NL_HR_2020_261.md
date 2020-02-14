@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:261"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0188", "NJB 2020/498", "RvdW 2020/261", "PR-Updates.nl PR-2020-0052", "RAR 2020/76", "JAR 2020/72"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0188", "NJB 2020/498", "RvdW 2020/261", "PR-Updates.nl PR-2020-0052", "RAR 2020/76", "JAR 2020/72", "VAAN-AR-Updates.nl 2020-0188", "PR-Updates.nl 2020-0052"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1082, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2018:2383, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
