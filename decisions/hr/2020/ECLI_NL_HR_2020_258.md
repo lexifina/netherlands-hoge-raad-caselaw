@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:258"
-published_in: ["Rechtspraak.nl", "NJB 2020/496", "RvdW 2020/298", "NJ 2020/91", "RBP 2020/27", "BIE 2020/5 met annotatie van Th.C.J.A. van Engelen en N.A.W.E. Jansen", "IER 2020/56 met annotatie van F.W.E. Eijsvogels"]
+published_in: ["Rechtspraak.nl", "NJB 2020/496", "RvdW 2020/298", "NJ 2020/91", "RBP 2020/27", "IER 2020/56 met annotatie van F.W.E. Eijsvogels"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1192, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2018:1271, Bekrachtiging/bevestiging"]]
 ---
 
