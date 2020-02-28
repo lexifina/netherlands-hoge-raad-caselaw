@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:332"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 28-02-2020", "FutD 2020-0623", "NTFR 2020/614", "V-N Vandaag 2020/673", "V-N 2020/16.25 met annotatie van Redactie", "Belastingadvies 2020/15.3"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/673", "V-N 2020/16.25 met annotatie van Redactie", "Belastingadvies 2020/15.3", "NTFR 2020/614", "FutD 2020-0623", "Viditax (FutD) 2020022821"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2019:76"]]
 ---
 
