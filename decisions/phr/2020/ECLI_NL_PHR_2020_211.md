@@ -8,7 +8,7 @@ published: "2020-03-05"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:211"
-published_in: ["Rechtspraak.nl", "FutD 2020-0831 met annotatie van Fiscaal up to Date", "Viditax (FutD), 20-03-2020", "V-N Vandaag 2020/686", "NLF 2020/0766 met annotatie van Sonja Dusarduijn", "V-N 2020/17.7 met annotatie van Redactie", "NTFR 2020/1261 met annotatie van mr. J. Nieuwenhuizen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/686", "NLF 2020/0766 met annotatie van Sonja Dusarduijn", "V-N 2020/17.7 met annotatie van Redactie", "NTFR 2020/1261 met annotatie van mr. J. Nieuwenhuizen", "FutD 2020-0831", "Viditax (FutD) 2020032001"]
 ---
 
 # ECLI:NL:PHR:2020:211 Parket bij de Hoge Raad , 05-03-2020 / 19/03319
