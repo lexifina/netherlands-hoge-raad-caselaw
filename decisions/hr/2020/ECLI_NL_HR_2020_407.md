@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:407"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 13-03-2020", "FutD 2020-0761 met annotatie van Fiscaal up to Date", "NTFR 2020/827 met annotatie van Drs. B.J. Kiekebeld", "NLF 2020/0713 met annotatie van Sonja Dusarduijn", "BNB 2020/130"]
+published_in: ["Rechtspraak.nl", "NLF 2020/0713 met annotatie van Sonja Dusarduijn", "BNB 2020/130", "FutD 2020-0761", "Viditax (FutD) 2020031303"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2019:552"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1032"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1074"]]
 ---
 
