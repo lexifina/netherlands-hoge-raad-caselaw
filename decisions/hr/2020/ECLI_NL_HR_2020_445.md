@@ -43,7 +43,7 @@ op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden
 
 tegen
 
-[verdachte],
+[verdachte] ,
 
 geboren te [geboorteplaats] op [geboortedatum] 1991,
 
@@ -52,7 +52,7 @@ hierna: de verdachte.
 1
 De bestreden uitspraak
 
-Het hof heeft de verdachte wegens 1. belaging en 2. bedreiging met enig misdrijf tegen het leven gericht, veroordeeld tot een gevangenisstraf van drie maanden, waarvan twee maanden voorwaardelijk met een proeftijd van drie jaren, en (naar de Hoge Raad begrijpt:) hem een maatregel strekkende tot beperking van de vrijheid (hierna: vrijheidsbeperkende maatregel) opgelegd, inhoudende dat de verdachte voor de duur van drie jaren op geen enkele wijze - direct of indirect - contact zal opnemen of zoeken met [benadeelde partij]. Daarbij heeft het hof bevolen dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan, bepaald dat de duur van deze vervangende hechtenis drie dagen bedraagt voor iedere keer dat niet aan de maatregel wordt voldaan, met een maximum van zes maanden, en bevolen dat de opgelegde maatregel dadelijk uitvoerbaar is. Verder heeft het hof de vordering van de benadeelde partij toegewezen en aan de verdachte een betalingsverplichting opgelegd, een en ander als in de uitspraak van het hof vermeld.
+Het hof heeft de verdachte wegens 1. belaging en 2. bedreiging met enig misdrijf tegen het leven gericht, veroordeeld tot een gevangenisstraf van drie maanden, waarvan twee maanden voorwaardelijk met een proeftijd van drie jaren, en (naar de Hoge Raad begrijpt:) hem een maatregel strekkende tot beperking van de vrijheid (hierna: vrijheidsbeperkende maatregel) opgelegd, inhoudende dat de verdachte voor de duur van drie jaren op geen enkele wijze - direct of indirect - contact zal opnemen of zoeken met [benadeelde partij] . Daarbij heeft het hof bevolen dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan, bepaald dat de duur van deze vervangende hechtenis drie dagen bedraagt voor iedere keer dat niet aan de maatregel wordt voldaan, met een maximum van zes maanden, en bevolen dat de opgelegde maatregel dadelijk uitvoerbaar is. Verder heeft het hof de vordering van de benadeelde partij toegewezen en aan de verdachte een betalingsverplichting opgelegd, een en ander als in de uitspraak van het hof vermeld.
 
 2
 Procesverloop in cassatie
@@ -78,7 +78,7 @@ Ten laste van de verdachte is bewezenverklaard dat:
 
 “1.
 
-hij in de periode van 13 mei 2015 tot en met 29 september 2015 te Arnhem, wederrechtelijk stelselmatig opzettelijk inbreuk heeft gemaakt op de persoonlijke levenssfeer van [benadeelde partij], met het oogmerk die [benadeelde partij] vrees aan te jagen, hieruit bestaande dat hij, verdachte
+hij in de periode van 13 mei 2015 tot en met 29 september 2015 te Arnhem, wederrechtelijk stelselmatig opzettelijk inbreuk heeft gemaakt op de persoonlijke levenssfeer van [benadeelde partij] , met het oogmerk die [benadeelde partij] vrees aan te jagen, hieruit bestaande dat hij, verdachte
 
 - briefjes met beledigende teksten in haar brievenbus heeft gegooid en
 
@@ -143,7 +143,7 @@ Artikel 38v Sr, zoals dat gold van 1 april 2012 tot 1 juli 2015, luidde als volg
 
 1°. waarbij iemand wegens een strafbaar feit wordt veroordeeld;
 
-2°. waarbij overeenkomstig artikel 9a (https://www.navigator.nl/document/openCitation/%20id82c0046cf25c4493859972b240197160) wordt bepaald dat geen straf zal worden opgelegd.
+2°. waarbij overeenkomstig artikel 9a wordt bepaald dat geen straf zal worden opgelegd.
 
 2. De maatregel kan inhouden dat de verdachte wordt bevolen:
 
