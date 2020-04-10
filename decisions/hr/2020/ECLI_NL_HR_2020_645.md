@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:645"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 10-04-2020", "V-N Vandaag 2020/905", "FutD 2020-1081 met annotatie van Fiscaal up to Date", "V-N 2020/18.4 met annotatie van Redactie", "NTFR 2020/1129 met annotatie van Mr. dr. C. Bruijsten", "NLF 2020/0996 met annotatie van Loes van Hulten", "FED 2020/80 met annotatie van G.G.M. Snoeks", "BNB 2020/99 met annotatie van P.H.J. Essers", "Belastingadvies 2020/14.2"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/905", "V-N 2020/18.4", "NLF 2020/0996 met annotatie van dr. L.C. van Hulten", "FED 2020/80 met annotatie van G.G.M. Snoeks", "BNB 2020/99 met annotatie van P.H.J. Essers", "Belastingadvies 2020/14.2", "NTFR 2020/1129 met annotatie van Mr. dr. C. Bruijsten", "FutD 2020-1081", "Viditax (FutD) 2020041002", "2020/0996 met annotatie van dr. L.C. van Hulten"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2018:1826"]]
 ---
 
@@ -107,6 +107,6 @@ HR 12 september 2003, ECLI:NL:HR:2003:AF6564.
 
 Vgl. HR 12 september 2003, ECLI:NL:HR:2003:AF6564.
 
-Besluit van de Minister van Financiën van 30 juni 2010, nr. DGB2010/3599M (https://www.navigator.nl/vakstudie/WKNL_CSL_607/openCitation/id8a05d6fab412da11ebcabbc07603c867), Stcrt. 2010, 10512, onderdeel 4.1.1.
+Besluit van de Minister van Financiën van 30 juni 2010, nr. DGB2010/3599M, Stcrt. 2010, 10512, onderdeel 4.1.1.
 
 HR 12 december 2003, ECLI:NL:HR:2003:BI8115, en HR 12 december 2003, ECLI:NL:HR:2003:AF8535.
