@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:801"
-published_in: ["Rechtspraak.nl", "NJB 2020/1147", "INS-Updates.nl 2020-0123", "RvdW 2020/581", "Juridisch up to Date 2020-0077", "OR-Updates.nl 2020-0188", "RI 2020/54", "RO 2020/39", "JOR 2020/188 met annotatie van Hees, J.J. van", "JIN 2020/97 met annotatie van Volleberg, D.S.", "NJ 2020/291 met annotatie van F.M.J. Verstijlen", "JONDR 2020/476", "Ondernemingsrecht 2020/135 met annotatie van M.Y. Nethe", "UDH:TvCu/16218 met annotatie van Mr. M.C. Van Genugten", "TvI 2021/18 met annotatie van A. van Hees"]
+published_in: ["Rechtspraak.nl", "NJB 2020/1147", "INS-Updates.nl 2020-0123", "RvdW 2020/581", "OR-Updates.nl 2020-0188", "RI 2020/54", "RO 2020/39", "JOR 2020/188 met annotatie van Hees, J.J. van", "JIN 2020/97 met annotatie van Volleberg, D.S.", "NJ 2020/291 met annotatie van F.M.J. Verstijlen", "JONDR 2020/476", "Ondernemingsrecht 2020/135 met annotatie van M.Y. Nethe", "UDH:TvCu/16218 met annotatie van Mr. M.C. Van Genugten", "TvI 2021/18 met annotatie van A. van Hees"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1373, Contrair"]]
 ---
 
