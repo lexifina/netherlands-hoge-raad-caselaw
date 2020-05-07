@@ -8,7 +8,7 @@ published: "2020-06-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:559"
-published_in: ["Rechtspraak.nl", "NLF 2020/1650 met annotatie van Gabriëlle van de Ven"]
+published_in: ["Rechtspraak.nl", "NTFR 2020/2180 met annotatie van De redactie", "NLF 2020/1650 met annotatie van Gabriëlle van de Ven"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1151"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1150"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1235"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1236"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1237"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1238"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1242"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1244"]]
 ---
 
