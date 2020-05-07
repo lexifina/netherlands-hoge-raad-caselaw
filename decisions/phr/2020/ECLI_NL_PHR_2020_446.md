@@ -8,7 +8,7 @@ published: "2020-05-06"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:446"
-published_in: ["Rechtspraak.nl", "FutD 2020-1714", "Viditax (FutD), 05-06-2020", "V-N Vandaag 2020/1494", "V-N 2020/31.26.2", "NTFR 2020/2180 met annotatie van De redactie", "NLF 2020/1653 met annotatie van Gabriëlle van de Ven"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1494", "V-N 2020/31.26.2", "NLF 2020/1653 met annotatie van Gabriëlle van de Ven", "NTFR 2020/2180 met annotatie van De redactie", "FutD 2020-1714", "Viditax (FutD) 2020060505"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1235"]]
 ---
 
