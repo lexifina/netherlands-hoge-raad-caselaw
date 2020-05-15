@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:886"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0564", "NJB 2020/1324", "RvdW 2020/642", "JAR 2020/143", "PR-Updates.nl PR-2020-0111", "PJ 2020/93"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0564", "NJB 2020/1324", "RvdW 2020/642", "JAR 2020/143", "PR-Updates.nl PR-2020-0111", "PJ 2020/93", "VAAN-AR-Updates.nl 2020-0564", "PR-Updates.nl 2020-0111"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2018:2264, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1283, Gevolgd"]]
 ---
 
