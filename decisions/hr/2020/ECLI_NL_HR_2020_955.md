@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:955"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0616", "NJB 2020/1454", "PR-Updates.nl PR-2020-0113", "RvdW 2020/690", "NJ 2020/224", "TRA 2020/64 met annotatie van M.D. Ruizeveld", "Prg. 2020/179", "RAR 2020/121", "TvPP 2020, afl. 4, p. 134", "TvPP 2020, afl. 5, p. 184", "JAR 2020/164 met annotatie van Zanten-Baris, A. van", "JIN 2020/111 met annotatie van Rietveld, R.D."]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0616", "NJB 2020/1454", "PR-Updates.nl PR-2020-0113", "RvdW 2020/690", "NJ 2020/224", "TRA 2020/64 met annotatie van M.D. Ruizeveld", "Prg. 2020/179", "RAR 2020/121", "TvPP 2020, afl. 4, p. 134", "TvPP 2020, afl. 5, p. 184", "JAR 2020/164 met annotatie van Zanten-Baris, A. van", "JIN 2020/111 met annotatie van Rietveld, R.D.", "VAAN-AR-Updates.nl 2020-0616", "PR-Updates.nl 2020-0113"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2018:3938, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:1386, Gevolgd"]]
 ---
 
