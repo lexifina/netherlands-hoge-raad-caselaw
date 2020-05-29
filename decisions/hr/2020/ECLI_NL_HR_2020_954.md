@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:954"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0615", "RI 2020/53", "JAR 2020/163", "Juridisch up to Date 2020-0095", "RvdW 2020/730", "NJ 2020/235", "RAR 2020/120", "SEW 2020, afl. 7/8, p. 448"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0615", "RI 2020/53", "JAR 2020/163", "RvdW 2020/730", "NJ 2020/235", "RAR 2020/120", "SEW 2020, afl. 7/8, p. 448", "VAAN-AR-Updates.nl 2020-0615"]
+relations: [["Formele relatie", "Arrest: ECLI:NL:HR:2023:1372"], ["Formele relatie", "Procedure voortgezet met: ECLI:NL:GHSHE:2025:976"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2021:997"], ["Formele relatie", "Na prejudiciële beslissing van : ECLI:EU:C:2022:321"]]
 ---
 
 # ECLI:NL:HR:2020:954 Hoge Raad , 29-05-2020 / 18/04401
