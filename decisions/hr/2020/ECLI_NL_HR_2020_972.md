@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:972"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 29-05-2020", "V-N Vandaag 2020/1412", "FutD 2020-1606 met annotatie van Fiscaal up to Date", "V-N 2020/26.4 met annotatie van Redactie", "NTFR 2020/1749 met annotatie van Mr. P.W. Hofman", "NLF 2020/1376 met annotatie van Reinier Kooiman", "NTFRB 2020/24 met annotatie van Mr. R.E. Zwier", "Belastingadvies 2020/18.4", "BNB 2020/152 met annotatie van J.P. BOER"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1412", "V-N 2020/26.4", "NLF 2020/1376 met annotatie van mr. dr. W.R. Kooiman", "Belastingadvies 2020/18.4", "BNB 2020/152 met annotatie van J.P. BOER", "NTFR 2020/1749 met annotatie van Mr. P.W. Hofman", "FutD 2020-1606", "Viditax (FutD) 2020052905"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2019:860"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2018:3621"]]
 ---
 
