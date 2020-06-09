@@ -1,0 +1,463 @@
+---
+ecli: "ECLI:NL:PHR:2020:793"
+court: "Parket bij de Hoge Raad"
+court_code: "PHR"
+docket: "19/01779"
+decided: "2020-06-09"
+published: "2020-09-08"
+type: "conclusie"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:793"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2020:1382"]]
+---
+
+# ECLI:NL:PHR:2020:793 Parket bij de Hoge Raad , 09-06-2020 / 19/01779
+
+## Inhoudsindicatie
+
+Medeplegen voorbereiding gewelddadige overval (art. 46 Sr jo. 312 Sr) en medeplegen diefstal met geweld (art. 312 Sr). Middel over opzet op geweld bij de overval. HR: art. 81.1. RO. Samenhang met 19/01764, 19/01778 en 19/01820.
+
+## Conclusie
+
+PROCUREUR-GENERAAL
+
+BIJ DE
+
+HOGE RAAD DER NEDERLANDEN
+
+Nummer	19/01779
+
+Zitting		9 juni 2020
+
+CONCLUSIE
+
+D.J.C. Aben
+
+In de zaak
+
+[verdachte] ,
+
+geboren te [geboorteplaats] op [geboortedatum] 1990,
+
+hierna: de verdachte.
+
+1. Het gerechtshof Amsterdam heeft de verdachte bij arrest van 5 april 2019 wegens 1 “medeplegen van voorbereiding van diefstal voorafgegaan, vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden, die diefstal gemakkelijk te maken en/of om bij betrapping op heterdaad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, terwijl het feit wordt gepleegd door twee of meer verenigde personen” en 2 “diefstal, voorafgegaan en vergezeld van geweld en bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden en die diefstal gemakkelijk te maken, terwijl het feit wordt gepleegd door twee of meer verenigde personen”, veroordeeld tot een gevangenisstraf van tweeënveertig maanden. Daarnaast heeft het hof in beslag genomen, nog niet teruggegeven voorwerpen verbeurd verklaard.
+
+2. Er bestaat samenhang met de zaken 19/01778, 19/01764 en 19/01820. In deze zaken zal ik vandaag ook concluderen.
+
+3. Het cassatieberoep is ingesteld namens de verdachte. Mrs. R.J. Baumgardt en P. van Dongen, beiden advocaat te Rotterdam, hebben één middel van cassatie voorgesteld.
+
+4. De achtergrond in deze zaken is de volgende. Op 17 oktober 2014 is er een woningoverval gepleegd (feit 2) in de [a-straat] in Amsterdam. Tijdens het opsporingsonderzoek zijn de verdachte en zijn medeverdachten in beeld gekomen als (mede)plegers van die woningoverval. In dat kader werden de telefoons van de verdachte en medeverdachte [medeverdachte 1] getapt. Die tapgesprekken leidden tot de verdenking dat de verdachte het plan had opgevat met een aantal anderen op 10 december 2014 een (gewelddadige) roofoverval te plegen (feit 1). Dát de verdachte en zijn medeverdachten die dag een roofoverval wilden plegen staat niet ter discussie. Evenmin dat een koffer met een geldbedrag het object van de overval was. Bij [medeverdachte 5] (in haar appartement) zou door iemand – van wat wordt genoemd ‘de organisatie’ – een geldbedrag worden afgeleverd dat zij vervolgens naar China zou vervoeren. Afgesproken werd dat de verdachte en zijn medeverdachten het geld van [medeverdachte 5] en degene die het geld kwam afleveren zouden ‘roven’. Voordat het zover kon komen, greep de politie in: op een terras nabij het appartement waar [medeverdachte 5] en de man zich bevonden met het geld, zijn de verdachte, zijn vader [medeverdachte 6]. , [medeverdachte 1] en [medeverdachte 3] aangehouden. Bij die aanhouding werden verschillende goederen aangetroffen die kennelijk waren bestemd voor de uitvoering van de overval: voertuigen, bivakmutsen, handschoenen en telefoons. Aan het einde van de middag zijn ook [medeverdachte 5] en haar reisgenoot [betrokkene 1] (die het geld bij haar had afgeleverd) aangehouden. In de auto waarin zij zich bevonden, is een koffer met een geldbedrag van € 374.000,- gevonden en een vliegticket voor een reis op 10 en 11 december 2014 van Brussel, via Zürich naar Hongkong.
+
+5. Het middel klaagt met betrekking tot hetgeen onder 1 is bewezenverklaard, over het oordeel van het hof dat de verdachte opzet had op het gebruik van geweld bij de overval.
+
+6. Ten laste van de verdachte is onder 1 bewezen verklaard dat:
+
+“hij op 10 december 2014 te Amsterdam, tezamen en in vereniging met anderen, ter voorbereiding van het met anderen te plegen misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten een diefstal in vereniging voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld, opzettelijk een personenauto, merk BMW, en een personenauto, merk Opel Astra, en een personenauto, merk KIA, en bivakmutsen en handschoenen en mobiele telefoons, kennelijk bestemd tot het in vereniging begaan van dat misdrijf voorhanden heeft gehad.”
+
+7. Deze bewezenverklaring steunt, voor zover hier van belang, op de volgende bewijsmiddelen:
+
+“ (…)
+
+ten aanzien van het onder 1 ten laste gelegde
+
+1. Een proces-verbaal van verhoor verdachte van 11 december 2014 (doorgenummerde pag. zaaksdossier 4, 40011-40023).
+
+Dit proces-verbaal houdt onder meer in als verklaring van verdachte [medeverdachte 3] , zakelijk weergegeven:
+
+Ik had met [verdachte] afgesproken op 10 december 2014. Ik weet echt niet hoe alles heet daar. Je hebt de [b-straat] , daar heb je een politiebureau en daarvoor in een zijstraat. Ik heb ze daar alle drie opgepikt. Ze zijn in de Kia gestapt en ik ben naar het haventje daar achter gereden. Daar zijn we op een terras gaan zitten. Ik had de auto rechts van het terras geparkeerd.
+
+De bivakmuts die in mijn auto is gevonden, die is niet van mij.
+
+Ik was al op […] . Ik heb daar ongeveer tien minuten staan wachten. Dat was om kwart voor één. Ik had daar afgesproken met [verdachte] . Dat was op de [b-straat] bij die straat bij het politiebureau. Ik weet niet hoe die straat heet. Na tien minuten kwam [verdachte] aanlopen met die oudste man. Die andere jongen kwam in die andere auto, die zwarte, een soort stationwagen. Die oudste man is toen bij mij ingestapt.
+
+Hij vroeg of we een rondje konden rijden. We hebben dat gedaan. We zijn met z’n tweeën gaan rijden. Hij zat op de bijrijdersstoel. Daarna zijn we weer teruggereden naar die zijweg bij het politiebureau.
+
+Toen stapte [verdachte] in en die andere jongen in het trainingspak. Toen reden we linksaf over die brug naar die bar toe. We gingen rechtsaf langs het water. We zijn op het terras gaan zitten.
+
+Mij was verteld dat ik alleen iemand moest brengen. Die ouwe. Volgens mij richting Utrecht. Dat heeft [verdachte] dinsdag via de whatsapp aan mij gevraagd. [verdachte] heeft tegen mij gezegd als je wordt gebeld dan moetje de straat inrijden. Hij zei die ouwe komt hieruit. Meer niet. Hij wees hierbij naar een appartement. Die ouwe zou dan uit het appartementencomplex komen. Dit is het laatste huizenblok aan je rechterhand gezien vanaf de [b-straat] . Zodra hij ingestapt was, moest ik over de brug rijden en naar rechts en dan richting Utrecht. Ik was op de hoogte van de overval, op een appartement. Dat had ik gehoord de dinsdagavond voor de overval. Toen ben ik er al geweest. Ik moest die ouwe oppikken, omdat hij dan met iets naar buiten zou komen en hem dan naar Utrecht brengen. U zegt mij: “om zijn vlucht mogelijk te maken zodat hij weg kon komen”. Ja, als u dat zo zegt. Ik wist dat die ouwe de vader van [verdachte] was.
+
+2. Een proces-verbaal van verhoor verdachte van 11 maart 2015 (doorgenummerde pag. zaaksdossier 4, 40027-40031).
+
+Dit proces-verbaal houdt onder meer in als verklaring van verdachte A.R. [verdachte] , zakelijk weergegeven:
+
+Ik ben hier voor 10 december 2014. Ik heb toen gesproken met [medeverdachte 1] (het hof begrijpt hier en verder: [medeverdachte 1] ) en de puntjes op de “i” gezet. Daarna ben ik in de Kia van [medeverdachte 3] gestapt, achterin. [medeverdachte 1] was ook ingestapt. Die zat ook achterin. Ondertussen had ik telefonisch contact met [medeverdachte 5] . We zijn toen naar een cafeetje gegaan op de hoek van het huis zelf, van [medeverdachte 5] dus. Ik heb [medeverdachte 5] nog een aantal keer gebeld. Ik zei dat ik een goed uitzicht had. [medeverdachte 5] zou met een koffer met geld gaan vliegen naar China. [medeverdachte 5] heeft een plan opgezet. Ik zou met een bivakmuts op de koffer wegnemen. Ik had in mijn hoofd dat het bedrag dat in de koffer zou zitten iets van zes à zeven ton zou zijn (600.000 à 700.000 euro).
+
+3. Een proces-verbaal van verhoor verdachte van 24 april 2015 (doorgenummerde pag. zaaksdossier 1, 40026-40030).
+
+Dit proces-verbaal houdt onder meer in als verklaring van verdachte [medeverdachte 1] , zakelijk weergegeven:
+
+Ik ben op […] aangekomen. Ik ben met [verdachte] gaan lopen. Er was een plannetje opgezet om een tas af te nemen. We praatten er toen over. Ik wist wel dat er geld zou zijn. De tas en dat geld zou worden afgenomen van degene waarmee [verdachte] het had geregeld; dat is dan [medeverdachte 5] . Het klopt dat ik 3 telefoons heb gekocht in de dagen voorafgaand aan het wegnemen van de tas. Dat was om met elkaar te communiceren op die dag.
+
+4. Een proces-verbaal van bevindingen 18 december 2014 (doorgenummerde pag. zaaksdossier 4, 60052-60058).
+
+Dit proces-verbaal houdt onder meer in als verklaring van de verbalisanten [verbalisant 1] , [verbalisant 2] en [verbalisant 3] , zakelijk weergegeven:
+
+In onderzoek 13KNOLRAAP zijn meerdere technische acties (TA) gestart, waaronder:
+
+TA op telefoonnummer [telefoonnummer 1] - gebruiker [verdachte] geboren op [geboortedatum] 1990
+
+TA op telefoonnummer [telefoonnummer 2] - gebruiker [medeverdachte 1] geboren op [geboortedatum] 1990
+
+TA op telefoonnummer [telefoonnummer 3] - gebruiker [verdachte] geboren op [geboortedatum] 1990
+
+TA op telefoonnummer [telefoonnummer 4] - gebruiker [medeverdachte 1] geboren op [geboortedatum] 1990
+
+Uit de technische-actie op telefoonnummer [telefoonnummer 3] blijkt dat er contact is met een persoon die gebruik maakt van telefoonnummer [telefoonnummer 5] . De gebruiker van dit nummer blijkt te zijn: [medeverdachte 5] geboren op [geboortedatum] 1979.
+
+5 december 2014 15:46:56 uur – gesprek 2801
+
+Uit de technische actie op telefoonnummer [telefoonnummer 3] ( [verdachte] ) blijkt dat op 5 december 2014 te 15:46:56 uur een gesprek plaatsvond tussen [verdachte] en [medeverdachte 5] .
+
+[medeverdachte 5] : Die vriend van mij had gebeld, ik ga volgende week met hem wat eten, op woensdag. [verdachte] : Volgende week woensdag?
+
+[medeverdachte 5] : ja tussen twee en drie
+
+[verdachte] : oei
+
+[medeverdachte 5] : dat zat ik ook al te denken.
+
+[verdachte] : komt ie je halen bij school?
+
+[medeverdachte 5] : Ja gewoon hier. Nee dan die scholen zijn uit rond dat tijdstip, tenminste die van...
+
+[verdachte] : aan de ene kant beter
+
+[medeverdachte 5] : ja dat zat ik al te denken. Aan de ene kant denk je shit, maar aan de andere kant er lopen wel veel mensen dan.
+
+[medeverdachte 5] : weet je, tussen 2 en 3 moet ik gewoon klaar zijn en dan...
+
+Verdere voorbereiding nieuwe beroving
+
+In de hierop volgende dagen vinden meerdere gesprekken plaats tussen [medeverdachte 5] en [verdachte] (’90) en [verdachte] (’90) en [medeverdachte 1] . Deze gesprekken gaan zeer waarschijnlijk over de voorbereiding en uitvoering van een nieuwe beroving. Onder andere moet [medeverdachte 1] (telefoongesprek 8 december 2014 te 15:03:47 uur) in opdracht van [verdachte] (’90) drie telefoons kopen bij de Kijkshop. Na de aanhouding van [medeverdachte 1] werden tijdens zijn insluitingsfouillering twee aankoopbonnen van de Kijkshop aangetroffen. Dit betrof de aankoop van drie Samsungtoestellen. Deze aankopen hebben plaatsgevonden op 8 december 2014 15:35 uur en 15:36 uur.
+
+10 december 2014 (actiedag)
+
+13:18:15 uur - gesprek 38 (12DORA)
+
+[medeverdachte 5] wordt gebeld door een onbekende man die haar herinnert dat zij straks wordt opgehaald.
+
+[medeverdachte 5] zegt dat ze al klaar staat.
+
+De onbekende man belt vanaf hetzelfde telefoonnummer als in gesprek 21 voornoemd. Dit betreft een contact vanuit de Colombiaanse organisatie. (Informatie 12DORA).
+
+13:22:39 uur - gesprek 3334 (13KNOLRAAP)
+
+[medeverdachte 5] zegt dat ze net gebeld is. [verdachte] zegt tegen haar dat ze de koffer vast open moet leggen.
+
+13:28:48 uur - gesprek 3335 (13KNOLRAAP)
+
+[verdachte] zegt dat als ze er zijn dat [medeverdachte 5] op die andere pokkie moet bellen want deze gaat weg. Voor de zekerheid houdt [verdachte] deze bij zich. [verdachte] zegt tegen [medeverdachte 5] dat als ze er zijn: boem boem en ook als het er is: boem, of het gebeurt eerder.
+
+13:39:24 uur — gesprek 3336 (13KNOLRAAP)
+
+[verdachte] zegt dat [medeverdachte 5] moet laten weten als ze er zijn en bij dat andere. Ze belt als ze er zijn en ze sms’t voor dat andere. [medeverdachte 5] moet ook proberen te sms-en als ze weg gaat, als haar koffer dicht gaat. Ze gaat haar best doen.
+
+13:56:19 uur—gesprek 3338 (13KNOLRAAP)
+
+[verdachte] zegt dat [medeverdachte 5] moet bellen als ze er zijn. En als het er is moet ze bellen. [medeverdachte 5] vraagt of ze moet bellen of sms-en. [verdachte] zegt dat als het er is moet [medeverdachte 5] ‘ja’ sms-en en als het er niet is ‘nee’. Dat houdt dan in dat die andere dan nog moet komen zegt [verdachte] .
+
+[medeverdachte 5] kan gewoon op dit nummer bellen.
+
+14:05 uur — observatie 1 aanhouding verdachten
+
+Aanhouding van de verdachten [verdachte] (‘90), [medeverdachte 1] , [verdachte] (‘63) en [medeverdachte 3] op de [c-straat] te Amsterdam.
+
+14:50 uur — observatie
+
+Een onbekende man stapt uit een Peugeot voorzien van kenteken [kenteken 1] en loopt richting de woning van [medeverdachte 5] . In zijn linkerhand draagt de man een plastic tas van Albert Heijn. Deze onbekende man blijkt later te zijn genaamd [betrokkene 1] .
+
+14:55 en 15:05 uur— proces-verbaal uitlezen telefoon -8986
+
+Uit digitaal onderzoek in een Samsung E1200 voorzien van IMEl-nummer [001] is gebleken dat hierin een simkaart aanwezig was waaraan telefoonnummer [telefoonnummer 6] is gekoppeld. Deze telefoon werd in beslag genomen tijdens de aanhouding van de verdachten op de [c-straat] te Amsterdam. Voornoemde telefoon lag op tafel op het terras.
+
+Om 14:55 uur blijkt op dit telefoonnummer een sms-bericht te zijn binnengekomen, afkomstig van telefoonnummer [telefoonnummer 7] . De inhoud van het bericht luidt: “Ja”.
+
+Om 15:05 uur komt een sms-bericht binnen van hetzelfde telefoonnummer met de tekst: “vertrek nu’.
+
+15:08 uur - observatie
+
+[medeverdachte 5] en [betrokkene 1] verlaten de woning van [medeverdachte 5] en lopen richting de voornoemde Peugeot. [betrokkene 1] neemt een blauw/grijze koffer mee en plaatst deze in de Peugeot. Vervolgens rijdt de Peugeot met beide personen weg. [betrokkene 1] is de bestuurder.
+
+15:10:28 uur —gesprek 3346 (13KNOLRAAP)
+
+Er werd sms-bericht verstuurd vanaf het telefoonnummer van [medeverdachte 5] , ... [telefoonnummer 5] , naar het telefoonnummer van [verdachte] , ... [telefoonnummer 3] . De inhoud van het bericht luidt: “Waar bn je”.
+
+15.20
+
+15.20 uur:
+
+Peugeot rijdt richting snelweg A10 en keert om. Peugeot rijdt weer richting de woning van [medeverdachte 5] .
+
+15.22
+
+15.22 uur:
+
+[medeverdachte 5] stapt uit en loopt nu richting haar woning, zonder koffer.
+
+15.24
+
+15.24 uur:
+
+[medeverdachte 5] loopt weer richting Peugeot.
+
+In de tijd dat [medeverdachte 5] tussen 15.22 uur en 15:24 uur uit de Peugeot is, wordt er vanaf haar telefoonnummer ... [telefoonnummer 5] zes (6) keer geprobeerd te bellen naar het telefoonnummer ... [telefoonnummer 3] van [verdachte] .
+
+15.25
+
+15.25 uur:
+
+Peugeot gaat weer rijden.
+
+Vanuit de regiekamer hebben wij, verbalisanten, waargenomen dat de Peugeot vervolgens onder constante observatie is geweest. De Peugeot heeft tot de aanhouding van [medeverdachte 5] en [betrokkene 1] geen stops gemaakt. Er is geen koffer meer uit de Peugeot gehaald en ook geen koffer meer in de Peugeot gegaan. Na de aanhouding is er één koffer in de Peugeot aangetroffen, blauw/grijs van kleur. Deze koffer werd aangetroffen in de kofferbak.
+
+16:19:13 uur - gesprek 3372 (13KNOLRAAP)
+
+Vanaf telefoonnummer van [medeverdachte 5] , ... [telefoonnummer 5] , wordt een sms-bericht gestuurd naar het telefoonnummer van [verdachte] ... [telefoonnummer 3] . De inhoud van het bericht luidt: “?????“.
+
+16.52
+
+16.52 uur - observatie/aanhouding verdachten
+
+[medeverdachte 5] en [betrokkene 1] worden aangehouden op de Rijksweg A27 richting België. Vanaf het tijdstip dat [verdachte] is aangehouden tot het moment dat [medeverdachte 5] is aangehouden is er dertig (30) keer gebeld vanaf het nummer van [medeverdachte 5] , ... [telefoonnummer 5] , naar het telefoonnummer van [verdachte] , ... [telefoonnummer 3] . Er is geen contact geweest tussen [medeverdachte 5] en [verdachte] aangezien [verdachte] om 14:05 uur werd aangehouden.
+
+Zoeking Peugeot
+
+In de Peugeot voorzien van kenteken [kenteken 1] is doorzocht. In de kofferbak is een blauw/grijze koffer aangetroffen. Naast kleding en schoeisel werd in de koffer ook kinderspeelgoed aangetroffen, te weten:
+
+- Groenkleurige kapstok -> in verborgen ruimtes aangetroffen: twee pakketjes van bankbiljetten van EUR 500,-
+
+- Blauwkleurige snijplank -> in verborgen ruimtes aangetroffen: twee pakketjes van bankbiljetten van EUR 500,-
+
+- Kinderpuzzel -> paarse bankbiljetten aangetroffen (mogelijk biljetten van EUR 500,-)
+
+- Vliegticket op naam van [medeverdachte 5] geboren via Zürich naar Hong Kong.
+
+Bij telling bleek het totale geldbedrag te zijn: EUR 374.000,-.
+
+Zoeking Opel Astra en Kia Soul
+
+Tijdens een doorzoeking in de Opel Astra op naam van de moeder van [medeverdachte 1] , welke in de omgeving van de woning van [medeverdachte 5] is aangetroffen, zijn 3 balaclava’s aangetroffen. In de Kia Soul, op naam van de vader van [medeverdachte 3] , welke eveneens in de omgeving van de woning van [medeverdachte 5] is aangetroffen, is een bivakmuts aangetroffen.
+
+5. Een proces-verbaal van stelselmatige observatie van 10 december 2014 (doorgenummerde pag. zaaksdossier 4, 60078-60080).
+
+Dit proces-verbaal houdt onder meer in als verklaring van de verbalisanten F140, G123, G112, F180, G147, G159 en G140, zakelijk weergegeven:
+
+Op woensdag 10 december 2014 werden observatiewerkzaamheden verricht, waarbij de navolgende waarnemingen zijn gedaan:
+
+13.51: Wordt door G123 gezien: [verdachte] (het hof begrijpt: [verdachte]) en [medeverdachte 1] stappen in een zwarte Kia Soul die staat geparkeerd in de [d-straat]. Dit voertuig is voorzien van kenteken [kenteken 2] en zal verder worden aangeduid als de Kia. Er zitten twee personen in, waarvan één een zwarte muts draagt.
+
+13.54: Wordt door G147 en G159 gezien dat de Kia rijdt over de [c-straat] . Gezien wordt dat 4 personen uitstappen, te weten [verdachte] , [medeverdachte 1] en twee mannen, een blanke man met donker haar en zwarte kleding (het hof begrijpt: [medeverdachte 3] ) en een negroïde man die een zwarte muts draagt en zwarte bovenkleding (het hof begrijpt: [medeverdachte 6]). Door G159 wordt gezien dat ze weglopen bij de Kia en blijven staan voor horecagelegenheid [A], gevestigd [c-straat 1].
+
+6. Een geschrift zijnde een tapgesprek van 10 december 2014 (doorgenummerde pag. zaaksdossier 4, 60172).
+
+Dit geschrift houdt onder meer in, zakelijk weergegeven:
+
+Beller: [verdachte]
+
+Gebelde: [medeverdachte 5]
+
+zegt dat zij zojuist gebeld is. De man vroeg of zij er klaar voor was. Hij komt straks.
+
+[verdachte]: houdt dat ding open he? die koffer, leg hem alvast open he
+
+[medeverdachte 5]: ja
+
+7. Een proces-verbaal van 9 december 2014 (doorgenummerde pag. zaaksdossier 4, 70004-70008).
+
+Dit proces-verbaal houdt onder meer in als verklaring van de verbalisanten G110, G139, G147, G159, G124, G141, G151 en G166, zakelijk weergegeven:
+
+Op dinsdag 9 december 2014 werden observatiewerkzaamheden verricht, waarbij de navolgende waarnemingen zijn gedaan:
+
+17:39 uur:
+
+G151 ziet dat [medeverdachte 6] en [verdachte] lopen vanaf de [d-straat] richting de binnentuinen van de [e-straat]. Deze binnenplaats zal verder “de binnentuinen” genoemd worden
+
+G151 ziet [medeverdachte 6] en [verdachte] “de binnentuinen” inlopen.
+
+17:40 uur:
+
+G151 ziet [medeverdachte 6] en [verdachte] “de binnentuinen” uitlopen.
+
+17:41 uur:
+
+G141 ziet beiden de woning [e-straat 1] binnengaan.
+
+8. Een proces-verbaal van bevindingen van 11 december 2014 (doorgenummerde pag. zaaksdossier 4, 50001-50002).
+
+Dit proces-verbaal houdt onder meer in als verklaring van de verbalisant [verbalisant 4], zakelijk weergegeven:
+
+In de fouillering zaten onder andere de volgende goederen die vervolgens in beslag zijn genomen:
+
+[verdachte] (1990)
+
+• Zwarte bivakmuts
+
+• iPhone 6
+
+• BMW autosleutel
+
+[medeverdachte 6] (1963)
+
+• Zwarte Nike muts
+
+• 1 paar zwart/blauwe handschoenen
+
+[medeverdachte 1]
+
+• Zwarte bivakmuts
+
+• 1 paar zwarte handschoenen
+
+• Witte Samsung mobiele telefoon
+
+• Opel autosleutel
+
+[medeverdachte 3]
+
+• Zwarte Samsung mobiele telefoon
+
+• 1 paar zwarte handschoenen
+
+• iPhone 4
+
+• Kia autosleutel
+
+9. Een proces-verbaal van bevindingen van 11 december 2014 (doorgenummerde pag. zaaksdossier 4, 140012-140013).
+
+Dit proces-verbaal houdt onder meer in als verklaring van de verbalisant [verbalisant 5], zakelijk weergegeven:
+
+Op woensdag 10 december 2014 zijn meerdere aanhoudingen verricht en drie personenauto’s inbeslaggenomen. Dit betroffen:
+
+BMW 116i voorzien van het kenteken [kenteken 3]
+
+Kia Soul voorzien van het kenteken [kenteken 2]
+
+Opel Astra voorzien van het kenteken [kenteken 4]
+
+Samen met de collega’s [verbalisant 6] en [verbalisant 7] heb ik bovengenoemde voertuigen doorzocht op voorwerpen die vatbaar waren voor inbeslagname om de waarheid aan de dag te brengen.
+
+BMW 116i [kenteken 3]
+
+• Op de vloer van de achterbank, achter de bestuurderszijde, lagen 2 doorzichtige plastic zakken, 2 plastic haakjes, 2 kaartjes van 3-hole balaclava en 2 kaartjes Fortex balaclava.
+
+Kia Soul [kenteken 2]
+
+• In een zijvak in het portier passagierszijde voorin lag 1x bivakmuts met 3 gaten (2x ogen, 1x mond), kleur zwart.
+
+Opel Astra station [kenteken 4]
+
+• In de middenconsole met het dashboard lagen 2 GSM’s.
+
+Dit betrof 1x Samsung zwart met losse batterij. Telefoon is voorzien van het IMEI-nummer [002] en heeft als type aanduiding: GT-193011. Deze telefoon stond uit. De andere telefoon was 1x Samsung wit. Deze telefoon stond aan en is hierom niet bekeken op IMEI-nummer en type aanduiding.
+
+• Op de achterbank lag een Bob Marley rugzak. In deze rugzak zaten:
+
+- 1 paar Yamaha handschoenen, wit/rood/zwart. Dit zijn zogenoemde motorhandschoenen.
+
+- 2 balaclava mutsen, zwart. Dit betreffen mutsen met 1 opening.
+
+10. Een proces-verbaal van bevindingen van 12 december 2014 (doorgenummerde pag. zaaksdossier 1, 140001-140002).
+
+Dit proces-verbaal houdt onder meer in als verklaring van verbalisant [verbalisant 8], zakelijk weergegeven:
+
+Ik heb chats zichtbaar gemaakt tussen de verdachten [medeverdachte 3] [DA: klaarblijkelijk [medeverdachte 3] ] en [verdachte] , geboren [geboortedatum] 1990.
+
+Hieronder een weergave van de inhoud van de chats.
+
+[het hof begrijpt uit de bijlage: gesprek vanaf 9-12-2014 14:01:02 uur]
+
+[verdachte] : Okee je hebt tot kwart over 6 zo om daar te komen
+
+[verdachte] : Meer te doen gap verdient
+
+[verdachte] : Kk veel geld voor een taxiritje
+
+[verdachte] : Dus doe er maar een beetje moeite voor
+
+[medeverdachte 3] : Is het vandaag?
+
+[verdachte] : Kanker koen al gezegd
+
+[verdachte] : Morgen
+
+[verdachte] : Vandaag ga je kijken hoe of wat
+
+[medeverdachte 3] : Hoe laat moet dat gebeuren?
+
+[verdachte] : Gap jij bent er al half 1
+
+[medeverdachte 3] : Ja morgen ben ik er om half 1 man 100%.”
+
+8. Het hof heeft verder, voor zover hier van belang, het volgende overwogen:
+
+“Feit 1
+
+Vaststaat dat [verdachte], [medeverdachte 1] en [medeverdachte 5] het vooropgezette plan hadden om op woensdag 10 december 2014 een hoeveelheid geld te bemachtigen, die [medeverdachte 5] voor derden naar het buitenland zou vervoeren en waartoe op die datum een persoon bij haar langs zou komen. Daartoe hadden [verdachte] en [medeverdachte 1] verschillende voorwerpen voorhanden: voertuigen, bivakmutsen, handschoenen en telefoons. [verdachte] en [medeverdachte 1] zijn aangehouden op een terras nabij de woning van [medeverdachte 5] ; zij waren toen in gezelschap van [medeverdachte 6] en [medeverdachte 3] , die ook zijn aangehouden. Ten aanzien van [medeverdachte 6] is de vraag of ook hij een rol speelde bij de voorbereiding van de overval. Daarnaast is van belang of een diefstal met geweld of bedreiging met geweld besloten lag in de plannen van de verdachten. Het hof beantwoordt deze vragen bevestigend en overweegt hiertoe als volgt.
+
+Verklaring [medeverdachte 3]
+
+heeft tijdens zijn verhoor door de politie op 11 december 2014 samengevat verklaard dat hij wist dat de anderen een overval gingen plegen en dat hij in dat verband via een WhatsApp gesprek op 9 december 2014 met [verdachte] had afgesproken bij een appartement op […] waar de dag erna de overval zou plaatsvinden. Dat laatste wordt bevestigd door de in het dossier gevoegde uitdraai van dat WhatsApp gesprek. Uit dat gesprek blijkt dat [medeverdachte 3] op 9 december 2014 met [verdachte] afspreekt die dag te gaan kijken “hoe of wat”, blijkbaar om te zien waar hij de volgende dag moest zijn. [verdachte] had hem gevraagd om de volgende dag ‘die ouwe’ weg te brengen. Die ouwe (het hof begrijpt: [medeverdachte 6]) zou met iets uit het appartementencomplex komen. Zodra hij zou zijn ingestapt, moest [medeverdachte 3] richting Utrecht rijden. Verdere details van de overval kende [medeverdachte 3] naar eigen zeggen niet. [medeverdachte 3] heeft voorts verklaard dat hij op 10 december 2014 aldus weer met [verdachte] had afgesproken op […] , dat [verdachte] daar toen samen was met [medeverdachte 1] en [medeverdachte 6], dat [medeverdachte 6] vervolgens bij hem, [medeverdachte 3] , op de bijrijdersstoel is gaan zitten en dat die hem heeft gevraagd een rondje te rijden. Dat heeft [medeverdachte 3] gedaan, waarna hij volgens zijn eigen verklaring de in de buurt aanwezige [verdachte] en [medeverdachte 1] heeft opgepikt en naar het hiervoor bedoelde terras heeft gereden en zijn auto rechts naast het terras heeft geparkeerd, zoals steun vindt in observaties (p. 60079, tijdstip 13.51 uur en 13.54 uur).
+
+is later als getuige gehoord bij de rechter-commissaris. Hij heeft bij de rechter-commissaris verklaard dat zijn bij de politie afgelegde verklaring niet klopt, omdat hij onder druk werd gezet en hem woorden in de mond zijn gelegd. Ter terechtzitting in hoger beroep heeft [medeverdachte 3] als getuige eveneens verklaard dat zijn eerste verklaring niet juist was en dat hij bij de politie onder druk is gezet.
+
+Het hof hecht echter geloof aan de verklaring die [medeverdachte 3] kort na de gebeurtenissen bij de politie heeft afgelegd. Het hof overweegt omtrent de betrouwbaarheid van die verklaring als volgt. [medeverdachte 3] heeft bij de politie een gedetailleerde verklaring afgelegd, zoals hiervoor kort samengevat. Voorafgaand aan dat verhoor heeft [medeverdachte 3] twee maal met een advocaat gesproken (p. 40011). Uit het door hem op elke pagina ondertekende of geparafeerde proces-verbaal blijkt niet dat hem woorden in de mond zijn gelegd of dat hij onder druk is gezet. Een dag later werd [medeverdachte 3] , nadat hij opnieuw gelegenheid had gehad om met een advocaat te overleggen, in aanwezigheid van zijn advocaat gehoord door de rechtercommissaris bij de vordering tot inbewaringstelling. Bij die gelegenheid heeft [medeverdachte 3] niets gemeld over druk, woorden in de mond leggen of over de onjuistheid van zijn bij de politie afgelegde verklaring. [medeverdachte 3] heeft tijdens het verhoor ook uit eigen beweging details genoemd die aangemerkt kunnen worden als daderwetenschap, zoals bijvoorbeeld het appartementencomplex waar de overval plaats zou vinden en zijn mededeling dat die ouwe ( [medeverdachte 6]) met iets uit dat appartementencomplex zou komen en dat [medeverdachte 3] hem dan naar Utrecht zou brengen. Voor zover door de verdediging is betoogd dat hij een ander appartementencomplex heeft aangewezen, onder meer omdat dit niet aan de [d-straat] ligt, overweegt het hof dat het politiebureau […] zich bevindt op de hoek van de [b-straat] en de [d-straat], waarbij de [b-straat] de bredere en langere straat van de twee is. Het ligt daarom voor de hand dat [medeverdachte 3] met ‘die straat voor het politiebureau, die zijstraat’ de [d-straat] bedoelde. Het appartementencomplex waarin het appartement [e-straat 1] zich bevindt, grenst aan die straat en is het laatste huizenblok aan de rechterhand gezien vanaf de [b-straat] . [medeverdachte 3] heeft dus uit zichzelf het appartementencomplex aangewezen waar de overval zou plaatsvinden (te weten het appartementencomplex waar [medeverdachte 5] woonachtig is).
+
+Het hof acht gelet op al het voorgaande de verklaring die [medeverdachte 3] bij de politie heeft afgelegd betrouwbaar en zal deze als bewijsmiddel gebruiken.
+
+Mede gezien de verklaring van [medeverdachte 3] gaat het hof er vanuit dat het primaire plan van verdachten was om de hoeveelheid geld in of bij het appartementencomplex waar [medeverdachte 5] woonachtig is weg te nemen kort nadat het geld door iemand naar haar toe was gebracht. Uit de tapgesprekken van 10 december 2014 tussen [verdachte] en [medeverdachte 5] kan worden afgeleid dat zij op 10 december 2014 wisten dat er een man naar haar woning zou komen en haar zou gaan vergezellen. Deze man bleek later [betrokkene 1] te zijn.
+
+Dat de overval in of bij de woning zou plaatsvinden vindt steun in de tapgesprekken, waaronder een tapgesprek van 5 december 2014 (p. 60054), waarin [medeverdachte 5] spreekt over een afspraak ‘volgende week woensdag’ tussen 2 en 3, waarmee kennelijk is gedoeld op de afspraak van [medeverdachte 5] op 10 december 2014 met [betrokkene 1] . Daarbij bespreken [medeverdachte 5] en [verdachte] of het een voordeel of een nadeel is dat de scholen uitgaan rond dat tijdstip en dat er dan veel mensen lopen.
+
+Voorts vindt het steun in de communicatie tussen [verdachte] en [medeverdachte 5] op de dag van de overval zelf. [medeverdachte 5] moest van [verdachte] op het moment dat ‘het’ (het hof begrijpt het geld) er zou zijn een sms-bericht sturen aan [verdachte] met de tekst ‘ja’ en zij moest de koffer vast open leggen. Ook heeft [verdachte] in een tapgesprek tegen [medeverdachte 5] gezegd dat als ze er zouden zijn: “boem boem”, en ook als het er was: “boem boem” (het hof begrijpt dat er actie zou worden ondernomen zodra de perso(o)n(en) met het geld er zou(den) zijn). Kort nadat [betrokkene 1] arriveert, stuurt [medeverdachte 5] inderdaad een sms: “ja” en na tien minuten opnieuw een sms: “vertrek nu”. Om 15.08 uur, 3 minuten later, hebben [betrokkene 1] en [medeverdachte 5] het appartementencomplex samen verlaten, zo is waargenomen tijdens een observatie. Ze hadden een koffer bij zich. Op het moment dat [medeverdachte 5] net met [betrokkene 1] in de auto zat, stuurde ze wederom een sms-bericht naar [verdachte] met de inhoud: waar bn je? Het observatieteam heeft waargenomen dat de auto met daarin [betrokkene 1] en [medeverdachte 5] richting de AIO reed maar omkeerde en terugreed richting de woning van [medeverdachte 5] . Zij stapte uit en liep richting de woning. Uit de taps is gebleken dat zij toen zes keer [verdachte] heeft gebeld. Daarna is ze weer in de auto gestapt die toen wegreed. Ook dit past in het scenario dat de diefstal van het geld in of bij het appartementencomplex had moeten plaatsvinden, maar dat dit door de arrestatie van de mannelijke verdachten is mislukt.
+
+Het hof volgt het door de verdediging geschetste alternatieve scenario dus niet. Dit scenario houdt in dat [medeverdachte 5] ervoor zou zorgen dat ze op een goed moment ergens bij een tankstation alleen in de auto zou zitten, dus zonder [betrokkene 1] , en dan zouden [verdachte] en [medeverdachte 1] met een bivakmuts op de koffer (met daarin het geld) van haar overnemen. [medeverdachte 5] was hiervan op de hoogte en zou hieraan meewerken, zodat er geen geweld zou worden gebruikt of daarmee zou worden gedreigd. [medeverdachte 6] zou in dit scenario alleen toevallig op het terras aanwezig zijn geweest om een biertje met zijn zoon en [medeverdachte 1] te drinken en [medeverdachte 3] zou aanwezig zijn geweest om [medeverdachte 6] op enig moment naar huis te brengen. Dit alternatieve scenario vindt geen steun in de stukken van het dossier, is in een laat stadium gepresenteerd en wordt als ongeloofwaardig terzijde geschoven. Hierbij merkt het hof op dat het gesprek van 23 november 2014, waar de raadsman in dit verband naar verwijst, niet zozeer ziet op een plan om [medeverdachte 5] en haar metgezel te gaan volgen maar eerder lijkt te zien op de vraag wat te doen als de persoon van de organisatie niet met het geld zou komen en [medeverdachte 5] mee zou nemen naar een andere plek om daar het geld te overhandigen (vgl. ook het gesprek tussen [verdachte] en [medeverdachte 1] op p. 60026), een situatie die zich niet heeft voorgedaan en waarvan ook overigens niet uit de stukken blijkt dat die te verwachten was.
+
+In het plan om geld in of bij het appartementencomplex van [medeverdachte 5] weg te gaan nemen ligt het gebruik van geweld dan wel bedreiging met geweld besloten. Het hof acht niet aannemelijk dat de persoon die het geld zou komen brengen, naar later bleek [betrokkene 1] , de grote som geld, vrijwillig en zonder verzet zou afgeven aan of laten meenemen door verdachten. Het gebruik van geweld dan wel de bedreiging met geweld zou dan ook nodig zijn geweest om de diefstal te voltooien. Dat er geen wapens bij de aangehouden verdachten zijn aangetroffen doet, mede gelet op het postuur van [verdachte] en [medeverdachte 1] , het getalsmatige overwicht van verdachten, en de dreiging die uitgaat van personen met bivakmutsen, aan deze gevolgtrekking niet af.
+
+Ten aanzien van de wederrechtelijkheid van het wegnemen op zichzelf overweegt het hof tot slot nog als volgt. [medeverdachte 5] heeft ter terechtzitting in hoger beroep verklaard dat zij het geld zou vervoeren voor andere mensen. Verder heeft zij niet willen verklaren over de mensen voor wie zij het geld zou gaan vervoeren. Het hof stelt vast dat het geld kennelijk toebehoorde aan deze mensen, hierna ‘de organisatie’ genoemd, en in elk geval niet aan haar. Daardoor zou er, ongeacht het antwoord op de vraag of ‘de organisatie’ illegaal over het geld beschikte, sprake zijn van een wederrechtelijk wegnemen van het geld indien het tot een uitvoering van het voorgenomen delict zou zijn gekomen.
+
+Betrokkenheid [medeverdachte 6]
+
+(…)
+
+Voorwerpen bestemd voor het begaan van een misdrijf
+
+(…)
+
+Conclusie
+
+Het hof acht bewezen dat [verdachte], [medeverdachte 1] , [medeverdachte 5] en [medeverdachte 6] ter voorbereiding van een diefstal met geweld en/of bedreiging met geweld drie voertuigen, bivakmutsen, handschoenen en mobiele telefoons voorhanden hebben gehad, zoals onder 1 ten laste is gelegd.”
+
+9. De centrale vraag is of het hof uit de bewijsmiddelen heeft kunnen afleiden dat het opzet van de verdachte en zijn medeverdachten (ook) gericht was op het toepassen van, of bedreiging met geweld tijdens de roofoverval. In het bijzonder is het middel gericht tegen de vaststelling van het hof dat de overval zou plaatsvinden in of nabij het appartementencomplex van [medeverdachte 5] . Die locatie is van belang nu volgens het hof daarin “het gebruik van geweld dan wel bedreiging met geweld [ligt] besloten.”
+
+10. Ter terechtzitting is door de verdachten aangevoerd dat het de bedoeling was de roof geweldloos te laten verlopen: [medeverdachte 5] zou de verdachte op de hoogte houden wanneer zij – met het geld en onder begeleiding van [betrokkene 1] – van het appartement zou vertrekken zodat de verdachte en [medeverdachte 1] haar konden volgen. Onderweg zou zij zich met de koffer met geld aan haar begeleider onttrekken, kennelijk door [betrokkene 1] bij een tankstation te laten stoppen om water of pijnstillers voor haar te halen. Op dat moment zouden de verdachte en [medeverdachte 1] kunnen toeslaan en haar ‘overvallen’. Het hof hecht aan deze versie echter geen geloof en schuift, zoals uit de overwegingen hierboven blijkt, dit scenario terzijde.
+
+11. In gevallen waarin de uitvoering van een diefstal beperkt blijft tot de fase van voorbereiding of poging daarvan, zal vanzelfsprekend van de omringende omstandigheden afhangen of het voorgenomen geweld (of de dreiging ermee) bewezen verklaard kan worden. Indien bij de verdachte (vuur)wapens worden aangetroffen, zal doorgaans het bewijs van opzet op (bedreiging met) geweld weinig hindernissen opwerpen. Dat geen wapens worden aangetroffen, sluit evenwel niet uit dat andere omstandigheden en de context van het misdrijf toch kunnen leiden tot de conclusie dat de verdachte (voorwaardelijk) opzet had op diefstal met (bedreiging met) geweld.
+
+12. De gevolgtrekking dat de overval had moeten plaatsvinden in of bij het appartement van [medeverdachte 5] , leidt het hof met name af uit de verklaring van [medeverdachte 3] . Die verklaring houdt in dat hij wist dat daar op 10 december 2014 een overval zou plaatsvinden. Zijn belangrijkste taak voor die dag was om [medeverdachte 6]. naar Utrecht te brengen zodra hij met iets uit het appartementencomplex zou komen. Met de verdachte was [medeverdachte 3] de dag voorafgaand aan de overval, kennelijk bij wijze van voorverkenning, bij het appartement gaan kijken “hoe of wat”. Deze lezing wordt onder meer gesterkt doordat ook [medeverdachte 6] met zijn zoon op 9 december 2014 bij het appartement en op de binnenplaats van het complex zijn gesignaleerd, door de berichten tussen de verdachte en [medeverdachte 5] over de vraag of het gunstig is dat het druk is rond de school voor het appartement op het moment dat het geld wordt gebracht, door de berichten die [medeverdachte 5] aan de verdachte stuurt op 10 december 2014 met de boodschap dat het geld er is en dat ze vertrekken, doordat zij terugkeert naar het appartement als de verdachten niet komen opdagen, doordat de verdachten om de hoek van het appartement worden aangehouden en doordat enkele bivakmutsen en handschoenen in hun voertuigen worden gevonden. De gevolgtrekking van het hof dat de overval moest plaatsvinden in of bij het appartement is in het licht van de bewijsvoering niet onbegrijpelijk.
+
+13. Voor het oordeel dat de verdachten opzet hadden op (bedreiging met) geweld, hanteert het hof de volgende redenering, ik herhaal:
+
+“Het hof acht niet aannemelijk dat de persoon die het geld zou komen brengen, naar later bleek [betrokkene 1] , de grote som geld, vrijwillig en zonder verzet zou afgeven aan of laten meenemen door verdachten. Het gebruik van geweld dan wel de bedreiging met geweld zou dan ook nodig zijn geweest om de diefstal te voltooien. Dat er geen wapens bij de aangehouden verdachten zijn aangetroffen doet, mede gelet op het postuur van [verdachte] en [medeverdachte 1] , het getalsmatige overwicht van verdachten, en de dreiging die uitgaat van personen met bivakmutsen, aan deze gevolgtrekking niet af.”
+
+14. Een dergelijke redenering is vergelijkbaar met overwegingen in strafzaken waarin een verdachte wordt vervolgd voor een ripdeal en hij het voornemen van geweld betwist. Het ligt niet voor de hand dat het slachtoffer van een overval of ripdeal (in dit geval [betrokkene 1] ) zich zomaar ruim drieënhalf ton cash afhandig laat maken. De kans op de toepassing van (of dreiging met) geweld was dan ook aanmerkelijk. Niet voor niets werd het klusje van de ‘overval’ uitbesteed aan de verdachte en [medeverdachte 1] (en niet aan bijvoorbeeld [medeverdachte 6]. of [medeverdachte 5] zelf).
+
+15. De omstandigheid dat [medeverdachte 3] heeft verklaard dat het geld van [medeverdachte 5] zou worden afgenomen zodat het niet voor de hand ligt dat geweld zou worden gebruikt – vermoedelijk omdat [medeverdachte 5] bij het plan betrokken was en dus ‘één van hun’ was – doet daaraan niet af. Weliswaar was [betrokkene 1] in haar appartement om het geld aan haar over te dragen, hij zou haar ook minstens naar Brussel begeleiden. Ik begrijp het hof zo dat het van oordeel is dat het geld zodoende niet (volledig) aan [medeverdachte 5] was toevertrouwd. Het is dan ook onwaarschijnlijk dat [betrokkene 1] zonder verzet zou toelaten dat geld wordt geroofd dat aan ‘de organisatie’ toebehoort, en daarmee ook aan hem (en [medeverdachte 5] ) als onderdeel van de organisatie. Dat oordeel is in het licht van de bewijsvoering niet onbegrijpelijk en voldoende gemotiveerd.
+
+16. Ambtshalve heb ik geen gronden aangetroffen die tot vernietiging van de bestreden uitspraak aanleiding behoren te geven.
+
+17. Deze conclusie strekt tot verwerping van het beroep.
+
+De procureur-generaal
+
+bij de Hoge Raad der Nederlanden
+
+AG
+
+De rechtbank Noord-Holland veroordeelde [medeverdachte 5] bij vonnis van 25 oktober 2016 (parketnummer 15/872172-14 (P)) voor het witwassen (verwerven en voorhanden hebben) van dat geldbedrag.
+
+De verdachten verklaren in grote lijnen hetzelfde.
+
+Vgl. HR 17 september 2002, ECLI:NL:HR:2002:AE4200 (middel 2, afgedaan met art. 81 RO; de klacht is uitgebreider behandeld in de conclusie van Machielse onder 4.1 e.v.); HR 4 november 2014, ECLI:NL:HR:2014:3099; (mijn conclusie voorafgaand aan) HR 6 maart 2018, ECLI:NL:HR:2018:304; HR 22 mei 2018, ECLI:NL:HR:2018:740; HR 18 september 2018, ECLI:NL:HR:2018:1693 (zie m.n. de onder 18 weergegeven overwegingen van het hof); HR 11 februari 2020, ECLI:NL:HR:2020:235; HR 18 februari 2020, ECLI:NL:HR:2020:281 (overweging van het hof onder 2.2.3 m.b.t. de voorzienbaarheid van het gebruik van geweld; de Hoge Raad casseert in deze zaak wel vanwege de ontoereikende motivering dat het opzet is gericht op het medeplegen van poging doodslag vereist een uitgebreidere motivering); (de conclusie van Bleichrodt voorafgaand aan) de niet-gepubliceerde zaak HR 21 mei 2019, 18/00447 en de overweging zoals is opgenomen onder punt 7 van mijn conclusie voorafgaand aan de eveneens niet gepubliceerde uitspraak van HR 2 juni 2020, 19/00035.
