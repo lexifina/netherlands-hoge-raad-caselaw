@@ -8,7 +8,7 @@ published: "2020-07-17"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:704"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 31-07-2020", "V-N Vandaag 2020/1924", "FutD 2020-2237", "NLF 2020/1787 met annotatie van Jelle van den Berg", "V-N 2020/40.3 met annotatie van Redactie", "NTFR 2020/2367 met annotatie van Mr. A.J.M. Arends"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1924", "NLF 2020/1787 met annotatie van Jelle van den Berg", "V-N 2020/40.3 met annotatie van Redactie", "NTFR 2020/2367 met annotatie van Mr. A.J.M. Arends", "FutD 2020-2237", "Viditax (FutD) 2020073101"]
 ---
 
 # ECLI:NL:PHR:2020:704 Parket bij de Hoge Raad , 17-07-2020 / 19/05223
