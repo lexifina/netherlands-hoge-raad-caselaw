@@ -8,7 +8,7 @@ published: "2020-08-20"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:717"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 04-09-2020", "FutD 2020-2490", "V-N Vandaag 2020/2088", "NTFR 2020/2571 met annotatie van Mr. D.C. Simonis", "NLF 2020/2032 met annotatie van Yves Gassler", "V-N 2020/45.13 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2088", "NLF 2020/2032 met annotatie van mr. dr. Y.E. Gassler MRE", "V-N 2020/45.13 met annotatie van Redactie", "NTFR 2020/2571 met annotatie van Mr. D.C. Simonis", "FutD 2020-2490", "Viditax (FutD) 2020090403"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:585"]]
 ---
 
