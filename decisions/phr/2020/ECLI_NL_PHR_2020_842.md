@@ -8,7 +8,7 @@ published: "2020-09-24"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:842"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2395", "FutD 2020-2930", "Viditax (FutD), 09-10-2020", "NLF 2020/2230 met annotatie van Theo Hoogwout", "V-N 2020/54.6 met annotatie van Redactie", "NTFR 2020/3153 met annotatie van mr. J. Nieuwenhuizen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2395", "NLF 2020/2230 met annotatie van Theo Hoogwout", "V-N 2020/54.6 met annotatie van Redactie", "NTFR 2020/3153 met annotatie van mr. J. Nieuwenhuizen", "FutD 2020-2930", "Viditax (FutD) 2020100903"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:367"]]
 ---
 
