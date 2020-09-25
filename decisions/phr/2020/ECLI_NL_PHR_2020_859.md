@@ -8,7 +8,7 @@ published: "2020-09-28"
 type: "conclusie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:859"
-published_in: ["Rechtspraak.nl", "JIN 2021/19 met annotatie van Vlodrop, A.M.W. van"]
+published_in: ["Rechtspraak.nl", "JIN 2021/19 met annotatie van Vlodrop, A.M.W. van", "JAR 2021/70 met annotatie van Dop, J."]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:188, Gevolgd"]]
 ---
 
@@ -1028,7 +1028,7 @@ Aanvankelijk noemde de tekst ook (verzoeken op basis van) art. 7:673a en 7:673d 
 
 Zie bijvoorbeeld J.M. Slooten, in L.G. Verburg e.a. (red.), Wetsvoorstel Wet werk en zekerheid (33818), Deventer: Kluwer 2014, p. 176-177, SDU Commentaar Arbeidsrecht Thematisch, Den Haag: Sdu 2020, art. 7:686a BW (W.J.J. Wetzels en P.G. Vestering), C.7 en G.C. Boot, Arbeidsprocesrecht, Deventer: Wolters Kluwer 2019, nr. 68.
 
-Verzamelwet SZW 2019 (https://www.navigator.nl/document/openCitation/id874b63c2d5ce4790bad04e80eb771e3e), Stb. 2018/424. Zie nader SDU Commentaar Arbeidsrecht Thematisch, Den Haag: Sdu 2020, art. 7:686a BW (W.J.J. Wetzels en P.G. Vestering), C.7.
+Verzamelwet SZW 2019, Stb. 2018/424. Zie nader SDU Commentaar Arbeidsrecht Thematisch, Den Haag: Sdu 2020, art. 7:686a BW (W.J.J. Wetzels en P.G. Vestering), C.7.
 
 Zie in dit verband bijvoorbeeld Asser Verbintenissenrecht/C.H. Sieburgh, Deel 6-II. De verbintenis in het algemeen, tweede gedeelte, Deventer: Wolters Kluwer 2017, nrs. 380a en 436, SDU Commentaar Arbeidsrecht Thematisch, Den Haag: Sdu 2020, art. 7:686a BW (W.J.J. Wetzels en P.G. Vestering), C.4 en S.F. Sagel en M.B. Kerkhof, in F.J.L. Pennings en L.C.J. Sprengers (red.), Ontslagrecht in hoofdlijnen, Deventer: Wolters Kluwer 2020, p. 154 die verwijzen naar de rechtspraak van Uw Raad over de overschrijding van de vervaltermijn in art. 9 Buitengewoon Besluit Arbeidsverhoudingen.
 
