@@ -401,7 +401,7 @@ In de officiële verdragstalen: "judgment" means a decision or order of a court 
 
 Verdrag van Wenen van 23 mei 1969, Trb. 1972, 51; zie ook Trb. 1985, 79.
 
-Zie voor het beroep op de op de voorbereidende werkzaamheden (‘travaux préparatoires’) van een verdrag onder meer: HR 29 mei 2020, ECLI:NL:HR:2020:956 (https://www.navigator.nl/document/idd4fee1196ff944f8b25c6dd563e195db?anchor=id-51fece9f-5684-44a1-9202-8e183b51aec7), NJ 2020/280, m.nt. L. Strikwerda (rov. 3.1.3).
+Zie voor het beroep op de op de voorbereidende werkzaamheden (‘travaux préparatoires’) van een verdrag onder meer: HR 29 mei 2020, ECLI:NL:HR:2020:956, NJ 2020/280, m.nt. L. Strikwerda (rov. 3.1.3).
 
 Explanatory report, blz. 3. te raadplegen via coe.int.
 
