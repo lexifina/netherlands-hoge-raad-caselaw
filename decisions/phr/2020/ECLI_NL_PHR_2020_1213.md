@@ -8,7 +8,8 @@ published: "2021-01-07"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2020:1213"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 29-01-2021", "FutD 2021-0316", "V-N Vandaag 2021/230", "NTFR 2021/511 met annotatie van De redactie", "DouaneUpdate 2021-0090 met annotatie van Fiscaal up to Date", "V-N 2021/10.16 met annotatie van Redactie", "NLF 2021/0421 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/230", "V-N 2021/10.16 met annotatie van Redactie", "NLF 2021/0421", "DouaneUpdate 2021-0090", "FutD 2021-0316", "Viditax (FutD) 2021012909"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2023:187"]]
 ---
 
 # ECLI:NL:PHR:2020:1213 Parket bij de Hoge Raad , 31-12-2020 / 19/05853
