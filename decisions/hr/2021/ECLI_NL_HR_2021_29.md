@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:29"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/58", "V-N 2021/4.23.2"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/58", "V-N 2021/4.23.2", "FutD 2021-0073", "Viditax (FutD) 2021010817"]
 ---
 
 # ECLI:NL:HR:2021:29 Hoge Raad , 08-01-2021 / 20/00863
