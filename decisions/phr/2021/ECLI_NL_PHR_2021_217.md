@@ -8,14 +8,15 @@ published: "2021-03-05"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2021:217"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2021/143"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:1345, Gevolgd"]]
 ---
 
 # ECLI:NL:PHR:2021:217 Parket bij de Hoge Raad , 05-03-2021 / 20/01375
 
 ## Inhoudsindicatie
 
-Vermogensrecht. Art. 3:34 BW. Is testament nietig omdat erflaatster vanwege vasculaire dementie, althans afgenomen geestelijke vermogens, niet in staat was om haar wil te bepalen? Het hof beantwoordt, na inschakeling deskundige en horen van getuigen, deze vraag ontkennend. In cassatie o.a. klachten over het buiten beschouwing laten van essentiële stellingen en producties, de bewijswaardering, de omvang van de rechtsstrijd en de totstandkoming van het deskundigenrapport. Rol notaris bij beoordeling wilsbekwaamheid testateur. Stelplicht en bewijslast art. 3:34 BW.
+Art. 81 lid 1 RO. Vermogensrecht. Testament. Onterving. Nietigheid ingevolge art. 3:34 BW? Reageren op producties? Passeren essentiële stellingen en bewijsaanbod? Bewijswaardering.
 
 ## Conclusie
 
@@ -611,7 +612,7 @@ In rov. 2.1 van het eindarrest staat abusievelijk dat het gaat om de producties 
 
 Zie G. de Groot, Civiel deskundigenbewijs, Mon. Burgerlijk procesrecht, 2019, p. 94; G. de Groot, Het deskundigenadvies in de civiele procedure, diss., 2008, nr. 7.4.2.1.
 
-EHRM 18 maart 1997, ECLI:NL:XX:1997:AD4449 (https://www.navigator.nl/document/id5219970318ehrm01admusp?h1=((Mantovanelli%2C%20tegen%20Frankrijk))%2C((NJ%201998%2C%20278))&anchor=id-585cf56dfacb11bbf523b213ca22b6c6), NJ 1998, 278 (https://www.navigator.nl/document/id5219970318ehrm01nj1998278dosred), m.nt. H.J. Snijders (Mantovanelli/Frankrijk).
+EHRM 18 maart 1997, ECLI:NL:XX:1997:AD4449, NJ 1998, 278, m.nt. H.J. Snijders (Mantovanelli/Frankrijk).
 
 Zie M.J.A.H. Ahsmann, De weg naar het civiele vonnis, 2020, p. 379.
 
