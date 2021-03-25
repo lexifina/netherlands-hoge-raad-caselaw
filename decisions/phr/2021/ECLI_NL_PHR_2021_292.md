@@ -8,7 +8,7 @@ published: "2021-03-25"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2021:292"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 16-04-2021", "FutD 2021-1239 met annotatie van Fiscaal up to Date", "V-N Vandaag 2021/943", "NTFR 2021/1414 met annotatie van mr. B. Schaafsma", "V-N 2021/21.5 met annotatie van Redactie", "NLF 2021/0931 met annotatie van Theo Hoogwout"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/943", "V-N 2021/21.5 met annotatie van Redactie", "NLF 2021/0931 met annotatie van Theo Hoogwout", "NTFR 2021/1414 met annotatie van mr. B. Schaafsma", "FutD 2021-1239", "Viditax (FutD) 2021041601"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:963"]]
 ---
 
