@@ -8,7 +8,7 @@ published: "2021-03-25"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2021:293"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 29-03-2021", "V-N Vandaag 2021/783", "FutD 2021-1077 met annotatie van Fiscaal up to Date", "NTFR 2021/1340 met annotatie van mr. J. de Haan", "V-N 2021/18.5 met annotatie van Redactie", "NLF 2021/0827 met annotatie van Theo Hoogwout"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/783", "V-N 2021/18.5 met annotatie van Redactie", "NLF 2021/0827 met annotatie van Theo Hoogwout", "NTFR 2021/1340 met annotatie van mr. J. de Haan", "FutD 2021-1077", "Viditax (FutD) 2021032901"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:1047"]]
 ---
 
@@ -711,7 +711,7 @@ Pauwels gaat hierop in in zijn aantekening in FED 2017/119. Volgens hem moet uw 
 
 18. Het mogelijke verschil tussen de tweefasentoets en de overkoepelende toets zou zich kunnen voordoen in een situatie waarin bij de eerste fase – de toets op wetgevingsniveau – wordt geoordeeld dat de fair balance is geschonden. Wat dan? Nu dit nog niet is voorgekomen in zaken die de Hoge Raad heeft beslist, is dat niet geheel duidelijk.
 
-19. Het lijkt voor de hand te liggen dat dan niet aan de tweede fase wordt toegekomen, dat dus verder niet naar de individuele omstandigheden van het geval wordt gekeken, en dat tot een schending van de fair balance en daarmee van art. 1 (https://www.navigator.nl/document/openCitation/idf6f4070d01ae5d4b38352cef55fdc4d2) Eerste protocol EVRM wordt geoordeeld. Dit betekent dus dat in dat geval geen overkoepelende toets plaatsvindt.”
+19. Het lijkt voor de hand te liggen dat dan niet aan de tweede fase wordt toegekomen, dat dus verder niet naar de individuele omstandigheden van het geval wordt gekeken, en dat tot een schending van de fair balance en daarmee van art. 1 Eerste protocol EVRM wordt geoordeeld. Dit betekent dus dat in dat geval geen overkoepelende toets plaatsvindt.”
 
 De
 margin of appreciation
@@ -737,11 +737,11 @@ In HR BNB 2015/174 (leegwaarderatio) achtte u in de context van box 3 een waarde
 
 2.3.8.
 
-Bij de beoordeling of zich een dergelijk resultaat voordoet dat de wetgever niet voor ogen kan hebben gehad, heeft het volgende te gelden. Zoals hiervoor in 2.3.1 en 2.3.2 is weergegeven wordt het belastbare inkomen uit sparen en beleggen berekend naar forfaitaire maatstaven, waarbij het aanvaardbaar is dat (i) de WEV (https://www.navigator.nl/document/openCitation/id71f37b3b215d37c0ddc3fc72ee60db38) als uitgangspunt dient voor de bepaling van een forfaitair rendement van vier percent en ook (ii) dat de WOZ-waarde naar de daarvoor geldende WOZ-waardepeildatum wordt berekend. Ter correctie van deze WOZ-waarde wordt voor de bepaling van de waarde van verhuurde woningen vervolgens nogmaals een forfait toegepast. Aldus is sprake van een stapeling van forfaits. In een geval waarin vast komt te staan dat de uit die stapeling voortvloeiende waardering van verhuurde woningen in betekenende mate, dat wil zeggen voor 10 percent of meer, hoger is dan de werkelijke waarde daarvan, wordt niet voldaan aan de doelstelling van de wetgever, te weten: correctie van de WOZ-waarde opdat rekening wordt gehouden met de waardedrukkende werking van de verhuur. Voor een zodanig geval voldoet de regeling van artikel 17a (https://www.navigator.nl/document/openCitation/id0a9e89d1affcf8c6d39ddf7a5a3681d8) UBIB 2001 niet aan de opdracht die de wetgever met de delegatiebepaling van artikel 5.20, lid 3, Wet IB 2001 heeft verstrekt aan de besluitgever. Het genoemde artikel 17a moet dan wegens overschrijding van de aan de besluitgever gedelegeerde bevoegdheid buiten toepassing blijven. Dit heeft tot gevolg dat voor de toepassing van artikel 5.20, lid 3, Wet IB 2001 met de waardedruk als gevolg van verhuur van een woning rekening wordt gehouden volgens de hoofdregels van box 3, namelijk door uit te gaan van de werkelijke WEV van de verhuurde woning op de WOZ-waardepeildatum.
+Bij de beoordeling of zich een dergelijk resultaat voordoet dat de wetgever niet voor ogen kan hebben gehad, heeft het volgende te gelden. Zoals hiervoor in 2.3.1 en 2.3.2 is weergegeven wordt het belastbare inkomen uit sparen en beleggen berekend naar forfaitaire maatstaven, waarbij het aanvaardbaar is dat (i) de WEV als uitgangspunt dient voor de bepaling van een forfaitair rendement van vier percent en ook (ii) dat de WOZ-waarde naar de daarvoor geldende WOZ-waardepeildatum wordt berekend. Ter correctie van deze WOZ-waarde wordt voor de bepaling van de waarde van verhuurde woningen vervolgens nogmaals een forfait toegepast. Aldus is sprake van een stapeling van forfaits. In een geval waarin vast komt te staan dat de uit die stapeling voortvloeiende waardering van verhuurde woningen in betekenende mate, dat wil zeggen voor 10 percent of meer, hoger is dan de werkelijke waarde daarvan, wordt niet voldaan aan de doelstelling van de wetgever, te weten: correctie van de WOZ-waarde opdat rekening wordt gehouden met de waardedrukkende werking van de verhuur. Voor een zodanig geval voldoet de regeling van artikel 17a UBIB 2001 niet aan de opdracht die de wetgever met de delegatiebepaling van artikel 5.20, lid 3, Wet IB 2001 heeft verstrekt aan de besluitgever. Het genoemde artikel 17a moet dan wegens overschrijding van de aan de besluitgever gedelegeerde bevoegdheid buiten toepassing blijven. Dit heeft tot gevolg dat voor de toepassing van artikel 5.20, lid 3, Wet IB 2001 met de waardedruk als gevolg van verhuur van een woning rekening wordt gehouden volgens de hoofdregels van box 3, namelijk door uit te gaan van de werkelijke WEV van de verhuurde woning op de WOZ-waardepeildatum.
 
 2.3.9.
 
-Van de belastingplichtige die zich op onverbindendheid van artikel 17a (https://www.navigator.nl/document/openCitation/id0a9e89d1affcf8c6d39ddf7a5a3681d8) UBIB 2001 in zijn geval beroept, mag worden verlangd dat hij stelt en in geval van gemotiveerde betwisting door de Inspecteur ook aannemelijk maakt dat de waarde die voortvloeit uit de toepassing van artikel 17a UBIB 2001 in betekenende mate hoger is dan de werkelijke WEV (https://www.navigator.nl/document/openCitation/id71f37b3b215d37c0ddc3fc72ee60db38) van de woning in verhuurde staat op de WOZ-waardepeildatum.”
+Van de belastingplichtige die zich op onverbindendheid van artikel 17a UBIB 2001 in zijn geval beroept, mag worden verlangd dat hij stelt en in geval van gemotiveerde betwisting door de Inspecteur ook aannemelijk maakt dat de waarde die voortvloeit uit de toepassing van artikel 17a UBIB 2001 in betekenende mate hoger is dan de werkelijke WEV van de woning in verhuurde staat op de WOZ-waardepeildatum.”
 
 5.29
 
@@ -1607,7 +1607,7 @@ Voetnoot in origineel: In EHRM 11 december 2014, nr. 3851/12 (Anthony Aquilina v
 
 Gemeenschappelijke bijlage bij de conclusies van A-G Van Hilten van 29 januari 2014, nrs. 12/04122 en 12/04123, ECLI:NL:PHR:2014:55 voor HR 27 juni 2014, ECLI:NL:HR:2014:1523, V-N 2014/35.5, BNB 2014/220 met noot Meussen, AB 2015/39 met noot Barkhuysen en Van Emmerik, FutD 2014-1478 met noot, NTFR 2015/1112 met noot Berns, en HR 27 juni 2014, ECLI:NL:HR:2014:1524, V-N 2014/35.6, NJB 2014/1452, BNB 2014/219 met noot Meussen, FutD 2014-1478 met noot, NTFR 2015/2966 met noot Soltysik, NTFR 2015/1111 met noot Berns, NTFR 2016/153. De arresten betroffen de vraag of de invoering van kansspelbelasting voor kansspelautomaten per 1 juli 2008 in strijd was met art. 1 Protocol I, art. 1 Twaalfde Protocol en art. 26 IVBPR.
 
-S.M.H. Dusarduijn, ‘De proportionaliteitseis van art. 1 EP en de belading van een zwaluw’, MBB 2016/07/08-01 (https://www-1ndfr-1nl-10013fbqh6ef5.hanhosting.vakliteratuur.info/Tijdschriften/Item/MBB2016-08-01).
+S.M.H. Dusarduijn, ‘De proportionaliteitseis van art. 1 EP en de belading van een zwaluw’, MBB 2016/07/08-01.
 
 T.C. Gerverdinck, Eigendomsgrondrecht en belastingen (Fiscale Monografieën nr 161) (diss. UvA), Deventer: Wolters Kluwer 2020, p. 215-216.
 
@@ -1677,7 +1677,7 @@ EHRM 12 april 2006, Stec and others v. UK, Applications nos. 65731/01 and 65900/
 
 EHRM 29 april 2008, Burden v. UK, Application no. 13378/05, ECLI:CE:ECHR:2008:0429JUD001337805, V-N 2008/35.6, AB 2008, 213 met noot Barkhuysen en Van Emmerik, NJ 2008, 306 met noot Alkema, EHRC 2008/80, RvdW 2008, 799, KWEP 2008/39
 
-EHRM 12 september 2016, Guberina v. Kroatië, no. 23682/13 (http://hudoc-1echr-1coe-1int-1ij0jpzyy46be.hanhosting.vakliteratuur.info/eng?i=001-161530),  ECLI:CE:ECHR:2016:0322JUD002368213.
+EHRM 12 september 2016, Guberina v. Kroatië, no. 23682/13 ECLI:CE:ECHR:2016:0322JUD002368213.
 
 EHRM 12 april 2006, Stec and others v. UK, Application nos. 65731/01 and 65900/01, ECLI:CE:ECHR:2005:0706DEC006573101, EHRC 2006/72, AB 2006/190 met noot Pennings, SR 2006/39 met noot Pennings, RvdW 2006, 570..
 
