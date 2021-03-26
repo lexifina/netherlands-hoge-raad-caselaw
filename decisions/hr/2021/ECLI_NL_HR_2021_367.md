@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:367"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/743", "V-N 2021/15.4 met annotatie van Redactie", "NLF 2021/0727 met annotatie van Reinier Kooiman", "FED 2021/74 met annotatie van A.E. de Leeuw", "Belastingadvies 2021/13.1", "BNB 2021/111 met annotatie van J.P. BOER", "NTFR 2021/1339 met annotatie van mr. J. Nieuwenhuizen"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/743", "V-N 2021/15.4 met annotatie van Redactie", "NLF 2021/0727 met annotatie van Reinier Kooiman", "FED 2021/74 met annotatie van A.E. de Leeuw", "Belastingadvies 2021/13.1", "BNB 2021/111 met annotatie van J.P. BOER", "NTFR 2021/1339 met annotatie van mr. J. Nieuwenhuizen", "FutD 2021-0993", "Viditax (FutD) 2021032603"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:842"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2019:1743"]]
 ---
 
