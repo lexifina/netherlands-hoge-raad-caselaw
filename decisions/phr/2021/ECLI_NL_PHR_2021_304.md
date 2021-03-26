@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2021:304"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:1956, Gevolgd"]]
 ---
 
 # ECLI:NL:PHR:2021:304 Parket bij de Hoge Raad , 26-03-2021 / 20/00937
@@ -429,7 +430,7 @@ Verdrag van Wenen van 23 mei 1969, Trb. 1972, 51; zie ook Trb. 1985, 79.
 
 Zie Oliver Dörr, in: Oliver Dörr, Kirsten Schmalenbach (eds.), Vienna Convention on the Law of Treaties. A Commentary, 2018, p. 580.
 
-Zie voor het beroep op de voorbereidende werkzaamheden (‘travaux préparatoires’) van een verdrag onder meer: HR 29 mei 2020, ECLI:NL:HR:2020:956 (https://www.navigator.nl/document/idd4fee1196ff944f8b25c6dd563e195db?anchor=id-51fece9f-5684-44a1-9202-8e183b51aec7), NJ 2020/280, m.nt. L. Strikwerda (rov. 3.1.3).
+Zie voor het beroep op de voorbereidende werkzaamheden (‘travaux préparatoires’) van een verdrag onder meer: HR 29 mei 2020, ECLI:NL:HR:2020:956, NJ 2020/280, m.nt. L. Strikwerda (rov. 3.1.3).
 
 Gedefinieerd in art. 1, onder b, Protocol van Parijs: ‘het algemeen hoofdkwartier van de Geallieerde Mogendheden in Europa en het Hoofdkwartier van de Geallieerde Opperbevelhebber op de Atlantische Oceaan, alsook elk daarmee gelijkgesteld internationaal militair hoofdkwartier ingesteld uit hoofde van het Noord-Atlantisch Verdrag’.
 
