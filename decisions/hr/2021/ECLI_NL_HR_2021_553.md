@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:553"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/898", "V-N 2021/18.16.1"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/898", "V-N 2021/18.16.1", "FutD 2021-1170", "Viditax (FutD) 2021040930"]
 ---
 
 # ECLI:NL:HR:2021:553 Hoge Raad , 09-04-2021 / 20/03236
