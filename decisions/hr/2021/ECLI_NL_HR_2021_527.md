@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:527"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0429", "NJB 2021/1234", "RvdW 2021/424", "JAR 2021/122 met annotatie van Heemskerk, M.", "PJ 2021/65 met annotatie van E. Lutjens", "RAR 2021/85", "PR-Updates.nl PR-2021-0078", "NJ 2021/206 met annotatie van T.F.E. Tjong Tjin Tai", "JIN 2021/85 met annotatie van Deurzen, P.J.B. van", "RCR 2021/41", "TvPP 2021, afl. 3, p. 111", "UDH:TAC/16997 met annotatie van Mr. B. Degelink CPL", "VAAN-AR-Updates.nl 2021-0429"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0429", "NJB 2021/1234", "RvdW 2021/424", "JAR 2021/122 met annotatie van Heemskerk, M.", "PJ 2021/65 met annotatie van E. Lutjens", "RAR 2021/85", "PR-Updates.nl PR-2021-0078", "NJ 2021/206 met annotatie van T.F.E. Tjong Tjin Tai", "JIN 2021/85 met annotatie van Deurzen, P.J.B. van", "RCR 2021/41", "TvPP 2021, afl. 3, p. 111", "UDH:TAC/16997 met annotatie van Mr. B. Degelink CPL", "VAAN-AR-Updates.nl 2021-0429", "PR-Updates.nl 2021-0078"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:890, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2019:1849, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Verwijzing naar: ECLI:NL:GHDHA:2024:73"]]
 ---
 
