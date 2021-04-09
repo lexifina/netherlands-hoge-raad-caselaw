@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:524"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2021-0112", "NJB 2021/1233", "RvdW 2021/423", "UDH:TvCu/16708 met annotatie van mr. M.M. Dellebeke", "V-N Vandaag 2021/1255", "V-N 2021/25.16 met annotatie van Redactie", "RI 2021/49", "NJ 2021/214 met annotatie van F.M.J. Verstijlen", "JIN 2021/84 met annotatie van Mengelberg, R.J.G.", "JOR 2021/193 met annotatie van Everaars, K.", "NTHR 2021, afl. 3, p. 151", "Belastingadvies 2021/18.8", "Ondernemingsrecht 2021/104 met annotatie van K.J. Krzeminski"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2021-0112", "NJB 2021/1233", "RvdW 2021/423", "UDH:TvCu/16708 met annotatie van mr. M.M. Dellebeke", "V-N Vandaag 2021/1255", "V-N 2021/25.16", "RI 2021/49", "NJ 2021/214 met annotatie van F.M.J. Verstijlen", "JIN 2021/84 met annotatie van Mengelberg, R.J.G.", "JOR 2021/193 met annotatie van Everaars, K.", "NTHR 2021, afl. 3, p. 151", "Belastingadvies 2021/18.8", "Ondernemingsrecht 2021/104 met annotatie van K.J. Krzeminski"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:884, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2019:1061, Bekrachtiging/bevestiging"]]
 ---
 
