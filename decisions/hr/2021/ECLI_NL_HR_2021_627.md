@@ -1,0 +1,491 @@
+---
+ecli: "ECLI:NL:HR:2021:627"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "20/03892"
+decided: "2021-04-20"
+published: "2021-04-19"
+type: "uitspraak"
+procedure: "Herziening"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:627"
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2021-0108", "RvdW 2021/530"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2021:75"]]
+---
+
+# ECLI:NL:HR:2021:627 Hoge Raad , 20-04-2021 / 20/03892
+
+## Inhoudsindicatie
+
+Herziening Arnhemse Villamoord in 1998. Novum in de vorm van de intrekking van de (bekennende) verklaring van aanvrager. HR zet juridisch kader uiteen en herhaalt relevante overweging uit HR:2008:BG2858 dat aanvrager aannemelijk moet maken dat en waarom hij terugkomt op zijn eerder afgelegde verklaringen. De bij de aanvraag overgelegde verklaringen wekken niet het voor het buitengewone rechtsmiddel van herziening vereiste ernstige vermoeden a.b.i. art. 457.1 aanhef sub c Sv. Daaruit volgt dat de aanvraag ongegrond is en o.g.v. art. 470 Sv moet worden afgewezen. Samenhang met 7 andere herzieningen.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+STRAFKAMER
+
+Nummer	20/03892 H
+
+Datum		20 april 2021
+
+ARREST
+
+op een aanvraag tot herziening van een in kracht van gewijsde gegaan vonnis van de rechtbank te Arnhem van 29 december 1999, nummer 05-072601-99, ingediend door P.B.A. Acda, advocaat te Roermond,
+
+namens
+
+[aanvrager] ,
+
+geboren te [geboorteplaats] op [geboortedatum] 1968,
+
+hierna: de aanvrager.
+
+1
+De uitspraak waarvan herziening is gevraagd
+
+De rechtbank heeft de aanvrager veroordeeld voor, kort gezegd, medeplegen van diefstal met geweldpleging tegen twee personen die de dood van een persoon ten gevolge heeft, tot een gevangenisstraf van vijf jaren.
+
+2
+Bewezenverklaring en strafmotivering
+
+2.1
+
+De rechtbank heeft ten laste van de aanvrager bewezenverklaard dat:
+
+“hij op 2 september 1998 te Arnhem, tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toeëigening heeft weggenomen een slavenarmband en een aantal bankpasjes en een geldbedrag en een aantal portemonnees toebehorende aan [slachtoffer 1] en/of [slachtoffer 2] ,
+
+welke diefstal werd voorafgegaan en/of vergezeld van geweld en bedreiging met geweld tegen [slachtoffer 1] en [slachtoffer 2] ,
+
+gepleegd met het oogmerk om die diefstal gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en aan zijn mededaders hetzij de vlucht mogelijk te maken, welk geweld en welke bedreiging met geweld hierin bestonden dat door één van verdachtes mededaders,
+
+opzettelijk een pistool is gericht op [slachtoffer 1] en [slachtoffer 2] ; en
+
+is gevraagd om geld aan [slachtoffer 1] en [slachtoffer 2] ; en
+
+(vervolgens) opzettelijk meermalen is geschoten op [slachtoffer 1] en/of [slachtoffer 2] , tengevolge waarvan voornoemde [slachtoffer 1] is overleden.”
+
+2.2
+
+De rechtbank heeft een verkort vonnis als bedoeld in artikel 365a van het Wetboek van Strafvordering (hierna: Sv) gewezen. Kennelijk omdat tegen het vonnis geen hoger beroep is ingesteld, ontbreekt een aanvulling met de bewijsmiddelen.
+
+2.3
+
+De rechtbank heeft de betrokkenheid van de aanvrager bij het bewezenverklaarde feit in het kader van de strafmotivering als volgt omschreven:
+
+“Verdachte heeft zich samen met anderen schuldig gemaakt aan een gewelddadige woninginbraak waarbij de bewoonster van het pand en een even later gearriveerde kennis werden overmeesterd en korte tijd later zonder pardon werden neergeschoten.
+
+De inbraak werd goed voorbereid. Zo werd de woning aan de [a-straat] te Arnhem afgelegd en werden er nadere plannen gesmeed. Zo kregen mededaders een specifieke rol toebedeeld en werd zelfs afgesproken wie (welke vorm van) geweld zou toepassen indien dat nodig zou blijken. Verdachte is hierbij steeds aanwezig geweest. Verdachtes rol bestond erin dat hij als chauffeur optrad voor zijn mededaders en hen aldus naar en van de bewuste woning aan de [a-straat] heeft gereden.”
+
+3
+Procesverloop
+
+3.1
+
+De uitspraak waarvan herziening wordt gevraagd, is onherroepelijk geworden.
+
+3.2
+
+Voor de beoordeling van de aanvraag is van belang dat de gewezen medeverdachten van de aanvrager [medeverdachte 9] , [medeverdachte 2] , [medeverdachte 1] , [medeverdachte 5] , [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 4] hoger beroep hebben ingesteld tegen de ten laste van hen gewezen vonnissen. Zij zijn, met uitzondering van [medeverdachte 7] die hangende het hoger beroep is overleden, in hoger beroep veroordeeld voor het medeplegen van diefstal met geweldpleging tegen twee personen die de dood van één persoon ten gevolge heeft. Deze arresten van het hof zijn – in de zaken van [medeverdachte 9] , [medeverdachte 1] , [medeverdachte 3] , en [medeverdachte 4] na verwerping van een daartegen gericht cassatieberoep – onherroepelijk geworden.
+
+3.3
+
+De gewezen medeverdachten [medeverdachte 9] , [medeverdachte 2] en [medeverdachte 1] hebben de procureur-generaal het verzoek gedaan op grond van artikel 461 lid 1 Sv een nader onderzoek in te stellen naar de aanwezigheid van een grond voor herziening als bedoeld in artikel 457 lid 1, aanhef en onder c, Sv. Voor zover voor de beoordeling van de aanvraag van belang houdt het procesverloop met betrekking tot deze verzoeken het volgende in.
+
+(i) Naar aanleiding van de verzoeken tot nader onderzoek heeft advocaat-generaal E.J. Hofstee op grond van artikel 462 lid 1 Sv de Adviescommissie afgesloten strafzaken (hierna: de ACAS) gevraagd om te adviseren over de wenselijkheid van het instellen van nader onderzoek. Op 20 december 2016 heeft de ACAS een tussenadvies uitgebracht. Dit tussenadvies houdt onder meer in dat de ACAS het wenselijk acht dat de in deze zaak veroordeelde personen, onder wie ook de aanvrager tot herziening, alsmede [betrokkene 1] nader worden gehoord over de in het kader van de strafzaak afgelegde verklaringen.
+
+(ii) De advocaat-generaal heeft het nader horen van de in het tussenadvies van de ACAS genoemde personen opgedragen aan de rechter-commissaris in de rechtbank Noord-Holland. Dit heeft geresulteerd in – tegenover de rechter-commissaris afgelegde – verklaringen van de gewezen medeverdachten [medeverdachte 9] , [medeverdachte 2] , [medeverdachte 1] en [medeverdachte 5] , alsmede van [betrokkene 1] .
+
+(iii) Op 8 juni 2018 heeft de ACAS een eindadvies uitgebracht over de wenselijkheid van het instellen van nader onderzoek als bedoeld in artikel 461 lid 1 Sv. Over de resultaten van het door de advocaat-generaal aan de rechter-commissaris opgedragen onderzoek houdt dit eindadvies het volgende in:
+
+“[D]oor de rechter-commissaris [zijn] [medeverdachte 2] (op 13 juli 2017), [medeverdachte 9] (op 27 november 2017), [medeverdachte 1] (op 30 november 2017), [medeverdachte 5] (op 20 december 2017) en [betrokkene 1] (op 22 februari 2018) gehoord. De advocaten van de verzoekers zijn voor deze verhoren uitgenodigd en waren bij de verhoren aanwezig. [medeverdachte 8] en [medeverdachte 3] konden niet worden gehoord, omdat hun verblijfplaats niet kon worden getraceerd. [aanvrager] , die in Duitsland woonachtig is, heeft via zijn Duitse advocaat laten weten dat hij geen nadere verklaring wilde afleggen. Aan [medeverdachte 4] , die in Turkije woonachtig is, is via zijn (Nederlandse) advocaat de gelegenheid geboden de Commissie schriftelijk zijn standpunt kenbaar te maken. De Commissie heeft dat schriftelijke standpunt van [medeverdachte 4] tot op heden niet ontvangen.
+
+De Commissie vat de ten overstaan van de rechter-commissaris afgelegde verklaringen als volgt samen.
+
+[medeverdachte 2] heeft verklaard dat hij zich niet schuldig heeft gemaakt aan het bewezen verklaarde delict. Hij heeft voorts verklaard dat de door hem afgelegde verklaringen onder druk van de politie tot stand zijn gekomen en dat de verbalisanten hem de in zijn verklaringen opgenomen uitspraken tijdens de verhoren hebben aangereikt.
+
+[medeverdachte 9] heeft verklaard dat hij zich niet schuldig heeft gemaakt aan het bewezen verklaarde delict. Hij heeft voorts verklaard nadien van [medeverdachte 2] te hebben gehoord dat diens verklaringen onder druk van de politie zijn afgelegd. Volgens [medeverdachte 9] had hij in de periode waarin het bewezen verklaarde delict plaatsvond grote problemen met [medeverdachte 1] en [medeverdachte 4] , omdat zij veronderstelden dat [medeverdachte 9] hen in een andere zaak had verraden en dat zij daardoor in die zaak in Duitsland waren veroordeeld.
+
+Dat laatste aspect komt terug in de verklaring van [medeverdachte 1] . Ook hij heeft verklaard over de druk die tijdens de verhoren in het kader van de strafzaak door opsporingsambtenaren werd uitgeoefend. [medeverdachte 1] heeft voorts opgemerkt dat [medeverdachte 9] en een andere (Turkse) man indertijd wel hebben gesproken over een wit huis of een witte villa, maar dat de politie daarvan heeft gemaakt dat dit gesprek betrekking had op de villa waarin op 2 september 1998 een gewelddadige overval plaatsvond.
+
+Ook [medeverdachte 5] heeft verklaard onschuldig te zijn en dat hij door de politie is gedwongen te verklaren. Hij heeft verklaard na juli 1998 geen contact meer te hebben gehad met [medeverdachte 9] , in verband met een hoog oplopende ruzie tussen hen. Volgens [medeverdachte 5] is zijn in het opsporingsonderzoek afgelegde verklaring dat hij in de avonduren van 2 september 1998 bij de getuige [getuige 5] was hem door de verhorende opsporingsambtenaren opgedrongen. De door hem in een verklaring benoemde uitspraak van [medeverdachte 2] - dat er in die woning niets viel te halen - zou betrekking hebben gehad op een woning in Nijmegen waar hij ( [medeverdachte 5] ), met [medeverdachte 2] en [medeverdachte 9] , enkele maanden voor september 1998 was geweest. Het zou, aldus [medeverdachte 5] , de politie zijn geweest die deze uitspraak heeft betrokken op de gewelddadige overval op 2 september 1998.
+
+Ook [betrokkene 1] heeft verklaard dat hij zich niet schuldig heeft gemaakt aan de gewelddadige overval waarbij [slachtoffer 1] is doodgeschoten. Hij heeft opgemerkt dat hij op de desbetreffende avond in Duitsland was, op verjaardagsvisite.”
+
+Het eindadvies van de ACAS houdt daarnaast onder meer het volgende in:
+
+“(...) [D]e Commissie [adviseert] om (a) de nog bij het NFI beschikbare DNA-sporen te doen vergelijken met de DNA-profielen uit de DNA-databank, (b) de twee bruikbare dactyloscopische sporen en de dactyloscopische sporen die destijds niet bruikbaar werden geacht - indien beschikbaar - (opnieuw) te doen vergelijken met de in HAVANK opgeslagen vingerafdrukken.
+
+Tegen de achtergrond van de bevindingen van de Commissie, zoals die hiervoor zijn gepresenteerd, ziet zij geen aanleiding te adviseren nader onderzoek te verrichten naar (met name) de (totstandkoming van de) bekennende verklaringen van [aanvrager] en [medeverdachte 2] . De Commissie meent dat met haar werkzaamheden voldoende tegemoet is gekomen aan de verzoeken die hiervoor (...) zijn weergegeven.”
+
+(iv) De advocaat-generaal heeft ook het door de ACAS in het eindadvies geadviseerde nader onderzoek laten verrichten. Uit de onderzoeksrapporten die door de rechter-commissaris in de rechtbank Noord-Holland aan [medeverdachte 9] , [medeverdachte 2] en [medeverdachte 1] zijn verzonden, blijkt dat het DNA-onderzoek niet heeft geleid tot een match in de DNA-databank en het dactyloscopisch onderzoek niet heeft geleid tot herkenning van de vingerafdrukken.
+
+3.4
+
+Namens de aanvrager is een herzieningsaanvraag ingediend die op 23 november 2020 bij de Hoge Raad is ingekomen.
+
+4
+De aanvraag tot herziening
+
+4.1
+
+De aanvraag tot herziening is aan dit arrest gehecht en maakt daarvan deel uit.
+
+4.2
+
+De aanvraag berust op de stelling dat sprake is van een gegeven als bedoeld in artikel 457 lid 1, aanhef en onder c, Sv. In de aanvraag wordt daartoe gewezen op één nieuwe verklaring van de aanvrager en één aanvulling daarop. Ter onderbouwing van die stelling wordt in de aanvraag aangevoerd dat uit de nieuwe verklaringen blijkt dat de aanvrager is teruggekomen op zijn eerdere bekennende verklaringen en dat dit gegeven – mede in het licht van “de duiding vanuit de analyse van dr. Israëls en het ACAS-advies omtrent de waarde van de bekentenissen” – het ernstige vermoeden doet ontstaan als bedoeld in artikel 457 lid 1, aanhef en onder c, Sv (een zogenoemd novum).
+
+5
+De conclusie van de advocaat-generaal
+
+5.1
+
+De advocaat-generaal A.E. Harteveld heeft geconcludeerd tot ongegrondverklaring van de aanvraag.
+
+5.2
+
+De raadsman van de aanvrager heeft daarop schriftelijk gereageerd.
+
+6
+Beoordeling van de aanvraag
+
+De nieuwe verklaring van de aanvrager en de aanvulling daarop
+
+6.1.1
+
+De ongedateerde schriftelijke verklaring van de aanvrager, die blijkens de aanvraag op 5 oktober 2018 is opgesteld en die op 10 oktober 2018 door een beëdigd vertaler vanuit de Turkse taal in het Nederlands is vertaald, houdt het volgende in:
+
+“Datgene wat ik hier zeg, is helemaal mijn onvervalste verklaring. Mijn vrienden en ik hebben niets te maken met de villa moord gepleegd in 1998.
+
+Politie Arnhem heeft met druk en met gewelddadigheid mij deze verklaring afgenomen. Het proces van het verhoren dat uren en dagen heeft geduurd, is uitgevoerd. Ze hebben mij voor het verhoor opgeroepen naar aanleiding van de verklaring die [medeverdachte 2] had afgelegd. Maar ook al zei ik dat niets met het feit te maken had, toen ik voor de tweede keer werd opgeroepen en met eigen wil ging en een verklaring ging afleggen, hebben ze door bij mij psychologische druk, geweld en dwang te gebruiken mij genoodzaakt om een valse verklaring af te leggen. Geen enkele vriend heeft iets te maken met dit feit.
+
+Want op 2 september 1998 om 19.30 was de benzine van het voertuig van [medeverdachte 1] opgeraakt. [medeverdachte 1] heeft, toen hij op weg was naar Nijmegen omdat zijn benzine op was geraakt, omstreeks 19.30 [medeverdachte 9] gebeld. En ik [verbalisant 5] samen met [medeverdachte 9] naar de plek gegaan waar [medeverdachte 1] onderweg was blijven steken. Want omdat [medeverdachte 1] het niet bij zich had, had hij het aan [medeverdachte 9] gevraagd en wij zijn met mijn voertuig Mercedes 190D naar de locatie gegaan waar [medeverdachte 1] was. [medeverdachte 1] was onderweg naar Nijmegen blijven steken. Wij zijn via de brug richting Nijmegen naar [medeverdachte 1] gegaan. ANWB heeft zijn benzine aangevuld, daarna zijn wij naar Nijmegen gekomen, het was inmiddels 20.30. Wij zijn met zijn allen naar een Turkse koffieshop in de buurt van het Centraal Station van Nijmegen gegaan en wij zijn daar tot ongeveer 21.30 gebleven.
+
+Op dat uur is absoluut geen van ons, ook niet [medeverdachte 1] , ook niet [medeverdachte 9] en ook niet [medeverdachte 4] of één van mijn andere vrienden absoluut niet naar Arnhem gegaan en zijn daar ook niet geweest, waarvan de politie ons beschuldigt. De politie heeft mij urenlang met en zonder video verhoord terwijl zij mij psychologisch martelden en onder druk zetten. Dit ging ook ’s nachts door. Wanneer ik zei dat wij niets met het feit te maken hadden, groeide de woede en het geweld van de politie naar mij toe. Om van hen af te komen naar aanleiding van dit geweld en psychologische druk en te kalmeren heb ik - in lijn met wat zij wilden - een valse, pochende verklaring afgelegd. Elke keer, wanneer ik vertelde over de voertuigen die wij gebruikten, wilden zij van mij - wat ik ook nu zelfs niet weet - het merk en de kleur van het voertuig weten. Hoewel wij niets met het feit te maken hadden, waren zijzelf op zoek naar criminelen. Toen ik voor de rechter-commissaris moest verschijnen, heeft zelfs de rechter-commissaris aan de politie niet gevraagd of zij wetenschappelijke, tastbare documenten in handen had. Hij vroeg en niet naar het DNA-monster, en niet naar de vingerafdruk, en niet naar de vingerafdruk op de kogel dat in het ballistische rapport stond. Hij heeft naar niets gevraagd.
+
+Kortom, er was een politie- en justitie systeem in werking dat probeerde tot het bewijs te komen via de crimineel. Helaas werd bij ons zonder vorm van proces [een straf] voltrokken. 9-10 Mensen hadden niet op basis van de verklaring van twee personen moeten worden berecht. Helaas was de verklaring en het verhoor van twee personen niet bij de documenten in het dossier terechtgekomen. Wij waren ons aan het voorbereiden om voor de rechter de verschijnen. In de rechtbank heb ik door de angst en de druk mijn verklaring niet kunnen veranderen. Want de politie zei dat ik anders met 15-20 jaar berecht zou worden. Ik [verbalisant 5] ’s nachts met en zonder video om 2 uur à 3 uur verhoord. Elk verhoor was een tirannie, een marteling. Toen ik werd verhoord terwijl de tolk erbij was, daarna was ik alleen gebleven nadat de tolk was weggegaan en niet meer was teruggekomen, waarvan ik denk dat dat een plan van de politie was. Het psychologische geweld en de druk nam toe zodat ik een verklaring zou afleggen. Ik had in die periode trouwens ook problemen met mijn vrouw. Ik had dan ook geen kracht meer na het geweld en de druk van deze politie. Van de ene kant slapeloosheid, van de andere kant het geweld en de druk, in wat voor hel was ik in godsnaam terechtgekomen. Ik gaf een verklaring af met helemaal verkeerde informatie. Ik gaf totaal onwerkelijke verklaringen af. [verbalisant 5] (naam van de politieagent die mij verhoorde) zwaaide met zijn vinger alsof hij mij bedreigde, ik vond de schets op mij lijken, hij ging zo ver dat hij zei dat ik de moordenaar was. Hij bedreigde mij zelfs dat ik met 15-20 jaar berecht wou worden. Hij sloeg op de tafel. In de verhoorkamer misbruikte hij de bevoegdheid die de overheid aan hem en andere politieagenten gaf. Hij ging door met het verhoor door het gevoel te geven alsof hij zelf de macht van de staat was en alsof hij zelf de staat was. Ik kon deze druk slechts 2 uur aan. Omdat ik psychologisch van streek en depressief was door mijn ex-vrouw. Door de druk en het geweld tijdens dit verhoor kreeg ik bijna een hartaanval. Ik moest zo snel mogelijk van hen afkomen. En ik gaf een totaal onwerkelijke verklaring af. Ik bedoel dus dat zij stuurden en ik gaf dienovereenkomstig een verklaring af. Ik vertelde over de voertuigen die wij gebruikten, maar omdat ik geen informatie had over het voertuig waar zij naar vroegen, omdat zij niets te weten konden komen over het voertuig waar zij telkens over wilden horen, werden zij woest en gingen zij de druk en het geweld opvoeren. Maar ik had absoluut geen informatie over het voertuig waar zij naar vroegen, want ik en mijn vrienden hadden niets te maken met dit feit.
+
+Al mijn vrienden - alle negen - die van dit feit zijn beschuldigd, waren op 2 september 1998 in Nijmegen. Geen van ons was op de plaats delict of zijn naar de plaats delict gegaan op het tijdstip dat de politie heeft genoemd. Terwijl wij onschuldig waren, werden negen vrienden, inclusief ik, zonder documenten, zonder bewijsmiddelen beschuldigd. Ik kan u vertellen dat het verhoor dat onder druk en geweld heeft plaatsgevonden, niet overeenkomt met de waarheid.
+
+Want dit verhoor heeft onder druk, geweld en bedreiging plaatsgevonden. De tijdens dit feit genoemde 9 personen, inclusief ik, zijn ten onrechte berecht en wij, inclusief ik, hebben ten onrechte een gevangenisstraf uitgezeten. Alleen vanwege deze druk en het geweld van de politie, niet vanwege de bewijsmiddelen; de druk en het geweld van de politie die tot het resultaat wou komen vanuit de verdachte heeft ervoor gezorgd dat wij ten onrechte een gevangenisstraf moesten uitzitten. Voor een eerlijk proces moet deze rechtszaak opnieuw aanhangig worden gemaakt en de eer en waardigheid moeten aan mij en aan mijn onschuldige vrienden worden teruggegeven.
+
+Eigenlijk moeten de politie, de officier van justitie, de rechter-commissaris, de rechters die hebben berecht, iedereen, iedereen die de macht van de staat heeft misbruikt en op mijn rug is gestapt en mij als opstapje heeft gebruikt, [verbalisant 18] , [verbalisant 4] , [verbalisant 5] , de officier van justitie, de rechter-commissaris, de rechters zullen ook de hand in dit feit hebben, de verantwoordelijken, iedereen die deze justitie en rechtenschandaal heeft veroorzaakt moet voor de rechter verschijnen en het noodzakelijke moet gedaan worden.
+
+Een 20 jaar lang durende gewetenswroeging is voor mij genoeg geweest. Deze gebeurtenis is mijn geheim gebleven, heeft geknaagd aan mij, heeft mij slapeloze nachten bezorgd, ik begin psychische problemen te krijgen. Ik wil dat zo snel mogelijk, dat aan mij en aan mijn vrienden, aan mijn ten onrechte berechte en veroordeelde vrienden, in de eerste plaats aan [medeverdachte 7] , zijn eer en waardigheid wordt teruggegeven.
+
+Ik bied in de eerste plaats aan [medeverdachte 7] en aan zijn familie en vervolgens aan mijn andere vrienden mijn excuses aan. Ik bied mijn excuses aan iedereen omdat ik hen zo’n soort verdriet heb aangedaan en ik vraag hen met nadruk om mij te vergeven. Hun vergeving zal mijn leed niet helemaal maar gedeeltelijk verminderen. Vanaf nu wil ik bevrijd worden van deze gewetenswroeging.
+
+Ik, [aanvrager] zeg uit het diepst van mijn hart dat mijn bij de politie afgelegde verklaring absoluut niet overeenkomt met de waarheid. Het is een valse verklaring dat onder druk en marteling van de politie is afgelegd.
+
+Hoogachtend,
+
+[aanvrager]
+
+[handtekening]”
+
+6.1.2
+
+De bij de aanvraag gevoegde aanvulling op deze verklaring van de aanvrager houdt het volgende in:
+
+“In aanvulling op mijn verklaring wil ik nog het volgende verklaren:
+
+Ik heb na de veroordeling altijd in angst geleefd. Ik [verbalisant 5] altijd bang geweest om naar Nederland te komen en [verbalisant 5] sinds de veroordeling maar één keer in Nederland geweest, om mijn paspoort te verlengen. Ik [verbalisant 5] bang dat de politie mij iets aan zal doen als ik iets aan de zaak zal wijzigen. De politie heeft mij dit ook gezegd tijdens de zittingen in hoger beroep, dat als ik mijn verklaringen zou wijzigen, zij mij lang zouden opsluiten en mijn gezin kapot zouden maken. Ik [verbalisant 5] vandaag de dag nog steeds bang voor de politie in Arnhem omdat zij hebben laten zien dat zij alles kunnen maken. Zij hebben negen onschuldige mannen veroordeeld zonder dat er bewijs was. Ik [verbalisant 5] bang voor mijn kinderen en mijn vrouw dat de politie hen of mij iets aan zal doen hierom. Hierom heb ik ook altijd een geheim leven geleid in Duitsland en heb ik alle contacten met Nederland verbroken. Pas nadat ik zag dat Paul Acda op televisie de waarheid over de zaak zei, heb ik gedurfd om contact met Paul Acda op te nemen voor het zeggen van de waarheid.
+
+[...] , 10 oktober 2018
+
+[aanvrager] ”
+
+Bewijsvoering
+
+6.2.1
+
+Onder 2.2 is opgemerkt dat de bewijsvoering door de rechtbank niet is uitgewerkt. Gelet op de nauwe samenhang tussen de zaak van de aanvrager en de zaken van de gewezen medeverdachten die door het hof zijn veroordeeld, waarbij het hof niet tot een andere uitspraak over de bewijsvraag is gekomen, wordt – mede gelet op wat hierna onder 6.2.2 wordt overwogen – ook bij de beoordeling van de onderhavige herzieningsaanvraag de bewijsvoering van het hof tot uitgangspunt genomen.
+
+6.2.2
+
+Het hof heeft in de arresten waarin de gewezen medeverdachten [medeverdachte 9] , [medeverdachte 2] , [medeverdachte 1] , [medeverdachte 3] en [medeverdachte 4] zijn veroordeeld, verklaringen voor het bewijs gebruikt die door de aanvrager zijn afgelegd. Het gaat daarbij allereerst om verklaringen die de aanvrager ten overstaan van het hof heeft afgelegd tijdens de terechtzitting in hoger beroep in de strafzaken van de gewezen medeverdachten. De aanvrager was ten tijde van dit hoger beroep onherroepelijk veroordeeld en heeft deze verklaringen afgelegd als beëdigde getuige. Het gaat daarbij onder meer om een uitvoerige verklaring van de aanvrager over zijn betrokkenheid en die van andere gewezen medeverdachten bij het bewezenverklaarde feit. Verder gaat het om verklaringen die door de aanvrager tegenover de politie zijn afgelegd. Deze verklaringen zijn belastend voor de gewezen medeverdachten, maar zien ook op de rol van de aanvrager bij het bewezenverklaarde feit. Het hof heeft in de zaken van de hiervoor genoemde gewezen medeverdachten voor het bewijs verder gebruik gemaakt van meerdere verklaringen die de getuige – tevens gewezen medeverdachte van de aanvrager – [medeverdachte 2] tegenover de politie heeft afgelegd. Ook deze door de getuige [medeverdachte 2] afgelegde verklaringen zijn belastend voor de gewezen medeverdachten, daaronder begrepen [medeverdachte 2] zelf, en hebben eveneens betrekking op de rol van de aanvrager bij het ten laste van hem bewezenverklaarde feit.
+
+6.2.3
+
+Het hof heeft in de zaken van [medeverdachte 9] , [medeverdachte 2] , [medeverdachte 1] , [medeverdachte 3] en [medeverdachte 4] – waarin vanwege het instellen van het cassatieberoep tegen het arrest van het hof de bewijsmiddelen zijn uitgewerkt – de volgende verklaringen van de aanvrager en van [medeverdachte 2] bij de bewijsmiddelen opgenomen:
+
+“11. het proces-verbaal van de in het openbaar gehouden terechtzitting van dit gerechtshof op 29 mei 2000, voorzover inhoudend - zakelijk weergegeven - als verklaring van de getuige [aanvrager] (pag. 4 e.v.):
+
+Ik word ook wel [aanvrager] of [aanvrager] genoemd.
+
+Ongeveer 2 weken voor 2 september 1998 [verbalisant 5] ik per auto van Eindhoven naar Arnhem gekomen. [medeverdachte 9] , die toen bij mij in de auto zat, vertelde mij dat hij had gehoord dat er in een bepaald huis veel geld zou zijn.
+
+Er is toen ook een rolverdeling besproken. Ik zou als chauffeur optreden. Twee weken voor 2 september 1998 [verbalisant 5] ik bij [medeverdachte 7] geweest. Ik [verbalisant 5] toen, met onder anderen [medeverdachte 1] , naar de [a-straat] te Arnhem gereden. [medeverdachte 1] wees daar verschillende mooie huizen aan. Vlak voor 2 september 1998 is dat huis nogmaals afgelegd. [medeverdachte 5] zat toen ook in de auto en wees een huis aan. We zijn toen allemaal uitgestapt om te kijken. [medeverdachte 5] zei toen: "Dat gaat makkelijk, er is geen beveiliging". [medeverdachte 7] was de professionele inbreker die makkelijk sloten kon openbreken. [medeverdachte 1] was meestal de leider van de groep; [medeverdachte 4] en [medeverdachte 9] traden ook wel als zodanig op. Ik zou als chauffeur in de auto blijven. De anderen waren vrienden van elkaar. Ik kon goed rijden. Bovendien konden we met zes personen in mijn Mercedes.
+
+[medeverdachte 9] zou naar de kluis zoeken en [medeverdachte 7] ging mee omdat hij de kluis zou kunnen openen. [betrokkene 1] zou ook mee gaan.
+
+[medeverdachte 2] bestuurde de blauwe VW Golf. [medeverdachte 3] zou ook meegaan. Er was niet besproken waarom [medeverdachte 3] mee ging; hij was er op een bepaald moment.
+
+Op 2 september 1998 reed [medeverdachte 4] met mij in mijn auto mee. Op een gegeven moment had ik een lekke band. [medeverdachte 1] kwam mij helpen en kwam in een busje aanrijden. Bij een Shell pompstation is de band verwisseld. Mijn travelpas was geblokkeerd en ik heb toen mijn telefoon als onderpand gegeven. Mijn telefoon bleef als onderpand achter bij de pomphouder.
+
+Na in cafe [B] in Nijmegen te zijn geweest [verbalisant 5] ik met [medeverdachte 9] , [medeverdachte 8] , [medeverdachte 4] en [betrokkene 1] naar het huis van [medeverdachte 1] in Arnhem gereden. [medeverdachte 7] en [medeverdachte 5] waren daar ook. Er werd niet gesproken over de plaats waar we heen gingen omdat iedereen dat wist. Bij een tankstation op de [...] te Arnhem zijn de Volkswagen Golf en het busje van [medeverdachte 3] vol getankt.
+
+Ik had handschoenen, touw en wapens in de auto. [medeverdachte 9] en [medeverdachte 8] hadden wapens. In het huis van [medeverdachte 1] was tevoren besproken wie er wapens zouden meenemen. Bij [medeverdachte 1] thuis was ook besproken dat er touw mee moest.
+
+Het was wel min of meer besproken dat [betrokkene 1] zou schieten omdat hij niet goed bij zijn hoofd was. [betrokkene 1] was voor 60% gek verklaard.
+
+[medeverdachte 3] zou de brandkast meenemen. Het was zo dat hij een busje bij zich had.
+
+In de kofferbak van mijn auto lag een blauwe sporttas. Die was van [medeverdachte 9] . In die tas zaten sleutels om auto’s te repareren.
+
+Vanaf de [d-straat] zijn we naar de [a-straat] gereden.
+
+Bij mij in de auto zaten [medeverdachte 8] , [medeverdachte 4] , [medeverdachte 9] en [betrokkene 1] . De anderen, [medeverdachte 1] en [medeverdachte 7] , zaten in de Volkswagen die door [medeverdachte 2] bestuurd werd.
+
+De mannen die bij [medeverdachte 2] in de auto zaten stapten uit. De mannen die bij mij in de auto zaten stapten ook uit, met uitzondering van [medeverdachte 8] . [medeverdachte 7] haalde de sporttas uit mijn auto. Ik [verbalisant 5] over het vlakbij gelegen viaduct gelopen. Ik zag in de koepeltjes op dat viaduct plafondschilderingen.
+
+Op een gegeven moment kwam er een auto aanrijden waar een vrouw in zat. De vrouw stapte uit de auto en liep om het huis heen. Ik heb gezien dat de vrouw de trap aan de achterzijde van het huis opliep. Toen de vrouw met de auto de oprit op reed ging er een buitenlamp aan de voorzijde van het huis aan. Die lamp heeft een tijdje gebrand.
+
+[medeverdachte 8] zat in mijn auto. Ik [verbalisant 5] in de richting van het huis gelopen en hoorde een aantal knallen. Ik rende terug naar mijn auto en wilde weg rijden. [medeverdachte 8] , die in mijn auto zat, zette een pistool tegen mijn hoofd en zei tegen mij: "Wij zijn hier samen gekomen en we gaan ook samen weer weg".
+
+[medeverdachte 4] , [medeverdachte 9] , [betrokkene 1] , [medeverdachte 1] en [medeverdachte 7] kwamen er aan. [medeverdachte 4] , [medeverdachte 9] en [betrokkene 1] gingen bij mij in de auto, de anderen bij [medeverdachte 2] . Ik [verbalisant 5] weggereden. We zijn naar het huis van [medeverdachte 1] gereden. Er werd tijdens de rit tegen [betrokkene 1] gezegd dat deze fout niet gemaakt had mogen worden. Er heerste een gespannen sfeer in de auto. Er zat bloed aan de jas van [betrokkene 1] . [medeverdachte 3] reed met zijn busje achter ons.
+
+[medeverdachte 9] zei tegen mij: "Als je je mond opendoet...."
+
+[medeverdachte 7] is door [medeverdachte 9] en [medeverdachte 1] bedreigd omdat hij verkeerde informatie zou hebben gegeven.
+
+Op een slaapkamer in het huis van [medeverdachte 1] is het wapen schoon gemaakt door [medeverdachte 4] , [medeverdachte 9] en [medeverdachte 1] .
+
+[medeverdachte 5] heb ik bij de villa zien lopen.
+
+De personen die hier als verdachten in de zaal zitten hebben een rol gespeeld bij de inbraak.
+
+Bij de overval op 2 september 1998 [verbalisant 5] ik als chauffeur opgetreden. Ik was wel vaker chauffeur voor de groep van [medeverdachte 4] , [medeverdachte 9] en [medeverdachte 8] . Wij waren als groep samen. Ik reed omdat ik een auto had.
+
+De groep draaide eigenlijk om [medeverdachte 9] .
+
+De kluis die in het huis zou zitten zou door [medeverdachte 3] in zijn bestelbus vervoerd worden.
+
+Op de vraag waarom we met zoveel mensen naar de villa aan de [a-straat] gingen antwoord ik dat dat misschien wel nodig was om iets zwaars uit dat huis te halen.
+
+12. het proces-verbaal van de in het openbaar gehouden terechtzitting van dit gerechtshof op 30 mei 2000, voorzover inhoudend - zakelijk weergegeven - als verklaring van de getuige [aanvrager] (pag. 9 e.v.):
+
+Ongeveer twee/drie weken voor 2 september 1998 is er begonnen met de voorbereidingen voor de overval. [medeverdachte 7] , [medeverdachte 4] , [medeverdachte 9] , [medeverdachte 1] en ik waren daarbij betrokken. [medeverdachte 1] heeft het huis waar moest worden ingebroken aangewezen. De besprekingen werden gehouden in het huis van [medeverdachte 1] . [medeverdachte 8] is daar ook bij geweest.
+
+Er is besproken wie er naar binnen zou gaan, wie er wat zou doen en welk huis het betrof. Er is dus een rolverdeling tot stand gekomen.
+
+Via de groep [verbalisant 5] ik op de hoogte gekomen van het huis waar moest worden ingebroken. Anderen zijn over het huis begonnen. Er is een aantal malen in de auto over gesproken. Er werd ook een rolverdeling afgesproken; ik zou als chauffeur optreden. De rol van [medeverdachte 5] was volgens mij dat hij het alarm zou uitschakelen.
+
+Later op de avond heb ik [medeverdachte 3] weer gezien bij de woning van [medeverdachte 1] . Wij kwamen toen terug van de plaats van de inbraak. [medeverdachte 3] stond voor het huis van [medeverdachte 1] .
+
+In de ochtend van 2 september 1998 zag ik [medeverdachte 3] in de woning van [medeverdachte 1] .
+
+[medeverdachte 1] riep ons samen. Dat was in de middag om ongeveer 18.00 a 18.30 uur. [medeverdachte 3] zat boven.
+
+Ik heb [medeverdachte 3] die dag twee keer in het busje zien rijden.
+
+15. het proces-verbaal van de in het openbaar gehouden terechtzitting van dit gerechtshof van 20 juni 2000, voorzover inhoudend - zakelijk weergegeven - als verklaring van de getuige [aanvrager] (pag. 49/50):
+
+Toen [betrokkene 1] terug kwam in de auto nadat hij in de villa was geweest zag ik bloed aan zijn jas. Dat bloed was nog niet opgedroogd.
+
+21. een ambtsedig proces-verbaal - als bijlage 425 gevoegd bij proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 13 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+U vraagt mij in welke auto [medeverdachte 2] reed, toen wij op de 2e september 1998 vanaf de woning van [medeverdachte 1] naar het huis op de [a-straat] reden. Dat was een donker blauwe Volkswagen Golf. Volgens mij bouwjaar 1985 of 1986.
+
+22. een ambtsedig proces-verbaal - als bijlage 440 gevoegd bij het proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 15 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+In de woning van [medeverdachte 1] werd onderling Turks gesproken. Alles wat wij bespraken werd in het Nederlands door [medeverdachte 1] aan [medeverdachte 7] verteld. Ik hoorde dat [medeverdachte 1] letterlijk wat in het Turks besproken werd in het Nederlands vertaalde aan [medeverdachte 7] . [medeverdachte 7] was van alles goed op de hoogte. [medeverdachte 1] voerde het woord. [medeverdachte 1] bepaalde en zei dat [medeverdachte 8] bij mij moest blijven. De taak van [medeverdachte 4] was dat als er iemand het huis binnen zou komen, dat hij die iemand moest vastbinden. [medeverdachte 9] moest van [medeverdachte 1] meedoen aan deze inbraak omdat hij ervaring had met inbreken. Voor de 2e september 1998 zijn 1 of meerdere besprekingen geweest over deze inbraak. Iedereen was hierbij aanwezig met uitzondering van [betrokkene 1] . [medeverdachte 7] moest van [medeverdachte 1] meedoen aan deze inbraak, omdat hij ervaring had om in te breken en deuren open te maken.
+
+[betrokkene 1] moest van [medeverdachte 1] meedoen aan deze inbraak, omdat [betrokkene 1] een verklaring had van een psychiater uit Duitsland, dat [betrokkene 1] geestelijk niet in orde was. Dit was het idee van [medeverdachte 1] en [medeverdachte 4] . Ik had dit al bij eerdere besprekingen gehoord en ook op de 2e september 1998. Ik hoorde dat [medeverdachte 4] zei, dat als er in het huis geschoten moest worden, [betrokkene 1] dat moest doen. [betrokkene 1] moest dat doen omdat hij in het bezit was van een rapport van een psychiater en daardoor een kortere straf zou krijgen. [betrokkene 1] zou niet alleen een pistool, maar als dat nodig zou zijn ook een mes moeten gebruiken. Dat was allemaal afgesproken.
+
+[medeverdachte 2] kreeg als opdracht van [medeverdachte 1] om buiten in de auto te wachten.
+
+23. een geschrift, zijnde een fotocopie van ambtsedig proces-verbaal - als bijlage 451 gevoegd bij het proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 16 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+Toen wij in de woning waren van [medeverdachte 1] op de [f-straat] te Arnhem, kwam daar ook een vriend van mij, [medeverdachte 3] . Hij woont in Amsterdam. [medeverdachte 3] kwam bij [medeverdachte 1] op de 2e september 1998 met een Volkswagen Transporter. Dit busje was wit van kleur. Toen wij wegreden bij [medeverdachte 1] was [medeverdachte 3] de bestuurder van het busje. Ik reed met mijn Mercedes en [medeverdachte 2] reed in de Volkswagen Golf. Wij waren toen op weg naar het huis waar de inbraak zou worden gepleegd.
+
+[medeverdachte 3] was op de hoogte met wat er zou gaan gebeuren die avond omdat [medeverdachte 1] hem het verhaal had verteld dat er een inbraak gepleegd zou worden. Ik hoorde van [medeverdachte 1] dat het busje bestemd was om de brandkast te gaan vervoeren. Ik hoorde van [medeverdachte 9] dat de brandkast naar een adres moest waar [medeverdachte 5] verbleef.
+
+Ik zag dat [medeverdachte 3] met zijn busje achter mij aan reed.
+
+24. een geschrift, zijnde een fotocopie van een ambtsedig proces-verbaal - als bijlage 472 gevoegd bij proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 15 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+Naar ik mij kan herinneren waren wij bij [medeverdachte 7] op de [a-straat] te Arnhem ongeveer twee weken voor de 2e september 1998. [medeverdachte 7] , [medeverdachte 1] , [medeverdachte 9] , [medeverdachte 8] , [medeverdachte 4] en ik stapten in mijn auto. Wij reden in de richting van Apeldoorn.
+
+Wij reden in de richting van het huis waar later ingebroken werd. Toen wij weer langs het huis kwamen zei [medeverdachte 1] weer: “Daar moest ingebroken worden”. Ik zag dat [medeverdachte 1] het huis bedoelde waar later daadwerkelijk ingebroken werd.
+
+25. een geschrift, zijnde een fotocopie van een ambtsedig proces-verbaal - als bijlage 488 gevoegd bij proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 28 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+Ik hoorde van [medeverdachte 1] , toen hij en de anderen in het huis waren en aan het zoeken waren op de benedenverdieping van dat huis, dat de vrouw die in het huis verbleef naar beneden kwam lopen. Ik hoorde ook van [medeverdachte 1] dat [betrokkene 1] toen direct zijn pistool pakte en daarmee de vrouw bedreigde. Ik hoorde van [medeverdachte 1] en [medeverdachte 4] , in ieder geval hoorde ik het zeer zeker van [medeverdachte 1] , dat toen de vrouw was doodgeschoten van haar pols een armband werd afgenomen door [betrokkene 1] . Verder hoorde ik van [medeverdachte 1] dat er wat geld en andere dingen zijn weggenomen. Ik hoorde later in de woning van [medeverdachte 1] dat er nog een vrouw was neergeschoten.
+
+Toen [betrokkene 1] in de auto stapte na de inbraak op de [a-straat] zag ik vers bloed op de jas zitten. Ik zag dat het bloed nog vochtig was.
+
+In de woning van [medeverdachte 1] , na de inbraak op de [a-straat] te Arnhem, kreeg [medeverdachte 1] ruzie met [betrokkene 1] . [medeverdachte 1] verweet [betrokkene 1] dat hij de vrouw had neergeschoten.
+
+26. een geschrift, zijnde een fotocopie van een ambtsedig proces-verbaal - als bijlage 489 gevoegd bij proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 28 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+Toen ik in cafe [B] te Nijmegen was, hoorde ik in een gesprek tussen [medeverdachte 1] , [medeverdachte 4] en [medeverdachte 9] dat [betrokkene 1] , toen hij de vrouwen had beschoten, een portemonnee uit een tas van een van de vrouwen heeft gehaald en meegenomen. Deze portemonnee was van de vrouw die later het huis in kwam.
+
+27. een geschrift, zijnde een fotocopie van een ambtsedig proces-verbaal - als bijlage 520 gevoegd bij het proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 5] en [verbalisant 4] voornoemd, gesloten en getekend op 20 mei 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [aanvrager] :
+
+Ik parkeerde mijn auto op de avond van de 2e september 1998, op het moment dat de inbraak in het huis werd gepleegd, op de parallelweg langs de [a-straat] te Arnhem. Toen ik daar uit mijn auto, de Mercedes, stapte, opende ik de kofferbak van de auto. Toen ik om de auto liep en de kofferbak opende, zat [medeverdachte 8] nog op de achterbank van mijn auto.
+
+28. een ambtsedig proces-verbaal - als bijlage 357 gevoegd bij het proces-verbaal met dossiernummer 98-006422 - opgemaakt door [verbalisant 12] en [verbalisant 7] , beiden hoofdagent van politie, gesloten en getekend op 30 maart 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [medeverdachte 2] :
+
+[medeverdachte 9] zei dat hij een huis wist aan de [a-straat] waar veel geld en ook “mal” was. Mal is het Turkse woord voor verdovende middelen. [medeverdachte 9] heeft tegen mij gezegd dat het om een huis aan de [a-straat] ging. [medeverdachte 9] zei dat hij wilde gaan inbreken.
+
+29. een ambtsedig proces-verbaal - als bijlage 385 gevoegd bij het proces-verbaal met het dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 12] en [verbalisant 7] voornoemd, gesloten en getekend op 16 april 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [medeverdachte 2] :
+
+[medeverdachte 8] liep ook altijd met wapens rond. [medeverdachte 8] heet eigenlijk [medeverdachte 8] .
+
+[medeverdachte 3] woont in Amsterdam. Hij is iemand die zich bazig kan gedragen. Ook door [medeverdachte 9] wordt [medeverdachte 3] met respect behandeld.
+
+Mijn broer [medeverdachte 1] kent [medeverdachte 3] goed.
+
+30. een geschrift, zijnde een fotocopie van een ambtsedig proces-verbaal - als bijlage 499 gevoegd bij het proces-verbaal met dossiernummer 98-006422 - opgemaakt door de verbalisant [verbalisant 12] voornoemd en [verbalisant 8] , hoofdagent van politie, gesloten en getekend op 4 mei 1999, voorzover inhoudend - zakelijk weergegeven - als verklaring van [medeverdachte 2] :
+
+Bij het huis van [medeverdachte 1] , voor de ingang van de flat, zag ik een aantal mensen staan. Ik zag dat [medeverdachte 9] , [medeverdachte 8] met het lange haar, kale [medeverdachte 4] , [aanvrager] , [betrokkene 1] uit Duitsland, [medeverdachte 3] , [medeverdachte 7] en mijn broer [medeverdachte 1] daar stonden.
+
+De auto van [medeverdachte 3] was een busje.
+
+Ik zag dat [medeverdachte 9] , [medeverdachte 8] , [aanvrager] , kale [medeverdachte 4] en [betrokkene 1] naar de Mercedes van [aanvrager] liepen. Ik [verbalisant 5] met [medeverdachte 1] meegelopen naar een Volkswagen Golf. Ik kreeg de sleutels van de auto van [medeverdachte 1] . Ik ging achter het stuur zitten. [medeverdachte 1] ging op de passagiersstoel zitten en [medeverdachte 7] ging achter in de auto zitten. [medeverdachte 1] zei dat de inbraak met z’n allen gepleegd zou worden en zei dat ik in de richting van de [a-straat] moest rijden. [medeverdachte 1] zei dat ik buiten kon wachten tot zij terug zouden komen. Ik reed naar de [a-straat] . Toen we op die weg reden zei [medeverdachte 1] tegen mij dat ik moest stoppen. Ik zag dat de Mercedes van [aanvrager] in de richting van Apeldoorn, aan de rechterzijde van de weg stond.
+
+Nadat ik gestopt was zijn [medeverdachte 1] en [medeverdachte 7] uit de auto gestapt. Nadat [medeverdachte 7] was uitgestapt, pakte hij uit de kofferbak van de auto een tas.
+
+Ik zag dat [medeverdachte 1] en [medeverdachte 7] terug kwamen lopen. Ik zag dat ze snel liepen.
+
+Ik zag dat [medeverdachte 7] de tas weer bij zich droeg. [medeverdachte 7] ging weer achterin zitten. [medeverdachte 1] ging weer naast mij zitten. Ik hoorde dat [medeverdachte 1] zei: “ [betrokkene 1] heeft een wijf doodgeschoten”.
+
+Vanaf de [a-straat] [verbalisant 5] ik weer naar de woning van [medeverdachte 1] gereden. Na ongeveer 2 minuten vertrok ik uit de woning. Toen ik wegging was [medeverdachte 7] nog in de woning van [medeverdachte 1] . [medeverdachte 9] en kale [medeverdachte 4] kwamen mij achterop en zeiden dat ik hen ergens naar toe moest rijden. Ze zeiden dat ze naar een vrouw wilden gaan. Ik stuurde de auto naar een woning, op aanwijzing van [medeverdachte 9] . We zijn daar uitgestapt en de woning van die vrouw binnengegaan. De vrouw heeft twee honden, waarvan er een maar drie poten heeft. In die woning was [medeverdachte 5] aanwezig. [medeverdachte 9] heeft met [medeverdachte 5] staan praten.
+
+Ik heb [medeverdachte 3] of zijn auto niet gezien in de nabijheid van de woning waar ingebroken werd. Later die avond, vroeg ik [medeverdachte 9] waarom [medeverdachte 3] er ook bij was. [medeverdachte 9] zei toen dat dat was voor het geval er iets zwaars uit de woning meegenomen moest worden.
+
+31. een geschrift, zijnde een fotocopie van een ambtsedig proces-verbaal - als bijlage 478 gevoegd bij het proces-verbaal met het dossiernummer 98-006422 - opgemaakt door de verbalisanten [verbalisant 12] en [verbalisant 7] voornoemd, gesloten en getekend op 6 april 1999, voorzover inhoudend - zakelijk weergegeven – als verklaring van [medeverdachte 2] :
+
+Waarschijnlijk was het wel de bedoeling dat de buit van de inbraak naar [medeverdachte 5] gebracht zou worden, want we zijn na de inbraak naar de woning van Martine, waar [medeverdachte 5] ook was, gegaan.
+
+Toen we bij Martine waren geweest, die avond van de 2e september 1998, heb ik aan [medeverdachte 9] gevraagd waarom wij naar [medeverdachte 5] toe moesten. Ik hoorde dat [medeverdachte 9] tegen mij zei: “Wat wij uit dat huis gehaald zouden hebben, moesten we naar [medeverdachte 5] brengen”.
+
+Toen we bij de woning van [medeverdachte 1] weggingen, zag ik [medeverdachte 5] uit de woning van [medeverdachte 1] komen. Ik zag dat [medeverdachte 3] en [medeverdachte 5] naar het busje liepen. Ik heb gezien dat [medeverdachte 5] in het busje stapte.
+
+U vraagt mij wat er uit de villa gestolen zou worden. Ik weet alleen dat het “mal” zou moeten zijn. Met mal bedoel ik cocaine. Er werd ook gesproken over “para”, dat betekent geld.”
+
+6.2.4
+
+Het hof heeft in de zaken van de gewezen medeverdachten [medeverdachte 9] , [medeverdachte 2] , [medeverdachte 1] , [medeverdachte 5] , [medeverdachte 3] , en [medeverdachte 4] met betrekking tot de bewezenverklaring (verder) het volgende overwogen:
+
+“1. Door de verdediging is ter terechtzitting in hoger beroep aangevoerd dat de in deze strafzaak afgelegde verklaringen niet bruikbaar zijn voor het bewijs. Dit algemene verweer vergt nader onderzoek op verschillende onderdelen.
+
+1.1
+
+Betwist is dat verdachten hun verklaringen in vrijheid hebben afgelegd. De uitgeoefende druk zou in de weg staan aan de betrouwbaarheid van het door verdachten verklaarde.
+
+Het hof heeft waargenomen dat het verzoek om medische hulp niet (direct) is gehonoreerd en dat verdachten soms langdurig zijn verhoord. Voorts is op een bepaald moment door een verbalisant aan een verdachte gevraagd of men bij elke leugen een vinger mocht afhakken. Tijdens meerdere verhoren hebben verbalisanten op verschillende momenten met stemverheffing gesproken, met de hand op tafel geslagen, zijn zij dicht bij de verdachte gaan zitten of staan en is een verdachte benaderd door een arm om hem heen te leggen. Tenslotte staat vast dat tijdens één verhoor door een verbalisant is gezegd dat de politie ervoor kan zorgen dat de verdachte twintig jaren krijgt opgelegd alsmede dat het mogelijk is om verdachtes gezichtsprofiel te laten passen in de in het dossier aanwezige compositietekening.
+
+Het hof is van oordeel dat voormelde feiten en omstandigheden niet structureel hebben plaatsgevonden. Het geringe aantal momenten dat van een zekere druk sprake was weegt niet op tegen de grote hoeveelheid uren die de verdachten zijn verhoord. Het hof merkt de incidentele uitlatingen, waaraan de verdediging refereert, niet aan als ernstig maar plaatst deze in de context van het gebruikelijke verhoor in een zware strafzaak op grond waarvan een zekere verbale en non-verbale druk toelaatbaar is en gericht op het verkrijgen van een in vrijheid afgelegde verklaring. Van de politieverhoren kan niet worden gezegd dat er een ontoelaatbare druk op verdachten uitging die hun verklaringsvrijheid op onaanvaardbare wijze heeft geschonden.
+
+Kennisgenomen hebbend van vele - audio-visueel vastgelegde - politieverhoren stelt het hof vast dat de verhoren veeleer worden gekenmerkt door een rustig verloop van het gesprek en bijbehorende opstelling van verbalisanten en verdachten dan door een intimiderende en bedreigende gang van zaken. Het hof is voorts van oordeel dat het - al dan niet tijdelijk - weigeren van medische zorg gelegen is in de pleitbare inschatting van verbalisanten dat nog geen directe zorg was geboden danwel dat medische zorg aanstaande was. Voormelde uitlatingen van verbalisanten die betrekking hebben op het ervoor zorgen dat de verdachte twintig jaren krijgt opgelegd en dat diens profiel kan worden ingepast in de compositietekening zijn naar het oordeel van het hof wellicht minder professioneel maar zijn binnen de context van de andere verhoormomenten als incidenteel en niet onrechtmatig aan te merken. Voorts staat de lengte van de verhoren niet in de weg aan het oordeel dat zorgvuldig is verhoord nu de verhoren veelvuldig zijn onderbroken en de onderbrekingen veelal gepaard gingen met het nuttigen van voedsel.
+
+1.2
+
+Door de verdediging is voorts aangevoerd dat het opsporingsteam bepaalde verhoormethoden zou hebben gebezigd die een behoorlijk opsporingsonderzoek onmogelijk hebben gemaakt. Aan de onder 1 weergegeven feiten en omstandigheden zou een structurele verhooraanpak met bijbehorende verhoormethodieken kunnen worden afgelezen.
+
+Het hof heeft uit de verklaringen van verhorende verbalisanten, afgelegd als getuigen ter terechtzitting in hoger beroep, alsmede uit het strafdossier niet anders afgeleid dan dat het opsporingsteam in deze strafzaak op structurele basis de voortgang in het onderzoek heeft besproken waarbij de verhorende verbalisanten zich onderling met een zekere regelmaat hebben verstaan over de achterliggende en komende verhoren. Het hof is niet gebleken dat de onder 1 gememoreerde feiten en omstandigheden waren ingebed in een planning binnen het opsporingsteam. Ook in dit verband diskwalificeert de gang van zaken rond en tijdens de politieverhoren noch de betrouwbaarheid van de door verdachte(n) afgelegde verklaringen noch de verklaringsvrijheid van verdachte(n).
+
+1.3
+
+De verdediging heeft aangevoerd dat tijdens verschillende (delen van) verhoren de politie aan verdachte de bijstand van een tolk bewust heeft onthouden danwel dat bij - niet geplande - afwezigheid van een tolk het verhoor toch is voortgezet, ondanks het (herhaalde) verzoek van verdachten om het verhoor later voort te zetten in aanwezigheid van een tolk. Een en ander zou een dermate ernstige inbreuk op de verklaringsvrijheid van verdachte hebben meegebracht dat op die momenten geen sprake was van een zorgvuldige waarheidsvinding.
+
+Tijdens de zitting in hoger beroep van 14 juni 2000 heeft de getuige Baars verklaard dat in het vijfde verhoor van [aanvrager] de tolk om tactische redenen is weggehaald. [aanvrager] zou zich achter de tolk hebben verscholen en zich aldus bedenktijd hebben verschaft alvorens vragen te beantwoorden. Deze beslissing stoelde op de gedachte dat het verhoor zonder tolk beter zou verlopen.
+
+Het hof is van oordeel dat het primair aan de verbalisanten is voorbehouden om te bepalen of een verdachte een tolk nodig heeft. Indien uit de zonder tolk afgelegde verklaringen blijkt dat de verdachte de verhorende politieambtenaren lijkt te begrijpen kan slechts bij voorlezing van het op schrift gestelde verhoor blijken of de verdachte heeft verklaard overeenkomstig hetgeen hij wilde verklaren. In die gevallen dat een (gedeelte van een) verhoor zonder bijstand van een tolk plaatsvond is bij voorlezing van de verklaringen gebruik gemaakt van een tolk zodat verdachte(n) op die momenten in staat was (waren) om zijn (hun) verklaringen bij te stellen. Van die (behoefte aan) bijstelling is het hof overigens niet gebleken.
+
+Waar specifiek is gerefereerd aan het vijfde verhoor van [aanvrager] stelt het hof vast dat [aanvrager] als getuige ter zitting heeft verklaard dat hij geen moeite had met de wijze van verhoren door de politie. Voorts is het hof gebleken dat [aanvrager] de Nederlandse taal voldoende machtig is, zodat hij door de gewraakte gang van zaken minder in zijn rechten is geschonden dan door de verdediging is betoogd. Bovenal is het hof van oordeel dat de gewraakte opmerking van de getuige Baars louter betrokken kan worden op het verhoor van [aanvrager] , hetgeen de kwaliteit van de verhoren van andere verdachten niet regardeert.
+
+Voorgaande verweren, in onderlinge samenhang beschouwd, worden verworpen. Niet aannemelijk is geworden dat de tegenover de politie afgelegde verklaringen onder rechtens ontoelaatbare druk zijn afgelegd.
+
+1.4
+
+De verdediging heeft de betrouwbaarheid van met name de verklaringen van [aanvrager] en [medeverdachte 2] betwist. De betrouwbaarheid van de persoon van [aanvrager] is ernstig in twijfel getrokken terwijl van [medeverdachte 2] is gesteld dat deze een zwakke persoonlijkheid bezit. De leugenachtigheid van [aanvrager] zou het waarheidsgehalte van zijn verklaringen sterk verminderen, hetgeen zou moeten blijken uit de vele innerlijke tegenstrijdigheden in de door hem afgelegde verklaringen. [medeverdachte 2] daarentegen zou door zijn persoonlijkheidsstructuur (gedeeltelijke) bekentenissen hebben afgelegd die niet stroken met de waarheid.
+
+Het hof stelt vast dat de verdediging tijdens de zittingen in hoger beroep in ruime mate in de gelegenheid is geweest om de verklaringen van met name [aanvrager] adequaat aan een kritisch onderzoek te onderwerpen. De verdediging heeft [aanvrager] indringend kunnen bevragen en van die mogelijkheid is overvloedig gebruik gemaakt.
+
+De verklaringen die [aanvrager] en [medeverdachte 2] hebben afgelegd zijn innerlijk consistent gebleken. Daarbij heeft [aanvrager] ter terechtzitting in hoger beroep toegegeven dat hij - toen hij zichzelf nog wilde ontlasten - meermalen tegen de politie onwaarheden heeft verteld. In de latere verhoren zou hij verklaringen hebben bijgesteld en aangevuld, waardoor uiteindelijk een waarheidsgetrouw beeld van de gebeurtenissen op 2 september 1998 zou zijn ontstaan. Niet alle discrepanties in zijn verhoren kunnen door deze uitleg worden verklaard. Niettemin acht het hof deze gang van zaken voldoende betrouwbaar; mede door tijdsverloop kunnen bepaalde herinneringen inaccuraat zijn. Immers, verdachten zijn ongeveer een half jaar na het delict aangehouden. Dat gegeven staat evenwel niet aan de betrouwbaarheid van zijn verklaringen in de weg. Het hof wijst er bovendien op dat [aanvrager] zich door zijn eigen verklaringen ernstig heeft belast, hetgeen het betrouwbaarheidsgehalte van zijn verklaringen ten goede komt.
+
+Het hof oordeelt de verklaringen van [aanvrager] als betrouwbaar en dientengevolge bruikbaar voor het bewijs aangezien ze op meerdere punten bevestigd worden door de verklaringen van [medeverdachte 2] . Deze verklaart gedetailleerd over zijn rol en die van andere verdachten. Als motief voor zijn bekennende verklaring voert [medeverdachte 2] zijn hoop op strafvermindering aan, hetgeen een betrouwbare uitleg vormt voor zijn bekentenissen. Als overeenkomst met de verklaringen van [aanvrager] wijst het hof op de verklaring van [medeverdachte 2] dat hij op 2 september 1998 in een donkerblauwe Golf reed. [medeverdachte 2] heeft verschillende van de verdachten aangewezen als zijnde degenen die bij de voorbereiding en uitvoering van de overval op 2 september 1998 betrokken waren. Hij heeft gedetailleerd verklaard over de personen die zijn meegegaan naar de [a-straat 1] alsmede over degenen die in of bij de auto’s zijn blijven wachten en over de personen die in de richting van het huis zijn gelopen. Voorts heeft hij informatie verschaft over de plaats waar de betrokken voertuigen geparkeerd waren. Deze daderinformatie spoort in hoge mate met de informatie uit de bekennende verklaringen van [aanvrager] .
+
+Naar het oordeel van het hof zijn de verklaringen van [aanvrager] en [medeverdachte 2] zeer gedetailleerd en bevatten concrete redenen van wetenschap die bovendien steun vinden in verklaringen van anderen danwel in ander bewijsmateriaal.
+
+[aanvrager] heeft verklaard dat hij op 2 september 1998 met pech aan zijn auto langs de kant van de weg kwam te staan, waarna [medeverdachte 1] door [aanvrager] is gebeld die vervolgens met de auto van zijn vader [aanvrager] is komen helpen. Nadat beide voertuigen weer verder reden is benzine getankt bij een tankstation. De betaling van de benzine met behulp van de tankpas van [aanvrager] was niet succesvol aangezien de pas van [aanvrager] was geblokkeerd. Daarna heeft [aanvrager] zijn mobiele telefoon bij het tankstation als onderpand achtergelaten. Voor deze verklaring van [aanvrager] is steun te vinden in de verklaringen van [medeverdachte 1] , diens vader en [medeverdachte 4] alsmede in de informatie van de op 2 september 1998 bij het tankstation werkzame [getuige 4] .
+
+De verklaringen van [aanvrager] en [medeverdachte 2] dat een deel van de verdachten in de blauwe Golf bij de woning arriveerden waarin is ingebroken, wordt gestaafd door de waarneming van de getuige [getuige 1] die op 2 september 1998 tussen 19.30 uur en 19.45 uur heeft gezien dat een donkerblauwe of mogelijk zwarte Golf, oud model, de oprit van het pand [a-straat 1] opreed.
+
+[aanvrager] heeft verklaard dat hij na het parkeren van zijn Mercedes aan de [a-straat 1] de kofferbak heeft opengemaakt. Deze verklaring vindt steun in de getuigenverklaring van [getuige 2] die een man bij een openstaande kofferbak van een Mercedes heeft zien staan.
+
+[aanvrager] heeft voorts verklaard dat de voorzijde van het huis van de familie [...] bij schemer of duisternis verlicht werd door een lamp die werd aangeschakeld door middel van een sensor. De sensor zou reageren na detectie van bewegingen. [aanvrager] verklaart deze waarneming te hebben gedaan vanachter het huis en vanuit deze positie te hebben gezien dat op 2 september 1998 een vrouw het huis aan de voorzijde naderde waarna de lamp aanging. Deze waarnemingen van de werking van de buitenlamp zijn bevestigd door het politieonderzoek waaruit bovendien naar voren kwam dat het mogelijk is vanaf de achterzijde van het huis waar te nemen wat aan de voorzijde van het huis gebeurt doordat de hal van de woning zowel aan de voorzijde als aan de achterzijde is voorzien van niet afgedekt helder glas.
+
+Het hof stelt verder vast dat [aanvrager] een beschrijving geeft van de plafondschilderingen van de koepels aan het viaduct over de [c-straat] . Deze informatie van de situatie ter plaatse is niet algemeen bekend en staaft op een ander onderdeel de verklaringen van [aanvrager] .
+
+[medeverdachte 2] verklaart dat hij na de inbraak aan de [a-straat 1] met [medeverdachte 9] en [medeverdachte 4] naar het huis van [getuige 5] (die hij overigens niet kende) is gereden en daar verdachte [medeverdachte 5] zag. Deze lezing van de feiten vindt steun in de verklaring van [medeverdachte 5] die vertelt dat hij op 2 september 1998 in de woning van [getuige 5] was en daar [medeverdachte 9] , [medeverdachte 2] en [medeverdachte 4] zag en hij [medeverdachte 2] hoorde zeggen: "In dat vrijstaande huis was geen geld te halen".”
+
+Juridisch kader
+
+6.3.1
+
+Uitgangspunt van het wettelijk stelsel is dat een veroordeling die door de Nederlandse strafrechter is uitgesproken, na het verstrijken van de termijnen voor het instellen van gewone rechtsmiddelen en eventueel na het daadwerkelijk benut zijn van die rechtsmiddelen, onherroepelijk wordt. Slechts onder bijzondere omstandigheden is daarna een inbreuk op die onherroepelijkheid mogelijk, namelijk als een aanvraag tot herziening van een dergelijke veroordelende uitspraak wordt ingediend en door de Hoge Raad gegrond wordt bevonden. Herziening is volgens de wet een buitengewoon rechtsmiddel.
+
+6.3.2
+
+Een van de gronden voor herziening kan, zoals ook in deze zaak centraal staat, een zogenoemd novum zijn. In artikel 457 lid 1, aanhef en onder c, Sv is dit aldus tot uitdrukking gebracht dat als grondslag voor een herziening slechts kan dienen een met stukken onderbouwd gegeven dat bij het onderzoek op de terechtzitting aan de rechter niet bekend was en dat het ernstige vermoeden wekt dat indien dit gegeven bekend zou zijn geweest, het onderzoek van de zaak zou hebben geleid hetzij tot een vrijspraak van de gewezen verdachte, hetzij tot een ontslag van alle rechtsvervolging, hetzij tot de niet-ontvankelijkverklaring van het openbaar ministerie, hetzij tot de toepassing van een minder zware strafbepaling.
+
+6.3.3
+
+Op grond van artikel 460 Sv moet de herzieningsaanvraag de gronden vermelden waarop deze rust, met bijvoeging van de bescheiden waaruit van die gronden kan blijken. Het is, ook gelet op het bijzondere karakter van het buitengewone rechtsmiddel van herziening, de aanvrager die tot op zekere hoogte aannemelijk moet maken dat en waarom de eerder oordelende rechter tot een van de in artikel 457 lid 1, onder c, Sv genoemde beslissingen zou zijn gekomen indien hij ten tijde van de behandeling van de strafzaak op de hoogte was geweest van wat in de herzieningsaanvraag naar voren is gebracht.De beoordeling van de herzieningsaanvraag door de Hoge Raad beperkt zich tot de gronden die in de aanvraag worden aangevoerd. Daarbij is nog van belang dat de wet toestaat dat een gewezen verdachte, nadat de Hoge Raad een aanvraag niet-ontvankelijk heeft verklaard of heeft afgewezen, opnieuw een herzieningsaanvraag indient bij de Hoge Raad, mits die aanvraag steunt op andere gronden dan die eerder door de Hoge Raad ontoereikend zijn geoordeeld.
+
+6.3.4
+
+Op grond van artikel 461 lid 1 Sv kan de gewezen verdachte in bepaalde gevallen het verzoek doen aan de procureur-generaal bij de Hoge Raad een nader onderzoek in te stellen naar de aanwezigheid van een novum. Alvorens hierop te beslissen kan de procureur-generaal overeenkomstig artikel 462 lid 1 Sv advies inwinnen van een daartoe belaste commissie, de adviescommissie afgesloten strafzaken (ACAS), over de wenselijkheid van zo’n nader onderzoek.
+
+6.3.5
+
+De aard van het buitengewone rechtsmiddel van herziening brengt met zich dat de aangevoerde grond voor herziening niet al bij de eerdere berechting mag zijn gebleken. In dat geval is immers sprake van een gegeven dat de rechter die de veroordeling uitsprak, in zijn oordeel heeft kunnen betrekken. Het vorenstaande geldt ook als de aangevoerde grond voor herziening is ontleend aan de resultaten van een door de procureur-generaal, al dan niet op advies van de ACAS, ingesteld nader onderzoek.
+
+6.3.6
+
+Bij de beantwoording van de vraag of een in een herzieningsaanvraag aangeduid nieuw gegeven het in artikel 457 lid 1, aanhef en onder c, Sv bedoelde ernstige vermoeden wekt, moet de gehele bewijsvoering van de rechter worden betrokken. Het gaat er daarbij om of het nieuwe gegeven, in het licht van enerzijds wat is aangevoerd in de herzieningsaanvraag en anderzijds de door de rechter gebruikte bewijsmiddelen en (eventuele) nadere bewijsoverwegingen, dat ernstige vermoeden wekt.
+
+Beoordeling
+
+6.4.1
+
+De aanvraag berust erop dat de aanvrager in de bijgevoegde verklaringen is teruggekomen op de door hem afgelegde bekennende verklaringen. Bij de beoordeling hiervan dient te worden vooropgesteld dat de aanvrager aannemelijk moet maken dat en waarom hij terugkomt op zijn eerder afgelegde verklaringen (vgl. HR 4 november 2008, ECLI:NL:HR:2008:BG2858).
+
+6.4.2
+
+In de bij de aanvraag overgelegde verklaringen geeft de aanvrager als redenen voor het terugkomen op zijn eerdere bekennende verklaringen op dat hij een geheel andere herinnering heeft aan het gebeurde op 2 september 1998, dat hij na de veroordeling altijd in angst heeft geleefd als gevolg van de door druk, geweld, bedreiging en marteling door de politie tot stand gekomen verklaringen, dat sprake is van een “20 jaar lang durende gewetenswroeging” die voor hem genoeg is geweest, dat hij “psychische problemen” begint te krijgen en dat hij wil dat “zo snel mogelijk” “eer en waardigheid” wordt teruggegeven aan hem en zijn veroordeelde vrienden.In de bij de aanvraag overgelegde verklaringen en in de aanvraag wordt de omstandigheid dat de aanvrager eerst met zijn verklaring van 5 oktober 2018 is teruggekomen op die eerdere verklaringen, in de kern slechts onderbouwd met de stelling dat de aanvrager pas hierover heeft durven praten naar aanleiding van een televisie-uitzending over de zaak. Hiermee zijn naar het oordeel van de Hoge Raad echter geen toereikende gronden aangedragen die aannemelijk maken waarom de aanvrager op de bekennende verklaringen is teruggekomen. Zonder nadere onderbouwing, die ontbreekt, is de bewering dat de politie hem tijdens de zittingen in hoger beroep in de zaken van de gewezen medeverdachten heeft gezegd dat, als de aanvrager zijn verklaringen zou wijzigen, hij zou worden opgesloten en zijn gezin kapot zou worden gemaakt, bovendien niet geloofwaardig. De bij de aanvraag overlegde verklaringen van de aanvrager bevatten verder geen plausibele uitleg waarom de “20 jaar lang durende gewetenswroeging” hem pas in 2018 aanleiding heeft gegeven tot het terugkomen op de in de strafzaak afgelegde verklaringen. Een en ander klemt temeer nu in die verklaringen of in de aanvraag niet een reden wordt opgegeven waarom de aanvrager zich niet bereid heeft getoond mee te werken aan het door de ACAS geadviseerde en ten behoeve van de voorbereiding van een herzieningsaanvraag te verrichten onderzoek dat, zoals onder 3.3 (ii) is vermeld, door de rechter-commissaris in de rechtbank Noord-Holland is gedaan.
+
+6.4.3
+
+Verder verdient opmerking dat met betrekking tot wat in de bij de aanvraag overgelegde verklaringen van de aanvrager wordt gesteld over de gebeurtenissen op 2 september 1998 nadat om 19.30 uur de benzine van het voertuig van [medeverdachte 1] was opgeraakt, in die verklaringen en in de aanvraag een onderbouwing ontbreekt over deze gang van zaken en over de vraag hoe die zich verhoudt tot de resultaten van het strafrechtelijk onderzoek dat in verband met het bewezenverklaarde feit is verricht en/of de vaststellingen die over het tanken zijn gedaan door het hof in de arresten die tegen de gewezen medeverdachten zijn gewezen. Ook voor zover de bij de aanvraag overgelegde verklaringen van de aanvrager inhouden dat “Al mijn vrienden – alle negen – die van dit feit zijn beschuldigd, waren op 2 september 1998 in Nijmegen. Geen van ons was op de plaats delict of zijn naar de plaats delict gegaan”, ontbreekt een onderbouwing waarop deze bewering berust en wordt niet ingegaan op de verhouding tot de resultaten van het strafrechtelijk onderzoek en/of de bewijsvoering van het hof in de arresten die tegen de gewezen medeverdachten zijn gewezen.
+
+6.4.4
+
+Met betrekking tot hetgeen in de bij de aanvraag overgelegde verklaringen naar voren wordt gebracht over het verloop van de politieverhoren, is bovendien van belang dat – zoals in 6.2 is vermeld – het hof in de zaken van de gewezen medeverdachten voor het bewijs gebruik heeft gemaakt van verklaringen die de aanvrager niet alleen als verdachte tegenover de politie heeft afgelegd, maar ook als beëdigde getuige in hoger beroep ter terechtzitting ten overstaan van het hof heeft afgelegd nadat zijn veroordeling onherroepelijk was geworden. Ook heeft het hof – onder meer door kennisneming van vele audiovisueel vastgelegde politieverhoren – getoetst of de door de aanvrager tegenover de politie afgelegde verklaringen onder ontoelaatbare druk zijn afgelegd. Daarbij heeft het hof uitvoerig gemotiveerd geoordeeld dat het de voor het bewijs gebruikte verklaringen van de aanvrager betrouwbaar acht, waarbij het tevens heeft aangeduid op welke onderdelen die verklaringen steun vinden in de verklaringen van [medeverdachte 2] en in andere bewijsmiddelen.
+
+6.5.1
+
+In de aanvraag wordt verder nog een beroep gedaan op hoofdstuk 4 van het boek “De Arnhemse villamoord. Valse bekentenissen”, dat H. Israëls en anderen hebben gepubliceerd in 2014 op basis van door de deelnemers aan het zogenoemde project Gerede Twijfel verricht onderzoek, en het onder 3.3 genoemde eindadvies van de ACAS van 8 juni 2018. In de aanvraag wordt niet aangevoerd dat dit boek en/of dat eindadvies op zichzelf beschouwd als novum moet of moeten worden aangemerkt, maar wordt naar voren gebracht dat de bevindingen die in dit boek en dat eindadvies worden gepresenteerd, ondersteunen dat meer waarde moet worden gehecht aan de bij de aanvraag overgelegde verklaringen van de aanvrager dan de door hem tegenover de politie afgelegde verklaringen. Daarbij wordt in het bijzonder gewezen op de in het genoemde boek en het ACAS-eindrapport opgenomen bevindingen met betrekking tot de inhoud en de totstandkoming van de tegenover de politie afgelegde verklaringen van de aanvrager en [medeverdachte 2] .In hoofdstuk 4 van het hiervoor genoemde boek worden de door de aanvrager tegenover de politie afgelegde verklaringen, mede aan de hand van de beschikbare video-opnamen, geanalyseerd. Met betrekking tot deze en andere bevindingen wordt in het boek opgemerkt: “Alles wat vermeld staat in dit boek, is afkomstig uit het dossier en de opnames van de verhoren, en dat is dus allemaal materiaal dat indertijd ook al bekend was bij de rechter.” De onderdelen van het ACAS-advies waarnaar in de aanvraag wordt verwezen, betreffen een analyse van de verklaringen van de aanvrager die hij tegenover de politie heeft afgelegd, mede aan de hand van de beschikbare video-opnamen, alsook passages over de door [medeverdachte 2] afgelegde verklaringen en de mogelijkheid dat een “prisoners dilemma” heeft bestaan ten aanzien van de door de aanvrager ter terechtzitting in hoger beroep in de zaken van de gewezen medeverdachten afgelegde verklaringen.
+
+6.5.2
+
+Voor zover met de aanvraag zou zijn beoogd het boek en het eindadvies (mede) als nieuwe deskundigeninzichten aan te merken, kan dat niet worden gevolgd omdat de aanvraag niet is voorzien van de in het arrest van de Hoge Raad van 26 april 2016, ECLI:NL:HR:2016:736 aangeduide informatie die benodigd is om de inhoud van een deskundigeninzicht en de nieuwheid daarvan op waarde te kunnen schatten.
+
+6.5.3
+
+Opmerking verdient bovendien dat het hiervoor genoemde boek en het ACAS-eindadvies zich in hoofdzaak richten op de totstandkoming van de door de aanvrager tegenover de politie afgelegde verklaringen, terwijl de processen-verbaal en de video-opnamen van de door de aanvrager tegenover de politie afgelegde verklaringen ter beschikking stonden aan de rechter. In de zaken van de gewezen medeverdachten heeft het hof die totstandkoming van de door de aanvrager tegenover de politie afgelegde verklaringen onderzocht en gemotiveerd geoordeeld dat deze verklaringen voor het bewijs kunnen worden gebruikt. Van belang daarbij is ook dat de aanvrager als beëdigde getuige ten overstaan van het hof uitgebreide verklaringen heeft afgelegd nadat zijn veroordeling onherroepelijk was geworden, waarbij die verklaringen – zoals ook door het hof in de zaken tegen de gewezen medeverdachten is geoordeeld – steun vinden in overige resultaten van het strafrechtelijk onderzoek. Verder komen de bij de aanvraag gevoegde verklaringen van de aanvrager niet aan de orde in het hiervoor genoemde boek en het ACAS-eindadvies, omdat die verklaringen eerst tot stand zijn gekomen na de afronding van dat boek en dat eindadvies.
+
+6.6
+
+Gelet op het vorenstaande wekken de bij de aanvraag overgelegde verklaringen niet het voor het buitengewone rechtsmiddel van herziening vereiste ernstige vermoeden als bedoeld in artikel 457 lid 1, aanhef en onder c, Sv. Daaruit volgt dat de aanvraag ongegrond is en op grond van artikel 470 Sv moet worden afgewezen.
+
+7
+Beslissing
+
+De Hoge Raad wijst de aanvraag tot herziening af.
+
+Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend, A.L.J. van Strien, M.J. Borgers en M. Kuijer, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van 20 april 2021.
