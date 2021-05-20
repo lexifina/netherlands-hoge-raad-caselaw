@@ -8,7 +8,8 @@ published: "2021-06-08"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2021:584"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 11-6-2021", "V-N Vandaag 2021/1400", "FutD 2021-1821 met annotatie van Fiscaal up to Date", "NLF 2021/1246 met annotatie van Theo Hoogwout", "NTFR 2021/2059 met annotatie van mr. J. Nieuwenhuizen", "V-N 2021/28.4 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1400", "NLF 2021/1246 met annotatie van Theo Hoogwout", "V-N 2021/28.4 met annotatie van Redactie", "NTFR 2021/2059 met annotatie van mr. J. Nieuwenhuizen", "Viditax (FutD) 2021061125", "FutD 2021-1821"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2021:1574"]]
 ---
 
 # ECLI:NL:PHR:2021:584 Parket bij de Hoge Raad , 20-05-2021 / 20/03660
