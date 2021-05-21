@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:754"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0618", "OR-Updates.nl 2021-0191", "NJB 2021/1582", "INS-Updates.nl 2021-0156", "NJ 2021/197", "RvdW 2021/561", "PJ 2021/80", "PR-Updates.nl PR-2021-0093", "JIN 2021/102 met annotatie van Ebels, E.S., Gun, L.V. van der", "RO 2021/43", "JOR 2021/259 met annotatie van Tekstra, A.J.", "JONDR 2021/476", "RAV 2021/85", "VAAN-AR-Updates.nl 2021-0618"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0618", "OR-Updates.nl 2021-0191", "NJB 2021/1582", "INS-Updates.nl 2021-0156", "NJ 2021/197", "RvdW 2021/561", "PJ 2021/80", "PR-Updates.nl PR-2021-0093", "JIN 2021/102 met annotatie van Ebels, E.S., Gun, L.V. van der", "RO 2021/43", "JOR 2021/259 met annotatie van Tekstra, A.J.", "JONDR 2021/476", "RAV 2021/85", "VAAN-AR-Updates.nl 2021-0618", "PR-Updates.nl 2021-0093"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:1127, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2019:3268, Bekrachtiging/bevestiging"]]
 ---
 
