@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:136"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0028"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0028", "PR-Updates.nl 2022-0028"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2021:2882"]]
 ---
 
