@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:162"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0164", "NJB 2022/465", "RvdW 2022/215", "NJ 2022/76", "PJ 2022/16 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0050", "JIN 2022/61 met annotatie van Donner-Broersma,W.C.M.", "VAAN-AR-Updates.nl 2022-0164"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0164", "NJB 2022/465", "RvdW 2022/215", "NJ 2022/76", "PJ 2022/16 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0050", "JIN 2022/61 met annotatie van Donner-Broersma,W.C.M.", "VAAN-AR-Updates.nl 2022-0164", "PR-Updates.nl 2022-0050"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2021:737, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2020:25, Bekrachtiging/bevestiging"]]
 ---
 
