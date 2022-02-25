@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:328"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0241 met annotatie van L.C.J. Sprengers", "NJB 2022/545", "INS-Updates.nl 2022-0064 met annotatie van L.C.J. Sprengers", "RvdW 2022/256", "JAR 2022/86 met annotatie van mr. dr. J. van der Pijl", "PJ 2022/28 met annotatie van B. Degelink", "NJ 2022/150 met annotatie van F.M.J. Verstijlen", "PR-Updates.nl PR-2022-0065 met annotatie van L.C.J. Sprengers", "RI 2022/41", "JOR 2022/163 met annotatie van Heumakers, S.B.A.", "TvI 2022/17 met annotatie van P.R.W. Schaink", "TvPP 2022, afl. 4, p. 150"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0241 met annotatie van L.C.J. Sprengers", "NJB 2022/545", "INS-Updates.nl 2022-0064 met annotatie van L.C.J. Sprengers", "RvdW 2022/256", "JAR 2022/86 met annotatie van mr. dr. J. van der Pijl", "PJ 2022/28 met annotatie van B. Degelink", "NJ 2022/150 met annotatie van F.M.J. Verstijlen", "PR-Updates.nl PR-2022-0065 met annotatie van L.C.J. Sprengers", "RI 2022/41", "JOR 2022/163 met annotatie van Heumakers, S.B.A.", "TvI 2022/17 met annotatie van P.R.W. Schaink", "TvPP 2022, afl. 4, p. 150", "VAAN-AR-Updates.nl 2022-0241", "PR-Updates.nl 2022-0065"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2021:1152"], ["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:RBAMS:2021:4475, Prejudiciële beslissing"]]
 ---
 
