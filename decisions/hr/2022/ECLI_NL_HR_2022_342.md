@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:342"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/590", "V-N 2022/14.13 met annotatie van Redactie", "NLF 2022/0624 met annotatie van Gooike van Slooten", "Douanerechtspraak 2022/38", "BNB 2022/71 met annotatie van M.J.W. van Casteren", "NTFR 2022/1202 met annotatie van De redactie", "Viditax (FutD) 2022031116", "FutD 2022-0760", "DouaneUpdate 2022-0127"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/590", "V-N 2022/14.13", "NLF 2022/0624 met annotatie van Gooike van Slooten", "Douanerechtspraak 2022/38", "BNB 2022/71 met annotatie van M.J.W. van Casteren", "NTFR 2022/1202 met annotatie van Redactie", "Viditax (FutD) 2022031116", "FutD 2022-0760", "DouaneUpdate 2022-0127"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:1145"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2019:2182"]]
 ---
 
