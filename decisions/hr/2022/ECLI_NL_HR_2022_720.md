@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:720"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1224", "V-N 2022/23.3 met annotatie van Redactie", "NTFR 2022/2070 met annotatie van Dr. J.H.M. Nieuwenhuizen", "NLF 2022/1095 met annotatie van Angelique Perdaems", "BNB 2022/89 met annotatie van E.J.W. Heithuis", "Vp-bulletin 2022/34 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "NJB 2022/1861", "FED 2023/93 met annotatie van T.C. Gerverdinck", "Viditax (FutD) 2022052002", "FutD 2022-1427"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1224", "V-N 2022/23.3 met annotatie van Redactie", "NTFR 2022/2070 met annotatie van Dr. J.H.M. Nieuwenhuizen", "NLF 2022/1095 met annotatie van Angelique Perdaems", "BNB 2022/89 met annotatie van E.J.W. Heithuis", "Vp-bulletin 2022/34 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "NJB 2022/1861", "FED 2023/93 met annotatie van T.C. Gerverdinck", "Viditax (FutD) 2022052002", "FutD 2022-1427"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:180"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:293"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2021:1875"]]
 ---
 
