@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:887"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2022-0125", "NJB 2022/1602", "RvdW 2022/636"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2022-0125", "NJB 2022/1602", "RvdW 2022/636", "NJ 2026/284 met annotatie van J.W. Ouwerkerk"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:409"]]
 ---
 
