@@ -1,0 +1,68 @@
+---
+ecli: "ECLI:NL:HR:2022:746"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "21/02044"
+decided: "2022-06-24"
+published: "2022-05-19"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:746"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:HR:2022:746 Hoge Raad , 24-06-2022 / 21/02044
+
+## Inhoudsindicatie
+
+HR verklaart het beroep in cassatie n-o.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+BELASTINGKAMER
+
+Nummer	21/02044
+
+Datum	24 juni 2022
+
+ARREST
+
+in de zaak van
+
+[X] te [Z] (hierna: belanghebbende)
+
+tegen
+
+de STAATSSECRETARIS VAN FINANCIËN
+
+op het beroep in cassatie tegen de uitspraak van de Rechtbank Den Haag van 5 maart 2021, nr. SGR 20/3024 V.
+
+1
+Beoordeling van de ontvankelijkheid van het beroep in cassatie
+
+Belanghebbende heeft ter zake van betaling van het verschuldigde griffierecht een beroep op betalingsonmacht gedaan.Na daartoe in de gelegenheid te zijn gesteld door de griffier van de Hoge Raad (hierna: de griffier) heeft belanghebbende een verklaring omtrent afwezigheid van vermogen aan de Hoge Raad geretourneerd en daarbij een betalingsspecificatie van de Svb inzake een nabestaandenuitkering Anw in de maand juni 2021 overgelegd. Vervolgens heeft de griffier bij de Raad voor Rechtsbijstand een inkomensverklaring opgevraagd. Na ontvangst daarvan is belanghebbende in de gelegenheid gesteld hierop te reageren.
+
+Bij brief van 20 september 2021 is aan belanghebbende meegedeeld dat aan de hand van de door haar verstrekte gegevens, de hiervoor genoemde inkomensverklaring en de nadien van haar ontvangen reactie niet kan worden geconcludeerd dat wordt voldaan aan de criteria voor betalingsonmacht en dat daarom niet kan worden afgezien van het heffen van griffierecht. Tevens is daarin meegedeeld dat bij niet-tijdige betaling van het griffierecht het beroep in cassatie nietontvankelijk kan worden verklaard.
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van 22 september 2021 gewezen op de verschuldigdheid van griffierecht en voor de betaling daarvan een termijn van vier weken gesteld. Deze brief is wegens onbestelbaarheid teruggezonden aan de Hoge Raad, waarna adresverificatie heeft plaatsgevonden en het stuk bij gewone brief is verzonden naar het adres van belanghebbende. Het griffierecht is niet voldaan.
+
+De griffier van de Hoge Raad heeft belanghebbende bij brief van 21 oktober 2021 in de gelegenheid gesteld mee te delen waarom het griffierecht niet is betaald. De Hoge Raad is van oordeel dat hetgeen belanghebbende in haar door de Hoge Raad op 29 oktober 2021 ontvangen brief aanvoert, geen grond vormt voor het oordeel dat belanghebbende met het achterwege laten van betaling van griffierecht niet in verzuim is. In het bijzonder kan niet aan de hand van de in cassatie overgelegde gegevens worden geconcludeerd dat heffing van het ingevolge de wet verschuldigde bedrag aan griffierecht het voor belanghebbende onmogelijk, althans uiterst moeilijk, maakt om beroep in cassatie in te stellen.
+
+Het beroep in cassatie moet daarom op grond van artikel 8:41, lid 6, Awb niet-ontvankelijk worden verklaard.
+
+2
+Proceskosten
+
+De Hoge Raad ziet geen aanleiding voor een veroordeling in de proceskosten.
+
+3
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie niet-ontvankelijk.
+
+Dit arrest is vastgesteld door de vice-president R.J. Koopman als voorzitter, en de raadsheren A.F.M.Q. Beukers-van Dooren en P.A.G.M. Cools, in tegenwoordigheid van de waarnemend griffier F. Treuren, in de raadkamer van 11 mei 2022 en op 24 juni 2022 in het openbaar uitgesproken.
+
+ECLI:NL:HR:2015:354.
