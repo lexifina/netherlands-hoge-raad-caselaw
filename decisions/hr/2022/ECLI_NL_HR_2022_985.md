@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:985"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0758", "JAR 2022/193 met annotatie van Vermeeren-Keijzers, I.H., Haaren, K.A. van", "PR-Updates.nl PR-2022-0154", "RvdW 2022/685", "PJ 2022/93", "VAAN-AR-Updates.nl 2022-0758"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0758", "JAR 2022/193 met annotatie van Haaren, K.A. van, Vermeeren-Keijzers, I.H.", "PR-Updates.nl PR-2022-0154", "RvdW 2022/685", "PJ 2022/93", "VAAN-AR-Updates.nl 2022-0758", "PR-Updates.nl 2022-0154"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:163, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2022:523, Meerdere afhandelingswijzen"]]
 ---
 
