@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:982"
-published_in: ["Rechtspraak.nl", "NJB 2022/1777", "SR-Updates.nl 2022-0149", "GZR-Updates.nl 2022-0178", "RvdW 2022/776", "NJ 2024/251"]
+published_in: ["Rechtspraak.nl", "NJB 2022/1777", "SR-Updates.nl 2022-0149", "GZR-Updates.nl 2022-0178", "RvdW 2022/776", "NJ 2024/251", "NTS 2022/61", "NTS 2023/56"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:427"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2020:10689"]]
 ---
 
