@@ -10,7 +10,7 @@ procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:187"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/313", "V-N 2023/9.16 met annotatie van Redactie", "NTFR 2023/300 met annotatie van T.J. Jacobs", "NLF 2023/0421 met annotatie van Johan Hollebeek", "Douanerechtspraak 2023/13", "SEW 2023, afl. 4, p. 195", "BNB 2023/111 met annotatie van G.J. van Slooten", "Viditax (FutD) 2023021007", "FutD 2023-0390", "DouaneUpdate 2023-0056"]
-relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2019:9865"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:1213"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:1209"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:697"]]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2019:9865"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:1213"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2020:1223"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2024:697"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:179"]]
 ---
 
 # ECLI:NL:HR:2023:187 Hoge Raad , 10-02-2023 / 19/05853
