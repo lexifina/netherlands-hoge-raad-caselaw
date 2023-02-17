@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:255"
-published_in: ["Rechtspraak.nl", "NJB 2023/596", "RvdW 2023/233", "Burgerlijk procesrecht.nl BPR-2023-0006", "RBP 2023/31", "Gst. 2023/22 met annotatie van B. van der Vorm", "TvPP 2023,afl. 3, p. 104", "BPR-Updates.nl 2023-0006", "JBPr 2023/39 met annotatie van mr. dr. E.F. Groot", "NJ 2023/239 met annotatie van P.A.M. Mevis, C.J.M. Klaassen"]
+published_in: ["Rechtspraak.nl", "NJB 2023/596", "RvdW 2023/233", "Burgerlijk procesrecht.nl BPR-2023-0006", "RBP 2023/31", "Gst. 2023/22 met annotatie van B. van der Vorm", "TvPP 2023,afl. 3, p. 104", "BPR-Updates.nl 2023-0006", "JBPr 2023/39 met annotatie van mr. dr. E.F. Groot", "NJ 2023/239 met annotatie van C.J.M. Klaassen, P.A.M. Mevis"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2021:10909, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1013, Gevolgd"]]
 ---
 
