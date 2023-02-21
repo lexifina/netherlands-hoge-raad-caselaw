@@ -10,7 +10,7 @@ procedure: "Artikel 81 RO-zaken"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:273"
 published_in: ["Rechtspraak.nl", "RvdW 2023/301"]
-relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2021:5029"]]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2021:5029"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:254"]]
 ---
 
 # ECLI:NL:HR:2023:273 Hoge Raad , 21-02-2023 / 21/02277
