@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:298"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0268", "PR-Updates.nl PR-2023-0020", "RvdW 2023/275", "PJ 2023/20", "VAAN-AR-Updates.nl 2023-0268"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0268", "PR-Updates.nl PR-2023-0020", "RvdW 2023/275", "PJ 2023/20", "VAAN-AR-Updates.nl 2023-0268", "PR-Updates.nl 2023-0020"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2021:2836, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1041, Gevolgd"]]
 ---
 
