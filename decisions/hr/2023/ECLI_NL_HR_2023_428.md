@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:428"
-published_in: ["Rechtspraak.nl", "NJB 2023/823", "AR-Updates.nl 2023-0406", "NJ 2023/114", "RvdW 2023/349", "PR-Updates.nl PR-2023-0038", "PJ 2023/52", "JA 2023/58", "RAV 2023/43", "NTHR 2023, afl. 3, p. 99", "JOR 2023/236 met annotatie van dr. mr. F.M.A. 't Hart", "VAAN-AR-Updates.nl 2023-0406"]
+published_in: ["Rechtspraak.nl", "NJB 2023/823", "AR-Updates.nl 2023-0406", "NJ 2023/114", "RvdW 2023/349", "PR-Updates.nl PR-2023-0038", "PJ 2023/52", "JA 2023/58", "RAV 2023/43", "NTHR 2023, afl. 3, p. 99", "JOR 2023/236 met annotatie van dr. mr. F.M.A. 't Hart", "VAAN-AR-Updates.nl 2023-0406", "PR-Updates.nl 2023-0038"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:703, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2021:580, Meerdere afhandelingswijzen"]]
 ---
 
