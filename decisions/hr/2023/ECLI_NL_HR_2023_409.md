@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:409"
-published_in: ["Rechtspraak.nl", "NJB 2023/824", "Burgerlijk procesrecht.nl BPR-2023-0014", "RvdW 2023/347", "OR-Updates.nl 2023-0092", "RO 2023/32", "RN 2023/46", "JIN 2023/82 met annotatie van Mr. P.H. Bossema-De Greef", "JONDR 2023/368", "JOR 2023/174 met annotatie van prof. mr. S.M. Bartman", "Ondernemingsrecht 2023/61 met annotatie van K.A.M. van Vught", "BPR-Updates.nl 2023-0014"]
+published_in: ["Rechtspraak.nl", "NJB 2023/824", "Burgerlijk procesrecht.nl BPR-2023-0014", "RvdW 2023/347", "OR-Updates.nl 2023-0092", "RO 2023/32", "RN 2023/46", "JIN 2023/82 met annotatie van Mr. P.H. Bossema-De Greef", "JONDR 2023/368", "JOR 2023/174 met annotatie van prof. mr. S.M. Bartman", "Ondernemingsrecht 2023/61 met annotatie van K.A.M. van Vught", "BPR-Updates.nl 2023-0014", "NJ 2025/139 met annotatie van G. van Solinge"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:551, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2021:1341, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
