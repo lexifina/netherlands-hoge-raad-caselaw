@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:445"
-published_in: ["Rechtspraak.nl", "NJB 2023/894", "INS-Updates.nl 2023-0082 met annotatie van J.E.P.A. van Hooff", "RvdW 2023/373", "OR-Updates.nl 2023-0076 met annotatie van J.E.P.A. van Hooff", "Sdu Nieuws Insolventierecht 2023/81", "Sdu Nieuws Ondernemingsrechtpraktijk 2023/148", "JIN 2023/64 met annotatie van mr. J.R.F. Dessing", "Prg. 2023/123", "RI 2023/45", "RO 2023/31", "RN 2023/45", "RAV 2023/41", "JONDR 2023/366", "JOR 2023/175 met annotatie van mr. dr. J.E. van Nuland", "Ondernemingsrecht 2023/76 met annotatie van O. Oost", "TvI 2023/32 met annotatie van M.L. Lennarts", "UDH:TvCu/17817 met annotatie van mr. A.B. Borsboom en mr. E.A.H. ten Berge", "NJ 2024/297 met annotatie van G. van Solinge"]
+published_in: ["Rechtspraak.nl", "NJB 2023/894", "INS-Updates.nl 2023-0082 met annotatie van J.E.P.A. van Hooff", "RvdW 2023/373", "OR-Updates.nl 2023-0076 met annotatie van J.E.P.A. van Hooff", "Sdu Nieuws Insolventierecht 2023/81", "Sdu Nieuws Ondernemingsrechtpraktijk 2023/148", "JIN 2023/64 met annotatie van mr. J.R.F. Dessing", "Prg. 2023/123", "RI 2023/45", "RO 2023/31", "RN 2023/45", "RAV 2023/41", "JONDR 2023/366", "JOR 2023/175 met annotatie van mr. dr. J.E. van Nuland", "Ondernemingsrecht 2023/76 met annotatie van O. Oost", "TvI 2023/32 met annotatie van M.L. Lennarts", "UDH:TvCu/17817 met annotatie van mr. A.B. Borsboom en mr. E.A.H. ten Berge", "NJ 2024/297 met annotatie van G. van Solinge", "AA20230881 met annotatie van Bartman S.M. Steef"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1023, Gevolgd"]]
 ---
 
