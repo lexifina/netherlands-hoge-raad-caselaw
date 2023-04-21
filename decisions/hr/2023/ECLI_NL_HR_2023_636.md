@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:636"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0034", "NJB 2023/1164", "RvdW 2023/493", "BPR-Updates.nl 2023-0034", "TVA 2023/66", "NTHR 2023, afl. 4, p. 144", "JBPr 2023/57 met annotatie van prof. mr. B. van Zelst, mr. B.A. Keizers", "NJ 2024/291 met annotatie van H.J. Snijders"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0034", "NJB 2023/1164", "RvdW 2023/493", "BPR-Updates.nl 2023-0034", "TVA 2023/66", "NTHR 2023, afl. 4, p. 144", "JBPr 2023/57 met annotatie van mr. B.A. Keizers, prof. mr. B. van Zelst", "NJ 2024/291 met annotatie van H.J. Snijders"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:809, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2021:14, Bekrachtiging/bevestiging"]]
 ---
 
