@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:660"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0030", "NJB 2023/1166", "RvdW 2023/495", "BPR-Updates.nl 2023-0030", "NJ 2023/220", "JIN 2023/120 met annotatie van mr. P.B.J. van den Oord, mr. M.C.B. Beck"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0030", "NJB 2023/1166", "RvdW 2023/495", "BPR-Updates.nl 2023-0030", "NJ 2023/220", "JIN 2023/120 met annotatie van mr. M.C.B. Beck, mr. P.B.J. van den Oord"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:689, Contrair"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2021:509, Overig"]]
 ---
 
