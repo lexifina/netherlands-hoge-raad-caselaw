@@ -8,7 +8,7 @@ published: "2023-04-20"
 type: "uitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:658"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/927", "PS-Updates.nl 2023-0232", "Burgerlijk procesrecht.nl BPR-2023-0036", "NJB 2023/1171", "V-N 2023/21.22 met annotatie van Redactie", "RvdW 2023/497", "NLF 2023/1211 met annotatie van Jeannette van der Vegt", "NTFR 2023/752 met annotatie van mr. R.B.H. Beune", "JBP 2023/68", "BPR-Updates.nl 2023-0036", "Prg. 2023/179", "JBPr 2023/41 met annotatie van mr. W.I. Wisman", "RBP 2023/59", "TvPP 2023, afl. 4, p. 141", "RF 2023/64"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/927", "PS-Updates.nl 2023-0232", "Burgerlijk procesrecht.nl BPR-2023-0036", "NJB 2023/1171", "V-N 2023/21.22", "RvdW 2023/497", "NLF 2023/1211 met annotatie van Jeannette van der Vegt", "NTFR 2023/752 met annotatie van mr. R.B.H. Beune", "JBP 2023/68", "BPR-Updates.nl 2023-0036", "Prg. 2023/179", "JBPr 2023/41 met annotatie van mr. W.I. Wisman", "RBP 2023/59", "TvPP 2023, afl. 4, p. 141", "RF 2023/64"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:533, Gevolgd"]]
 ---
 
