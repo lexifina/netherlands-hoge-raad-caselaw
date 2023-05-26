@@ -1,0 +1,530 @@
+---
+ecli: "ECLI:NL:HR:2023:778"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "22/01716"
+decided: "2023-05-26"
+published: "2023-05-25"
+type: "uitspraak"
+procedure: "Prejudiciële beslissing"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:778"
+published_in: ["Rechtspraak.nl", "NJB 2023/1408", "RvdW 2023/565", "NTHR 2023, afl. 4, p. 147", "RCR 2023/55", "NJ 2023/347 met annotatie van C.M.D.S. Pavillon"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:255"]]
+---
+
+# ECLI:NL:HR:2023:778 Hoge Raad , 26-05-2023 / 22/01716
+
+## Inhoudsindicatie
+
+Prejudiciële vragen (art. 392 Rv). Mogelijkheid om achteraf te betalen bij aankoop in webwinkel. Vragen over vorderingen uit hoofde van achteraf-betaalservice en (ambtshalve) beoordeling daarvan door rechter in het licht van afdeling 1 van titel 7:2A BW en Richtlijn consumentenkrediet (Richtlijn 2008/48/EG). Hoge Raad biedt partijen gelegenheid zich uit te laten over stellen van prejudiciële vragen aan HvJEU en over te stellen vragen met betrekking tot vertragingsrente en buitengerechtelijke incassokosten en begrip 'totale kosten van het krediet voor de consument'.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+CIVIELE KAMER
+
+Nummer	22/01716
+
+Datum	26 mei 2023
+
+PREJUDICIËLE BESLISSING
+
+In de zaak van
+
+ARVATO FINANCE B.V., handelende onder de naam AFTERPAY,
+
+gevestigd te Heerenveen,
+
+EISENDE partij in eerste aanleg,
+
+hierna: Arvato,
+
+advocaat: I.M.A. Lintel,
+
+tegen
+
+[verweerder],
+
+wonende te [woonplaats],
+
+GEDAAGDE in eerste aanleg,
+
+hierna: [verweerder],
+
+niet verschenen in de prejudiciële procedure.
+
+1
+De prejudiciële procedure
+
+Bij tussenvonnis in de zaak 8851773\CV EXPL 20-10318 van 4 mei 2022 heeft de kantonrechter te Arnhem op de voet van art. 392 Rv prejudiciële vragen aan de Hoge Raad gesteld.
+
+Arvato heeft schriftelijke opmerkingen als bedoeld in art. 393 lid Rv ingediend.
+
+[verweerder] heeft geen schriftelijke opmerkingen ingediend.
+
+Na daartoe desgevraagd in de gelegenheid te zijn gesteld, hebben M.A.J.G. Janssen, advocaat bij de Hoge Raad, O. Jans, J.M. Wisseborn en H.J.M. Hofman namens de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders op de voet van art. 393 lid 2 Rv schriftelijke opmerkingen ingediend.
+
+De conclusie van de plaatsvervangend Procureur-Generaal M.H. Wissink strekt tot beantwoording van de vragen in de zin als vermeld in de conclusie onder 5.17, 6.6, 6.17, 6.51, 6.59, 6.68, 6.69, 7.11, 7.18, 7.27 en 7.43.
+
+De advocaat van Arvato heeft schriftelijk op die conclusie gereageerd.
+
+2
+Uitgangspunten en feiten
+
+2.1
+
+Deze uitspraak gaat over vorderingen uit hoofde van een achteraf-betaalservice en de beoordeling van dergelijke vorderingen door de rechter in het licht van de Richtlijn consumentenkrediet.
+
+2.2
+
+Bij de beantwoording van de prejudiciële vragen gaat de Hoge Raad uit van de volgende feiten:
+
+i) Arvato is aanbieder van de achteraf-betaalservice AfterPay.
+
+ii) Bij een online aankoop wordt AfterPay via de desbetreffende webwinkel aan de klant aangeboden als een van de betaalmethoden die de klant kan kiezen.
+
+iii) [verweerder] heeft als consument op of omstreeks 27 februari 2019 bij een webwinkel drie producten gekocht. Zij heeft gebruik gemaakt van de betaalmethode AfterPay, tegen betaling van een payment fee van € 1,--.
+
+iv) In de betalingsvoorwaarden van Arvato staat onder meer:
+
+“Artikel 2 Wijze van betalen
+
+2.1.
+
+Je keuze om te betalen met de achteraf betaalservice AfterPay van AfterPay houdt na acceptatie van je verzoek/aanvraag daartoe in dat de rechten ten aanzien van het door jou verschuldigde bedrag vanwege de door jou gedane bestelling, worden overgedragen door de winkelier aan AfterPay. Dat betekent dat je na acceptatie door AfterPay uitsluitend nog bevrijdend kan betalen aan AfterPay. AfterPay stuurt je hiervoor een factuur met daarop vermeld het verschuldigde bedrag, separaat van de levering van de bestelling. De factuur kan digitaal zijn via e-mail of via de standaard Europese incasso. Indien je aan een ander dan aan AfterPay betaalt, laat dit je betalingsverplichting aan AfterPay in stand. Je moet dan in een voorkomend geval (nogmaals) betalen, namelijk aan AfterPay te Heerenveen.
+
+(…)
+
+Artikel 4 Betaaltermijn
+
+Je betaling dient binnen een termijn van 14 dagen na factuurdatum door AfterPay ontvangen te zijn, tenzij schriftelijk een andere termijn met jou is overeengekomen.
+
+(…)
+
+Artikel 6 Verzuim
+
+6.1.
+
+Indien je niet binnen de in artikel 4 genoemde termijn betaalt is het verschuldigde bedrag direct opeisbaar en ben je zonder nadere ingebrekestelling in verzuim.
+
+6.2.
+
+Indien je binnen 14 dagen na factuurdatum niet hebt betaald, stuurt AfterPay aan jou een herinnering om je te wijzen op overschrijding van de betalingstermijn. Indien je aan deze herinnering geen gehoor geeft, stuurt AfterPay aan jou een (tweede) schriftelijke herinnering en zal AfterPay het verschuldigde bedrag ophogen met administratiekosten. Indien je ook aan deze herinnering geen gehoor geeft, en AfterPay aan jou een sommatie moet sturen, zullen de administratiekosten nogmaals worden verhoogd.
+
+6.3.
+
+Vanaf de datum waarop je in verzuim verkeert, is AfterPay gerechtigd de wettelijke rente per maand te berekenen over het door jou verschuldigde bedrag, tevens ben je administratiekosten volgens de Wet Incassokosten verschuldigd in verband met de door AfterPay verzonden betalingsherinneringen en zal AfterPay alle redelijke kosten ter verkrijging van voldoening, zowel buiten rechte als gerechtelijk, aan jou in rekening brengen. AfterPay is bij keuze voor automatische incasso of eenmalige machtiging, gerechtigd het totaal verschuldigde bedrag inclusief kosten en rente door middel van automatische incasso of eenmalige machtiging van je bankrekening af te schrijven. Het minimumbedrag dat AfterPay in rekening brengt voor buitengerechtelijke incassokosten in het geval van verzuim bedraagt € 40 (veertig euro). (…).”
+
+( v) Arvato heeft op 27 februari 2019 een betaaloverzicht verstuurd naar het door [verweerder] opgegeven e-mailadres. Het betaaloverzicht vermeldt een totaalbedrag inclusief btw van € 38,97, waarvan € 1,-- ter zake van de payment fee, en een uiterste betaaldatum van 13 maart 2019. Het overzicht vermeldt voorts:
+
+“Indien je de vordering niet binnen de gestelde termijn betaalt en de vordering wordt overgedragen aan een derde dan zal de vordering tot € 40,00 aan buitengerechtelijke incassokosten worden verhoogd. Dit bedrag is tot stand gekomen conform de wet buitengerechtelijke incassokosten, art. 6:96 BW.”
+
+( vi) Arvato heeft bij e-mail van 15 maart 2019 een herinnering gestuurd voor de betaling van de bestelde producten en de payment fee. De herinnering vermeldt onder meer:
+
+“Belangrijk: indien wij het openstaande bedrag niet binnen 16 dagen na bezorging van deze e-mail hebben ontvangen, zullen we € 9,50 aan administratiekosten in rekening moeten brengen.”
+
+( vii) Arvato heeft bij e-mails van 1 april 2019 en 8 april 2019 nogmaals twee herinneringen aan [verweerder] gestuurd voor de betaling van de bestelde producten, de payment fee en een bedrag van € 9,50 aan ‘administratiekosten 1e herinnering’. Deze herinneringen vermelden 12 april 2019 als uiterste betaaldatum. In de herinnering van 8 april 2019 staat verder onder meer:
+
+“Wil je ervoor zorgen dat het bedrag uiterlijk op de uiterste betaaldatum op onze rekening staat? Indien wij het bedrag niet tijdig hebben ontvangen zijn we genoodzaakt € 12,50 aan administratiekosten in rekening te brengen.”
+
+viii) Arvato heeft op 14 april 2019 en 15 april 2019 tweemaal een laatste herinnering aan [verweerder] gestuurd. Daarin maakt zij aanspraak op betaling van de bestelde producten, de payment fee, € 9,50 aan ‘administratiekosten 1e herinnering’ en € 12,50 aan ‘administratiekosten 2e herinnering’. Als uiterste betaaldatum is 24 april 2019 vermeld.
+
+ix) Namens Arvato is op 6 december 2019 een aanmaning aan [verweerder] verstuurd voor de betaling van (alleen) de bestelde producten en de payment fee. In de brief staat onder meer:
+
+“Wij vragen u het bedrag van € 38,97 binnen 15 dagen nadat u deze e-mail hebt ontvangen aan ons te betalen. (…) Kom in actie en betaal op tijd zodat wij de vordering niet hoeven te verhogen met € 40,00 aan incassokosten.”
+
+2.3
+
+Arvato vordert dat [verweerder] wordt veroordeeld tot betaling van € 80,20, te vermeerderen met de wettelijke rente over € 38,97 vanaf 9 oktober 2020. Tegen [verweerder] is verstek verleend. Arvato heeft haar eis verminderd door af te zien van de payment fee.
+
+2.4
+
+De kantonrechter te Arnhem heeft de volgende prejudiciële vragen aan de Hoge Raad voorgelegd:
+
+I. 	Wanneer is een uitstel van betaling een krediet in de zin van titel 7.2A BW? Is daarvoor vereist dat het verlenen van uitstel van betaling onderdeel is van de uitoefening van de beroeps- of bedrijfsactiviteiten van de partij die het uitstel verleent en zo ja, maakt het dan nog uit of het tot de core-business van die partij behoort of slechts een gering(er) onderdeel is van de beroeps- of bedrijfsactiviteiten? En maakt het voorts uit of het verleende uitstel de standaard gehanteerde en enige betaalmogelijkheid vormt of dat de consument de keuze had uit verschillende betaalmogelijkheden en actief gekozen heeft voor het uitstel?
+
+II. 	Moet bij het toepassen van de begrippen ‘zonder rente en andere kosten’ en ‘onbetekenende kosten’ uit art. 7:58 lid 2, onder e, BW worden uitgegaan van de totale kosten van het krediet als bedoeld in art. 7:57 lid 1, onder g, BW of geldt een ander (ruimer of beperkter) kader?
+
+III. 	Is de payment fee, althans een vergoeding onder welke benaming dan ook voor het gebruik van een achteraf betaalservice, aan te merken als kosten van het krediet?
+
+IV. 	Moet de payment fee, althans een vergoeding onder welke benaming dan ook voor het gebruik van een achteraf betaalservice, worden meegenomen bij de vraag of sprake is van een krediet zonder kosten of een krediet met onbetekenende kosten?
+
+V. 	Maakt het bij de beantwoording van de vragen III en IV uit of de kredietverstrekker of de webwinkel de payment fee, althans een vergoeding onder welke benaming dan ook voor het gebruik van een achteraf betaalservice, in rekening brengt?
+
+VI. 	Moeten vertragingsrente (dus rente anders dan de vergoeding voor het ter beschikking gestelde krediet) en buitengerechtelijke kosten worden aangemerkt als kosten van het krediet?
+
+VII. 	Moeten vertragingsrente (dus rente anders dan de vergoeding voor het ter beschikking gestelde krediet) en buitengerechtelijke kosten worden meegenomen bij de vraag of sprake is van een krediet zonder kosten of een krediet met onbetekenende kosten?
+
+VIII. 	Maakt het voor het antwoord op de vragen VI en VII uit of:
+
+a. 	de vertragingsrente en buitengerechtelijke incassokosten op grond van de wet of op grond van de overeenkomst verschuldigd zijn?
+
+b. 	– indien sprake is van bedongen kosten – de kosten zijn bedongen ter hoogte van maximaal de wettelijke tarieven of ter waarde van meer dan de wettelijke tarieven?
+
+IX. 	Aan de hand waarvan moet worden beoordeeld of sprake is van kosten van het krediet? Is dat:
+
+a. 	aan de hand van de kosten die (op grond van de wet of overeenkomst) in rekening gebracht hadden kunnen worden of
+
+b. 	aan de hand van kosten die (op grond van de wet of overeenkomst) daadwerkelijk in rekening zijn gebracht of
+
+c. 	anderszins?
+
+X. 	Maakt het bij de beantwoording van vraag IX in de aldaar onder b bedoelde zin nog uit of de daadwerkelijk in rekening gebrachte kosten ook worden gevorderd in de juridische procedure?
+
+XI. 	Hoe moet worden beoordeeld of kosten onbetekenend zijn? Moet de civiele rechter bij die beoordeling de grens van de AFM (maximaal 1% van de kredietsom op jaarbasis of € 50,-- per jaar voor ‘deferred debit cards’) aanhouden of kunnen andere handvatten worden gegeven aan de hand waarvan die beoordeling kan plaatsvinden?
+
+XII. 	Als kosten zijn bedongen zonder dat aan de hand van het beding duidelijk is of kan worden bepaald wat de (maximale) omvang van die kosten is of op welke wijze die kosten worden berekend, moet dan worden aangenomen dat geen sprake is van een krediet met onbetekenende kosten en dus dat de uitzondering van art. 7:58 lid 2, onder e, BW niet van toepassing is? Zo nee, hoe moet in een dergelijk geval dan worden beoordeeld of sprake is van onbetekenende kosten?
+
+XIII. 	Als de consument de mogelijkheid had om langer over de verkregen (pre)contractuele informatie en inhoud van de kredietovereenkomst na te denken en te vergelijken met andere kredietaanbieders, maar uit eigen beweging besluit om direct of (zeer) kort na het verkrijgen van de vereiste (pre)contractuele informatie de kredietovereenkomst te sluiten, moet dan worden geoordeeld dat de (pre)contractuele informatie niet ‘geruime tijd’ voor het sluiten van de kredietovereenkomst is verstrekt en (dus) art. 7:60 BW niet is nageleefd?
+
+XIV. 	Is de rechter gehouden om in civiele procedures, zo nodig ambtshalve, te beoordelen of bepalingen uit de Wft en het BGfo correct zijn nageleefd?
+
+XV. 	Als het antwoord op vraag XIV bevestigend luidt, geldt de verplichting van art. 113 lid 1 BGfo ook voor kredieten van minder dan € 1.000,--?
+
+XVI. 	Als het antwoord op vraag XIV bevestigend luidt, moet de kredietverstrekker ter onderbouwing van de naleving van de kredietwaardigheidstoets de in art. 113 BGfo bedoelde schriftelijke stukken of andere duurzame gegevensdrager in een civiele procedure overleggen? Zo ja, welke sanctie staat er dan op het ontbreken van die stukken of duurzame gegevensdrager en moet de civiele rechter de beoordeling van die stukken of duurzame gegevensdrager door de kredietverstrekker dan inhoudelijk beoordelen (overdoen) of kan worden volstaan met een meer marginale toetsing?
+
+XVII. 	Mag de kantonrechter in geval van ambtshalve vernietiging van de kredietovereenkomst een vordering als de onderhavige ambtshalve beoordelen op grond van art. 6:203 BW, derhalve ook als dit artikel niet aan de vordering ten grondslag is gelegd en de eisende partij evenmin feiten of omstandigheden heeft gesteld die (al dan niet door aanvulling van de rechtsgronden) beoordeling op grond van dit artikel mogelijk maken?
+
+XVIII. 	Als de grondslag van de vordering is gelegen in de kredietovereenkomst, dient dan ook ambtshalve te worden onderzocht of de verkopende partij (als handelaar van de onderliggende koopovereenkomst) aan zijn (pre)contractuele informatieverplichtingen heeft voldaan en zo ja, dient de verkopende partij dan in het geding te worden opgeroepen?
+
+XIX. 	Als het antwoord op de vorige vraag bevestigend luidt, wat zijn de gevolgen voor de toewijsbaarheid van de op grond van de kredietovereenkomst ingestelde vordering als het ambtshalve onderzoek ertoe leidt dat de koopovereenkomst geheel of gedeeltelijk vernietigd moet worden en de consument (een deel van) de koopprijs niet (meer) verschuldigd is?
+
+XX. 	Brengt een (gedeeltelijke) vernietiging van de kredietovereenkomst mee dat ook de koopovereenkomst ambtshalve geheel of gedeeltelijk vernietigd moet worden, althans dat ambtshalve moet worden geoordeeld de consument de koopprijs niet meer (volledig) verschuldigd is? En zo ja, dient de verkopende partij dan in het geding te worden opgeroepen?
+
+3
+Beantwoording van de prejudiciële vragen
+
+3.1.1
+
+De vragen in deze zaak gaan vooral over de betekenis van de Richtlijn consumentenkrediet voor vorderingen uit hoofde van een achteraf-betaalservice. Bepalingen van de Richtlijn consumentenkrediet zijn, zoveel mogelijk letterlijk, met ingang van 25 mei 2011 geïmplementeerd in de art. 7:57-73 BW, thans deel uitmakend van afdeling 1 (‘Bepalingen ter uitvoering van Richtlijn nr. 2008/48/EG van 23 april 2008 inzake kredietovereenkomsten voor consumenten’) van titel 2A (‘Consumentenkredietovereenkomsten’) van Boek 7 BW. Ook zijn bepalingen van de Richtlijn consumentenkrediet geïmplementeerd in de art. 1:20 en 4:32 e.v. Wet op het financieel toezicht (hierna: Wft) en daarop gebaseerde lagere regelgeving (art. 112-113 Besluit gedragstoezicht financiële ondernemingen Wft (hierna: Bgfo) en de art. 3c en 43 Vrijstellingsregeling Wft). In Europees verband wordt gewerkt aan een herziening van de Richtlijn consumentenkrediet, die naar verwachting mede gevolgen zal hebben voor achteraf-betaaldiensten.
+
+3.1.2
+
+Ten behoeve van de nationale procedure volgen hierna in 3.2.1-3.4.6 en 3.6.1-3.7.5 antwoorden op de vragen I-V en IX-XII.
+
+3.1.3
+
+Ten behoeve van de procedure voor het Hof van Justitie van de Europese Unie (hierna: HvJEU) volgen hierna in 3.5.1-3.5.13 overwegingen die van belang zijn voor de prejudiciële vragen die de Hoge Raad voorlegt aan het HvJEU, en die hierna onder 5 zijn vermeld.
+
+Vraag I: is ‘uitstel van betaling’ krediet in de zin van titel 7.2A BW?
+
+3.2.1
+
+Vraag I stelt aan de orde wanneer een uitstel van betaling een krediet in de zin van titel 7.2A BW is.
+
+3.2.2
+
+Het antwoord op vraag I is van belang om te kunnen vaststellen wanneer sprake is van een kredietovereenkomst als omschreven in art. 7:57 lid 1, onder c, BW (overeenkomend met art. 3, onder d, Richtlijn consumentenkrediet). Volgens die bepaling wordt onder kredietovereenkomst verstaan – voor zover hier van belang – een overeenkomst waarbij een kredietgever aan een consument krediet verleent of toezegt in de vorm van uitstel van betaling, een lening of een andere, soortgelijke betalingsfaciliteit. Onder kredietgever is hier te verstaan een natuurlijk persoon of rechtspersoon die in het kader van de uitoefening van zijn bedrijfs- of beroepsactiviteiten krediet verleent of toezegt (art. 7:57 lid 1, onder b, BW; art. 3, onder b, Richtlijn consumentenkrediet). Een consument is een natuurlijk persoon die handelt voor doeleinden die buiten zijn bedrijfs- of beroepsactiviteiten vallen (art. 7:57 lid 1, onder a, BW; art. 3, onder a, Richtlijn consumentenkrediet).
+
+Op kredietovereenkomsten die aan de hiervoor bedoelde omschrijving beantwoorden, is titel 7.2A BW van toepassing, zo volgt uit art. 7:58 lid 1 BW (dat strekt tot implementatie van art. 2 lid 1 Richtlijn consumentenkrediet), tenzij zich een van de uitzonderingen voordoet die zijn omschreven in art. 7:58 lid 2 BW (overeenkomend met art. 2 lid 2 van de Richtlijn consumentenkrediet).
+
+3.2.3
+
+Behalve in de hiervoor in 3.2.2 genoemde omschrijving van kredietovereenkomst in art. 3, onder d, Richtlijn consumentenkrediet, komt ‘uitstel van betaling’ voor in enige andere bepalingen van de richtlijn: art. 2, onder j (geïmplementeerd in art. 7:58 lid 2, onder h, BW), art. 4 lid 2, onder e, art. 5 lid 1, onder e, en art. 10 lid 2, onder e (vgl. de art. 7:59 lid 1, 7:60 lid 1 en 7:61 lid 2, onder e, BW). Deze bepalingen bevatten geen nadere omschrijving van uitstel van betaling. Hetzelfde geldt voor de inleidende overwegingen bij de richtlijn. Ook bij de implementatie van de richtlijn in titel 7.2A BW en de Wft is geen nadere omschrijving gegeven.
+
+3.2.4
+
+Uit de rechtspraak van het HvJEU volgt dat het begrip kredietovereenkomst in de Richtlijn consumentenkrediet bijzonder ruim is, dat dit beantwoordt aan het doel van de richtlijn om een uitgebreide bescherming van de consumenten te waarborgen en dat de uitzonderingen in art. 2 lid 2 Richtlijn consumentenkrediet (art. 7:58 lid 2 BW) in het licht van dat doel moeten worden uitgelegd.
+
+3.2.5
+
+Van een kredietovereenkomst kan sprake zijn wanneer krediet wordt verleend in de vorm van uitstel van betaling voor een goed (art. 10 lid 2, onder e, Richtlijn consumentenkrediet). De kredietgever kan de leverancier zijn, maar het kan – bijvoorbeeld bij een achteraf-betaalservice – ook een derde zijn. Het uitstel van betaling kan verleend zijn direct bij het aangaan van de schuld, maar het kan ook gaan om een overeengekomen betalingsregeling voor een reeds bestaande schuld. Voor het laatste geval is voorzien in een uitzondering wanneer het uitstel van betaling kosteloos is (art. 2 lid 2, onder j, Richtlijn consumentenkrediet en art. 7:58 lid 2, onder h, BW).
+
+3.2.6
+
+Gelet op het hiervoor in 3.2.2 bedoelde belang van het antwoord op vraag I, behoeft in deze uitspraak niet te worden ingegaan op gevallen waarin een uitstel van betaling niet berust op een overeenkomst, maar bijvoorbeeld door een leverancier uit eigen beweging op een factuur wordt vermeld.
+
+3.2.7
+
+Titel 7.2A BW is slechts van toepassing wanneer de kredietgever krediet verleent of toezegt in het kader van de uitoefening van zijn bedrijfs- of beroepsactiviteiten (zie hiervoor in 3.2.2). Er is geen grond om aan te nemen dat het daarbij verschil maakt of het verlenen van krediet in de vorm van uitstel van betaling al dan niet behoort tot de kern van de bedrijfs- of beroepsactiviteiten.
+
+3.2.8
+
+Er is ook geen grond om aan te nemen dat het voor de vraag of sprake is van een kredietovereenkomst in de zin van art. 7:57 lid 1, onder c, BW verschil maakt of de consument de keuze had uit verschillende betaalmogelijkheden en actief gekozen heeft voor het uitstel van betaling.
+
+3.2.9
+
+Vraag I wordt als volgt beantwoord.
+
+Een overeenkomst waarbij uitstel van betaling wordt verleend, dient te worden aangemerkt als een kredietovereenkomst in de zin van titel 7.2A BW wanneer is voldaan aan de omschrijving van ‘kredietovereenkomst’ in art. 7:57 lid 1, onder c, BW, met dien verstande dat titel 7.2A BW niet van toepassing is indien sprake is van een door art. 7:58 lid 2 BW uitgezonderde kredietovereenkomst. De omschrijving van ‘kredietgever’ in art. 7:57 lid 1, onder b, BW brengt mee dat de partij die uitstel van betaling verleent, daarbij moet handelen in het kader van de uitoefening van zijn bedrijfs- of beroepsactiviteiten. Niet van belang is of het verlenen van uitstel van betaling behoort tot de kern van zijn bedrijfs- of beroepsactiviteiten. Van uitstel van betaling in de zin van art. 7:57 lid 1, onder c, BW is onder meer sprake wanneer met een consument-koper een termijn die loopt tot na de aflevering van het gekochte, wordt overeengekomen voor het voldoen van de koopprijs, ongeacht of het verleende uitstel de enige betaalmogelijkheid vormt dan wel een van de ter keuze van de consument staande betaalmogelijkheden vormt.
+
+Vraag II: bij het toepassen van art. 7:58 lid 2, onder e, BW aansluiten bij art. 7:57 lid 1, onder g, BW?
+
+3.3.1
+
+Vraag II stelt aan de orde of bij het toepassen van de begrippen ‘zonder rente en andere kosten’ en ‘onbetekenende kosten’ uit art. 7:58 lid 2, onder e, BW (art. 2 lid 2, onder f, Richtlijn consumentenkrediet) moet worden uitgegaan van de totale kosten van het krediet voor de consument als bedoeld in art. 7:57 lid 1, onder g, BW (art. 3, onder g, Richtlijn consumentenkrediet).
+
+3.3.2
+
+Bij kredietovereenkomsten is de consument in de eerste plaats gehouden tot betaling of terugbetaling van het bedrag waarvoor hem krediet is verleend, en in de tweede plaats doorgaans ook tot betaling van kosten. In lijn met dit onderscheid omschrijft art. 7:57 lid 1, onder h, BW (art. 3, onder h, Richtlijn consumentenkrediet) het ‘totale door de consument te betalen bedrag’ als de som van het totale kredietbedrag en de totale kosten van het krediet voor de consument. Hierbij wordt onder ‘totaal kredietbedrag’ verstaan het plafond of de som van alle bedragen die op grond van de kredietovereenkomst beschikbaar worden gesteld (art. 7:57 lid 1, onder l, BW, ontleend aan art. 3, onder l, Richtlijn consumentenkrediet). Met ‘totale kosten van het krediet voor de consument’ wordt volgens art. 7:57 lid 1, onder g, BW gedoeld op alle kosten, met inbegrip van rente, commissielonen, belastingen en vergoedingen van welke aard ook, die de consument in verband met de kredietovereenkomst moet betalen en die de kredietgever bekend zijn, met uitzondering van notariskosten. Art. 7:57 lid 2 BW bepaalt nader dat de totale kosten van het krediet voor de consument ook de kosten in verband met bepaalde nevendiensten omvatten. Beide laatstgenoemde bepalingen zijn ontleend aan art. 3, onder g, Richtlijn consumentenkrediet.
+
+3.3.3
+
+Art. 7:58 lid 2 BW (ontleend aan art. 2 lid 2 Richtlijn consumentenkrediet) omschrijft enige overeenkomsten waarop titel 7.2A BW niet van toepassing is. Daartoe behoren kredietovereenkomsten die voorzien in kosteloos uitstel van betaling van een bestaande schuld (art. 7:58 lid 2, onder h, BW). In verband met de beoordeling van de vraag of een overeenkomst ‘kosteloos’ is in de zin van deze omschrijving, heeft het HvJEU overwogen dat de bijzonder ruime definities van de begrippen ‘kredietovereenkomst’ en ‘totale kosten van het krediet voor de consument’ in de Richtlijn consumentenkrediet beantwoorden aan het doel van de richtlijn, een uitgebreide bescherming van de consumenten te waarborgen, en dat elke beperking van de werkingssfeer van de richtlijn op grond van art. 2 lid 2 daarvan moet worden uitgelegd in het licht van dat doel. Hieruit blijkt dat bij de toepassing van het begrip ‘kosteloos’ in art. 7:58 lid 2, onder h, BW moet worden aangesloten bij het begrip ‘totale kosten van het krediet voor de consument’ en dat redelijkerwijs geen ruimte voor twijfel kan bestaan dat hetzelfde geldt bij de toepassing van de nauw verwante begrippen ‘zonder rente en andere kosten’ en ‘onbetekenende kosten’ uit art. 7:58 lid 2, onder e, BW.
+
+3.3.4
+
+Vraag II wordt als volgt beantwoord.
+
+Bij het toepassen van art. 7:58 lid 2, onder e, BW moet voor het begrip ‘kosten’ worden aangesloten bij het begrip ‘totale kosten van het krediet voor de consument’ als bedoeld in art. 7:57 lid 1, onder g, BW.
+
+Vragen III, IV en V: de payment fee
+
+3.4.1
+
+De vragen III-V stellen aan de orde of een door de kredietgever of de webwinkel in rekening gebrachte vergoeding voor het gebruik van een achteraf-betaalservice, zoals de payment fee, behoort tot de in art. 7:57 lid 1, onder g, BW bedoelde totale kosten van het krediet voor de consument en of deze vergoeding in aanmerking moet worden genomen bij beantwoording van de vraag of sprake is van een krediet zonder kosten of een krediet met onbetekenende kosten als bedoeld in art. 7:58 lid 2, onder e, BW.
+
+3.4.2
+
+Naar vaste rechtspraak van het HvJEU houdt art. 3, onder g, Richtlijn consumentenkrediet een ruime omschrijving in van het begrip ‘totale kosten van het krediet voor de consument’, zonder beperking ten aanzien van het soort kosten dat in het kader van de kredietovereenkomst aan de consument kan worden opgelegd, noch ten aanzien van de rechtvaardiging van die kosten. Het begrip kent geen beperking in verband met de duur van de kredietovereenkomst. Er vallen zowel kosten onder in verband met de kredietverkrijging als kosten in verband met het gebruik van het krediet in de tijd, en ongeacht of de kosten moeten worden betaald aan de kredietgever of aan derden. Ook kosten die slechts in bepaalde omstandigheden verschuldigd worden, zoals kosten van verlenging van het krediet, kunnen eronder vallen.
+
+3.4.3
+
+Uit de omschrijving van art. 7:57 lid 1, onder g, BW (art. 3, onder g, Richtlijn consumentenkrediet) volgt dat kosten slechts tot de totale kosten van het krediet voor de consument kunnen worden gerekend, indien zij de kredietgever bekend zijn. Indien bepaalde kosten, zoals verlengingskosten, concreet en nauwkeurig zijn vastgelegd in de kredietovereenkomst, zijn zij daarmee bekend aan de kredietgever.Indien bepaalde kosten niet in de kredietovereenkomst zijn vastgelegd, zoals het geval kan zijn bij kosten te betalen aan derden, kunnen zij niet zonder meer geacht worden aan de kredietgever bekend te zijn. De vraag in hoeverre de kredietgever in een dergelijk geval op de hoogte is van die kosten, moet volgens punt 20 van de inleidende overwegingen bij de Richtlijn consumentenkrediet op objectieve wijze en met inachtneming van de vereisten van professionele toewijding worden beoordeeld. De rechter zal met inachtneming van de omstandigheden van het geval moeten beoordelen of de kredietgever bekend is met de kosten.
+
+3.4.4
+
+Wanneer de consument ervoor heeft gekozen om tegen een bepaalde vergoeding gebruik te maken van een achteraf-betaalservice, behoort die vergoeding tot de kosten die de consument in verband met de kredietovereenkomst moet betalen. Voor de vraag of die vergoeding behoort tot de totale kosten van het krediet voor de consument, doet niet ter zake of de consument de vergoeding verschuldigd is aan de kredietgever of aan een derde, bijvoorbeeld de leverancier van de gekochte goederen. Om de vergoeding in het laatste geval te kunnen rekenen tot de totale kosten van het krediet voor de consument, moet worden vastgesteld dat de kredietgever daarmee bekend is (zie hiervoor in 3.4.3). Zodanige bekendheid kan bijvoorbeeld worden afgeleid uit de omstandigheid dat, zoals in deze zaak aan de orde is, de kredietgever de vergoeding bij de consument in rekening brengt als onderdeel van de door de leverancier aan de kredietgever overgedragen vordering.
+
+3.4.5
+
+Indien de vergoeding behoort tot de totale kosten van het krediet voor de consument zoals bedoeld in art. 7:57 lid 1, onder g, BW, behoort zij daarmee eveneens tot de kosten die in aanmerking worden genomen bij de beoordeling of sprake is van een krediet zonder kosten of een krediet met slechts onbetekenende kosten zoals bedoeld in art. 7:58 lid 2, onder e, BW (zie hiervoor in 3.3.4).
+
+3.4.6
+
+De vragen III-V worden als volgt beantwoord.
+
+Een vergoeding die aan een consument voor het gebruik van een als kredietovereenkomst aan te merken achteraf-betaalservice in rekening wordt gebracht, behoort tot de totale kosten van het krediet voor de consument zoals bedoeld in art. 7:57 lid 1, onder g, BW, wanneer de consument de vergoeding in verband met de kredietovereenkomst moet betalen – zoals het geval is wanneer de consument heeft gekozen voor de mogelijkheid om tegen vergoeding achteraf te betalen – en de kredietgever met deze vergoeding bekend is. Dit vergt een beoordeling in het licht van de omstandigheden van het geval. Niet van belang is of de consument de vergoeding verschuldigd is geworden aan de kredietgever of aan een derde, zoals de leverancier. Behoort de vergoeding tot de totale kosten van het krediet voor de consument, dan behoort zij ook tot de kosten die in aanmerking worden genomen bij toepassing van art. 7:58 lid 2, onder e, BW.
+
+Vragen VI, VII en VIII: wettelijke rente en incassokosten
+
+3.5.1
+
+Vraag VI stelt aan de orde of, in het geval dat een consument bij een online aankoop uit de door de webwinkel aangeboden betaalmethoden heeft gekozen voor een achteraf-betaalservice, door de consument verschuldigde vertragingsrente – rente, anders dan de vergoeding voor het ter beschikking gestelde krediet – en buitengerechtelijke kosten die de consument verschuldigd is bij niet-tijdige nakoming van de kredietovereenkomst, moeten worden aangemerkt als kosten van het krediet. Vraag VII stelt, in het verlengde daarvan, aan de orde of vertragingsrente en buitengerechtelijke kosten in aanmerking moeten worden genomen bij de beoordeling of sprake is van een kredietovereenkomst ‘zonder rente en andere kosten’ of ‘waarbij slechts onbetekenende kosten worden aangerekend’ in de zin van art. 7:58 lid 2, onder e, BW. Vraag VIII stelt aan de orde of het bij deze beoordeling verschil maakt of de vertragingsrente en buitengerechtelijke kosten verschuldigd zijn op grond van de wet of op grond van de kredietovereenkomst en – in het laatste geval – of de hoogte ervan de wettelijke tarieven overtreft.
+
+Indien de vragen VI-VII bevestigend moeten worden beantwoord, en te meer als vraag VIII ontkennend moet worden beantwoord, zullen kredietovereenkomsten die door aanbieders van achteraf-betaalservices met consumenten zijn aangegaan in de regel niet zijn uitgezonderd van de toepassing van de Richtlijn consumentenkrediet, zoals geïmplementeerd in afdeling 1 van titel 7.2A BW.
+
+3.5.2
+
+Bij de beantwoording van deze vragen stelt de Hoge Raad voorop dat – zoals hiervoor in 3.1.1 reeds is overwogen – bepalingen van de Richtlijn consumentenkrediet zoveel mogelijk letterlijk zijn geïmplementeerd in afdeling 1 (‘Bepalingen ter uitvoering van Richtlijn nr. 2008/48/EG van 23 april 2008 inzake kredietovereenkomsten voor consumenten’) van titel 2A (‘Consumentenkredietovereenkomsten’) van Boek 7 BW (de art. 7:57-73 BW). Zo is art. 3, aanhef en onder g, Richtlijn consumentenkrediet geïmplementeerd in art. 7:57 lid 1, aanhef en onder g, en lid 2 BW, luidende:
+
+“Artikel 57
+
+1. In deze titel wordt verstaan onder:
+
+(…)
+
+g. totale kosten van het krediet voor de consument: alle kosten, met inbegrip van rente, commissielonen, belastingen en vergoedingen van welke aard ook, die de consument in verband met de kredietovereenkomst moet betalen en die de kredietgever bekend zijn, met uitzondering van notariskosten;
+
+(…)
+
+2. De totale kosten van het krediet voor de consument, bedoeld in lid 1, onderdeel g, omvatten ook de kosten in verband met nevendiensten met betrekking tot de kredietovereenkomst, met name verzekeringspremies, indien het sluiten van een dienstencontract verplicht is om het krediet, in voorkomend geval op de geadverteerde voorwaarden, te verkrijgen.”
+
+Art. 2 lid 2, aanhef en onder f, Richtlijn consumentenkrediet is geïmplementeerd in art. 7:58 lid 2, aanhef en onder e BW, dat luidt:
+
+“Artikel 58
+
+(…)
+
+2. Deze titel is niet van toepassing op:
+
+(…)
+
+e. kredietovereenkomsten zonder rente en andere kosten, en kredietovereenkomsten waarbij het krediet binnen een termijn van drie maanden moet worden terugbetaald en slechts onbetekenende kosten worden aangerekend;”
+
+3.5.3
+
+Bij de beantwoording van de hiervoor in 3.5.1 genoemde vragen komt het daarom aan op uitleg van art. 3, aanhef en onder g, Richtlijn consumentenkrediet en van art. 2 lid 2, aanhef en onder f, Richtlijn consumentenkrediet, en daarmee van Unierecht.
+
+3.5.4
+
+De hier noodzakelijke uitleg van Unierecht dient te geschieden tegen de volgende achtergrond.
+
+(i) Met de in de vragen bedoelde vertragingsrente en buitengerechtelijke kosten wordt gedoeld op rente en vergoeding voor kosten voor het verkrijgen van voldoening buiten rechte die – hetzij op grond van de kredietovereenkomst, hetzij op grond van de wet – verschuldigd wordt ingeval de kredietnemer, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling ingevolge de kredietovereenkomst.
+
+(ii) Schuldenaren die op grond van de wet tot schadevergoeding verplicht zijn, zijn op grond van art. 6:96 lid 1, onder c, BW ook gehouden tot vergoeding van redelijke kosten ter verkrijging van voldoening buiten rechte. Is de schuldenaar een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf, dan kan op grond van art. 6:96 lid 5 BW voor deze kosten geen hogere vergoeding worden berekend dan volgt uit het Besluit vergoeding voor buitengerechtelijke incassokosten. Deze vergoeding bedraagt een percentage van de hoofdsom, welk percentage lager is naarmate de hoofdsom hoger is; de vergoeding bedraagt ten minste € 40,-- en ten hoogste € 6.775,--.
+
+(iii) Voor kredietovereenkomsten waarop de Richtlijn consumentenkrediet van toepassing is, en die derhalve niet vallen onder de uitzondering van art. 2 lid 2, onder f, Richtlijn consumentenkrediet (art. 7:58 lid 2, onder e, BW), verbiedt art. 7:76 lid 4 BW de kredietgever om een hogere kredietvergoeding te bedingen of in rekening te brengen dan is vastgesteld in het Besluit kredietvergoeding. Deze ten hoogste toegelaten kredietvergoeding heeft ook betrekking op vertragingsrente en buitengerechtelijke kosten als hiervoor in (i) bedoeld. De kredietgever kan derhalve niet op grond van het hiervoor in (ii) genoemde Besluit vergoeding voor buitengerechtelijke incassokosten aanspraak maken op een vergoeding waardoor de ten hoogste toegelaten kredietvergoeding wordt overschreden.
+
+(iv) Bij de implementatie van het begrip ‘totale kosten van het krediet voor de consument’ in art. 1 Bgfo, dat deel uitmaakt van de Nederlandse financiëletoezichtwetgeving, is in de toelichting opgemerkt dat eventuele kosten die in rekening worden gebracht bij niet-naleving van de kredietovereenkomst, niet in de totale kosten van het krediet worden meegenomen. In verband met in de praktijk gerezen onduidelijkheid over de vraag of het verlenen van uitstel van betaling van een bestaande schuld onder de reikwijdte van de financiëletoezichtwetgeving valt en daarvoor een vergunning is vereist, is in de art. 3c en 43 Vrijstellingsregeling Wft opgenomen, kort gezegd, dat het kosteloos verlenen van uitstel van betaling is vrijgesteld van de vergunningplicht van de Wet op het financieel toezicht. In de toelichting is daarbij vermeld dat aan de consument wel de op grond van de wet verschuldigde rente en buitengerechtelijke incassokosten in rekening kunnen worden gebracht.
+
+3.5.5
+
+Uit de Richtlijn consumentenkrediet en de rechtspraak van het HvJEU over de richtlijn valt niet zonder meer af te leiden of de vragen of vertragingsrente en buitengerechtelijke kosten moeten worden aangemerkt als kosten van het krediet en of zij in aanmerking moeten worden genomen bij de beoordeling of sprake is van een kredietovereenkomst ‘zonder rente en andere kosten’ of ‘waarbij slechts onbetekenende kosten worden aangerekend’ bevestigend dan wel ontkennend moeten worden beantwoord. Behalve aanknopingspunten voor een bevestigende beantwoording (zie hierna in 3.5.6-3.5.9), zijn er ook overwegingen die pleiten voor een beantwoording in andere zin (zie hierna in 3.5.10-3.5.12).
+
+3.5.6
+
+Naar vaste rechtspraak van het HvJEU houdt art. 3, onder g, Richtlijn consumentenkrediet een ruime omschrijving in van het begrip ‘totale kosten van het krediet voor de consument’, zonder beperking ten aanzien van het soort kosten dat in het kader van de kredietovereenkomst aan de consument kan worden opgelegd, noch ten aanzien van de rechtvaardiging van die kosten. Het begrip kent geen beperking in verband met de duur van de kredietovereenkomst. Er vallen zowel kosten onder in verband met de kredietverkrijging als kosten in verband met het gebruik van het krediet in de tijd, en ongeacht of de kosten moeten worden betaald aan de kredietgever of aan derden. Ook kosten die slechts in bepaalde omstandigheden verschuldigd worden, zoals kosten van verlenging van het krediet, kunnen eronder vallen. De omstandigheid dat, in het geval van een betalingsregeling voor een reeds ontstane betalingsachterstand, de tussen de kredietgever en de consument overeengekomen rente en kosten ter zake van het betalingsverzuim niet hoger zijn dan de bedragen die de consument op grond van de wet verschuldigd is, brengt niet mee dat de betalingsregeling geacht kan worden te voorzien in ‘kosteloos’ uitstel van betaling in de zin van art. 2 lid 2, onder j, Richtlijn consumentenkrediet.
+
+3.5.7
+
+De precontractuele informatie die voor het sluiten van de kredietovereenkomst aan de consument moet worden verstrekt, heeft onder meer betrekking op ‘de geldende rentevoet ingeval van betalingsachterstand (…) en, in voorkomend geval, de kosten van niet-nakoming’ (art. 5 lid 1, onder l, Richtlijn consumentenkrediet). In de kredietovereenkomst dienen onder meer te worden vermeld: ‘de op het tijdstip van sluiten van de kredietovereenkomst geldende rentevoet ingeval van betalingsachterstand daarvan (…) en, in voorkomend geval, de kosten van niet-nakoming’ (art. 10 lid 2, aanhef en onder l, Richtlijn consumentenkrediet). Dit een en ander wijst erop dat de richtlijn ervan uitgaat dat bij het sluiten van de kredietovereenkomst vertragingsrente en kosten van niet-nakoming kunnen worden gerekend tot de in art. 3, onder g, Richtlijn consumentenkrediet bedoelde ‘kosten die de consument’ (in geval van betalingsachterstand) ‘in verband met de kredietovereenkomst moet betalen en die aan de kredietgever bekend zijn’. Daaraan hoeft niet af te doen dat bij het aangaan van de kredietovereenkomst onbekend is of een betalingsachterstand zal ontstaan: ook kosten van verlenging kunnen vallen onder de totale kosten van het krediet voor de consument, ook al is bij het sluiten van de kredietovereenkomst onbekend of de overeenkomst zal worden verlengd.
+
+3.5.8
+
+Consumenten moeten vooraf worden geïnformeerd over onder meer de ‘kredietkosten’, opdat zij met kennis van zaken kunnen beslissen, aldus punt 19 van                                                 de inleidende overwegingen voor de Richtlijn consumentenkrediet. Art. 5 lid 1 Richtlijn consumentenkrediet voorziet erin dat de precontractuele informatie aan de consument wordt verstrekt overeenkomstig het formulier “Europese standaardinformatie inzake consumentenkrediet” (bijlage II bij de richtlijn). In dat formulier worden onder het kopje “3. Kosten van het krediet” diverse kostensoorten vermeld, waaronder “Kosten in het geval van betalingsachterstand”. Bij deze kostensoort ontbreekt de bij sommige van de andere kostensoorten vermelde toevoeging “Indien van toepassing”. Dat wijst erop dat, behalve bij kredietovereenkomsten die zijn uitgezonderd van toepassing van art. 5 Richtlijn consumentenkrediet (vgl. art. 2 leden 3-6 Richtlijn consumentenkrediet), vermelding van de kosten in het geval van betalingsachterstand steeds dient plaats te vinden.Ook dit een en ander wijst erop dat de ‘kosten in het geval van betalingsachterstand’ – onder welke kosten vertragingsrente en buitengerechtelijke kosten eveneens zijn te begrijpen – moeten worden gerekend tot de totale kosten van het krediet voor de consument als bedoeld in art. 3, onder g, Richtlijn consumentenkrediet.
+
+3.5.9
+
+Art. 19 Richtlijn consumentenkrediet voorziet in de berekening van het jaarlijks kostenpercentage, dat voorafgaand aan het sluiten van de kredietovereenkomst aan de consument moet worden verstrekt en in de kredietovereenkomst moet worden vermeld (art. 5 lid 1, onder g, en art. 10 lid 2, onder g, Richtlijn consumentenkrediet). Dit jaarlijks kostenpercentage is volgens art. 19 lid 1 van de richtlijn gelijk aan de contante waarde, op jaarbasis, van alle tussen de kredietgever en de consument overeengekomen of overeen te komen verbintenissen (kredietopnemingen, aflossingen en kosten) en wordt berekend volgens een wiskundige formule die is neergelegd in bijlage I bij de richtlijn. Bij de berekening wordt uitgegaan van de hypothese dat de kredietgever en de consument hun verplichtingen nakomen binnen de termijnen en op de data die in de kredietovereenkomst zijn bepaald (art. 19 lid 3 van de richtlijn). Uit die veronderstelling volgt dat bij de berekening van het jaarlijks kostenpercentage de kosten wegens niet-naleving van in de kredietovereenkomst opgenomen verplichtingen geen rol spelen. Dat strookt met art. 19 lid 2 van de richtlijn, dat inhoudt dat, om het jaarlijks kostenpercentage te berekenen, de totale kosten van het krediet voor de consument worden bepaald met uitzondering van kosten die hij moet betalen wegens niet-naleving van een in de kredietovereenkomst opgenomen verplichting. Hieruit volgt derhalve niet – anders dan Arvato heeft aangevoerd – dat de uitgezonderde kosten niet behoren tot de totale kosten van het krediet voor de consument, maar slechts dat zij bij de berekening van het jaarlijks kostenpercentage geen rol spelen.
+
+3.5.10
+
+Tegen een bevestigend antwoord op de hiervoor in 3.5.5 genoemde vragen kan in de eerste plaats worden aangevoerd dat de uitzondering voor ‘kredietovereenkomsten zonder rente en andere kosten’ in art. 2 lid 2, onder f, Richtlijn consumentenkrediet inhoudsloos zou zijn, wanneer tot de in deze uitzondering bedoelde rente en kosten ook de in geval van verzuim reeds op grond van de wet verschuldigde rente en buitengerechtelijke kosten behoren.
+
+3.5.11
+
+In de tweede plaats zou een bevestigend antwoord op de hiervoor in 3.5.5 genoemde vragen tot gevolg kunnen hebben dat een leverancier van goederen die – zoals niet ongebruikelijk is – in zijn algemene voorwaarden verschuldigdheid van vertragingsrente en buitengerechtelijke kosten bedingt, onder de toepassing van de Richtlijn consumentenkrediet komt te vallen als hij op de factuur aan de consument een betalingstermijn verleent.
+
+3.5.12
+
+In de derde plaats zou tegen een bevestigend antwoord op de hiervoor in 3.5.5 genoemde vragen kunnen worden aangevoerd dat er pas grond bestaat om niet-nakomingskosten te scharen onder de ‘totale kosten van het krediet voor de consument’ als de voorwaarden waaronder het krediet is verleend en de overige omstandigheden van het concrete geval grond opleveren om ervan uit te gaan dat de verschuldigdheid van niet-nakomingskosten deel uitmaakt van het verdienmodel van de kredietgever.
+
+3.5.13
+
+De hiervoor in 3.5.5 genoemde vragen van Unierecht laten zich niet zonder redelijke twijfel door de Hoge Raad beantwoorden. Daarom zal de Hoge Raad deze vragen aan het HvJEU voorleggen. Daarbij zal de Hoge Raad ook de daarmee samenhangende vraag VIII betrekken.
+
+Vragen IX en X: Wat is te verstaan onder ‘moet betalen’ en ‘worden aangerekend’ (art. 7:57 lid 1, onder g, BW en art. 7:58 lid 2, onder e, BW)?
+
+3.6.1
+
+De vragen IX en X stellen aan de orde of voor de vaststelling of sprake is van kosten die de consument in verband met de kredietovereenkomst ‘moet betalen’ dan wel ‘worden aangerekend’ in de zin van art. 7:57 lid 1, onder g, BW en art. 7:58 lid 2, onder e, BW, volstaat dat deze kosten aan de consument in rekening gebracht kunnen worden dan wel of vereist is dat op deze kosten daadwerkelijk, al dan niet in rechte, aanspraak wordt gemaakt.
+
+3.6.2
+
+De tekst van de hiervoor in 3.6.1 genoemde bepalingen – en die van de daarmee corresponderende bepalingen van de Richtlijn consumentenkrediet (art. 3, onder g, en art. 2 lid 2, onder f) – bevat geen aanwijzing dat met kosten die de consument ‘moet betalen’ dan wel ‘worden aangerekend’ slechts gedoeld wordt op kosten waarop daadwerkelijk, al dan niet in rechte, aanspraak wordt gemaakt. Uit het arrest SIA Soho Group/Ptac van het HvJEU volgt dat tot de ‘totale kosten van het krediet voor de consument’ ook de kosten van een eventuele, nog onzekere, kredietverlenging kunnen vallen. Het buiten beschouwing laten van bepaalde kosten op de grond dat ze niet daadwerkelijk in rekening worden gebracht of in rechte worden gevorderd, zou ook afbreuk doen aan de beschermende strekking van de Richtlijn consumentenkrediet, doordat bij het sluiten van de kredietovereenkomst niet steeds kan worden uitgemaakt op welke kosten daadwerkelijk aanspraak zal worden gemaakt.
+
+3.6.3
+
+De vragen IX en X worden als volgt beantwoord.
+
+Bij de beoordeling of sprake is van, tot de kosten van het krediet behorende, kosten die de consument in verband met de kredietovereenkomst ‘moet betalen’ dan wel ‘worden aangerekend’ gaat het erom of de consument de kosten verschuldigd is of verschuldigd kan worden, niet of die kosten daadwerkelijk in rekening worden gebracht of in rechte worden gevorderd.
+
+Vragen XI en XII: ‘onbetekenende kosten’ in de zin van art. 7:58 lid 2, onder e, BW
+
+3.7.1
+
+Vraag XI stelt aan de orde hoe moet worden beoordeeld of kosten ‘onbetekenend’ zijn in de zin van art. 7:58 lid 2, onder e, BW (overeenkomend met art. 2 lid 2, onder f, Richtlijn consumentenkrediet). Vraag XII stelt aan de orde hoe in dat verband moet worden omgegaan met kosten waarvan uit het beding niet volgt wat de (maximale) omvang van die kosten is of hoe die kosten worden berekend.
+
+3.7.2
+
+Voor het antwoord op de vraag wanneer kosten ‘onbetekenend’ zijn in de zin van art. 2 lid 2, onder f, Richtlijn consumentenkrediet bevat de richtlijn geen nadere aanknopingspunten. Het HvJEU heeft zich hierover niet uitgelaten. Volgens de Guidelines van de Europese Commissie, genoemd in de conclusie van de Advocaat-Generaal onder 6.61, kunnen de lidstaten in implementatiewetgeving specificeren welke kosten als onbetekenend worden beschouwd of de interpretatie van deze term overlaten aan de rechter. Relevante gezichtspunten zijn volgens deze Guidelines onder meer: het bedrag van de kosten, hetzij in absolute zin of in vergelijking met het kredietbedrag, het bedrag van de opname of de waarde van de transacties en het aantal transacties, en de vergelijking van de kosten met de kosten van vergelijkbare of concurrerende producten op de markt.
+
+3.7.3
+
+De Nederlandse wetgeving specificeert niet wanneer kosten ‘onbetekenend’ zijn. De beoordeling is derhalve overgelaten aan de rechter. Deze beoordeling dient te geschieden met inachtneming van de omstandigheden van het geval, waaronder de hoogte van de kosten in absolute zin en in verhouding tot het totale kredietbedrag. De rechter kan ook acht slaan op het beleid van de Autoriteit Financiële Markten in het kader van haar taken op grond van de Wet op het financieel toezicht, maar behoeft dit niet tot uitgangspunt te nemen.Voor een nadere concretisering van het begrip onbetekenende kosten, dat sterk met de feiten is verweven, is in deze prejudiciële procedure geen plaats. Indien aan concretisering behoefte bestaat, verdient aanbeveling dat feitenrechters daarvoor niet-bindende richtlijnen opstellen.
+
+3.7.4
+
+De vraag of sprake is van een kredietovereenkomst als bedoeld in art. 7:58 lid 2, onder e, BW, waarbij geen of slechts onbetekenende kosten worden aangerekend, dient te worden beantwoord aan de hand van de door partijen overeengekomen rechten en verplichtingen. Het ligt op de weg van de partij die zich erop beroept dat de kredietovereenkomst de in art. 7:58 lid 2, onder e, BW bedoelde kenmerken heeft, om de voor de beoordeling daarvan benodigde gegevens aan te dragen. Kan de rechter op grond van de voorhanden gegevens niet bepalen of geen of slechts onbetekenende kosten worden aangerekend, dan zal de rechter het beroep op art. 7:58 lid 2, onder e, BW verwerpen.
+
+3.7.5
+
+De vragen XI en XII worden als volgt beantwoord.
+
+XI. De beoordeling of kosten ‘onbetekenend’ zijn in de zin van art. 7:58 lid 2, onder e, BW dient te geschieden met inachtneming van de omstandigheden van het geval, waaronder de hoogte van de kosten in absolute zin en in verhouding tot het totale kredietbedrag. De rechter kan ook acht slaan op het beleid van de Autoriteit Financiële Markten in het kader van haar taken op grond van de Wet op het financieel toezicht, maar behoeft dit niet tot uitgangspunt te nemen. Voor het overige leent deze vraag zich niet voor beantwoording bij wege van prejudiciële beslissing.
+
+XII. De vraag of sprake is van een kredietovereenkomst als bedoeld in art. 7:58 lid 2, onder e, BW, waarbij geen of slechts onbetekenende kosten worden aangerekend, dient te worden beantwoord aan de hand van de door partijen overeengekomen rechten en verplichtingen. Het ligt op de weg van de partij die zich erop beroept dat de kredietovereenkomst de in art. 7:58 lid 2, onder e, BW bedoelde kenmerken heeft, om de voor de beoordeling daarvan benodigde gegevens aan te dragen. Kan de rechter op grond van de voorhanden gegevens niet bepalen of geen of slechts onbetekenende kosten worden aangerekend, dan zal de rechter het beroep op art. 7:58 lid 2, onder e, BW verwerpen.
+
+Vragen XIII-XX
+
+3.8
+
+De vragen XIII-XX zijn gesteld voor het geval sprake is van een kredietovereenkomst met kosten die niet onbetekenend zijn, zodat de overeenkomst niet ingevolge art. 7:58 lid 2, onder e, BW is uitgezonderd van de toepassing van titel 7.2A BW (vgl. rov. 4.22 van het tussenvonnis van 21 december 2021). Gelet op de omstandigheid dat de Hoge Raad voornemens is om naar aanleiding van de vragen VI-VIII prejudiciële vragen aan het HvJEU te stellen, is thans onzeker of beantwoording van de vragen XIII-XX nodig is om op de vordering van Arvato te beslissen. De Hoge Raad ziet hierin aanleiding om de beslissing over deze vragen aan te houden totdat de prejudiciële vragen door het HvJEU zijn beantwoord.
+
+Verdere gang van zaken
+
+3.9
+
+De vragen I-V en IX-XII kunnen worden beantwoord op de hiervoor in 3.2.9, 3.3.4, 3.4.6, 3.6.3 en 3.7.5 weergegeven wijze. In verband met de vragen VI-VIII heeft de Hoge Raad het voornemen prejudiciële vragen aan het HvJEU te stellen. De beslissing over de vragen XIII-XX en de begroting van de kosten van deze procedure op de voet van art. 393 lid 10 Rv zullen worden aangehouden totdat de prejudiciële vragen door het HvJEU zijn beantwoord.
+
+4.	Omschrijving van de feiten waarop de door het HvJEU te geven uitleg moet worden toegepast
+
+De Hoge Raad verwijst naar de hiervoor in 2.2 vermelde feiten, waarvan moet worden uitgegaan.
+
+5
+Vragen van uitleg
+
+1. Behoren vertragingsrente en buitengerechtelijke kosten tot de totale kosten van het krediet voor de consument in de zin van art. 3, onder g, Richtlijn consumentenkrediet en moeten zij in aanmerking worden genomen bij de beoordeling of sprake is van een kredietovereenkomst ‘zonder rente en andere kosten’ of ‘waarbij slechts onbetekenende kosten worden aangerekend’ in de zin van art. 2 lid 2, onder f, Richtlijn consumentenkrediet?
+
+2. Maakt het voor het antwoord op vraag 1 verschil of de vertragingsrente en buitengerechtelijke kosten verschuldigd zijn op grond van de wet of zijn bedongen? Maakt het – indien sprake is van bedongen vertragingsrente en buitengerechtelijke kosten – verschil of deze rente en kosten hoger zijn dan hetgeen zonder het beding op grond van de wet verschuldigd zou zijn?
+
+6
+Uitlating partijen
+
+De Hoge Raad zal de zaak naar de rol verwijzen opdat partijen zich kunnen uitlaten over het voornemen van de Hoge Raad in dit geding prejudiciële vragen te stellen aan het HvJEU en over de hiervoor onder 5 geformuleerde vragen.
+
+7
+Beslissing
+
+De Hoge Raad:
+
+- beantwoordt de vragen I-V en IX-XII op de hiervoor in 3.2.9, 3.3.4, 3.4.6, 3.6.3 en 3.7.5 weergegeven wijze;
+
+- verwijst de zaak naar de rol van 23 juni 2023 voor de hiervoor onder 6 bedoelde uitlating van partijen.
+
+Deze beslissing is gegeven door de vicepresident M.J. Kroeze als voorzitter en de raadsheren C.E. du Perron, F.R. Salomons, G.C. Makkink en K. Teuben, en in het openbaar uitgesproken door de raadsheer F.J.P. Lock op 26 mei 2023.
+
+Richtlijn 2008/48/EG van het Europees parlement en de Raad van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad, PbEU 2008, L 133/66.
+
+Rechtbank Gelderland 4 mei 2022, ECLI:NL:RBGEL:2022:2441.
+
+Kamerstukken II 2009/10, 32339, nr. 3, p. 3.
+
+Besluit van 12 oktober 2006, Stb. 2006, 520, laatstelijk gewijzigd bij Besluit van 10 maart 2023, Stb. 2023, 94.
+
+Besluit van 15 november 2006, Stcrt. 23 november 2006, nr. 229, p. 20, laatstelijk gewijzigd bij Besluit van 23 augustus 2022, Stcrt. 2022, 22952.
+
+Vgl. Kamerstukken II 2009/10, 32339, nr. 3, p. 38-40.
+
+Voorstel voor een richtlijn van het Europees Parlement en de Raad tot wijziging van Richtlijn 2008/48/EG inzake kredietovereenkomsten voor consumenten («richtlijn consumentenkrediet»), COM(2021) 347 final; vgl. Kamerstukken II 2020/21, 22112, nr. 3175, en Kamerstukken II 2022/23, 32545, nr. 186, p. 16.
+
+HvJEU 8 december 2016, zaak C-127/15, ECLI:EU:C:2016:934, NJ 2017/362 (Verein für Konsumenteninformation/INKO), punt 30, 35 en 36.
+
+Vgl. Kamerstukken I 2010/11, 32339, nr. C, p. 7; Kamerstukken I 2010/11, 32339, nr. E, p. 6.
+
+Zie HvJEU 8 december 2016, zaak C-127/15, ECLI:EU:C:2016:934 (Verein für Konsumenteninformation/INKO), punt 33-36.
+
+Vgl. CBB 3 mei 2016, ECLI:NL:CBB:2016:104, rov. 3.3; CBB 7 december 2016, ECLI:NL:CBB:2016:363, rov. 4.1 en CBB 3 februari 2017, ECLI:NL:CBB:2017:49, rov. 6.1.
+
+Zie HvJEU 3 september 2020, zaken C‑84/19, C‑222/19 en C‑252/19, ECLI:EU:C:2020:631 (Profi Credit Polska), punt 53-54; HvJEU 26 maart 2020, zaak C-779/18, ECLI:EU:C:2020:236 (Mikrokasa/XO), punt 39; HvJEU 26 februari 2015, zaak C-143/13, ECLI:EU:C:2015:127 (Matei/SC Volksbank Romania SA), punt 48.
+
+Zie HvJEU 11 september 2019, zaak C-383/18, ECLI:EU:C:2019:702 (Lexitor), punt 23.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 33.
+
+HvJEU 26 februari 2015, zaak C-143/13, ECLI:EU:C:2015:127 (Matei/SC Volksbank Romania SA), punt 48.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 53.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 34-36.
+
+Besluit van 27 maart 2012, Stb. 2012, 141.
+
+Besluit van 16 oktober 1991, Stb. 1991, 549, laatstelijk gewijzigd bij Besluit van 14 juli 2021, Stb. 2021, 371.
+
+Kamerstukken II 2015/16, 34442, nr. 3, p. 21, en Kamerstukken II 2015/16, 34442, nr. 6, p. 4.
+
+Besluit van 25 mei 2011, houdende wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector en het Besluit kredietvergoeding in verband met implementatie van richtlijn nr. 2008/48/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L 133/66), Stb. 2011, 247, p. 23.
+
+Regeling van de Minister van Financiën van 5 juli 2018, 2018-0000106294, directie Financiële Markten, tot wijziging van de Vrijstellingsregeling Wft in verband met het onder bepaalde omstandigheden vrijstellen van het verlenen van uitstel van betaling van een bestaande vordering tot betaling van een geldsom, Stcrt. 2018, nr. 38961, p. 5.
+
+Zie HvJEU 3 september 2020, zaken C-84/19, C-222/19 en C-252/19, ECLI:EU:C:2020:631 (Profi Credit Polska), punt 53-54; HvJEU 26 maart 2020, zaak C-779/18, ECLI:EU:C:2020:236 (Mikrokasa/XO), punt 39; HvJEU 26 februari 2015, zaak C-143/13, ECLI:EU:C:2015:127 (Matei/SC Volksbank Romania SA), punt 48.
+
+Zie HvJEU 11 september 2019, zaak C-383/18, ECLI:EU:C:2019:702 (Lexitor), punt 23.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 33.
+
+HvJEU 26 februari 2015, zaak C-143/13, ECLI:EU:C:2015:127 (Matei/SC Volksbank Romania SA), punt 48.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 53.
+
+HvJEU 8 december 2016, zaak C-127/15, ECLI:EU:C:2016:934 (Verein für Konsumenteninformation/INKO), punt 37-41.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 53.
+
+HvJEU 16 juli 2020, zaak C-686/19, ECLI:EU:C:2020:582 (Sia Soho Group/Ptac), punt 53.
+
+Vgl. HR 20 december 2019, ECLI:NL:HR:2019:2034, rov. 3.2.2-3.2.3.
