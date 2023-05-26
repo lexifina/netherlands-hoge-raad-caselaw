@@ -10,7 +10,7 @@ procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:776"
 published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0045", "NJB 2023/1405", "RvdW 2023/562", "BPR-Updates.nl 2023-0045", "Prg. 2023/180", "RBP 2023/58", "TvPP 2023, afl. 4, p. 142", "JBPr 2023/78 met annotatie van mr. G.C.C. Lewin", "NJ 2025/100 met annotatie van A.I.M. van Mierlo"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1139, Gevolgd"]]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1139, Gevolgd"], ["Formele relatie", "Verwijzing naar: ECLI:NL:GHDHA:2026:19"]]
 ---
 
 # ECLI:NL:HR:2023:776 Hoge Raad , 26-05-2023 / 22/00225
