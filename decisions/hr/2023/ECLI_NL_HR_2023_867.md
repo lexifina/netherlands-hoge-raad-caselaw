@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:867"
-published_in: ["Rechtspraak.nl", "RvdW 2023/662", "PR-Updates.nl PR-2023-0112"]
+published_in: ["Rechtspraak.nl", "RvdW 2023/662", "PR-Updates.nl PR-2023-0112", "PR-Updates.nl 2023-0112"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1199, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2021:8884, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
