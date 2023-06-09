@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:866"
-published_in: ["Rechtspraak.nl", "RvdW 2023/663", "PR-Updates.nl PR-2023-0110"]
+published_in: ["Rechtspraak.nl", "RvdW 2023/663", "PR-Updates.nl PR-2023-0110", "PR-Updates.nl 2023-0110"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1201, Gevolgd"]]
 ---
 
