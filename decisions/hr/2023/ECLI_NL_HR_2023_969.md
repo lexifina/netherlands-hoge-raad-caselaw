@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:969"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0770", "NJB 2023/1711", "RvdW 2023/728", "NJ 2023/223", "PR-Updates.nl PR-2023-0108", "PJ 2023/92 met annotatie van A. Eleveld", "JAR 2023/194 met annotatie van mr. dr. A. Eleveld", "VAAN-AR-Updates.nl 2023-0770"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1157, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2021:11021, (Gedeeltelijke) vernietiging met verwijzen"]]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0770", "NJB 2023/1711", "RvdW 2023/728", "NJ 2023/223", "PR-Updates.nl PR-2023-0108", "PJ 2023/92 met annotatie van A. Eleveld", "JAR 2023/194 met annotatie van mr. dr. A. Eleveld", "VAAN-AR-Updates.nl 2023-0770", "PR-Updates.nl 2023-0108"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:1157, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2021:11021, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Procedure voortgezet met: ECLI:NL:GHDHA:2026:155"]]
 ---
 
 # ECLI:NL:HR:2023:969 Hoge Raad , 23-06-2023 / 22/00636
