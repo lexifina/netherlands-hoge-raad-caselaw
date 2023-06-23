@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:949"
-published_in: ["Rechtspraak.nl", "NJB 2023/1712", "Burgerlijk procesrecht.nl BPR-2023-0058", "BPR-Updates.nl 2023-0058", "PFR-Updates.nl 2023-0152", "RvdW 2023/729", "NJ 2023/224", "PR-Updates.nl PR-2023-0107", "PJ 2023/89", "RFR 2023/123", "FJR 2024/5.11", "FJR 2024/17.21"]
+published_in: ["Rechtspraak.nl", "NJB 2023/1712", "Burgerlijk procesrecht.nl BPR-2023-0058", "BPR-Updates.nl 2023-0058", "PFR-Updates.nl 2023-0152", "RvdW 2023/729", "NJ 2023/224", "PR-Updates.nl PR-2023-0107", "PJ 2023/89", "RFR 2023/123", "FJR 2024/5.11", "FJR 2024/17.21", "PR-Updates.nl 2023-0107"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:428, Gevolgd"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2022:3560, Niet ontvankelijk"]]
 ---
 
