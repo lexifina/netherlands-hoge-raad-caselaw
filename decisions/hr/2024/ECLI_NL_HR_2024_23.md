@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:23"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0088", "NJB 2024/201", "INS-Updates.nl 2024-0015", "Burgerlijk procesrecht.nl BPR-2024-0012", "JAR 2024/53", "RvdW 2024/113", "Sdu Nieuws Insolventierecht 2024/32", "JOR 2024/80 met annotatie van Mr. M.C. Van Genugten", "RAR 2024/52", "VAAN-AR-Updates.nl 2024-0088", "TvI 2025/9 met annotatie van J. van der Pijl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0088", "NJB 2024/201", "INS-Updates.nl 2024-0015", "Burgerlijk procesrecht.nl BPR-2024-0012", "JAR 2024/53", "RvdW 2024/113", "Sdu Nieuws Insolventierecht 2024/32", "JOR 2024/80 met annotatie van Mr. M.C. Van Genugten", "RAR 2024/52", "VAAN-AR-Updates.nl 2024-0088", "TvI 2025/9 met annotatie van J. van der Pijl", "BPR-Updates.nl 2024-0012"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1193"]]
 ---
 
