@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:19"
-published_in: ["Rechtspraak.nl", "NJB 2024/202", "RvdW 2024/103", "JOR 2024/65 met annotatie van mr. drs. J. Verstoep", "JA 2024/51", "RF 2024/18", "RAV 2024/22", "RCR 2024/20", "TvPP 2024/14, p. 56", "NTHR 2024/19, p. 62"]
+published_in: ["Rechtspraak.nl", "NJB 2024/202", "RvdW 2024/103", "JOR 2024/65 met annotatie van mr. drs. J. Verstoep", "JA 2024/51", "RF 2024/18", "RAV 2024/22", "RCR 2024/20", "TvPP 2024/14, p. 56", "NTHR 2024/19, p. 62", "NJ 2025/254 met annotatie van J.L. Smeehuijzen", "JONDR 2025/841"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:451"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2021:4046"]]
 ---
 
