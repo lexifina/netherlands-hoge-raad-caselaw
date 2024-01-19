@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:51"
-published_in: ["Rechtspraak.nl", "NJB 2024/262", "Burgerlijk procesrecht.nl BPR-2024-0015", "Sdu Nieuws Insolventierecht 2024/22", "RvdW 2024/119"]
+published_in: ["Rechtspraak.nl", "NJB 2024/262", "Burgerlijk procesrecht.nl BPR-2024-0015", "Sdu Nieuws Insolventierecht 2024/22", "RvdW 2024/119", "BPR-Updates.nl 2024-0015"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1165"]]
 ---
 
