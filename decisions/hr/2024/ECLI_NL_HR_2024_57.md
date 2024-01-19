@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:57"
-published_in: ["Rechtspraak.nl", "NJB 2024/258", "Burgerlijk procesrecht.nl BPR-2024-0016", "RvdW 2024/111", "NJ 2024/42", "RBP 2024/19", "JIN 2024/31 met annotatie van mr. M.A.J.G. Janssen", "JBPr 2024/23 met annotatie van mr. P.A. Fruytier", "TvPP 2024/13, p. 51"]
+published_in: ["Rechtspraak.nl", "NJB 2024/258", "Burgerlijk procesrecht.nl BPR-2024-0016", "RvdW 2024/111", "NJ 2024/42", "RBP 2024/19", "JIN 2024/31 met annotatie van mr. M.A.J.G. Janssen", "JBPr 2024/23 met annotatie van mr. P.A. Fruytier", "TvPP 2024/13, p. 51", "BPR-Updates.nl 2024-0016"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1030"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2022:2748"]]
 ---
 
