@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:165"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2024/78", "Sdu Nieuws Belastingzaken 2024/120", "Notamail 2024/28", "NJB 2024/384", "PFR-Updates.nl 2024-0028", "RvdW 2024/166", "AA20240235 met annotatie van Nuytinck A.J.M. André", "PJ 2024/30", "PR-Updates.nl PR-2024-0047", "RFR 2024/50", "JPF 2024/32 met annotatie van mr. E.J.M. Cornelissen", "NJ 2024/194 met annotatie van L.C.A. Verstappen", "RN 2024/55"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2024/78", "Sdu Nieuws Belastingzaken 2024/120", "Notamail 2024/28", "NJB 2024/384", "PFR-Updates.nl 2024-0028", "RvdW 2024/166", "AA20240235 met annotatie van Nuytinck A.J.M. André", "PJ 2024/30", "PR-Updates.nl PR-2024-0047", "RFR 2024/50", "JPF 2024/32 met annotatie van mr. E.J.M. Cornelissen", "NJ 2024/194 met annotatie van L.C.A. Verstappen", "RN 2024/55", "PR-Updates.nl 2024-0047"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2019:10986"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:717"]]
 ---
 
