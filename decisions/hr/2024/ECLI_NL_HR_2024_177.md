@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:177"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2024-0020", "NJB 2024/445", "RvdW 2024/201"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2024-0020", "NJB 2024/445", "RvdW 2024/201", "NJ 2026/285 met annotatie van J.W. Ouwerkerk"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:23"]]
 ---
 
