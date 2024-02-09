@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:216"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/268", "V-N Vandaag 2024/321", "Notamail 2024/33", "V-N 2024/8.15 met annotatie van Redactie", "Sdu Nieuws Belastingzaken 2024/163", "NTFR 2024/360 met annotatie van MR. DRS. W.A.P. NIEUWENHUIZEN", "NLF 2024/0442 met annotatie van Barry Willemsen", "NJB 2024/571", "RN 2024/25", "BNB 2024/46 met annotatie van B.G. van Zadelhoff", "FED 2024/69 met annotatie van M.D.J. van der Wulp", "TBR 2024/79 met annotatie van M.A. Bonthuis-Broekman", "Viditax (FutD) 2024020902", "FutD 2024-0354"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/268", "V-N Vandaag 2024/321", "Notamail 2024/33", "V-N 2024/8.15", "Sdu Nieuws Belastingzaken 2024/163", "NTFR 2024/360 met annotatie van MR. DRS. W.A.P. NIEUWENHUIZEN", "NLF 2024/0442 met annotatie van Barry Willemsen", "NJB 2024/571", "RN 2024/25", "BNB 2024/46 met annotatie van B.G. van Zadelhoff", "FED 2024/69 met annotatie van M.D.J. van der Wulp", "TBR 2024/79 met annotatie van M.A. Bonthuis-Broekman", "Viditax (FutD) 2024020902", "FutD 2024-0354"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2021:1236"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:7"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:9"]]
 ---
 
