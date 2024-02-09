@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:217"
-published_in: ["Rechtspraak.nl", "NJB 2024/439", "INS-Updates.nl 2024-0044", "Burgerlijk procesrecht.nl BPR-2024-0023", "RvdW 2024/192", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/63", "Sdu Nieuws Insolventierecht 2024/63", "RBP 2024/27", "JOR 2024/126 met annotatie van prof. mr. N.E.D. Faber", "NTHR 2024/28, p. 81", "JBPr 2024/32 met annotatie van mr. P.A. Fruytier", "NJ 2024/260 met annotatie van F.M.J. Verstijlen", "Ondernemingsrecht 2024/80 met annotatie van K. de Bruijn, T. de Bruijn"]
+published_in: ["Rechtspraak.nl", "NJB 2024/439", "INS-Updates.nl 2024-0044", "Burgerlijk procesrecht.nl BPR-2024-0023", "RvdW 2024/192", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/63", "Sdu Nieuws Insolventierecht 2024/63", "RBP 2024/27", "JOR 2024/126 met annotatie van prof. mr. N.E.D. Faber", "NTHR 2024/28, p. 81", "JBPr 2024/32 met annotatie van mr. P.A. Fruytier", "NJ 2024/260 met annotatie van F.M.J. Verstijlen", "Ondernemingsrecht 2024/80 met annotatie van K. de Bruijn, T. de Bruijn", "BPR-Updates.nl 2024-0023"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:754"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2022:2185"]]
 ---
 
