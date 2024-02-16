@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:252"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2024-0035", "NJB 2024/505", "Burgerlijk procesrecht.nl BPR-2024-0028", "NJ 2024/86", "RvdW 2024/226", "JPF 2024/38", "RFR 2024/61", "JIN 2024/68 met annotatie van M.P.J. Frederiks", "FJR 2024/59.26"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2024-0035", "NJB 2024/505", "Burgerlijk procesrecht.nl BPR-2024-0028", "NJ 2024/86", "RvdW 2024/226", "JPF 2024/38", "RFR 2024/61", "JIN 2024/68 met annotatie van M.P.J. Frederiks", "FJR 2024/59.26", "BPR-Updates.nl 2024-0028"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:886"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2022:4047"]]
 ---
 
