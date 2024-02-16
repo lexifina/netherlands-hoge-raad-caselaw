@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:244"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/453", "V-N 2024/12.22.2", "Viditax (FutD) 2024021608", "FutD 2024-0433"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/453", "V-N 2024/12.22.2", "Viditax (FutD) 2024021608", "FutD 2024-0433", "NLF 2025/1902"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2023:2045"]]
 ---
 
