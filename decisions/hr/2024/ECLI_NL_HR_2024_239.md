@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:239"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/310", "V-N Vandaag 2024/376", "Notamail 2024/38", "Sdu Nieuws Personen- en familierecht 2024/112", "Sdu Nieuws Belastingzaken 2024/184", "V-N 2024/9.11 met annotatie van Redactie", "NTFR 2024/359 met annotatie van prof. mr. B.M.E.M. Schols", "NLF 2024/0505 met annotatie van Theo Hoogwout", "NJB 2024/573", "ERF-Updates.nl 2024-0119", "RvdW 2024/222", "VFP 2024/60", "BNB 2024/41 met annotatie van I.J.F.A. van Vijfeijken", "NJ 2024/111 met annotatie van L.C.A. Verstappen", "JIN 2024/39 met annotatie van mr. S. Ballah", "FED 2024/41 met annotatie van A.E. de Leeuw", "JPF 2024/33 met annotatie van mr. E.J.M. Cornelissen", "RN 2024/40", "RFR 2024/75", "Viditax (FutD) 2024021602", "FutD 2024-0421"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/310", "V-N Vandaag 2024/376", "Notamail 2024/38", "Sdu Nieuws Personen- en familierecht 2024/112", "Sdu Nieuws Belastingzaken 2024/184", "V-N 2024/9.11", "NTFR 2024/359 met annotatie van prof. mr. B.M.E.M. Schols", "NLF 2024/0505 met annotatie van Theo Hoogwout", "NJB 2024/573", "ERF-Updates.nl 2024-0119", "RvdW 2024/222", "VFP 2024/60", "BNB 2024/41 met annotatie van I.J.F.A. van Vijfeijken", "NJ 2024/111 met annotatie van L.C.A. Verstappen", "JIN 2024/39 met annotatie van mr. S. Ballah", "FED 2024/41 met annotatie van A.E. de Leeuw", "JPF 2024/33 met annotatie van mr. E.J.M. Cornelissen", "RN 2024/40", "RFR 2024/75", "Viditax (FutD) 2024021602", "FutD 2024-0421"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:188"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2022:96"]]
 ---
 
