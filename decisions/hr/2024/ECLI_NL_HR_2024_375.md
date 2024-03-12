@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:375"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/282", "V-N Vandaag 2024/596", "NJB 2024/707", "NDFR Nieuws 2024/542", "NTFR 2024/576 met annotatie van mr. R.B.H. Beune", "V-N 2024/16.21 met annotatie van Redactie", "RvdW 2024/302", "NLF 2024/0956 met annotatie van Ludwijn Jaeger", "JOR 2024/154 met annotatie van Prof. mr. G.J.M.E. de Bont", "AA20240775 met annotatie van Nan J.S. Joost", "NJ 2024/318 met annotatie van P.A.M. Mevis"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/282", "V-N Vandaag 2024/596", "NJB 2024/707", "NDFR Nieuws 2024/542", "NTFR 2024/576 met annotatie van mr. R.B.H. Beune", "V-N 2024/16.21", "RvdW 2024/302", "NLF 2024/0956 met annotatie van Ludwijn Jaeger", "JOR 2024/154 met annotatie van Prof. mr. G.J.M.E. de Bont", "AA20240775 met annotatie van Nan J.S. Joost", "NJ 2024/318 met annotatie van P.A.M. Mevis", "NTS 2024/13", "NTS 2024/58"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1122"], ["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:GHSHE:2023:2816"]]
 ---
 
