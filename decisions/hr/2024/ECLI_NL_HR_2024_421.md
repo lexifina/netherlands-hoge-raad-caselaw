@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:421"
-published_in: ["Rechtspraak.nl", "CFN 2024/22 met annotatie van -", "V-N Vandaag 2024/598", "V-N 2024/15.22.1"]
+published_in: ["Rechtspraak.nl", "CFN 2024/22", "V-N Vandaag 2024/598", "V-N 2024/15.22.1"]
 ---
 
 # ECLI:NL:HR:2024:421 Hoge Raad , 15-03-2024 / 23/03617
