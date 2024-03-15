@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:425"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/729", "RvdW 2024/308", "V-N 2024/19.25 met annotatie van Redactie", "Belastingblad 2024/167 met annotatie van L.J. Boone"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/729", "RvdW 2024/308", "V-N 2024/19.25", "Belastingblad 2024/167 met annotatie van L.J. Boone"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:118"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2022:2863"]]
 ---
 
