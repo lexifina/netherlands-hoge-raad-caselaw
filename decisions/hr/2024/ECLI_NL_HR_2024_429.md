@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:429"
-published_in: ["Rechtspraak.nl", "NJB 2024/700", "RvdW 2024/303", "BPR-Updates.nl 2024-0037", "INS-Updates.nl 2024-0086", "OR-Updates.nl 2024-0070", "JONDR 2024/309", "RO 2024/38", "Sdu Nieuws Insolventierecht 2024/100", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/179", "RN 2024/39", "V-N Vandaag 2024/1259", "Burgerlijk procesrecht.nl BPR-2024-0037", "RCR 2024/36", "RI 2024/40", "JOR 2024/158 met annotatie van Mr. H. Koster", "JIN 2024/86 met annotatie van mr. T. Ensink", "V-N 2024/33.23 met annotatie van Redactie", "NJ 2025/76 met annotatie van M.A. Verbrugh"]
+published_in: ["Rechtspraak.nl", "NJB 2024/700", "RvdW 2024/303", "BPR-Updates.nl 2024-0037", "INS-Updates.nl 2024-0086", "OR-Updates.nl 2024-0070", "JONDR 2024/309", "RO 2024/38", "Sdu Nieuws Insolventierecht 2024/100", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/179", "RN 2024/39", "V-N Vandaag 2024/1259", "Burgerlijk procesrecht.nl BPR-2024-0037", "RCR 2024/36", "RI 2024/40", "JOR 2024/158 met annotatie van Mr. H. Koster", "JIN 2024/86 met annotatie van mr. T. Ensink", "V-N 2024/33.23", "NJ 2025/76 met annotatie van M.A. Verbrugh"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:828"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2022:3670"]]
 ---
 
