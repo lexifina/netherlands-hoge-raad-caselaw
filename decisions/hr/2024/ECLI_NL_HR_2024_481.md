@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:481"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/525", "V-N Vandaag 2024/648", "NTFR 2024/577 met annotatie van mr. R.J. de Jong", "V-N 2024/15.17 met annotatie van Redactie", "NLF 2024/0761", "BNB 2024/49", "USZ 2024/134", "Viditax (FutD) 2024032208", "FutD 2024-0718"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/525", "V-N Vandaag 2024/648", "NTFR 2024/577 met annotatie van mr. R.J. de Jong", "V-N 2024/15.17", "NLF 2024/0761", "BNB 2024/49", "USZ 2024/134", "Viditax (FutD) 2024032208", "FutD 2024-0718"]
 ---
 
 # ECLI:NL:HR:2024:481 Hoge Raad , 22-03-2024 / 24/00663
