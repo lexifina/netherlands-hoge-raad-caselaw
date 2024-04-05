@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:515"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/613", "V-N Vandaag 2024/751", "V-N 2024/17.14 met annotatie van Redactie", "NLF 2024/0846 met annotatie van Frans Wiggers", "NJB 2024/878", "NTFR 2024/694 met annotatie van MR. J. VAN DE MERWE", "BNB 2024/53 met annotatie van A.O. LUBBERS", "USZ 2024/149", "AB 2024/154 met annotatie van R. Ortlep", "Belastingblad 2024/187 met annotatie van A.P. Monsma", "JB 2024/89", "FED 2024/65 met annotatie van J.A. SMIT", "Viditax (FutD) 2024040501", "FutD 2024-0819"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/613", "V-N Vandaag 2024/751", "V-N 2024/17.14", "NLF 2024/0846 met annotatie van Frans Wiggers", "NJB 2024/878", "NTFR 2024/694 met annotatie van MR. J. VAN DE MERWE", "BNB 2024/53 met annotatie van A.O. LUBBERS", "USZ 2024/149", "AB 2024/154 met annotatie van R. Ortlep", "Belastingblad 2024/187 met annotatie van A.P. Monsma", "JB 2024/89", "FED 2024/65 met annotatie van J.A. SMIT", "Viditax (FutD) 2024040501", "FutD 2024-0819"]
 ---
 
 # ECLI:NL:HR:2024:515 Hoge Raad , 05-04-2024 / 22/04246
