@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:545"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/766", "V-N 2024/23.13 met annotatie van Redactie", "NLF 2024/1178 met annotatie van Anneloes van Maurik", "Viditax (FutD) 2024040505", "FutD 2024-0830"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/766", "V-N 2024/23.13", "NLF 2024/1178 met annotatie van Anneloes van Maurik", "Viditax (FutD) 2024040505", "FutD 2024-0830"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2023:1375"]]
 ---
 
