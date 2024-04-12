@@ -1,0 +1,57 @@
+---
+ecli: "ECLI:NL:HR:2024:576"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "23/02165"
+decided: "2024-04-12"
+published: "2024-04-11"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:576"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2023:935"]]
+---
+
+# ECLI:NL:HR:2024:576 Hoge Raad , 12-04-2024 / 23/02165
+
+## Inhoudsindicatie
+
+HR verklaart het beroep in cassatie n-o.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+BELASTINGKAMER
+
+Nummer 23/02165
+
+Datum	12 april 2024
+
+ARREST
+
+op het door [X] (hierna: belanghebbende) ingestelde beroep in cassatie tegen de uitspraak van de Centrale Raad van Beroep van 24 april 2023, nr. 23/249 AOW-PV.
+
+1
+Beoordeling van de ontvankelijkheid van het beroep in cassatie
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van 29 november 2023 gewezen op de verschuldigdheid van griffierecht en voor de betaling daarvan een termijn van vier weken gesteld. Deze brief is volgens de gegevens van Track&Trace van PostNL afgehaald op de afhaallocatie. Het griffierecht is niet voldaan.
+
+De griffier van de Hoge Raad heeft belanghebbende bij aangetekende brief van  1 februari 2024 in de gelegenheid gesteld mee te delen waarom het griffierecht niet is betaald. Deze brief is volgens de gegevens van Track&Trace van PostNL afgehaald op de afhaallocatie. Belanghebbende heeft van deze gelegenheid geen gebruik gemaakt.
+
+Het beroep in cassatie moet daarom op grond van artikel 8:41, lid 6, Awb niet-ontvankelijk worden verklaard.
+
+2
+Proceskosten
+
+De Hoge Raad ziet geen aanleiding voor een veroordeling in de proceskosten.
+
+3
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie niet-ontvankelijk.
+
+Dit arrest is gewezen door de vice-president J.A.R. van Eijsden als voorzitter, en de raadsheren J. Wortel en A.E.H. van der Voort Maarschalk, in tegenwoordigheid van de waarnemend griffier F. Treuren, en in het openbaar uitgesproken op 12 april 2024.
+
+ECLI:NL:CRVB:2023:935.
