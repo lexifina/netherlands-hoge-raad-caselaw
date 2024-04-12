@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:583"
-published_in: ["Rechtspraak.nl", "NJB 2024/944", "RvdW 2024/440", "NJ 2024/147", "Burgerlijk procesrecht.nl BPR-2024-0048", "JOR 2024/180 met annotatie van mr. A. Steneker", "JBPr 2024/43 met annotatie van prof. mr. K.J. Krzemiński"]
+published_in: ["Rechtspraak.nl", "NJB 2024/944", "RvdW 2024/440", "NJ 2024/147", "Burgerlijk procesrecht.nl BPR-2024-0048", "JOR 2024/180 met annotatie van mr. A. Steneker", "JBPr 2024/43 met annotatie van prof. mr. K.J. Krzemiński", "BPR-Updates.nl 2024-0048"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:171"]]
 ---
 
