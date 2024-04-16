@@ -1,0 +1,63 @@
+---
+ecli: "ECLI:NL:HR:2024:605"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "23/02002"
+decided: "2024-04-16"
+published: "2024-04-15"
+type: "uitspraak"
+procedure: "Artikel 81 RO-zaken"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:605"
+published_in: ["Rechtspraak.nl", "RvdW 2024/499"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:303"]]
+---
+
+# ECLI:NL:HR:2024:605 Hoge Raad , 16-04-2024 / 23/02002
+
+## Inhoudsindicatie
+
+Beklag, beslag ex art. 94a Sv op contante geldbedragen, saldi van bankrekeningen en onroerende goederen onder klager i.h.k.v. strafrechtelijk onderzoek tegen klager. 1. Kon Rb oordelen dat het niet hoogst onwaarschijnlijk is dat later oordelende strafrechter aan klager verplichting tot betaling van ontnemingsmaatregel zal opleggen? 2. Proportionaliteit van beslag.
+
+HR: art. 81.1 RO. Samenhang met 23/02004 B.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+STRAFKAMER
+
+Nummer 23/02002 B
+
+Datum	16 april 2024
+
+BESCHIKKING
+
+op het beroep in cassatie tegen een beschikking van de rechtbank Midden-Nederland van 2 maart 2023, nummer RK 23/000287, op een klaagschrift als bedoeld in artikel 552a van het Wetboek van Strafvordering, ingediend
+
+door
+
+[klager],
+
+geboren in [geboorteplaats] op [geboortedatum] 1987,
+
+hierna: de klager.
+
+1
+Procesverloop in cassatie
+
+Het beroep is ingesteld door de klager. Namens deze heeft J. Kuijper, advocaat in Amsterdam, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan deze beschikking gehecht en maakt daarvan deel uit.
+
+De advocaat-generaal T.N.B.M. Spronken heeft geconcludeerd tot verwerping van het cassatieberoep.
+
+2
+Beoordeling van het cassatiemiddel
+
+De Hoge Raad heeft de klachten over de uitspraak van de rechtbank beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).
+
+3
+Beslissing
+
+De Hoge Raad verwerpt het beroep.
+
+Deze beschikking is gegeven door de vice-president M.J. Borgers als voorzitter, en de raadsheren M. Kuijer en F. Posthumus, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van 16 april 2024.
