@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:625"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/874", "NTFR 2024/746 met annotatie van mr. V. Sathananthan", "V-N 2024/19.19 met annotatie van Redactie", "NLF 2024/0958 met annotatie van Frans Wiggers", "Belastingblad 2024/188 met annotatie van A.P. Monsma", "BNB 2024/61", "JB 2024/103", "FED 2024/66 met annotatie van J.A. SMIT", "Viditax (FutD) 2024041904", "FutD 2024-0945"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/874", "NTFR 2024/746 met annotatie van mr. V. Sathananthan", "V-N 2024/19.19", "NLF 2024/0958 met annotatie van Frans Wiggers", "Belastingblad 2024/188 met annotatie van A.P. Monsma", "BNB 2024/61", "JB 2024/103", "FED 2024/66 met annotatie van J.A. SMIT", "Viditax (FutD) 2024041904", "FutD 2024-0945"]
 ---
 
 # ECLI:NL:HR:2024:625 Hoge Raad , 19-04-2024 / 22/01767
