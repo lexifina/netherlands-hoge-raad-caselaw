@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:629"
-published_in: ["Rechtspraak.nl", "CFN 2024/36 met annotatie van -", "NDFR Nieuws 2024/710", "V-N Vandaag 2024/868", "NTFR 2024/765 met annotatie van mr. dr. B.F.M. Coebergh", "V-N 2024/21.13 met annotatie van Redactie", "NLF 2024/1191 met annotatie van Julian Lopez Ramirez", "BNB 2024/60", "FED 2024/61 met annotatie van M. Knops"]
+published_in: ["Rechtspraak.nl", "CFN 2024/36", "NDFR Nieuws 2024/710", "V-N Vandaag 2024/868", "NTFR 2024/765 met annotatie van mr. dr. B.F.M. Coebergh", "V-N 2024/21.13", "NLF 2024/1191 met annotatie van Julian Lopez Ramirez", "BNB 2024/60", "FED 2024/61 met annotatie van M. Knops"]
 ---
 
 # ECLI:NL:HR:2024:629 Hoge Raad , 19-04-2024 / 21/04337
