@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:627"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/705", "V-N Vandaag 2024/866", "Sdu Nieuws Belastingzaken 2024/454", "NTFR 2024/732 met annotatie van dr. H.J. Bresser", "V-N 2024/19.8 met annotatie van Redactie", "NLF 2024/1017 met annotatie van Gert-Jan de Ruiter", "FED 2024/53 met annotatie van W.R. Kooiman", "BNB 2024/77 met annotatie van O.C.R. MARRES", "Viditax (FutD) 2024041902", "FutD 2024-0940"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/705", "V-N Vandaag 2024/866", "Sdu Nieuws Belastingzaken 2024/454", "NTFR 2024/732 met annotatie van dr. H.J. Bresser", "V-N 2024/19.8", "NLF 2024/1017 met annotatie van Gert-Jan de Ruiter", "FED 2024/53 met annotatie van W.R. Kooiman", "BNB 2024/77 met annotatie van O.C.R. MARRES", "Viditax (FutD) 2024041902", "FutD 2024-0940"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2021:1414"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:156"]]
 ---
 
