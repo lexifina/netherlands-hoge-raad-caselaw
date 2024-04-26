@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:668"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/762", "V-N Vandaag 2024/927", "Sdu Nieuws Belastingzaken 2024/495", "V-N 2024/20.18 met annotatie van Redactie", "NLF 2024/1075 met annotatie van Heroen Roose", "NTFR 2024/862 met annotatie van mr. drs. A.J. Meijer", "BNB 2024/66", "FED 2024/76 met annotatie van R.M.P.G. NIESSEN-COBBEN", "Viditax (FutD) 2024042625", "FutD 2024-0988"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/762", "V-N Vandaag 2024/927", "Sdu Nieuws Belastingzaken 2024/495", "V-N 2024/20.18", "NLF 2024/1075 met annotatie van Heroen Roose", "NTFR 2024/862 met annotatie van mr. drs. A.J. Meijer", "BNB 2024/66", "FED 2024/76 met annotatie van R.M.P.G. NIESSEN-COBBEN", "Viditax (FutD) 2024042625", "FutD 2024-0988"]
 ---
 
 # ECLI:NL:HR:2024:668 Hoge Raad , 26-04-2024 / 23/03687
