@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:673"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2024/172", "AR-Updates.nl 2024-0595", "VAAN-AR-Updates.nl 2024-0595", "JAR 2024/146 met annotatie van dr. N. Jansen", "Sdu Nieuws Belastingzaken 2024/609", "RvdW 2024/504", "Ondernemingsrecht 2024/46 met annotatie van A.T.J.M. Jacobs", "RAR 2024/97", "NJB 2024/1056", "TRA 2024/70 met annotatie van L.C.J. Sprengers"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2024/172", "AR-Updates.nl 2024-0595", "VAAN-AR-Updates.nl 2024-0595", "JAR 2024/146 met annotatie van dr. N. Jansen", "Sdu Nieuws Belastingzaken 2024/609", "RvdW 2024/504", "Ondernemingsrecht 2024/46 met annotatie van A.T.J.M. Jacobs", "RAR 2024/97", "NJB 2024/1056", "TRA 2024/70 met annotatie van L.C.J. Sprengers", "NJ 2026/176 met annotatie van E. Verhulp"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1211"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2022:1641"]]
 ---
 
