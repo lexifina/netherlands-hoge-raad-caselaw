@@ -1,0 +1,236 @@
+---
+ecli: "ECLI:NL:HR:2024:726"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "23/00813"
+decided: "2024-05-17"
+published: "2024-05-16"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Civiel recht; Verbintenissenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:726"
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0253", "NJB 2024/1180", "RvdW 2024/707", "NJ 2024/220", "RAV 2024/61"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1166"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2022:10711"]]
+---
+
+# ECLI:NL:HR:2024:726 Hoge Raad , 17-05-2024 / 23/00813
+
+## Inhoudsindicatie
+
+Verbintenissenrecht. Verzekeringsrecht. Begrip "bestuurder" in art. 4 lid 1 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM) en art. 12 lid 1 Richtlijn 2009/103/EG. Ongeval door ingrijpen inzittende in besturing (aantrekken handrem). Inzittendenbescherming, verlies hoedanigheid bestuurder? Prejudiciële vragen aan HvJEU. Hoge Raad stelt partijen in gelegenheid zich over vragen uit te laten.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+CIVIELE KAMER
+
+Nummer	23/00813
+
+Datum	17 mei 2024
+
+ARREST
+
+In de zaak van
+
+STICHTING KOSKEA, als bewindvoerder van [eiser] ,
+
+gevestigd te Grou,
+
+EISERES tot cassatie,
+
+hierna: de Stichting en [eiser] ,
+
+advocaat: K. Aantjes,
+
+tegen
+
+NATIONALE NEDERLANDEN SCHADEVERZEKERING MAATSCHAPPIJ N.V. h.o.d.n. REAAL SCHADEVERZEKERING N.V.,
+
+gevestigd te Den Haag,
+
+VERWEERSTER in cassatie,
+
+hierna: Nationale Nederlanden,
+
+advocaat: M.S. van der Keur.
+
+1
+Procesverloop
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar:
+
+a. de beschikking in de zaak C/18/197620/ HA RK 20-20 van de rechtbank Noord-Nederland van 22 oktober 2020;
+
+b. het vonnis in de zaak C/18/206695 / HA ZA 21-122 van de rechtbank Noord-Nederland van 15 september 2021;
+
+c. de arresten en de beslissing in de zaak 200.300.693/01 van het gerechtshof Arnhem-Leeuwarden van 26 april 2022,13 december 2022 en 24 januari 2023 (beslissing).
+
+[eiser] heeft tegen het arrest van het hof van 13 december 2022 beroep in cassatie ingesteld.
+
+Nationale Nederlanden heeft een verweerschrift tot verwerping ingediend.
+
+De zaak is voor Nationale Nederlanden toegelicht door haar advocaat.
+
+De conclusie van de Advocaat-Generaal G.R.B. van Peursem strekt tot vernietiging en afdoening door de Hoge Raad zoals voorgesteld aan het eind van 4.33 in de conclusie: toewijzing van de primair gevorderde verklaring voor recht, met kostenveroordeling ten laste van Nationale Nederlanden.
+
+De advocaat van Nationale Nederlanden heeft schriftelijk op die conclusie gereageerd.
+
+2
+Uitgangspunten en feiten
+
+2.1
+
+Dit cassatieberoep gaat over de Wet aansprakelijkheidsverzekering motorrijtuigen (hierna: WAM). Volgens art. 4 lid 1 WAM behoeft schade van de bestuurder van het motorrijtuig niet te worden gedekt. De vraag in deze zaak is of een slachtoffer dat bij een ernstig auto-ongeval achter het stuur zat, de hoedanigheid van bestuurder heeft verloren doordat een inzittende tijdens het rijden plotseling de handrem aantrok en daardoor het ongeval veroorzaakte.
+
+2.2
+
+In cassatie kan van het volgende worden uitgegaan.
+
+(i) Eind 2016 heeft een eenzijdig ongeval plaatsgevonden met een personenbusje (hierna: de auto) van een voetbalvereniging (hierna: de vereniging). De vereniging had de auto tegen het risico van wettelijke aansprakelijkheid overeenkomstig de WAM verzekerd bij Reaal Schadeverzekering N.V. (hierna: Reaal). Reaal is later opgegaan in Nationale Nederlanden. De vereniging had tevens bij Nationale Nederlanden een schadeverzekering voor inzittenden (hierna: SVI) afgesloten.
+
+(ii) De auto was bedoeld om spelers van de vereniging naar en van het verenigingsterrein te laten reizen. Op de datum van het ongeval had [eiser] samen met enkele teamgenoten de auto ter beschikking.
+
+(iii) [eiser] en zijn teamgenoten zijn na een uitwedstrijd met de auto naar het terrein van een andere voetbalvereniging gereden. Daar troffen zij een voormalige trainer van hen (hierna: de trainer). De trainer is vervolgens met [eiser] en zijn teamgenoten meegereden in de auto om een feest bij een derde voetbalvereniging te bezoeken. [eiser] heeft achter het stuur van de auto plaatsgenomen, zijn teamgenoten zaten naast en achter hem en de trainer zat rechts achterin de auto.
+
+(iv) Toen de door [eiser] bestuurde auto op een N-weg reed, heeft de trainer plotsklaps de handrem van de auto aangetrokken. De auto reed op dat moment circa 70 km/uur. Als gevolg van het in werking stellen van de handrem tijdens het rijden blokkeerden de achterwielen van de auto en is de auto in een ongecontroleerde dwarsslip terechtgekomen, waarbij de auto in botsing is gekomen met de betonnen pilaar van het spoorwegviaduct rechts naast de rijbaan. De auto tolde vervolgens op de rijbaan rechts om zijn as en kwam op de linkerrijbaan tot stilstand; hierbij is de achterzijde van de auto nog in botsing gekomen met een andere pilaar. [eiser] en de teamgenoot die naast hem zat zijn bij het ongeval uit de auto geslingerd, waarbij zij allebei zeer ernstig gewond zijn geraakt.
+
+(v) De teamgenoot die naast [eiser] zat, is de dag na het ongeval in het ziekenhuis aan zijn verwondingen overleden. [eiser] is met levensbedreigende verwondingen in het ziekenhuis opgenomen. De trainer en de andere teamgenoot hebben bij het ongeval lichte verwondingen opgelopen.
+
+(vi) [eiser] heeft na het ongeval geruime tijd in het ziekenhuis gelegen en heeft een revalidatietraject gevolgd. Hij heeft aan het ongeval hersenletsel overgehouden, waarvan hij nog steeds klachten en beperkingen ondervindt. Het UWV heeft [eiser] volledig arbeidsongeschikt verklaard. Hij ontvangt in verband hiermee een IVA-uitkering. Verder zijn de goederen van [eiser] onder bewind gesteld omdat hij zijn eigen financiële belangen niet meer kan behartigen. De Stichting is zijn bewindvoerder.
+
+(vii) [eiser] heeft voor zijn schade als gevolg van het ongeval een beroep gedaan op
+
+aansprakelijkheid van Nationale Nederlanden in het kader van de WAM en polisdekking onder de bij Nationale Nederlanden lopende SVI. In reactie hierop heeft Nationale Nederlanden [eiser] eind 2016 laten weten dat zij bij gebrek aan nadere informatie over de toedracht nog geen uitspraak kan doen over de WAM-aansprakelijkheid of de polisdekking. Wel heeft Nationale Nederlanden toen een eerste voorschot van € 5.000,-- aan [eiser] betaald en heeft zij de verdere schaderegeling ter hand genomen. Nadien heeft Nationale Nederlanden de bevoorschotting van [eiser] enige tijd voortgezet.
+
+(viii) Na toezending van het proces-verbaal van de politie over de toedracht van het ongeval door [eiser] aan Nationale Nederlanden heeft de advocaat van Nationale Nederlanden de advocaat van [eiser] in januari 2020 bericht dat er geen dekking is onder de SVI omdat [eiser] na gebruik en onder invloed van alcohol als bestuurder van de auto heeft gefungeerd, en dat onder de WAM-polis geen dekking bestaat omdat deze geen schade van de bestuurder dekt. Verder is – in het kader van eigen schuld bij eventuele verzekeringsdekking – in deze brief gewezen op het niet dragen van de veiligheidsgordel door [eiser] ten tijde van het ongeval.
+
+2.3
+
+In een deelgeschilprocedure op de voet van art. 1019w Rv heeft [eiser] (vertegenwoordigd door de Stichting als bewindvoerder), voor zover van belang, verzocht voor recht te verklaren dat Nationale Nederlanden op grond van de WAM aansprakelijk is voor de door [eiser] geleden en nog te lijden schade. Hij heeft daartoe onder meer betoogd dat de uitsluiting voor aansprakelijkheid voor schade, toegebracht aan de bestuurder van het motorrijtuig dat het ongeval veroorzaakt, van art. 4 lid 1 WAM hier niet van toepassing is. [eiser] zat ten tijde van het ongeval weliswaar nog achter het stuur van de auto, maar kon feitelijk niet meer als bestuurder in de zin van de WAM worden aangemerkt omdat de trainer door aan de handrem te trekken zich als bestuurder van de auto gedroeg.
+
+2.4
+
+De rechtbank heeft bij beschikking in het deelgeschil (hierna: de deelgeschilbeschikking), voor zover van belang, geoordeeld dat [eiser] ten tijde van het ongeval niet langer als bestuurder in de zin van art. 4 lid 1 WAM kon worden aangemerkt, zodat Nationale Nederlanden in beginsel gehouden is zijn schade te vergoeden. De rechtbank heeft daartoe overwogen dat [eiser] na het aantrekken van de handrem door de trainer niet langer in staat was om zelf de auto feitelijk nog te besturen, in die zin dat hij de rijrichting, snelheid en voortbeweging van de auto kon beïnvloeden. Er dient daarom van uit te worden gegaan dat [eiser] vanaf het moment van het aantrekken van de handrem door de trainer de hoedanigheid van bestuurder heeft verloren, zodat hij ten tijde van het ongeval niet meer als bestuurder van de auto kon worden aangemerkt. (rov. 4.8)
+
+2.5
+
+In de procedure ten principale heeft Nationale Nederlanden op de voet van art. 1019cc          lid 3 Rv hoger beroep ingesteld tegen de deelgeschilbeschikking. Het hof heeft de deelgeschilbeschikking vernietigd en de vorderingen van [eiser] voor zover gebaseerd op de WAM-dekking alsnog afgewezen. Het hof heeft daartoe, voor zover van belang, als volgt overwogen:
+
+“4.8 Het hof volgt de rechtbank niet in de door haar gegeven uitleg van het begrip ‘bestuurder’ en haar daarop volgende oordeel dat de handeling van [de trainer] tot gevolg had dat [eiser] vanaf dat moment niet meer als bestuurder kon worden aangemerkt, omdat hij niet meer in staat was om zelf de auto nog feitelijk te besturen. Het hof is met onder meer A-G Machielse in zijn conclusie bij het arrest van de HR van 30 augustus 2005 van oordeel dat ‘men niet ophoudt “bestuurder” te zijn als de beweging van het voertuig oncontroleerbaar is geworden.’
+
+4.9
+
+Een andersluidende interpretatie van het begrip ‘bestuurder’ valt naar het oordeel van het hof ook niet te lezen in het arrest van de Hoge Raad van 30 augustus 2005 en evenmin in het vonnis en arrest in de strafzaak tegen [de trainer]. Dit betreffen immers strafzaken waarin de vraag aan de orde was of degene die de handrem aantrekt als bestuurder moet worden aangemerkt. In de uitspraak van de Hoge Raad is het begrip bestuurder verruimd, zoals ook bepleit door A-G Machielse, uit het oogpunt van bescherming van de verkeersveiligheid, om zoveel mogelijk te voorkomen dat verkeersrelevante gedragingen niet meer binnen het bereik van de verkeerswetgeving komen te vallen of dat een specifieke verkeerssanctie, die juist op onverantwoordelijk verkeersgedrag lijkt te zijn toegesneden, buiten toepassing moet blijven.
+
+Dat de handremtrekker de andere bestuurder, heeft overruled door de rol van bestuurder naar zich toe te trekken, maakt naar het oordeel van het hof dus niet dat er niet nog (steeds) sprake is van een andere bestuurder.
+
+Ook de uitspraken van de strafrechters in de zaak tegen [de trainer], leiden niet tot een andere interpretatie. Zo heeft dit hof in die strafzaak overwogen dat [de trainer] zich ‘in juridische zin’ heeft gedragen als bestuurder en daarmee ‘de werkelijke bestuurder’ totaal heeft verrast, terwijl ook de Hoge Raad heeft overwogen dat het hof heeft vastgesteld dat verdachte […] als passagier aan de handrem heeft getrokken, welke ingreep de bestuurder totaal verraste.
+
+4.10
+
+Anders dan de rechtbank in deze zaak en overigens ook de rechtbank Limburg in de zaak, die heeft geleid tot het vonnis van 12 februari 2014 is het hof van oordeel dat [eiser] niet zijn hoedanigheid van bestuurder vanaf het moment van het aantrekken van de handrem heeft verloren, waardoor hij niet meer als bestuurder aangemerkt zou kunnen worden ten tijde van het ongeval. [eiser] bleef immers de persoon die op de bestuurdersstoel achter het stuur heeft plaatsgenomen, de auto in beweging heeft gezet en de snelheid en rijrichting heeft bepaald. Hij hanteerde bedieningsorganen van het motorrijtuig en dat werd niet anders doordat [de trainer] plotseling aan de handrem trok en daarmee ook een bestuurshandeling uitvoerde.
+
+4.11
+
+Het hof merkt hierbij op, onder verwijzing naar de uitspraak van het Benelux Gerechtshof van 8 december 1994 dat Nationale Nederlanden – onvoldoende gemotiveerd weersproken – heeft gesteld dat hoewel de ‘bestuurder’ en de ‘vervoerde persoon’ beiden de hoedanigheid van verzekerde kunnen hebben, het niettemin verschillende personen zijn en dat niemand én in de hoedanigheid van bestuurder én in de hoedanigheid van vervoerde persoon verzekerd kan zijn en dat het mede begrijpen van de bestuurder in de categorie vervoerde personen op een aantasting van de beginselen zelf van de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen neerkomt. [eiser] heeft niet gesteld hoe hij zou moeten worden aangemerkt, als hij niet als bestuurder kan worden aangemerkt. Zonder nadere toelichting, die ontbreekt, valt niet in te zien dat [eiser] als ‘vervoerde persoon’ in de zin van de WAM zou moeten worden aangemerkt.
+
+4.12
+
+Naar het oordeel van het hof kan in de rechtspraak van het Benelux Gerechtshof geen steun worden gevonden voor de door de rechtbank gegeven uitleg van het begrip ‘bestuurder’. Uit voornoemde uitspraak van Benelux Gerechtshof volgt dat de bestuurder van het motorrijtuig kan worden uitgesloten van het recht op een uitkering (artikel 4 GB). Gelijk annotator M.M. Mendel is het hof van oordeel dat uit deze uitspraak volgt dat deze bepaling niet (mede) ziet op de voor het ongeval aansprakelijke bestuurder maar op de niet aansprakelijke, schade lijdende bestuurder van het motorrijtuig dat het ongeval veroorzaakt (Benelux-Gerechtshof, r.o. 27, 29), waarvan de rechtbank (…) overigens ook is uitgegaan.
+
+4.13
+
+Ook uit rechtspraak van het Hof van Justitie volgt naar het oordeel van het hof niet dat artikel 4 lid 1 beperkt moet worden uitgelegd. Hoewel uit de door de rechtbank genoemde uitspraak van het Hof van Justitie [HvJEU 30 juni 2005, zaak C-537/03, ECLI:EU:C:2005:417] en de daarin genoemde Tweede richtlijn motorrijtuigenverzekering weliswaar volgt ‘dat het in het belang van de slachtoffers is dat de gevolgen van bepaalde uitsluitingsclausules worden beperkt tot de betrekkingen tussen de verzekeraar en de voor het ongeval aansprakelijke persoon’, is onder invloed van de Derde richtlijn motorrijtuigverzekering in artikel 4 lid 1 WAM juist bepaald dat (alleen) de aansprakelijkheid jegens de bestuurder nog van dekking kan worden uitgezonderd.
+
+4.14
+
+Het hof beantwoordt de vraag of de uitsluiting van artikel 4 lid 1 WAM van toepassing is, ook als de bestuurder zelf geen enkel verwijt zou treffen ten aanzien van het bij hem ontstane letsel – wat in deze zaak naar het oordeel van het hof in het kader van de SVI-aanspraak van [eiser] aan de orde zou moeten komen – bevestigend.”
+
+3
+Beoordeling van het middel
+
+3.1
+
+Het middel betoogt in de kern dat het oordeel van het hof dat [eiser] ten tijde van het ongeval nog bestuurder was, getuigt van een onjuiste rechtsopvatting, dan wel onbegrijpelijk is. Volgens het middel kon [eiser] niet langer als bestuurder worden aangemerkt nadat de trainer de handrem had aangetrokken en [eiser] daardoor niet meer in staat was om de auto zelf nog feitelijk te besturen.
+
+3.2
+
+Het middel stelt daarmee aan de orde hoe het begrip ‘bestuurder’ in art. 4 lid 1 WAM moet worden uitgelegd. Deze bepaling luidt:
+
+Artikel 4
+
+1. De verzekering behoeft niet te dekken de aansprakelijkheid voor schade toegebracht aan de bestuurder van het motorrijtuig dat het ongeval veroorzaakt.
+
+3.3
+
+Met art. 4 lid 1 WAM heeft de Nederlandse wetgever gebruikgemaakt van de in art. 1 Richtlijn 90/232/EEG (hierna: de Derde WAM-richtlijn), thans art. 12 lid 1 Richtlijn 2009/103/EG (hierna: gecodificeerde Richtlijn 2009/103), voorziene uitzondering. In dat art. 12 lid 1 is bepaald dat de verplichte verzekering aansprakelijkheid moet dekken voor de schade van alle inzittenden, met uitzondering van de bestuurder. In de considerans bij de Derde WAM-richtlijn is overwogen dat deze bepaling tot doel heeft de leemten aan te vullen die er in sommige lidstaten zijn in de dekking van de inzittenden van een motorrijtuig door de verplichte verzekering, dit ter bescherming van deze bijzonder kwetsbare categorie potentiële slachtoffers.
+
+3.4
+
+Het Hof van Justitie van de Europese Unie (hierna: HvJEU) heeft in verschillende uitspraken het belang van de bescherming van inzittenden benadrukt. Zo heeft het HvJEU erop gewezen dat art. 3 Richtlijn 84/5/EEG (hierna: de Tweede WAM-Richtlijn) beoogt te waarborgen dat alle inzittenden die het slachtoffer zijn van een door een voertuig veroorzaakt ongeval, op grond van de verplichte motorrijtuigenverzekering schadeloosstelling voor de door hen opgelopen schade kunnen verkrijgen, en dat deze bepaling nuttig effect dient te sorteren. Dat laatste verzet zich, aldus het HvJEU, tegen een nationale regeling die de inzittende aan de hand van algemene en abstracte criteria, louter op grond van het feit dat de inzittende tot de schade heeft bijgedragen, het recht op schadevergoeding ontzegt of dat onevenredig beperkt. Een dergelijke beperking is volgens het HvJEU slechts in uitzonderlijke omstandigheden en op basis van een individuele beoordeling mogelijk.
+
+3.5
+
+In de rechtspraak van het HvJEU is uitdrukkelijk vermeld dat art. 1 Derde WAM-richtlijn (thans art. 12 lid 1 gecodificeerde Richtlijn 2009/103) uitsluitend een onderscheid maakt tussen de bestuurder en de andere inzittenden. In deze zaak is aan de orde hoe deze uitzondering op de hiervoor in 3.3-3.4 weergegeven algemene regel van bescherming van inzittenden moet worden uitgelegd. In het bijzonder is aan de orde of art. 12 lid 1 gecodificeerde Richtlijn 2009/103 zo moet worden uitgelegd dat de verplichte verzekering aansprakelijkheid moet dekken voor de schade van de (aanvankelijke) bestuurder in een geval waarin een inzittende ingrijpt in de besturing van het motorrijtuig en zich door dat ingrijpen een ongeval voordoet. Indien deze vraag bevestigend wordt beantwoord, is aan de orde of uit het Unierecht bepaalde eisen voortvloeien die de nationale rechter in acht moet nemen bij de vaststelling of een bestuurder als bedoeld in art. 12 lid 1 gecodificeerde Richtlijn 2009/103 de hoedanigheid van bestuurder in de omstandigheden van het geval heeft verloren en in aanmerking komt voor de inzittendenbescherming volgens de algemene regel.
+
+3.6
+
+De uitleg van de uitzondering die naar Unierecht ten aanzien van de bestuurder mag worden gemaakt, is niet buiten redelijke twijfel uit het Unierecht af te leiden. Evenmin als de Eerste en Tweede WAM-richtlijn bevatten de Derde WAM-richtlijn en thans de gecodificeerde Richtlijn 2009/103 een definitie van het begrip bestuurder. Dit geldt ook voor de overige WAM-richtlijnen.
+
+3.7
+
+De Hoge Raad ziet in het voorgaande aanleiding om prejudiciële vragen te stellen aan het HvJEU.
+
+4.	Omschrijving van de uitgangspunten en feiten waarop de door het HvJEU te geven uitleg moet worden toegepast
+
+De Hoge Raad verwijst naar de hiervoor in 2.2 vermelde uitgangspunten en feiten, waarvan
+
+in deze procedure moet worden uitgegaan.
+
+5
+Vragen van uitleg
+
+1. Dient art. 12 lid 1 gecodificeerde Richtlijn 2009/103 zo te worden uitgelegd dat de verplichte verzekering aansprakelijkheid moet dekken voor de schade van de (aanvankelijke) bestuurder in een geval waarin een inzittende ingrijpt in de besturing van het motorrijtuig en zich door dat ingrijpen een ongeval voordoet?
+
+2. Indien de eerste vraag bevestigend wordt beantwoord, vloeien uit het Unierecht dan bepaalde eisen voort die de nationale rechter in acht moet nemen bij de vaststelling of een bestuurder als bedoeld in art. 12 lid 1 gecodificeerde Richtlijn 2009/103 de hoedanigheid van bestuurder in de omstandigheden van het geval heeft verloren en in aanmerking komt voor de inzittendenbescherming volgens de algemene regel?
+
+6. 	Uitlating partijen
+De Hoge Raad zal partijen in de gelegenheid stellen zich uit te laten over zijn voornemen prejudiciële vragen te stellen aan het HvJEU en over de hiervoor onder 5 geformuleerde vragen.
+
+7
+Beslissing
+
+De Hoge Raad verwijst de zaak naar 14 juni 2024 voor de hiervoor onder 6 bedoelde uitlating van partijen.
+
+Dit arrest is gewezen door de president G. de Groot als voorzitter en de raadsheren C.E. du Perron, H.M. Wattendorff, F.J.P. Lock en K. Teuben, en in het openbaar uitgesproken door de raadsheer A.E.B. ter Heide op 17 mei 2024.
+
+Rechtbank Noord-Nederland 22 oktober 2020, ECLI:NL:RBNNE:2020:3725.
+
+Gerechtshof Arnhem-Leeuwarden 13 december 2022, ECLI:NL:GHARL:2022:10711.
+
+Voetnoot hof: “Vgl. HR 30 augustus 2005, [ECLI:NL:HR:2005:AT7292], Conclusie van de Advocaat-Generaal onder 3.7.”
+
+Voetnoot hof: “Rechtbank Limburg 12 februari 2014 ECLI:NL:RBLIM:2014:11513. Overigens heeft de rechtbank, naar het oordeel van dit hof met juistheid overwogen: ‘De rechtbank is van oordeel dat het feit dat Y in het strafrechtelijk vonnis van de rechtbank van 2 december 2011 is aangemerkt als bestuurder onder de WVW 1994, niet zonder meer betekent dat X niet meer als bestuurder in de zin van de WAM kan worden aangemerkt.’ ”
+
+Voetnoot hof: “BenGH 8 december 1994. NJ 1995/529; VR 1995/114 /Assurance-Liegeoise/Adam, r.o. 20.”
+
+Voetnoot hof: “BenGH 8 december 1994, NJ 1995/529; VR 1995/114 /Assurance-Liegeoise/Adam. Noot M.M. Mendel, die onder 3. daarbij als voorbeelden noemt: een passagier die plotseling een ruk aan het stuur heeft gegeven of met een krant plotseling de bestuurder het uitzicht heeft ontnomen, zie F.J. Blees, Vrb. 1995 p. 27. Of een meegenomen lifter, die een ontsnapte misdadiger blijkt te zijn, dwingt met zijn pistool een automobilist een politieauto te rammen in een poging door een blokkade te dwingen.”
+
+Voetnoot hof: “Zie hierover Blees, Vrb. 1993, p. 4 e.v.”
+
+Voetnoot hof: “Vgl ook Rechtbank Rotterdam 26 juni 2013, ECLI:NL:RBROT:2013:5181”.
+
+Derde Richtlijn 90/232/EEG van de Raad van de Europese Gemeenschappen van 14 mei 1990 inzake de onderlinge aanpassing van de wetgevingen van de Lid-Staten betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe deelneming aan het verkeer van motorrijtuigen aanleiding kan geven, PbEG 1990, L 129/33.
+
+Richtlijn 2009/103/EG van het Europees Parlement en de Raad van 16 september 2009 betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (gecodificeerde versie), PbEG 2009, L 263/11.
+
+Tweede Richtlijn 84/5/EEG van de Raad van de Europese Gemeenschappen van 30 december 1983 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven, PbEG 1984, L 8/17.
+
+HvJEU 30 juni 2005, zaak C-537/03, ECLI:EU:C:2005:417 (Candolin), punt 27-30. Vgl. HvJEU 19 april 2007, zaak C-356/05, ECLI:EU:C:2007:229 (Farrell/Whitty), punt 24-29.
+
+HvJEU 30 juni 2005, zaak C- 537/03, ECLI:EU:C:2005:417, punt 32.
+
+Richtlijn van de Raad van 24 april 1972 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (72/166/EEG), PbEG 1972, L 103/1.
+
+Richtlijn 2000/26/EEG van het Europees Parlement en de Raad van 16 mei 2000 (Vierde richtlijn motorrijtuigenverzekering), PbEG 2000, L 181/65; Richtlijn 2005/14/EG van 11 mei 2005 houdende wijziging van de Richtlijnen 72/166/EEG, 84/5/EEG, 88/357/EEG en 90/232/EEG van de Raad en Richtlijn 2000/26/EG van het Europees Parlement en de Raad betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe deelneming aan het verkeer van motorrijtuigen aanleiding kan geven, PbEU 2005, L 149/14; Richtlijn (EU) 2021/2118 van het Europees Parlement en de Raad van 24 november 2021 tot wijziging van Richtlijn 2009/103/EG betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid, PbEU 2021, L 430/1.
