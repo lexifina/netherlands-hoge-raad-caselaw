@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:748"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/921", "V-N Vandaag 2024/1125", "NTFR 2024/921 met annotatie van MR. J. VAN DE MERWE", "V-N 2024/26.17 met annotatie van Redactie", "Sdu Nieuws Belastingzaken 2024/599", "NLF 2024/1243 met annotatie van Michiel Hennevelt", "NJB 2024/1241", "Sdu Nieuws Omgevingsrecht 2024/136", "USZ 2024/191 met annotatie van Redactie", "JB 2024/115 met annotatie van Redactie", "Belastingblad 2024/242 met annotatie van J.M.J.F. JANSEN", "JOM 2024/308", "FED 2024/75 met annotatie van J.A. SMIT", "BNB 2024/95 met annotatie van E.B. PECHLER", "Viditax (FutD) 2024052409", "FutD 2024-1173"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/921", "V-N Vandaag 2024/1125", "NTFR 2024/921 met annotatie van MR. J. VAN DE MERWE", "V-N 2024/26.17", "Sdu Nieuws Belastingzaken 2024/599", "NLF 2024/1243 met annotatie van Michiel Hennevelt", "NJB 2024/1241", "Sdu Nieuws Omgevingsrecht 2024/136", "USZ 2024/191", "JB 2024/115", "Belastingblad 2024/242 met annotatie van J.M.J.F. JANSEN", "JOM 2024/308", "FED 2024/75 met annotatie van J.A. SMIT", "BNB 2024/95 met annotatie van E.B. PECHLER", "Viditax (FutD) 2024052409", "FutD 2024-1173"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:225"]]
 ---
 
