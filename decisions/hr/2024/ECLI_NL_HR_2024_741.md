@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:741"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1156", "V-N 2024/27.23 met annotatie van Redactie", "Module Privacy & AVG 2024/4402", "JBP 2024/75"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1156", "V-N 2024/27.23", "Module Privacy & AVG 2024/4402", "JBP 2024/75"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:823"]]
 ---
 
