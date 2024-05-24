@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:745"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/920", "V-N Vandaag 2024/1124", "Sdu Nieuws Belastingzaken 2024/590", "NTFR 2024/901 met annotatie van J.N. Konijn MSc", "V-N 2024/26.7 met annotatie van Redactie", "CFN 2024/49 met annotatie van -", "NJB 2024/1243", "NLF 2024/1354 met annotatie van Karima Taouil", "JAR 2024/181 met annotatie van M. Faber", "Brightmine 2024-20010237", "FED 2024/79 met annotatie van S. Bentohami", "BNB 2024/94 met annotatie van A.L. Mertens", "Viditax (FutD) 2024052401", "FutD 2024-1170", "Jurisprudentie HSE 2024/42"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/920", "V-N Vandaag 2024/1124", "Sdu Nieuws Belastingzaken 2024/590", "NTFR 2024/901 met annotatie van J.N. Konijn MSc", "V-N 2024/26.7", "CFN 2024/49", "NJB 2024/1243", "NLF 2024/1354 met annotatie van Karima Taouil", "JAR 2024/181 met annotatie van M. Faber", "Brightmine 2024-20010237", "FED 2024/79 met annotatie van S. Bentohami", "BNB 2024/94 met annotatie van A.L. Mertens", "Viditax (FutD) 2024052401", "FutD 2024-1170", "Jurisprudentie HSE 2024/42"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2022:1457"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:449"]]
 ---
 
