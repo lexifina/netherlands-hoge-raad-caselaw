@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:756"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/991", "V-N Vandaag 2024/1217", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/189", "Sdu Nieuws Belastingzaken 2024/646", "V-N 2024/28.6 met annotatie van Redactie", "V-N 2024/28.5 met annotatie van Redactie", "NTFR 2024/1003 met annotatie van Mr. V.S. Huygen van Dyck-Jagersma", "NLF 2024/1465 met annotatie van Theo Hoogwout", "BNB 2024/86 met annotatie van J.P. BOER", "BNB 2024/87 met annotatie van E.J.W. Heithuis", "Viditax (FutD) 2024060601", "FutD 2024-1272", "JB 2025/1 met annotatie van Prof. mr. T. Barkhuysen, mr. dr. M.L. van Emmerik"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/991", "V-N Vandaag 2024/1217", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/189", "Sdu Nieuws Belastingzaken 2024/646", "V-N 2024/28.6 met annotatie van Redactie", "V-N 2024/28.5 met annotatie van Redactie", "NTFR 2024/1003 met annotatie van Mr. V.S. Huygen van Dyck-Jagersma", "NLF 2024/1465 met annotatie van mr. T.C. Hoogwout", "BNB 2024/86 met annotatie van J.P. BOER", "BNB 2024/87 met annotatie van E.J.W. Heithuis", "Viditax (FutD) 2024060601", "FutD 2024-1272", "JB 2025/1 met annotatie van mr. dr. M.L. van Emmerik, Prof. mr. T. Barkhuysen", "JIN 2025/79 met annotatie van mr. dr. M.L. van Emmerik, prof. mr. T. Barkhuysen"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2023:349"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1191"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1221"]]
 ---
 
