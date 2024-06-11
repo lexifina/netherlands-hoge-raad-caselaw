@@ -10,7 +10,7 @@ procedure: "Herziening"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:845"
 published_in: ["Rechtspraak.nl", "SR-Updates.nl 2024-0126", "RvdW 2024/640"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:241"], ["Formele relatie", "Aanvraag tot herziening van: ECLI:NL:GHAMS:2015:3651"]]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:241"], ["Formele relatie", "Aanvraag tot herziening van: ECLI:NL:GHAMS:2015:3651"], ["Formele relatie", "Terugverwijzing naar: ECLI:NL:GHDHA:2026:3168"]]
 ---
 
 # ECLI:NL:HR:2024:845 Hoge Raad , 11-06-2024 / 23/04591
