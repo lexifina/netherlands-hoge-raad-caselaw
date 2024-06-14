@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:862"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1051", "V-N Vandaag 2024/1300", "V-N Vandaag 2024/1288", "NTFR 2024/1079 met annotatie van Mr. D.C. Simonis", "V-N 2024/30.12 met annotatie van Redactie", "NLF 2024/1563 met annotatie van Willem Boei", "FED 2024/87 met annotatie van M. Knops", "BNB 2024/98 met annotatie van R.J. DE VRIES", "Viditax (FutD) 2024061402", "FutD 2024-1324"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1051", "V-N Vandaag 2024/1300", "V-N Vandaag 2024/1288", "NTFR 2024/1079 met annotatie van Mr. D.C. Simonis", "V-N 2024/30.12", "NLF 2024/1563 met annotatie van Willem Boei", "FED 2024/87 met annotatie van M. Knops", "BNB 2024/98 met annotatie van R.J. DE VRIES", "Viditax (FutD) 2024061402", "FutD 2024-1324"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2021:2629"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2022:517"]]
 ---
 
