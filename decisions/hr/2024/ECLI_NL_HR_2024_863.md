@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:863"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1045", "V-N Vandaag 2024/1289", "Sdu Nieuws Belastingzaken 2024/690", "V-N 2024/29.16 met annotatie van Redactie", "NTFR 2024/1102 met annotatie van prof. mr. dr. J.B.O. Bijl", "NLF 2024/1471 met annotatie van Redmar Wolf", "BNB 2024/91 met annotatie van B.G. van Zadelhoff", "FED 2024/85 met annotatie van M.M.W.D. Merkx", "Viditax (FutD) 2024061412", "FutD 2024-1329"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1045", "V-N Vandaag 2024/1289", "Sdu Nieuws Belastingzaken 2024/690", "V-N 2024/29.16", "NTFR 2024/1102 met annotatie van prof. mr. dr. J.B.O. Bijl", "NLF 2024/1471 met annotatie van Redmar Wolf", "BNB 2024/91 met annotatie van B.G. van Zadelhoff", "FED 2024/85 met annotatie van M.M.W.D. Merkx", "Viditax (FutD) 2024061412", "FutD 2024-1329"]
 relations: [["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:RBNNE:2023:5144"]]
 ---
 
