@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:853"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1056", "V-N Vandaag 2024/1297", "NTFR 2024/1071 met annotatie van MR. J. VAN DE MERWE", "V-N 2024/29.19 met annotatie van Redactie", "NLF 2024/1413 met annotatie van Wendy Nent", "Belastingblad 2024/243 met annotatie van R.T. Wiegerink", "NJB 2024/1567", "FED 2024/86 met annotatie van M.H.W.N. Lammers", "AB 2024/259 met annotatie van R. Stijnen", "JB 2024/144 met annotatie van R.H.C. Luja", "BNB 2024/117 met annotatie van A.J.H. VAN SUILEN", "Viditax (FutD) 2024061401", "FutD 2024-1323", "JIN 2024/163 met annotatie van R.H.C. Luja"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1056", "V-N Vandaag 2024/1297", "NTFR 2024/1071 met annotatie van MR. J. VAN DE MERWE", "V-N 2024/29.19", "NLF 2024/1413 met annotatie van Wendy Nent", "Belastingblad 2024/243 met annotatie van R.T. Wiegerink", "NJB 2024/1567", "FED 2024/86 met annotatie van M.H.W.N. Lammers", "AB 2024/259 met annotatie van R. Stijnen", "JB 2024/144 met annotatie van R.H.C. Luja", "BNB 2024/117 met annotatie van A.J.H. VAN SUILEN", "Viditax (FutD) 2024061401", "FutD 2024-1323", "JIN 2024/163 met annotatie van R.H.C. Luja"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1042"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2022:3789"]]
 ---
 
