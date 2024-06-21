@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:911"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2024-0136", "RvdW 2024/649", "PR-Updates.nl PR-2024-0129", "RFR 2024/120"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2024-0136", "RvdW 2024/649", "PR-Updates.nl PR-2024-0129", "RFR 2024/120", "PR-Updates.nl 2024-0129"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:441"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2023:172"]]
 ---
 
