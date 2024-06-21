@@ -10,7 +10,7 @@ procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:922"
 published_in: ["Rechtspraak.nl", "NJB 2024/1483", "NJ 2024/206", "RvdW 2024/646", "JOR 2024/189 met annotatie van mr. drs. S.M. Peek", "JONDR 2024/555", "OR-Updates.nl 2024-0145", "SEW 2024/135, p. 447"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1169"]]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1169"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:732"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:187"]]
 ---
 
 # ECLI:NL:HR:2024:922 Hoge Raad , 21-06-2024 / 23/00717
