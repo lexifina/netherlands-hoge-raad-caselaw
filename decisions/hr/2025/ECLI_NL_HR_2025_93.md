@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:93"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/99", "Viditax (FutD) 2025011708", "V-N Vandaag 2025/57", "FutD 2025-0109", "NLF 2025/0184", "V-N 2025/5.28 met annotatie van Redactie", "NTFR 2025/205 met annotatie van mr. E.J.M. Bohnen", "BNB 2025/31"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/99", "Viditax (FutD) 2025011708", "V-N Vandaag 2025/57", "FutD 2025-0109", "NLF 2025/0184", "V-N 2025/5.28", "NTFR 2025/205 met annotatie van mr. E.J.M. Bohnen", "BNB 2025/31"]
 ---
 
 # ECLI:NL:HR:2025:93 Hoge Raad , 17-01-2025 / 23/02246
