@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:90"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/100", "Viditax (FutD) 2025011710", "V-N Vandaag 2025/54", "FutD 2025-0108", "NTFR 2025/174 met annotatie van mr. R.J. de Jong", "NLF 2025/0205 met annotatie van Olga Menger", "V-N 2025/6.27", "Belastingblad 2025/73 met annotatie van L.J. Boone", "FED 2025/22 met annotatie van G. GROENEWEGEN", "BNB 2025/66 met annotatie van A.W. Schep"]
-relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:255"]]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/100", "Viditax (FutD) 2025011710", "V-N Vandaag 2025/54", "FutD 2025-0108", "NTFR 2025/174 met annotatie van mr. R.J. de Jong", "NLF 2025/0205 met annotatie van drs. O.M. Menger", "V-N 2025/6.27", "Belastingblad 2025/73 met annotatie van L.J. Boone", "FED 2025/22 met annotatie van G. GROENEWEGEN", "BNB 2025/66 met annotatie van A.W. Schep", "2025/0205 met annotatie van drs. O.M. Menger"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:255"], ["Formele relatie", "Verwijzing naar: ECLI:NL:GHAMS:2026:1580"]]
 ---
 
 # ECLI:NL:HR:2025:90 Hoge Raad , 17-01-2025 / 24/01216
