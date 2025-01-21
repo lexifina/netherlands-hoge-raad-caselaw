@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:30"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2025-0021", "PS-Updates.nl 2025-0094", "RvdW 2025/209", "RAV 2025/23"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2025-0021", "PS-Updates.nl 2025-0094", "RvdW 2025/209", "RAV 2025/23", "NJ 2026/222 met annotatie van J.L. Smeehuijzen"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1148"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:3776, Overig"]]
 ---
 
