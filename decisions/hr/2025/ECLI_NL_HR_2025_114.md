@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:114"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/35", "NJB 2025/248", "BPR-Updates.nl 2025-0013", "RvdW 2025/202", "NJ 2025/55", "OR-Updates.nl 2025-0027", "JIN 2025/29 met annotatie van mr. M.A.J.G. Janssen", "JONDR 2025/190", "RBP 2025/20", "V-N Vandaag 2025/721", "JIN 2025/43 met annotatie van mr. E.P.C. Duinkerke, mr. F.R. Menger", "V-N 2025/18.24 met annotatie van Redactie", "JOR 2025/103 met annotatie van prof. mr. R.R. Verkerk"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/35", "NJB 2025/248", "BPR-Updates.nl 2025-0013", "RvdW 2025/202", "NJ 2025/55", "OR-Updates.nl 2025-0027", "JIN 2025/29 met annotatie van mr. M.A.J.G. Janssen", "JONDR 2025/190", "RBP 2025/20", "V-N Vandaag 2025/721", "JIN 2025/43 met annotatie van mr. E.P.C. Duinkerke, mr. F.R. Menger", "V-N 2025/18.24 met annotatie van Redactie", "JOR 2025/103 met annotatie van prof. mr. R.R. Verkerk", "JBPr 2025/34 met annotatie van mr. Th.D. van der Sanden"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1231"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:3011"]]
 ---
 
