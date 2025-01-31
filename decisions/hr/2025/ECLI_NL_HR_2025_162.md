@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:162"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0153", "VAAN-AR-Updates.nl 2025-0153", "BPR-Updates.nl 2025-0014", "NJB 2025/305", "GZR-Updates.nl 2025-0031", "JAR 2025/71", "RvdW 2025/230", "GJ 2025/52", "RBP 2025/31"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0153", "VAAN-AR-Updates.nl 2025-0153", "BPR-Updates.nl 2025-0014", "NJB 2025/305", "GZR-Updates.nl 2025-0031", "JAR 2025/71", "RvdW 2025/230", "GJ 2025/52", "RBP 2025/31", "NJ 2025/127 met annotatie van J. Legemaate", "JBPr 2025/35 met annotatie van mr. Th.D. van der Sanden", "Jurisprudentie HSE 2025/12", "Jurisprudentie HSE 2025/45", "JIN 2025/157 met annotatie van mr. E. Aerts"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:764"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:1186"]]
 ---
 
