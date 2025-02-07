@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:183"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020707", "V-N Vandaag 2025/250", "FutD 2025-0276", "NLF 2025/0351", "V-N 2025/8.20 met annotatie van Redactie", "BNB 2025/46"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020707", "V-N Vandaag 2025/250", "FutD 2025-0276", "NLF 2025/0351", "V-N 2025/8.20", "BNB 2025/46"]
 ---
 
 # ECLI:NL:HR:2025:183 Hoge Raad , 07-02-2025 / 25/00070
