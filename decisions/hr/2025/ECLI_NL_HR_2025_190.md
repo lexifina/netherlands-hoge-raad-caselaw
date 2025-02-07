@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:190"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0184", "VAAN-AR-Updates.nl 2025-0184", "Sdu Nieuws Arbeidsrecht 2025/57", "NJB 2025/374", "JAR 2025/72 met annotatie van A.C. Kampschuur MSc LLM", "BPR-Updates.nl 2025-0016", "RvdW 2025/254", "TAR 2025/8", "RAR 2025/62", "JIN 2025/36 met annotatie van mr. J.J. Blanken", "TRA 2025/35 met annotatie van M. Verhagen", "Prg. 2025/102"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0184", "VAAN-AR-Updates.nl 2025-0184", "Sdu Nieuws Arbeidsrecht 2025/57", "NJB 2025/374", "JAR 2025/72 met annotatie van A.C. Kampschuur MSc LLM", "BPR-Updates.nl 2025-0016", "RvdW 2025/254", "TAR 2025/8", "RAR 2025/62", "JIN 2025/36 met annotatie van mr. J.J. Blanken", "TRA 2025/35 met annotatie van M. Verhagen", "Prg. 2025/102", "NJ 2025/128 met annotatie van E. Verhulp", "JBPr 2025/36 met annotatie van mr. A.G. Colenbrander"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1260"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:1737"]]
 ---
 
