@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:215"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2025-0069", "SR-Updates.nl 2025-0068", "NJB 2025/489", "RvdW 2025/347"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2025-0069", "SR-Updates.nl 2025-0068", "NJB 2025/489", "RvdW 2025/347", "AA20260389 met annotatie van Nan J.S. Joost"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1137"]]
 ---
 
