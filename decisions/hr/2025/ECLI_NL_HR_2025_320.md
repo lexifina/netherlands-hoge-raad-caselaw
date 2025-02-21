@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:320"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2025/78", "AR-Updates.nl 2025-0248", "NJB 2025/428", "JAR 2025/91", "RvdW 2025/315", "RAR 2025/73"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2025/78", "AR-Updates.nl 2025-0248", "NJB 2025/428", "JAR 2025/91", "RvdW 2025/315", "RAR 2025/73", "School en Wet 2025/141", "NJ 2026/2 met annotatie van B. Barentsen"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:638"]]
 ---
 
