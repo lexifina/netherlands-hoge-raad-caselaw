@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:321"
-published_in: ["Rechtspraak.nl", "NJB 2025/425", "BPR-Updates.nl 2025-0020", "RvdW 2025/313", "JB 2025/89", "RAV 2025/30", "RBP 2025/30"]
+published_in: ["Rechtspraak.nl", "NJB 2025/425", "BPR-Updates.nl 2025-0020", "RvdW 2025/313", "JB 2025/89", "RAV 2025/30", "RBP 2025/30", "JBPr 2025/37 met annotatie van mr. P.A. Fruytier", "JGR 2025/26 met annotatie van prof. mr. dr. M.A.J.M. Buijsen"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1074"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:1758"]]
 ---
 
