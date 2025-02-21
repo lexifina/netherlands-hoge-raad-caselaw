@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:316"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/231", "Sdu Nieuws Personen- en familierecht 2025/122", "NJB 2025/173", "JERF Actueel 2025/90", "NJB 2025/423", "ERF-Updates.nl 2025-0145", "VEAN-ERF-Updates.nl 2025-0145", "NJ 2025/81", "RvdW 2025/316", "VFP 2025/54", "RFR 2025/58"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1326"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:1494"]]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/231", "Sdu Nieuws Personen- en familierecht 2025/122", "NJB 2025/173", "JERF Actueel 2025/90", "NJB 2025/423", "ERF-Updates.nl 2025-0145", "VEAN-ERF-Updates.nl 2025-0145", "NJ 2025/81", "RvdW 2025/316", "VFP 2025/54", "RFR 2025/58", "JERF 2025/65"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1326"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:1494"], ["Formele relatie", "Procedure voortgezet met: ECLI:NL:GHARL:2026:5491"]]
 ---
 
 # ECLI:NL:HR:2025:316 Hoge Raad , 21-02-2025 / 23/04354
