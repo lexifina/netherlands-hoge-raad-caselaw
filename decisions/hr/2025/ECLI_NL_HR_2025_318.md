@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:318"
-published_in: ["Rechtspraak.nl", "NJB 2025/426", "BPR-Updates.nl 2025-0019", "NJ 2025/82", "RvdW 2025/317", "RBP 2025/29"]
+published_in: ["Rechtspraak.nl", "NJB 2025/426", "BPR-Updates.nl 2025-0019", "NJ 2025/82", "RvdW 2025/317", "RBP 2025/29", "JBPr 2025/45 met annotatie van mr. E.E. Neele, mr. L. van den Reek"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1234"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2023:9654"]]
 ---
 
