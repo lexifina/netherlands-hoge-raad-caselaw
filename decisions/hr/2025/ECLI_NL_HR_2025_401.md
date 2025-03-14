@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:401"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/483", "V-N Vandaag 2025/506", "NTFR 2025/496 met annotatie van mr. R.J. de Jong", "NLF 2025/0592", "V-N 2025/13.19 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/483", "V-N Vandaag 2025/506", "NTFR 2025/496 met annotatie van mr. R.J. de Jong", "NLF 2025/0592", "V-N 2025/13.19"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:6420"]]
 ---
 
