@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:472"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/563", "Viditax (FutD) 2025032801", "V-N Vandaag 2025/622", "FutD 2025-0652", "Sdu Nieuws Belastingzaken 2025/379", "NTFR 2025/582 met annotatie van Mr. A.J. Blank", "V-N 2025/15.12", "NLF 2025/0747 met annotatie van Redmar Wolf", "NJB 2025/872"]
-relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2021:3905"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:388"]]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/563", "Viditax (FutD) 2025032801", "V-N Vandaag 2025/622", "FutD 2025-0652", "Sdu Nieuws Belastingzaken 2025/379", "NTFR 2025/582 met annotatie van Mr. A.J. Blank", "V-N 2025/15.12", "NLF 2025/0747 met annotatie van Redmar Wolf", "NJB 2025/872", "BNB 2025/80 met annotatie van C.J. Hummel", "FED 2025/82 met annotatie van A.M. de Wit"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2021:3905"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:388"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:T:2026:376"]]
 ---
 
 # ECLI:NL:HR:2025:472 Hoge Raad , 28-03-2025 / 22/00711
