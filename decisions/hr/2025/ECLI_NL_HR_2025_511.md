@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie in het belang der wet"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:511"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/200", "JERF Actueel 2025/173", "NJB 2025/757", "VEAN-ERF-Updates.nl 2025-0245", "RvdW 2025/507"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/200", "JERF Actueel 2025/173", "NJB 2025/757", "VEAN-ERF-Updates.nl 2025-0245", "RvdW 2025/507", "Prg. 2025/159", "BPR-Updates.nl 2025-0089", "JERF 2025/73 met annotatie van mr. drs. J.H. Lieber", "RBP 2025/45", "RFR 2025/86", "NJ 2025/266 met annotatie van S. Perrick", "BPR-Updates.nl 2025-0033", "FJR 2026/55.13", "FJR 2026/55.28"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1129"]]
 ---
 
