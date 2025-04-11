@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:560"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/95", "V-N 2025/24.17 met annotatie van Redactie", "V-N Vandaag 2025/803", "NJB 2025/805", "RvdW 2025/509"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2025/95", "V-N 2025/24.17 met annotatie van Redactie", "V-N Vandaag 2025/803", "NJB 2025/805", "RvdW 2025/509", "BPR-Updates.nl 2025-0029", "M en R 2025/62 met annotatie van B. Arentz", "Jurisprudentie Grondzaken 2025/39 met annotatie van mr. N. Thorborg, R.C.K. van Andel", "JB 2025/127 met annotatie van prof. mr. R.J.N. Schlössels", "O&A 2025/24 met annotatie van R.J.N. Schlössels", "RVR 2025/54", "BR 2025/58 met annotatie van F. Boer", "NJ 2025/244 met annotatie van L.A.D. Keus", "JIN 2025/163 met annotatie van prof. mr. R.J.N. Schlössels", "Gst. 2025/127 met annotatie van G.A. van der Veen", "TvAR 2025/8222 met annotatie van H.A. van Bommel", "AB 2026/21 met annotatie van R. Stijnen", "TBR 2026/30 met annotatie van C.M.H. Wildeboer Schut, T.E.P.A. Lam", "JBPr 2026/17 met annotatie van prof. mr. dr. C.N.J. Kortmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1406"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:3449"]]
 ---
 
