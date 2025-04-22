@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:594"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2025-0161", "NJB 2025/932"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2025-0161", "NJB 2025/932", "RvdW 2025/644", "NJ 2026/174 met annotatie van E. van Sliedregt"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1384"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2022:2421"]]
 ---
 
