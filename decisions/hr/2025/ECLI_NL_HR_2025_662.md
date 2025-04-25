@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:662"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/241", "JERF Actueel 2025/198", "NJB 2025/928"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/241", "JERF Actueel 2025/198", "NJB 2025/928", "VEAN-ERF-Updates.nl 2025-0266", "ERF-Updates.nl 2025-0266", "BPR-Updates.nl 2025-0031", "RvdW 2025/578", "JERF 2025/87 met annotatie van prof. mr. J.W.A. Biemans", "NJ 2025/172 met annotatie van S. Perrick", "RFR 2025/85", "FJR 2026/55.12"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:707"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1351"]]
 ---
 
