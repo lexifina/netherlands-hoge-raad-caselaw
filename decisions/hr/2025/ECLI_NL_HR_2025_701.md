@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:701"
-published_in: ["Rechtspraak.nl", "NJB 2025/930"]
+published_in: ["Rechtspraak.nl", "NJB 2025/930", "RvdW 2025/580", "NJ 2025/130", "Prg. 2025/180", "WR 2025/76", "JHV 2025/17 met annotatie van mr. Th. Gardenbroek", "BPR-Updates.nl 2025-0035"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1259"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:3338"]]
 ---
 
