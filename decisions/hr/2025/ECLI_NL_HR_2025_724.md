@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:724"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/268", "NJB 2025/989"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/268", "NJB 2025/989", "PFR-Updates.nl 2025-0114", "BPR-Updates.nl 2025-0037", "RvdW 2025/640", "JIN 2025/84 met annotatie van mr. K.A. Boshouwers", "NJ 2025/173 met annotatie van S.F.M. Wortmann", "RFR 2025/81", "JPF 2025/76 met annotatie van prof. mr. P. Vlaardingerbroek", "FJR 2025/77.7", "FJR 2026/35.14"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:192"], ["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:RBROT:2024:4732"]]
 ---
 
