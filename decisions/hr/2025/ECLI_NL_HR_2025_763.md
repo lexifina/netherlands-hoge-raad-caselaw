@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:763"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJB 2025/1049", "RvdW 2025/646", "JIN 2025/89 met annotatie van mr. P.J.B. van Deurzen, mr. S.A. ten Broecke", "Prg. 2025/178", "JOR 2025/204 met annotatie van mr. T.G. Wouda", "NTHR 2025/36, p.191", "NJ 2026/141 met annotatie van A.G. Castermans"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1411"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:73"]]
 ---
 
