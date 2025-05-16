@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:766"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/288"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/288", "NJB 2025/1053", "BPR-Updates.nl 2025-0043", "RvdW 2025/648", "JIN 2025/86 met annotatie van mr. M.B. Winthagen", "JPF 2025/71", "RFR 2025/90", "NJ 2025/205 met annotatie van S.F.M. Wortmann", "FJR 2025/70.1", "FJR 2026/35.6"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:247"]]
 ---
 
