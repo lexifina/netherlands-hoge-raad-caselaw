@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:758"
-published_in: ["Rechtspraak.nl", "Notamail 2025/109", "Sdu Nieuws Personen- en familierecht 2025/285"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/109", "Sdu Nieuws Personen- en familierecht 2025/285", "JERF Actueel 2025/223", "NJB 2025/1052", "VEAN-ERF-Updates.nl 2025-0296", "ERF-Updates.nl 2025-0296", "RvdW 2025/647", "JERF 2025/93 met annotatie van prof. mr. J.W.A. Biemans", "AA20250622 met annotatie van Nuytinck A.J.M. André", "JIN 2025/96 met annotatie van mr. A.H. de Jong", "RFR 2025/104", "RN 2025/68", "NJ 2026/86 met annotatie van S. Perrick", "FJR 2026/40.40", "FJR 2026/55.15"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:862"]]
 ---
 
