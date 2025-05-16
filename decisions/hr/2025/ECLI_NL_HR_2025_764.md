@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:764"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/293"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/293", "NJB 2025/1051", "PFR-Updates.nl 2025-0121", "BPR-Updates.nl 2025-0042", "NJ 2025/153", "RvdW 2025/655", "JIN 2025/85 met annotatie van mr. J.E. Sondorp", "JPF 2025/82", "RFR 2025/91", "JBPr 2025/47 met annotatie van mr. drs. J.W.M.K. Meijer", "FJR 2026/35.11", "FJR 2026/35.19"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1249"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:663"]]
 ---
 
