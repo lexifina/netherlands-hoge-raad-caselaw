@@ -8,7 +8,7 @@ published: "2025-05-21"
 type: "conclusie"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:579"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/69 met annotatie van mr. E.N. Frohn"]
 relations: [["Formele relatie", "Oorspronkelijke conclusie: ECLI:NL:PHR:2024:1392"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:510"]]
 ---
 
@@ -70,7 +70,7 @@ Bij de bespreking van dit onderdeel stel ik het volgende voorop. In zijn prejudi
 
 2.4
 
-Als uitgangspunt dient daarmee te gelden dat indien een buitenslands tot stand gekomen rechtsfeit of rechtshandeling waarbij een familierechtelijke betrekking is vastgesteld of gewijzigd, voortvloeit uit een buiten Nederland polygaam gesloten huwelijk waaraan erkenning wordt onthouden wegens kennelijke onverenigbaarheid met de openbare orde in de zin van art. 10:32 (https://www.inview.nl/openCitation/idb3dc49a6458c434aad1c95b2be416c2c), aanhef en onder a, BW, (ook) de erkenning van dat rechtsfeit of die rechtshandeling afstuit op de weigeringsgrond van de openbare orde als bedoeld in art. 10:101 leden 1 en 2 BW in verbinding met art. 10:100 lid 1, onder c, BW.
+Als uitgangspunt dient daarmee te gelden dat indien een buitenslands tot stand gekomen rechtsfeit of rechtshandeling waarbij een familierechtelijke betrekking is vastgesteld of gewijzigd, voortvloeit uit een buiten Nederland polygaam gesloten huwelijk waaraan erkenning wordt onthouden wegens kennelijke onverenigbaarheid met de openbare orde in de zin van art. 10:32, aanhef en onder a, BW, (ook) de erkenning van dat rechtsfeit of die rechtshandeling afstuit op de weigeringsgrond van de openbare orde als bedoeld in art. 10:101 leden 1 en 2 BW in verbinding met art. 10:100 lid 1, onder c, BW.
 
 2.5
 
