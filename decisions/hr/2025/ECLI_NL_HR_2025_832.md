@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:832"
-published_in: ["Rechtspraak.nl", "RvdW 2025/718"]
+published_in: ["Rechtspraak.nl", "RvdW 2025/718", "NJ 2026/180 met annotatie van P.A.M. Mevis", "AA20250636 met annotatie van Nan J.S. Joost"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:352"]]
 ---
 
