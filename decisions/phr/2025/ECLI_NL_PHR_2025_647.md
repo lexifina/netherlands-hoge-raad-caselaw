@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:647"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025061705", "FutD 2025-1265", "NLF 2025/1310 met annotatie van Jasper Graaff", "NDFR Nieuws 2025/1144", "NTFR 2025/1194 met annotatie van mr. R.B.H. Beune"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:817"]]
 ---
 
 # ECLI:NL:PHR:2025:647 Parket bij de Hoge Raad , 06-06-2025 / 24/02066
