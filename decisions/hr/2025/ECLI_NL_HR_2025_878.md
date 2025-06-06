@@ -10,7 +10,7 @@ procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:878"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2024:1651"]]
+relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2024:1651"], ["Formele relatie", "Herziening: ECLI:NL:HR:2026:1449"]]
 ---
 
 # ECLI:NL:HR:2025:878 Hoge Raad , 06-06-2025 / 24/03602
