@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:860"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025060613", "NDFR Nieuws 2025/942", "V-N Vandaag 2025/1137", "FutD 2025-1163", "Sdu Nieuws Belastingzaken 2025/641", "V-N 2025/27.15 met annotatie van Redactie", "NLF 2025/1475 met annotatie van Heleen Elbert", "BNB 2025/114 met annotatie van W.J. Blokland"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025060613", "NDFR Nieuws 2025/942", "V-N Vandaag 2025/1137", "FutD 2025-1163", "Sdu Nieuws Belastingzaken 2025/641", "V-N 2025/27.15 met annotatie van Redactie", "NLF 2025/1475 met annotatie van Heleen Elbert", "BNB 2025/114 met annotatie van W.J. Blokland", "NTFR 2026/1035"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2023:903"]]
 ---
 
