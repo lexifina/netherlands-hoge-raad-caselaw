@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:853"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0309", "GZR-Updates.nl 2025-0123", "NJB 2025/1787", "RvdW 2025/707", "JA 2025/106 met annotatie van mr. E.W. Bosch, mr. R.S.M. Bosch", "RAV 2025/60", "VR 2025/107"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0309", "GZR-Updates.nl 2025-0123", "NJB 2025/1787", "RvdW 2025/707", "JA 2025/106 met annotatie van mr. E.W. Bosch, mr. R.S.M. Bosch", "RAV 2025/60", "VR 2025/107", "NJ 2026/283 met annotatie van A.J. Verheij"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:134"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:182"]]
 ---
 
