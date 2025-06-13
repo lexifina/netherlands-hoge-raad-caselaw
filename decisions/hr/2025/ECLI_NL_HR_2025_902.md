@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:902"
-published_in: ["Rechtspraak.nl", "NJB 2025/1789", "BPR-Updates.nl 2025-0050", "RvdW 2025/766", "JIN 2025/103 met annotatie van mr. I.W. van Osch", "RBP 2025/63"]
+published_in: ["Rechtspraak.nl", "NJB 2025/1789", "BPR-Updates.nl 2025-0050", "RvdW 2025/766", "JIN 2025/103 met annotatie van mr. I.W. van Osch", "RBP 2025/63", "FJR 2026/35.13", "JBPr 2026/18 met annotatie van mr. D.J. Beenders, mr. J.P.C. Interfurth Alberts"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1404"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:2567"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2024:1405"]]
 ---
 
