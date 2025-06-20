@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:976"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/368", "NJB 2025/1855", "PFR-Updates.nl 2025-0154", "RvdW 2025/796", "NJ 2025/219 met annotatie van S.F.M. Wortmann", "JIN 2025/97 met annotatie van mr. J.H. Evekink, mr. M.E.R. van Herpen", "JPF 2025/105"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/368", "NJB 2025/1855", "PFR-Updates.nl 2025-0154", "RvdW 2025/796", "NJ 2025/219 met annotatie van S.F.M. Wortmann", "JIN 2025/97 met annotatie van mr. J.H. Evekink, mr. M.E.R. van Herpen", "JPF 2025/105", "FJR 2026/46.44"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:276"]]
 ---
 
