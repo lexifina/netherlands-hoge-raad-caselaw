@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:979"
-published_in: ["Rechtspraak.nl", "NJB 2025/1854", "BPR-Updates.nl 2025-0053", "PFR-Updates.nl 2025-0149", "NJ 2025/183", "RvdW 2025/802", "RBP 2025/62", "RFR 2025/103"]
+published_in: ["Rechtspraak.nl", "NJB 2025/1854", "BPR-Updates.nl 2025-0053", "PFR-Updates.nl 2025-0149", "NJ 2025/183", "RvdW 2025/802", "RBP 2025/62", "RFR 2025/103", "FJR 2026/35.16", "FJR 2026/35.9", "FJR 2026/40.41"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:842"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:285"]]
 ---
 
