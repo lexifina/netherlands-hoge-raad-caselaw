@@ -8,7 +8,7 @@ published: "2025-06-26"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:732"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025071107", "NDFR Nieuws 2025/1113", "FutD 2025-1417", "V-N Vandaag 2025/1426", "NLF 2025/1581 met annotatie van Frans Wiggers", "V-N 2025/36.21 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025071107", "NDFR Nieuws 2025/1113", "FutD 2025-1417", "V-N Vandaag 2025/1426", "NLF 2025/1581 met annotatie van Frans Wiggers", "V-N 2025/36.21 met annotatie van Redactie", "NTFR 2026/1031"]
 ---
 
 # ECLI:NL:PHR:2025:732 Parket bij de Hoge Raad , 27-06-2025 / 24/00741
