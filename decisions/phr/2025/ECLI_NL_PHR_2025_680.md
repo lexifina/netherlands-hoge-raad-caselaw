@@ -8,7 +8,7 @@ published: "2025-06-13"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:680"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/206 met annotatie van G.A. van der Veen"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2025:1674"]]
 ---
 
