@@ -8,7 +8,8 @@ published: "2025-07-04"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:756"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025071810", "FutD 2025-1480", "NDFR Nieuws 2025/1170", "V-N Vandaag 2025/1491", "NLF 2025/1769 met annotatie van Yola Geradts", "NTFR 2025/1329 met annotatie van mr. R. Zeldenrust", "V-N 2025/36.23 met annotatie van Redactie", "Belastingblad 2025/319"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025071810", "FutD 2025-1480", "NDFR Nieuws 2025/1170", "V-N Vandaag 2025/1491", "NLF 2025/1769 met annotatie van Yola Geradts", "NTFR 2025/1329 met annotatie van mr. R. Zeldenrust", "V-N 2025/36.23 met annotatie van Redactie", "Belastingblad 2025/319", "NLF 2025/1721 met annotatie van mr. Y.E.J. Geradts"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1027"]]
 ---
 
 # ECLI:NL:PHR:2025:756 Parket bij de Hoge Raad , 04-07-2025 / 24/02074
