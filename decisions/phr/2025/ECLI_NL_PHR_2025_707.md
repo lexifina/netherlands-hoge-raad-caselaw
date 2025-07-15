@@ -225,6 +225,6 @@ Uit het vonnis in eerste aanleg leid ik af dat dit rapport als titel draagt: Rap
 
 Vgl. HR 14 maart 2017, ECLI:NL:HR:2017:414, r.o. 2.4.2-2.4.3 en HR 10 april 2018, ECLI:NL:HR:2018:543, r.o. 2.3.
 
-HR 6 juli 2021, ECLI:NL:HR:2021:1077 (https://www.inview.nl/document/id0ac9d3eaf1ef4e87aa30e559e1a86cbc), NJ 2021/299 m.nt. W.H. Vellinga, r.o. 2.4.1 en 2.4.2. HR 10 december 2024, NJ 2025/51 m.nt. W.H. Vellinga, r.o. 2.5-2.6.2.
+HR 6 juli 2021, ECLI:NL:HR:2021:1077, NJ 2021/299 m.nt. W.H. Vellinga, r.o. 2.4.1 en 2.4.2. HR 10 december 2024, NJ 2025/51 m.nt. W.H. Vellinga, r.o. 2.5-2.6.2.
 
 Zie in dit verband de conclusie van mijn ambtgenoot Aben van 16 april 2024, ECLI:NL:PHR:2024:426 (HR: art. 81.1 RO) en de conclusie van mijn ambtgenoot Frielink 27 mei 2025, ECLI:NL:PHR:2025:612 (HR: art. 81.1 RO).
