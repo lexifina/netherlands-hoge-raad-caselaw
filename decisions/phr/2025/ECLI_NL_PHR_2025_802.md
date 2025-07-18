@@ -8,7 +8,7 @@ published: "2025-07-16"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:802"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/36 met annotatie van mr. P.A. Fruytier"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2025:1950"]]
 ---
 
