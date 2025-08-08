@@ -8,7 +8,7 @@ published: "2025-08-06"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:841"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025090503", "FutD 2025-1753", "NDFR Nieuws 2025/1353", "V-N Vandaag 2025/1737", "Sdu Nieuws Belastingzaken 2025/933", "CFN 2025/82 met annotatie van -", "NTFR 2025/1452 met annotatie van mr. O. Eroglu", "V-N 2025/44.3 met annotatie van Redactie", "NLF 2025/2043 met annotatie van Niels van Mol"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025090503", "FutD 2025-1753", "NDFR Nieuws 2025/1353", "V-N Vandaag 2025/1737", "Sdu Nieuws Belastingzaken 2025/933", "CFN 2025/82 met annotatie van -", "NTFR 2025/1452 met annotatie van mr. O. Eroglu", "V-N 2025/44.3 met annotatie van Redactie", "NLF 2025/2043 met annotatie van N.F.M. van Mol MSc"]
 ---
 
 # ECLI:NL:PHR:2025:841 Parket bij de Hoge Raad , 08-08-2025 / 24/04372
