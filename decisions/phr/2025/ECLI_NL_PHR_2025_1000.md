@@ -8,7 +8,8 @@ published: "2025-09-11"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1000"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAR 2026/160 met annotatie van mr. dr. E. Koot-Van der Putte"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:795"]]
 ---
 
 # ECLI:NL:PHR:2025:1000 Parket bij de Hoge Raad , 12-09-2025 / 24/03810
