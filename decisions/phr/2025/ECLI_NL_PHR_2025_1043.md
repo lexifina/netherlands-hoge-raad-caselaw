@@ -8,7 +8,8 @@ published: "2025-09-25"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1043"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025101005", "V-N Vandaag 2025/2023", "FutD 2025-2014", "NLF 2025/2240 met annotatie van Jan Gooijer", "V-N 2025/49.7 met annotatie van Redactie", "NTFR 2025/1942 met annotatie van dr. M. van Dun"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025101005", "V-N Vandaag 2025/2023", "FutD 2025-2014", "NLF 2025/2240 met annotatie van mr. dr. J. Gooijer", "V-N 2025/49.7 met annotatie van Redactie", "NTFR 2025/1942 met annotatie van dr. M. van Dun"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:917"]]
 ---
 
 # ECLI:NL:PHR:2025:1043 Parket bij de Hoge Raad , 26-09-2025 / 24/03280
