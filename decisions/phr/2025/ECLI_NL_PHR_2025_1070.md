@@ -8,7 +8,7 @@ published: "2025-10-02"
 type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1070"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/38 met annotatie van mr. G.C.C. Lewin"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:507"]]
 ---
 
