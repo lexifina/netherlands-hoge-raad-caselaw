@@ -8,7 +8,7 @@ published: "2025-10-03"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1073"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/49 met annotatie van mr. G.J. Harryvan"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:413"]]
 ---
 
