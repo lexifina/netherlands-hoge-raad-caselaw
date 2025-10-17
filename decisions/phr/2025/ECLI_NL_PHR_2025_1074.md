@@ -9,7 +9,7 @@ type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1074"
 published_in: ["Rechtspraak.nl", "NLF 2025/2289", "NTFR 2025/1839"]
-relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2025:1823"]]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2025:1823"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1141"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:949"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1152"]]
 ---
 
 # ECLI:NL:PHR:2025:1074 Parket bij de Hoge Raad , 17-10-2025 / Bijlage 23/04269 24/03057 24/03073 24/03111 en 24/03415
