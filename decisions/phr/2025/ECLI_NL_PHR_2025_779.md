@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:779"
 published_in: ["Rechtspraak.nl", "TvPP 2026/11, p.31 met annotatie van E. Schaaphok"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:814"]]
 ---
 
 # ECLI:NL:PHR:2025:779 Parket bij de Hoge Raad , 17-10-2025 / 21/02116
