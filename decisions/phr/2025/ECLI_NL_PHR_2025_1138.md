@@ -8,7 +8,7 @@ published: "2025-10-17"
 type: "conclusie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1138"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/47 met annotatie van mr. J.A. Möhlmann"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:95"]]
 ---
 
