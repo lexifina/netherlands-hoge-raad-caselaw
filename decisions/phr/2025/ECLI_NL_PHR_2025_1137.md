@@ -8,7 +8,7 @@ published: "2025-10-16"
 type: "conclusie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1137"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/60"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:61"]]
 ---
 
