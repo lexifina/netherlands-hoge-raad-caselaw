@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1209"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:842"]]
 ---
 
 # ECLI:NL:PHR:2025:1209 Parket bij de Hoge Raad , 07-11-2025 / 24/04835
