@@ -8,7 +8,7 @@ published: "2025-11-06"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1208"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025111801", "Viditax (FutD) 2025111805", "V-N Vandaag 2025/2322", "FutD 2025-2327", "FutD 2025-2328", "V-N 2025/55.19 met annotatie van Redactie", "NLF 2025/2658 met annotatie van Floris de Vos"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025111801", "Viditax (FutD) 2025111805", "V-N Vandaag 2025/2322", "FutD 2025-2327", "FutD 2025-2328", "V-N 2025/55.19 met annotatie van Redactie", "NLF 2025/2658 met annotatie van mr. F.S. de Vos"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2025:1903"]]
 ---
 
