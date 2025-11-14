@@ -8,7 +8,7 @@ published: "2025-11-13"
 type: "conclusie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1251"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/88 met annotatie van mr. J. van de Klashorst"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:679"]]
 ---
 
