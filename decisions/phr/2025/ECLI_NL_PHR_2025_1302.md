@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1302"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1159"]]
 ---
 
 # ECLI:NL:PHR:2025:1302 Parket bij de Hoge Raad , 28-11-2025 / 25/00202
@@ -1274,7 +1275,7 @@ De schriftelijke opmerkingen van [verzoeker] zijn identiek aan die van [...] in 
 
 Het Voorontwerp, de Toelichting en de opmerking van de minister worden hierna in de hoofdtekst in nr. 4.5 e.v. besproken.
 
-Dit deskundigenrapport is ook overgelegd als productie 1 bij SO BML, als productie 1 bij SO N1 en als productie 1 bij SO Risepoint. [A] deelt de conclusies van dit rapport, zie SO [A] , nr. 2.2. Het rapport is tot [...] gekomen in opdracht van Bird en Bird, [B] en Legaltree, en voor de verrichte werkzaamheden hebben de auteurs een financiële vergoeding ontvangen (Deskundigenrapport, voetnoot 1).
+Dit deskundigenrapport is ook overgelegd als productie 1 bij SO BML, als productie 1 bij SO N1 en als productie 1 bij SO Risepoint. [A] deelt de conclusies van dit rapport, zie SO [A] , nr. 2.2. Het rapport is tot stand gekomen in opdracht van Bird en Bird, [B] en Legaltree, en voor de verrichte werkzaamheden hebben de auteurs een financiële vergoeding ontvangen (Deskundigenrapport, voetnoot 1).
 
 Electraworks is partij in de samenhangende zaak 25/00204 en in deze zaak (25/00202) een derde. Electraworks en TSG hebben echter gezamenlijk schriftelijke opmerkingen gemaakt in beide zaken. De schriftelijke opmerkingen van Electraworks worden hierna niet meer besproken omdat die al hiervoor in de hoofdtekst zijn besproken (zie nr. 3.15).
 
@@ -1830,7 +1831,7 @@ H.J. van Kooten, GS Vermogensrecht, art. 3:40 BW, aant. 6.7.
 
 J. Hijma, ‘De ongeoorloofde oorzaak’, WPNR 1991/6030, p. 885-886 (‘ratio’) en J.H. Nieuwenhuis, AA 1985/34, nr. 4, p. 217 (‘bedoeling van de wet’).
 
-Vgl. J. Hijma in NJ 2006/281 (Duwbak Linda), nr. 4. In zijn noot bij HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59 m.nt. J. Hijma ([...] /[...]) betoogt hij dat het ‘doel’ van een wet kan worden geschaard onder het rijkere begrip ‘strekking’.
+Vgl. J. Hijma in NJ 2006/281 (Duwbak Linda), nr. 4. In zijn noot bij HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59 m.nt. J. Hijma ([...] / [...]) betoogt hij dat het ‘doel’ van een wet kan worden geschaard onder het rijkere begrip ‘strekking’.
 
 Vgl. A.R. Bloembergen, ‘Verboden overeenkomsten’, SEW 1958/8, p. 236 (“het gehele arsenaal van interpretatiemethoden [is] toegelaten”), A.R. Bloembergen, ‘Gebrekkige rechtshandelingen in het gewijzigd ontwerp boek 3 N.B.W. (artikelen 3.2.6-3.2.21)’, WPNR 1972/5190, p. 425. Zie in dezelfde zin Hijma in NJ 2006/281 (Duwbak Linda), nr. 4. Het vertoont dan ook overeenkomsten met de toepassing van art. 6:163 BW, de relativiteit in het onrechtmatigedaadsrecht, met dien verstande dat het bij art. 3:40 BW gaat om de vraag of de strekking is dat de rechtshandeling nietig is, terwijl het in het onrechtmatigedaadsrecht gaat om de vraag of de wettelijke norm strekt tot vergoeding van bepaalde schade. Zie S.D. Lindenbergh, “Leidt een bij wet verboden strekking zonder meer tot nietigheid”, AA 2012/740, p. 742.
 
@@ -1882,7 +1883,7 @@ In Esmilo/Mediq, r.o. 4.4 overwoog de Hoge Raad dat “de enkele omstandigheid d
 
 J. Hijma, T&C BW, commentaar op art. 3:40 BW, aant. 2a. Het gaat dus weliswaar om ongeschreven normen, maar wel om rechtsnormen, zodat de vraag een overeenkomst in strijd is met de goede zeden of de openbare orde in cassatie kan worden onderzocht, zie Asser/Sieburgh 6-III 2022/310.
 
-HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...]/[...]), r.o. 3.5.1.
+HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...] / [...]), r.o. 3.5.1.
 
 Vgl. T.F.E. Tjong Tjin Tai, NJ 2013/172, nr. 2, die stelt dat beide begrippen tegenwoordig nagenoeg samenvallen.
 
@@ -1898,11 +1899,11 @@ Asser/Sieburgh 6-III 2022/615.
 
 Asser/Sieburgh 6-III 2022/325a en nr. 347c, betoogt dat de ‘fundamentele beginselen’ van gezichtspunt 2 moeten worden onderscheiden van het begrip ‘fundamenteel beginsel dat de wezenlijke belangen van de samenleving betreft en vorm geeft aan grondslagen waarop de ethische, juridische en economische orde van de samenleving steunt’ (de definitie van het begrip openbare orde, zie daarover nr. 345). Immers, indien een beginsel in laatstbedoelde zin is geschonden, moet worden aangenomen dat de overeenkomst nietig is. De andere in Esmilo/Mediq genoemde gezichtspunten spelen dan geen rol.
 
-Te beoordelen naar het tijdstip van het aangaan van de rechtshandeling, aldus HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...] /[...]), r.o. 3.7.
+Te beoordelen naar het tijdstip van het aangaan van de rechtshandeling, aldus HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...] / [...]), r.o. 3.7.
 
 Art. II.7:302 lid 3 DCFR bepaalt dat het rechtsgevolg van een inbreuk (nietig, vernietigbaar of geldig) moet zijn ‘an appropriate and proportional response to the infringement, having regard to all relevant circumstances’. Zie ook M.R. Hebly en A.N.L. de Hoogh, ‘Esmilo/Mediq: toetsingskader voor nietigheid ex art. 3:40 lid 1 BW’, MvV 2013/2, p. 64 en zie Tjong Tjin Tai, NJ 2013/172, nr. 2 en 3, die t.a.p. stelt dat men moet bezien of “de daadwerkelijk geschonden belangen tot consequenties nopen (mede gelet op het proportionaliteitsbeginsel)”, onder verwijzing naar HR 17 februari 2006, NJ 2006/378, m.nt. M.M. Mendel (Royal & Sun Alliance c.s./Universal Pictures).
 
-Vgl. HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...] /[...]) en in het bijzonder de noot van Hijma onder 10.
+Vgl. HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...] / [...]) en in het bijzonder de noot van Hijma onder 10.
 
 Bijvoorbeeld door Tjong Tjin Tai, zie NJ 2013/172, nr. 4.
 
@@ -1918,7 +1919,7 @@ J. Hijma, ‘De ongeoorloofde oorzaak’, WPNR 1991/6030, p. 886, m.k.
 
 J. Hijma, ‘De ongeoorloofde oorzaak’, WPNR 1991/6030, p. 886, m.k.
 
-Vgl. HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...]/[...]).
+Vgl. HR 11 december 2015, ECLI:NL:HR:2015:3568, NJ 2017/59, m.nt. J. Hijma ([...] / [...]).
 
 In zijn conclusie (ECLI:NL:PHR:2024:36 voor HR 1 maart 2024, ECLI:NL:HR:2024:295 (art. 81 RO)), onder 3.15.
 
