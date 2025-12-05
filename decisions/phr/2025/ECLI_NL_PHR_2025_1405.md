@@ -9,7 +9,7 @@ type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1405"
 published_in: ["Rechtspraak.nl", "NLF 2026/0125 met annotatie van mr. dr. B.M.M. Didden", "2026/0125 met annotatie van mr. dr. B.M.M. Didden"]
-relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:716"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:564"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:717"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:718"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:719"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:720"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:726"]]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:716"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:564"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:717"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:718"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:719"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:720"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:726"], ["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:727"]]
 ---
 
 # ECLI:NL:PHR:2025:1405 Parket bij de Hoge Raad , 05-12-2025 / Bijlage 24/04535 24/04536 24/04537 24/04538 24/04539 24/04540 25/00616 en 25/01176
