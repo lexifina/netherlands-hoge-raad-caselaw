@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1333"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1224"]]
 ---
 
 # ECLI:NL:PHR:2025:1333 Parket bij de Hoge Raad , 05-12-2025 / 23/02777
@@ -270,7 +271,7 @@ Naar mijn mening slagen deze klachten. Ik licht dat toe.
 
 3.18
 
-In nr. 54 van de memorie van grieven hebben [verkopers] aangeboden te bewijzen – kort gezegd – dat [de man] niet als verkoper wilde optreden en dat ook [verweerders] dat moeten hebben begrepen. [verkopers] voeren daar onder andere “ [kandidaat-notaris] van [A] ” als getuige op, ter zake van een voorafgaand aan de ondertekening van de notariële akte met [verweerders] gevoerde bespreking waar deze notaris [verweerders] uitdrukkelijk erop heeft gewezen – aldus [verkopers] – dat (naar ik begrijp: het concept voor) de notariële akte afweek van de koopakte doordat alleen Terborg als verkoper optrad en dat [verweerders] daartegen geen bezwaar maakten.
+In nr. 54 van de memorie van grieven hebben [verkopers] aangeboden te bewijzen – kort gezegd – dat [de man] niet als verkoper wilde optreden en dat ook [verweerders] dat moeten hebben begrepen. [verkopers] voeren daar onder andere “ [kandidaat-notaris] van [A] ” als getuige op, ter zake van een voorafgaand aan de ondertekening van de notariële akte met [verweerders] gevoerde bespreking waar deze notaris [verweerders] uitdrukkelijk erop heeft gewezen – aldus [verkopers] – dat (naar ik begrijp: het concept voor) de notariële akte afweek van de koopakte doordat alleen [de vrouw] als verkoper optrad en dat [verweerders] daartegen geen bezwaar maakten.
 
 3.19
 
