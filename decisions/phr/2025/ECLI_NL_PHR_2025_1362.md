@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1362"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:847"]]
 ---
 
 # ECLI:NL:PHR:2025:1362 Parket bij de Hoge Raad , 12-12-2025 / 25/00593
@@ -1264,7 +1265,7 @@ B.T.M. van der Wiel, in: Van der Wiel (red.), Cassatie, 2019/115 (in fine): “[
 
 Asser Procesrecht/Korthals Altes & Groen 7 2015/188.
 
-HR 19 juli 2019, ECLI:NL:HR:2019:1278, NJ 2020/391 m.nt. J. Spier, AB 2019/519 m.nt C.N.J. Kortmann, (aardbevingen Groningen), rov. 2.9.5; HR 16 februari 2018, ECLI:NL:HR:2018:220, NJ 2018/395 m.nt. E. Verhulp ([…]/[…]), rov. 3.4.3
+HR 19 juli 2019, ECLI:NL:HR:2019:1278, NJ 2020/391 m.nt. J. Spier, AB 2019/519 m.nt C.N.J. Kortmann, (aardbevingen Groningen), rov. 2.9.5; HR 16 februari 2018, ECLI:NL:HR:2018:220, NJ 2018/395 m.nt. E. Verhulp ([…] / […]), rov. 3.4.3
 
 Het bezwaar van Digital Revolution tegen de toelichting van HP bij haar producties is verworpen. Zie het bestreden arrest, p. 2, bovenaan.
 
