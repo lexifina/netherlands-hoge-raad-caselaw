@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1358"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026010905", "FutD 2026-0042", "V-N Vandaag 2026/27", "NTFR 2026/174", "NLF 2026/0062"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1016"]]
 ---
 
 # ECLI:NL:PHR:2025:1358 Parket bij de Hoge Raad , 12-12-2025 / 25/00129
