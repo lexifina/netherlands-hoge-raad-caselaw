@@ -8,7 +8,8 @@ published: "2025-12-19"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1410"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011606", "FutD 2026-0090", "V-N Vandaag 2026/78", "V-N 2026/9.10 met annotatie van Redactie", "2026/0117 met annotatie van P.C.J. van den Brande LL.M", "NLF 2026/0117 met annotatie van P.C.J. van den Brande LL.M"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011606", "FutD 2026-0090", "V-N Vandaag 2026/78", "V-N 2026/9.10 met annotatie van Redactie", "2026/0117 met annotatie van P.C.J. van den Brande LL.M", "NLF 2026/0117 met annotatie van P.C.J. van den Brande LL.M", "NDFR Nieuws 2026/397"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1812"]]
 ---
 
 # ECLI:NL:PHR:2025:1410 Parket bij de Hoge Raad , 19-12-2025 / 24/04162
