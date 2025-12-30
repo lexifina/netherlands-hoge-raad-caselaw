@@ -8,7 +8,7 @@ published: "2025-12-30"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2025:1411"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/137", "Viditax (FutD) 2026013004", "FutD 2026-0182", "V-N Vandaag 2026/164", "V-N 2026/10.15 met annotatie van Redactie", "2026/0224 met annotatie van prof. mr. dr. J.B.O. Bijl", "NLF 2026/0224 met annotatie van prof. mr. dr. J.B.O. Bijl"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/137", "Viditax (FutD) 2026013004", "FutD 2026-0182", "V-N Vandaag 2026/164", "V-N 2026/10.15 met annotatie van Redactie", "2026/0224 met annotatie van prof. mr. dr. J.B.O. Bijl", "NLF 2026/0224 met annotatie van prof. mr. dr. J.B.O. Bijl", "NTFR 2026/1020"]
 ---
 
 # ECLI:NL:PHR:2025:1411 Parket bij de Hoge Raad , 30-12-2025 / 24/02546
