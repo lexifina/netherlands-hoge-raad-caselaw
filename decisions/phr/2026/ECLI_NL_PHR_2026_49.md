@@ -8,7 +8,8 @@ published: "2026-01-08"
 type: "conclusie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:49"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0015"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0015", "FJR 2026/35.21", "JPF 2026/115 met annotatie van prof. mr. P. Vlaardingerbroek", "JBPr 2026/52 met annotatie van mr. L.A. Burwick, mr. L.V. van Gardingen"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:845"]]
 ---
 
 # ECLI:NL:PHR:2026:49 Parket bij de Hoge Raad , 09-01-2026 / 25/01264
