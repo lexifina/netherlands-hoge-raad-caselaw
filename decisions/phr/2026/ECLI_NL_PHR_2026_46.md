@@ -8,7 +8,7 @@ published: "2026-01-08"
 type: "conclusie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:46"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/72 met annotatie van mr. H.J. Weijers"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:681"]]
 ---
 
