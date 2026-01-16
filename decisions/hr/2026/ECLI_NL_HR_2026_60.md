@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Uitspraak na prejudiciële beslissing"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:60"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011602", "NDFR Nieuws 2026/77", "V-N Vandaag 2026/57", "FutD 2026-0081", "Sdu Nieuws Belastingzaken 2026/70", "NTFR 2026/158 met annotatie van mr. N.I. Groenland", "V-N 2026/5.9 met annotatie van Redactie", "2026/0106 met annotatie van dr. mr. T.M. Vergouwen", "NLF 2026/0106 met annotatie van dr. mr. T.M. Vergouwen", "AA20260218 met annotatie van Wilde de M.F. Maarten, Wisman C. Ciska", "BNB 2026/47 met annotatie van D.S. Smit"]
-relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2020:8628"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:386"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011602", "NDFR Nieuws 2026/77", "V-N Vandaag 2026/57", "FutD 2026-0081", "Sdu Nieuws Belastingzaken 2026/70", "NTFR 2026/158 met annotatie van mr. N.I. Groenland", "V-N 2026/5.9 met annotatie van Redactie", "2026/0106 met annotatie van dr. mr. T.M. Vergouwen", "NLF 2026/0106 met annotatie van dr. mr. T.M. Vergouwen", "AA20260218 met annotatie van Wilde de M.F. Maarten, Wisman C. Ciska", "BNB 2026/47 met annotatie van D.S. Smit", "FED 2026/75 met annotatie van D.M. Weber"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2020:8628"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:386"], ["Formele relatie", "Herstelde arrest: ECLI:NL:HR:2022:1121"]]
 ---
 
 # ECLI:NL:HR:2026:60 Hoge Raad , 16-01-2026 / 20/03948 bis
