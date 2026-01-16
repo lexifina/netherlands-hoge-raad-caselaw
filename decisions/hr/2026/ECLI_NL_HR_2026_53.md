@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:53"
-published_in: ["Rechtspraak.nl", "NJB 2026/192", "NJ 2026/55", "RvdW 2026/214", "JA 2026/36 met annotatie van mr. C.J. van Weering", "RAV 2026/23", "JOR 2026/88 met annotatie van mr. P.H. Kramer"]
+published_in: ["Rechtspraak.nl", "NJB 2026/192", "NJ 2026/55", "RvdW 2026/214", "JA 2026/36 met annotatie van mr. C.J. van Weering", "RAV 2026/23", "JOR 2026/88 met annotatie van mr. P.H. Kramer", "NTHR 2026/29, p.136"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:3300"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:991"]]
 ---
 
