@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:62"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/36", "Notamail 2026/15", "V-N Vandaag 2026/81", "NJB 2026/191", "ERF-Updates.nl 2026-0037", "VEAN-ERF-Updates.nl 2026-0037", "JERF Actueel 2026/23", "V-N 2026/8.18 met annotatie van Redactie", "RvdW 2026/213", "VFP 2026/40", "GJ 2026/29", "Prg. 2026/114"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/36", "Notamail 2026/15", "V-N Vandaag 2026/81", "NJB 2026/191", "ERF-Updates.nl 2026-0037", "VEAN-ERF-Updates.nl 2026-0037", "JERF Actueel 2026/23", "V-N 2026/8.18 met annotatie van Redactie", "RvdW 2026/213", "VFP 2026/40", "GJ 2026/29", "Prg. 2026/114", "RFR 2026/47", "NJ 2026/158 met annotatie van S. Perrick", "RN 2026/35", "JERF 2026/71 met annotatie van mr. M. Michels", "FJR 2026/55.1"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:515"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:3037"]]
 ---
 
