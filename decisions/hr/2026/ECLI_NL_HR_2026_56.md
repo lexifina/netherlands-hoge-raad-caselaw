@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:56"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011614", "NDFR Nieuws 2026/80", "V-N Vandaag 2026/54", "Sdu Nieuws Belastingzaken 2026/63", "FutD 2026-0083", "NTFR 2026/170 met annotatie van mr. B.S. Kats", "V-N 2026/5.23 met annotatie van Redactie", "NJB 2026/256", "Belastingblad 2026/86 met annotatie van S. Kapoerchan", "2026/0108 met annotatie van mr. P.F. van der Muur", "NLF 2026/0108 met annotatie van mr. P.F. van der Muur", "JOR 2026/89 met annotatie van mr. dr. P.J. van der Plank"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011614", "NDFR Nieuws 2026/80", "V-N Vandaag 2026/54", "Sdu Nieuws Belastingzaken 2026/63", "FutD 2026-0083", "NTFR 2026/170 met annotatie van mr. B.S. Kats", "V-N 2026/5.23 met annotatie van Redactie", "NJB 2026/256", "Belastingblad 2026/86 met annotatie van S. Kapoerchan", "2026/0108 met annotatie van mr. P.F. van der Muur", "NLF 2026/0108 met annotatie van mr. P.F. van der Muur", "JOR 2026/89 met annotatie van mr. dr. P.J. van der Plank", "BNB 2026/66 met annotatie van A.W. Schep", "FED 2026/74 met annotatie van G. Groenewegen"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:997"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:494"]]
 ---
 
