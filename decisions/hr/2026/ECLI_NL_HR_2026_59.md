@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:59"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011601", "NDFR Nieuws 2026/76", "V-N Vandaag 2026/55", "Sdu Nieuws Belastingzaken 2026/62", "FutD 2026-0080", "V-N 2026/5.21 met annotatie van Redactie", "NTFR 2026/205 met annotatie van mr. E.D. Postema", "NJB 2026/257", "Vp-bulletin 2026/6 met annotatie van Redactie", "2026/0110 met annotatie van E.P. Hageman LLM", "NLF 2026/0110 met annotatie van E.P. Hageman LLM", "BNB 2026/48 met annotatie van A.J.H. van Suilen"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011601", "NDFR Nieuws 2026/76", "V-N Vandaag 2026/55", "Sdu Nieuws Belastingzaken 2026/62", "FutD 2026-0080", "V-N 2026/5.21 met annotatie van Redactie", "NTFR 2026/205 met annotatie van mr. E.D. Postema", "NJB 2026/257", "Vp-bulletin 2026/6 met annotatie van Redactie", "2026/0110 met annotatie van E.P. Hageman LLM", "NLF 2026/0110 met annotatie van E.P. Hageman LLM", "BNB 2026/48 met annotatie van A.J.H. van Suilen", "O&A 2026/26 met annotatie van M. van Zanten"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1044"], ["Formele relatie", "In sprongcassatie op: ECLI:NL:RBNNE:2024:4361"]]
 ---
 
