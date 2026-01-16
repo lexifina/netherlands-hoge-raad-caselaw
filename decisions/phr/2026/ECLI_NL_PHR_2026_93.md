@@ -8,7 +8,7 @@ published: "2026-01-15"
 type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:93"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2026/149 met annotatie van C.E. Nugteren, P.G. van der Putt"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:402"]]
 ---
 
