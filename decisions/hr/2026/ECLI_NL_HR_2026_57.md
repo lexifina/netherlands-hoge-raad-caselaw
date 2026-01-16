@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:57"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0051", "NJB 2026/193", "RvdW 2026/217", "RAV 2026/24"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0051", "NJB 2026/193", "RvdW 2026/217", "RAV 2026/24", "VR 2026/70", "S&S 2026/46"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:1891"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1036"]]
 ---
 
