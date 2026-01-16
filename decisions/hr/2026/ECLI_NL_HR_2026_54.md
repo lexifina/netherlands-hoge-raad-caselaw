@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:54"
-published_in: ["Rechtspraak.nl", "NJB 2026/194", "NJ 2026/56", "RvdW 2026/215"]
+published_in: ["Rechtspraak.nl", "NJB 2026/194", "NJ 2026/56", "RvdW 2026/215", "BPR-Updates.nl 2026-0010"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:2634"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1064"]]
 ---
 
