@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:97"
-published_in: ["Rechtspraak.nl", "NJB 2026/244", "RvdW 2026/240", "RCR 2026/19", "RAV 2026/21"]
+published_in: ["Rechtspraak.nl", "NJB 2026/244", "RvdW 2026/240", "RCR 2026/19", "RAV 2026/21", "JOR 2026/149 met annotatie van mr. drs. J. Verstoep", "NTE 2026/25, UDH:NTE/57091 met annotatie van mr. Q.N. (Quinten) Manuel, mr. R.L.M. (Roy) Cox", "NJ 2026/240 met annotatie van C.M.D.S. Pavillon"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:1518"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1204"]]
 ---
 
