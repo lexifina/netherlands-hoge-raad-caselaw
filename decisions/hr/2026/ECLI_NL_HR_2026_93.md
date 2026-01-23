@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:93"
-published_in: ["Rechtspraak.nl", "NJB 2026/241", "RvdW 2026/242", "NJ 2026/67", "RCR 2026/18"]
+published_in: ["Rechtspraak.nl", "NJB 2026/241", "RvdW 2026/242", "NJ 2026/67", "RCR 2026/18", "JOR 2026/142 met annotatie van prof. mr. B.A. Schuijling"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:970"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:2262"]]
 ---
 
