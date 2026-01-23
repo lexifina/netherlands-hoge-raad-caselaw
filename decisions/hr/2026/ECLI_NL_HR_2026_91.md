@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:91"
-published_in: ["Rechtspraak.nl", "RvdW 2026/246"]
+published_in: ["Rechtspraak.nl", "RvdW 2026/246", "JGz 2026/22 met annotatie van mr. drs. F. Westenberg"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1254"]]
 ---
 
