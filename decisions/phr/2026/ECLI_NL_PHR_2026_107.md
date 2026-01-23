@@ -8,7 +8,8 @@ published: "2026-01-22"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:107"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/54 met annotatie van mr. E.R. van der Velde"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1196"]]
 ---
 
 # ECLI:NL:PHR:2026:107 Parket bij de Hoge Raad , 23-01-2026 / 24/03448
