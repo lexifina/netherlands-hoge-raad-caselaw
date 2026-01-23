@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:95"
-published_in: ["Rechtspraak.nl", "NJB 2026/243", "BPR-Updates.nl 2026-0011", "RvdW 2026/239"]
+published_in: ["Rechtspraak.nl", "NJB 2026/243", "BPR-Updates.nl 2026-0011", "RvdW 2026/239", "RBP 2026/33", "NJ 2026/171 met annotatie van K.J. Krzemiński", "JBPr 2026/47 met annotatie van mr. J.A. Möhlmann"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1138"]]
 ---
 
