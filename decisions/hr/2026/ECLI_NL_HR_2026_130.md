@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:130"
-published_in: ["Rechtspraak.nl", "RvdW 2026/272"]
+published_in: ["Rechtspraak.nl", "RvdW 2026/272", "JGz 2026/23 met annotatie van mr. dr. R.B.M. Keurentjes"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1306"]]
 ---
 
