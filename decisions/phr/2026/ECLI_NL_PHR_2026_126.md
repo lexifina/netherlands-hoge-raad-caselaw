@@ -8,7 +8,7 @@ published: "2026-01-29"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:126"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021308", "NDFR Nieuws 2026/242", "V-N Vandaag 2026/285", "FutD 2026-0268", "NTFR 2026/366 met annotatie van mr. P.G.M. Jansen", "NLF 2026/0328", "Belastingblad 2026/137 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021308", "NDFR Nieuws 2026/242", "V-N Vandaag 2026/285", "FutD 2026-0268", "NTFR 2026/366 met annotatie van mr. P.G.M. Jansen", "NLF 2026/0328", "Belastingblad 2026/137 met annotatie van Redactie", "V-N 2026/20.17.19"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:692"]]
 ---
 
