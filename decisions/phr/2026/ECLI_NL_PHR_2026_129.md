@@ -8,7 +8,8 @@ published: "2026-01-29"
 type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:129"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/55 met annotatie van prof. mr. R.M. Hermans"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1198"]]
 ---
 
 # ECLI:NL:PHR:2026:129 Parket bij de Hoge Raad , 30-01-2026 / 24/04650; 24/04656
