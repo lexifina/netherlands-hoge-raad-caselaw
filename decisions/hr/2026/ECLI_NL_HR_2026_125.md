@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:125"
-published_in: ["Rechtspraak.nl", "NJB 2026/358", "RvdW 2026/294", "NTS 2026/8"]
+published_in: ["Rechtspraak.nl", "NJB 2026/358", "RvdW 2026/294", "NTS 2026/8", "NJ 2026/175 met annotatie van N. Jörg"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1052"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:3511"]]
 ---
 
@@ -69,7 +69,7 @@ De uitspraak van het hof (de zaak 26Douglasville)
 
 Aan de verdachte is onder 2 tenlastegelegd dat:
 
-“hij in de periode van 1 november 2019 tot en met 22 juni 2020 te [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] en/of elders in Nederland, heeft deelgenomen aan een organisatie, bestaande uit verdachte, [medeverdachte 1] , [medeverdachte 2] , [medeverdachte 3] , [medeverdachte 4] , [medeverdachte 5] , [medeverdachte 6] , [medeverdachte 7] , [medeverdachte 8] , [medeverdachte 9] , [medeverdachte 10] , [medeverdachte 11] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten:
+“hij in de periode van 1 november 2019 tot en met 22 juni 2020 te [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] en/of elders in Nederland, heeft deelgenomen aan een organisatie, bestaande uit verdachte, [medeverdachte 6] , [medeverdachte 8] , [medeverdachte 9] , [medeverdachte 10] , [medeverdachte 11] , [medeverdachte 12] , [medeverdachte 13] , [medeverdachte 7] , [medeverdachte 2] , [medeverdachte 1] , [medeverdachte 14] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten:
 
 - moord (artikel 289 Wetboek van Strafrecht),
 
@@ -95,17 +95,17 @@ De verdediging heeft aan het verweer – samengevat – het volgende ten grondsl
 
 (i) [verdachte] maakte deel uit van een criminele organisatie die zich bezig hield met de grootschalige invoer van en handel in cocaïne;
 
-(ii) die organisatie bestond in de kern uit [medeverdachte 10] , [medeverdachte 12] , [medeverdachte 13] , [medeverdachte 9] en hemzelf;
+(ii) die organisatie bestond in de kern uit [medeverdachte 1] , [medeverdachte 4] , [medeverdachte 3] , [medeverdachte 2] en hemzelf;
 
 (iii) [verdachte] is naar aanleiding van het onderzoek 26Sartell vervolgd voor deelneming aan deze criminele organisatie en onherroepelijk veroordeeld;
 
-(iv) [medeverdachte 13] heeft heel veel geld dat met de drugshandel is verdiend gestolen;
+(iv) [medeverdachte 3] heeft heel veel geld dat met de drugshandel is verdiend gestolen;
 
-(v) [medeverdachte 10] , [medeverdachte 12] , [medeverdachte 8] en [verdachte] hebben geprobeerd dat geld terug te halen wat, mede naar aanleiding van de liquidatie van [medeverdachte 12] (volgens [verdachte] in opdracht van [medeverdachte 13] ), resulteerde in (voorgenomen) geweld;
+(v) [medeverdachte 1] , [medeverdachte 4] , [medeverdachte 7] en [verdachte] hebben geprobeerd dat geld terug te halen wat, mede naar aanleiding van de liquidatie van [medeverdachte 4] (volgens [verdachte] in opdracht van [medeverdachte 3] ), resulteerde in (voorgenomen) geweld;
 
-(vi) dit is niet gedaan door een andere organisatie maar, in opdracht van [medeverdachte 10] , door (met name) [medeverdachte 8] , die er in zoverre een taak bij kreeg en waarvoor hij zelf een aantal anderen heeft ingeschakeld;
+(vi) dit is niet gedaan door een andere organisatie maar, in opdracht van [medeverdachte 1] , door (met name) [medeverdachte 7] , die er in zoverre een taak bij kreeg en waarvoor hij zelf een aantal anderen heeft ingeschakeld;
 
-(vii)	 dit laat onverlet dat de in 26Douglasville ten laste gelegde criminele organisatie bestaat uit dezelfde kerndeelnemers, te weten: [medeverdachte 10] , [medeverdachte 8] en [verdachte] ;
+(vii)	 dit laat onverlet dat de in 26Douglasville ten laste gelegde criminele organisatie bestaat uit dezelfde kerndeelnemers, te weten: [medeverdachte 1] , [medeverdachte 7] en [verdachte] ;
 
 (viii) er zijn bovendien overeenkomstige periodes ten laste gelegd;
 
@@ -141,7 +141,7 @@ hij in of omstreeks de periode van 29 oktober 2018 tot en met 22 juni 2020,
 
 - te [plaats] althans (elders) in Italië;
 
-heeft deelgenomen aan een organisatie, onder meer bestaande uit verdachte en/of [medeverdachte 10] en/of [medeverdachte 9] en/of [medeverdachte 14] en/of [medeverdachte 15] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten
+heeft deelgenomen aan een organisatie, onder meer bestaande uit verdachte en/of [medeverdachte 1] en/of [medeverdachte 2] en/of [medeverdachte 15] en/of [medeverdachte 16] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten
 
 - (gewoonte)witwassen (artikel 420bis/ter Sr); en/of
 
@@ -151,7 +151,7 @@ Tenlastelegging 26Douglasville
 
 Voor het gemak geeft het hof hieronder nogmaals de onderhavige tenlastelegging weer:
 
-“hij in de periode van 1 november 2019 tot en met 22 juni 2020 te [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] en/of elders in Nederland, heeft deelgenomen aan een organisatie, bestaande uit verdachte, [medeverdachte 1] , [medeverdachte 2] , [medeverdachte 3] , [medeverdachte 4] , [medeverdachte 5] , [medeverdachte 6] , [medeverdachte 7] , [medeverdachte 8] , [medeverdachte 9] , [medeverdachte 10] , [medeverdachte 11] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten:
+“hij in de periode van 1 november 2019 tot en met 22 juni 2020 te [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] , [plaats] en/of elders in Nederland, heeft deelgenomen aan een organisatie, bestaande uit verdachte, [medeverdachte 6] , [medeverdachte 8] , [medeverdachte 9] , [medeverdachte 10] , [medeverdachte 11] , [medeverdachte 12] , [medeverdachte 13] , [medeverdachte 7] , [medeverdachte 2] , [medeverdachte 1] , [medeverdachte 14] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten:
 
 - moord (artikel 289 Wetboek van Strafrecht),
 
@@ -191,7 +191,7 @@ Die vraag moet in zijn algemeenheid bevestigend worden beantwoord. In de eerste 
 
 In de tweede plaats is van belang dat de misdrijven waarop het oogmerk van de organisatie is gericht weliswaar niet op de tenlastelegging behoeven te worden gespecificeerd, maar dat het oogmerk wel uit de bewijsvoering moet blijken. In het dossier dat het Openbaar Ministerie aan de rechter presenteert, waartegen de verdachte zich ter terechtzitting verweert en waaraan de rechter vervolgens zijn bewijsmiddelen ontleent zullen de beoogde misdrijven in enige mate moeten zijn geconcretiseerd, al was het maar om vast te kunnen stellen dát het om misdrijven gaat. Het zijn ook enkel die (voorgenomen) misdrijven die de rechter bij het bepalen van de strafmaat kan betrekken. Het zou voor de vervolging van criminele organisaties die in de loop van de tijd het criminele vizier, al dan niet deels, hebben verlegd praktisch zeer bezwaarlijk, en maatschappelijk onwenselijk, zijn wanneer bij een vervolging – als de feiten en omstandigheden daartoe aanleiding geven – geen scheiding zou mogen worden aangebracht in de door de criminele organisatie beoogde misdrijven.
 
-In dat verband is van belang dat volgens de verklaringen van [verdachte] en [medeverdachte 10] de criminele organisatie waaraan [verdachte] heeft deelgenomen het vizier daadwerkelijk is gaan verleggen. Er was naar eigen zeggen aanvankelijk enkel een drugsorganisatie en ‘die was niet van het geweld’. [medeverdachte 10] zou daar zelfs om bekend hebben gestaan; om die reden zou de groep lange tijd uit handen van justitie hebben kunnen blijven. Dat de groep eerder niet van geweld was volgt volgens de verdediging ook uit EncroChat-berichten. In de woorden van de verdediging: geweld was dus nieuw voor de organisatie.
+In dat verband is van belang dat volgens de verklaringen van [verdachte] en [medeverdachte 1] de criminele organisatie waaraan [verdachte] heeft deelgenomen het vizier daadwerkelijk is gaan verleggen. Er was naar eigen zeggen aanvankelijk enkel een drugsorganisatie en ‘die was niet van het geweld’. [medeverdachte 1] zou daar zelfs om bekend hebben gestaan; om die reden zou de groep lange tijd uit handen van justitie hebben kunnen blijven. Dat de groep eerder niet van geweld was volgt volgens de verdediging ook uit EncroChat-berichten. In de woorden van de verdediging: geweld was dus nieuw voor de organisatie.
 
 De opsteller van de tenlasteleggingen in 26Sartell en 26Douglasville heeft deze ontwikkeling duidelijk aangebracht: de criminele organisatie in het onderzoek 26Sartell betreft blijkens de tenlastelegging een organisatie die tot oogmerk had het plegen van (gewoonte)witwassen en Opiumwetdelicten. In het onderzoek 26Douglasville gaat het om een criminele organisatie die tot oogmerk heeft het plegen van geweldsmisdrijven, opzetheling en het voorhanden hebben van vuurwapens. In zoverre is duidelijk dat de bedoeling van de opsteller van de tenlastelegging is geweest om in het onderzoek 26Douglasville aan de verdachte deelname aan een andersoortige criminele organisatie te verwijten dan de criminele organisatie in het onderzoek 26Sartell. De officier van justitie heeft dit ook nadrukkelijk ter terechtzitting in zowel 26Sartell als in 26Douglasville benoemd. Bovendien vindt dit steun in de wijze waarop de overige strafrechtelijke verwijten, en de samenhang hiervan met de criminele organisatie, op de beide tenlasteleggingen zijn opgenomen. In het onderzoek 26Sartell is aan [verdachte] verweten, samengevat, dat hij als medepleger (feit 1) cocaïne heeft ingevoerd en (feit 2) de invoer van verdovende middelen heeft voorbereid, waarna (feit 3) de deelname aan de criminele organisatie is genoemd met het oogmerk van het plegen van (onder meer) deze delicten. In het onderzoek 26Douglasville is aan [verdachte] verweten, samengevat, dat hij onder (feit 1) als medepleger verschillende geweldsdelicten heeft voorbereid, waarna (feit 2) de deelname aan de criminele organisatie is genoemd met het oogmerk van het plegen van wederom (onder meer) deze delicten. Dat [verdachte] van feit 1 door de rechtbank is vrijgesproken, is in dit verband voor de beoordeling niet van belang.
 
@@ -225,7 +225,7 @@ hij in of omstreeks de periode van 29 oktober 2018 tot en met 22 juni 2020,
 
 - te [plaats] althans (elders) in Italië;
 
-heeft deelgenomen aan een organisatie, onder meer bestaande uit verdachte en/of [medeverdachte 10] en/of [medeverdachte 9] en/of [medeverdachte 14] en/of [medeverdachte 15] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten
+heeft deelgenomen aan een organisatie, onder meer bestaande uit verdachte en/of [medeverdachte 1] en/of [medeverdachte 2] en/of [medeverdachte 15] en/of [medeverdachte 16] en/of een of meer andere personen, welke organisatie tot oogmerk had het plegen van misdrijven, te weten
 
 - (gewoonte)witwassen (artikel 420bis/ter Sr); en/of
 
@@ -241,7 +241,7 @@ Daarvan is door de rechtbank bewezenverklaard dat:
 
 - te [plaats] en/of op Mallorca en/of althans (elders) in Spanje;
 
-heeft deelgenomen aan een organisatie, onder meer bestaande uit verdachte en [medeverdachte 10] en/of een of meer andere personen,
+heeft deelgenomen aan een organisatie, onder meer bestaande uit verdachte en [medeverdachte 1] en/of een of meer andere personen,
 
 welke organisatie tot oogmerk had het plegen van misdrijven, te weten
 
