@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:128"
-published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0014", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/37", "NJB 2026/304", "NJ 2026/77", "RvdW 2026/269", "OR-Updates.nl 2026-0039", "AA20260302 met annotatie van Bartman S.M. Steef, Waerdt van de J.G. Gerjanne", "JONDR 2026/252", "JIN 2026/42 met annotatie van mr. E.P.C. Duinkerke, mr. F.R. Menger"]
+published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0014", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/37", "NJB 2026/304", "NJ 2026/77", "RvdW 2026/269", "OR-Updates.nl 2026-0039", "AA20260302 met annotatie van Bartman S.M. Steef, Waerdt van de J.G. Gerjanne", "JONDR 2026/252", "JIN 2026/42 met annotatie van mr. E.P.C. Duinkerke, mr. F.R. Menger", "JONDR 2026/433"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:1309"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:755"]]
 ---
 
