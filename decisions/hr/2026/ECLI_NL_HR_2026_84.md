@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:84"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/190", "Viditax (FutD) 2026020601", "V-N Vandaag 2026/215", "FutD 2026-0222", "Sdu Nieuws Belastingzaken 2026/151", "V-N 2026/8.4 met annotatie van Redactie", "NTFR 2026/307 met annotatie van mr. D. Hajer", "2026/0269 met annotatie van mr. E. Thomas", "NLF 2026/0269 met annotatie van mr. E. Thomas", "FED 2026/38 met annotatie van M.J.G.A.M. Weerepas, Redactie"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/190", "Viditax (FutD) 2026020601", "V-N Vandaag 2026/215", "FutD 2026-0222", "Sdu Nieuws Belastingzaken 2026/151", "V-N 2026/8.4 met annotatie van Redactie", "NTFR 2026/307 met annotatie van mr. D. Hajer", "2026/0269 met annotatie van mr. E. Thomas", "NLF 2026/0269 met annotatie van mr. E. Thomas", "FED 2026/38 met annotatie van M.J.G.A.M. Weerepas", "BNB 2026/78 met annotatie van A.O. Lubbers"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:2082"]]
 ---
 
