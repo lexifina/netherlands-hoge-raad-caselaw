@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:199"
-published_in: ["Rechtspraak.nl", "NJB 2026/354", "RvdW 2026/288", "RAV 2026/20", "RCR 2026/29", "TvAR 2026/8249 met annotatie van R. Ligtvoet"]
+published_in: ["Rechtspraak.nl", "NJB 2026/354", "RvdW 2026/288", "RAV 2026/20", "RCR 2026/29", "TvAR 2026/8249 met annotatie van R. Ligtvoet", "RVR 2026/31", "JOR 2026/120 met annotatie van mr. C.E. Drion", "RN 2026/29", "TvPP 2026/27, p.95 met annotatie van N.E. Kuijer en R.G.W. Bongers", "VGR 2026/29, p.113 met annotatie van J.J. Dammingh"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:432"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:304"]]
 ---
 
