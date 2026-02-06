@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:201"
-published_in: ["Rechtspraak.nl", "NJB 2026/357", "BPR-Updates.nl 2026-0015", "RvdW 2026/290", "RBP 2026/19"]
+published_in: ["Rechtspraak.nl", "NJB 2026/357", "BPR-Updates.nl 2026-0015", "RvdW 2026/290", "RBP 2026/19", "NJ 2026/172 met annotatie van K.J. Krzemiński", "JBPr 2026/23 met annotatie van mr. drs. E.M. Snijders"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2025:317"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:996"]]
 ---
 
