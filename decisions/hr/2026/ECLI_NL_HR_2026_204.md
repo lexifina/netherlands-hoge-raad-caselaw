@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:204"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/48", "AR-Updates.nl 2026-0218", "NJB 2026/355", "JAR 2026/70 met annotatie van mr. D. Kuiper", "RvdW 2026/289", "TRA 2026/39 met annotatie van I. Zaal", "Prg. 2026/97", "RAR 2026/63"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/48", "AR-Updates.nl 2026-0218", "NJB 2026/355", "JAR 2026/70 met annotatie van mr. D. Kuiper", "RvdW 2026/289", "TRA 2026/39 met annotatie van I. Zaal", "Prg. 2026/97", "RAR 2026/63", "NJ 2026/159 met annotatie van D.M.A. Bij de Vaate"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:6464"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:699"]]
 ---
 
