@@ -10,7 +10,7 @@ procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:210"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/224", "V-N 2026/9.29.26"]
-relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2024:863"]]
+relations: [["Formele relatie", "In cassatie op: ECLI:NL:CRVB:2024:863"], ["Formele relatie", "Herziening: ECLI:NL:HR:2026:978"]]
 ---
 
 # ECLI:NL:HR:2026:210 Hoge Raad , 06-02-2026 / 24/03242
