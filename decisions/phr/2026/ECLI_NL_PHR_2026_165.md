@@ -8,7 +8,8 @@ published: "2026-02-09"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:165"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/91 met annotatie van mr. dr. A.M. Overheul"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:822"]]
 ---
 
 # ECLI:NL:PHR:2026:165 Parket bij de Hoge Raad , 10-02-2026 / 24/00192
