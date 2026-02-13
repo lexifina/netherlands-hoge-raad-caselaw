@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:241"
-published_in: ["Rechtspraak.nl", "NJB 2026/405", "RvdW 2026/328"]
+published_in: ["Rechtspraak.nl", "NJB 2026/405", "RvdW 2026/328", "NJ 2026/173 met annotatie van L.A.D. Keus"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:807"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:608"]]
 ---
 
