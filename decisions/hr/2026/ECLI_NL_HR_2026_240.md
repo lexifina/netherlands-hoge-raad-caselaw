@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:240"
-published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0019", "NJB 2026/410", "RvdW 2026/331", "NJ 2026/93", "JIN 2026/48 met annotatie van mr. M. Evadgian"]
+published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0019", "NJB 2026/410", "RvdW 2026/331", "NJ 2026/93", "JIN 2026/48 met annotatie van mr. M. Evadgian", "RBP 2026/32"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1238"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:2878"]]
 ---
 
