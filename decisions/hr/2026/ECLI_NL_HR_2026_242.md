@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:242"
-published_in: ["Rechtspraak.nl", "NJB 2026/412", "RvdW 2026/333", "NJ 2026/95"]
+published_in: ["Rechtspraak.nl", "NJB 2026/412", "RvdW 2026/333", "NJ 2026/95", "GZR-Updates.nl 2026-0064", "RFR 2026/58", "JGz 2026/24 met annotatie van mr. A. Blok", "Jurisprudentie HSE 2026/27"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1277"]]
 ---
 
