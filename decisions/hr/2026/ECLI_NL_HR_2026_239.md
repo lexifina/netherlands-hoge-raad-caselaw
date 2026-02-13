@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:239"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/56", "AR-Updates.nl 2026-0250", "Sdu Nieuws Insolventierecht 2026/25", "NJB 2026/407", "INS-Updates.nl 2026-0040", "RvdW 2026/330", "NJ 2026/92 met annotatie van F.M.J. Verstijlen", "JAR 2026/89 met annotatie van mr. drs. A.M. Helstone, mr. E.B. Hoebens", "RAR 2026/61", "JOR 2026/86 met annotatie van prof. mr. A.J. Tekstra", "RI 2026/28"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/56", "AR-Updates.nl 2026-0250", "Sdu Nieuws Insolventierecht 2026/25", "NJB 2026/407", "INS-Updates.nl 2026-0040", "RvdW 2026/330", "NJ 2026/92 met annotatie van F.M.J. Verstijlen", "JAR 2026/89 met annotatie van mr. drs. A.M. Helstone, mr. E.B. Hoebens", "RAR 2026/61", "JOR 2026/86 met annotatie van prof. mr. A.J. Tekstra", "RI 2026/28", "JIN 2026/55 met annotatie van mr. I.E.E. Taling", "TvCu 2026/13, UDH:TvCu/57338 met annotatie van mr. F.A. (Fleur) van den Broek, mr. M. (Mariëlle) de Wild"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:752"]]
 ---
 
