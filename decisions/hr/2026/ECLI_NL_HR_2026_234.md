@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:234"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021312", "NDFR Nieuws 2026/237", "V-N Vandaag 2026/280", "FutD 2026-0259", "NTFR 2026/324 met annotatie van mr. B.S. Kats", "Sdu Nieuws Belastingzaken 2026/187", "V-N 2026/9.28 met annotatie van Redactie", "2026/0307 met annotatie van drs. O.M. Menger", "NLF 2026/0307 met annotatie van drs. O.M. Menger", "NJB 2026/548", "Belastingblad 2026/128 met annotatie van R. van den Berg", "VFP 2026/58", "FED 2026/39 met annotatie van G. Groenewegen, Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021312", "NDFR Nieuws 2026/237", "V-N Vandaag 2026/280", "FutD 2026-0259", "NTFR 2026/324 met annotatie van mr. B.S. Kats", "Sdu Nieuws Belastingzaken 2026/187", "V-N 2026/9.28 met annotatie van Redactie", "2026/0307 met annotatie van drs. O.M. Menger", "NLF 2026/0307 met annotatie van drs. O.M. Menger", "NJB 2026/548", "Belastingblad 2026/128 met annotatie van R. van den Berg", "VFP 2026/58", "FED 2026/39 met annotatie van G. Groenewegen", "BNB 2026/132 met annotatie van A.W. Schep"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2022:6858"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2023:1012"]]
 ---
 
