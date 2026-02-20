@@ -8,7 +8,7 @@ published: "2026-02-06"
 type: "conclusie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:157"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0329", "AR-Updates.nl 2026-0329"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0329", "AR-Updates.nl 2026-0329", "JAR 2026/124"]
 relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:594"]]
 ---
 
