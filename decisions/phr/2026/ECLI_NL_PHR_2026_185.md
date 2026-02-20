@@ -8,7 +8,7 @@ published: "2026-02-17"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:185"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/363", "Viditax (FutD) 2026030608", "NLF 2026/0459", "V-N Vandaag 2026/416", "FutD 2026-0397", "NTFR 2026/677 met annotatie van mr. H.G. Bentveld"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/363", "Viditax (FutD) 2026030608", "NLF 2026/0459", "V-N Vandaag 2026/416", "FutD 2026-0397", "NTFR 2026/677 met annotatie van mr. H.G. Bentveld", "V-N 2026/29.9 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:PHR:2026:185 Parket bij de Hoge Raad , 20-02-2026 / 25/01614
