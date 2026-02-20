@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:188"
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/365", "NLF 2026/0454", "Viditax (FutD) 2026030610", "V-N Vandaag 2026/417", "FutD 2026-0396", "Sdu Nieuws Belastingzaken 2026/363", "CFN 2026/18 met annotatie van -", "NTFR 2026/493 met annotatie van mr. S.A.M. Verweij", "V-N 2026/14.16 met annotatie van Redactie"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1816"]]
 ---
 
 # ECLI:NL:PHR:2026:188 Parket bij de Hoge Raad , 20-02-2026 / 25/02747
