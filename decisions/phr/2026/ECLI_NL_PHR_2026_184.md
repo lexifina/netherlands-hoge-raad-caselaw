@@ -8,7 +8,7 @@ published: "2026-02-17"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:184"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030608", "NLF 2026/0458", "FutD 2026-0397", "Sdu Nieuws Belastingzaken 2026/362", "NTFR 2026/678"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030608", "NLF 2026/0458 met annotatie van mr. S. van Berkel", "FutD 2026-0397", "Sdu Nieuws Belastingzaken 2026/362", "NTFR 2026/678"]
 ---
 
 # ECLI:NL:PHR:2026:184 Parket bij de Hoge Raad , 20-02-2026 / 25/01615
