@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:323"
-published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0022", "NJB 2026/480", "RvdW 2026/376"]
+published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0022", "NJB 2026/480", "RvdW 2026/376", "JPF 2026/64", "NJ 2026/147 met annotatie van J. Legemaate", "GZR-Updates.nl 2026-0081", "RFR 2026/56", "JGz 2026/25 met annotatie van mr. drs. R.H. Zuijderhoudt"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1289"]]
 ---
 
