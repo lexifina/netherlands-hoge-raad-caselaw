@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:206"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1295"]]
 ---
 
 # ECLI:NL:PHR:2026:206 Parket bij de Hoge Raad , 27-02-2026 / 25/01368
@@ -1073,7 +1074,7 @@ Het hof is daarom van oordeel dat grief II in het incidenteel appel faalt. Het h
 
 5.40
 
-Subonderdeel 3.1 klaagt dat het oordeel in rov. 3.13 dat uit de Excel-sheets en de bankafschriften nog steeds niet kan worden afgeleid dat de door Capgemini gevorderde kosten terecht worden aangevoerd, onvoldoende (begrijpelijk) is gemotiveerd. Uit de door Capgemini als onderdeel van productie C-53 overgelegde bankafschriften van afschrijvingen door ING als garantstellende bank in 2018 blijkt immers dat Capgemini in ieder geval € 22.117,21 heeft betaald voor het stellen van de bankgarantie. Een aantal van deze bankafschriften vermeldt “Tgv [eiser] ” en alle afschriften vermelden het nummer ([001]) van de garantie gesteld ten behoeve van [eiser] . Zonder nadere motivering is het oordeel van het hof dat ook uit de bankafschriften niet kan worden afgeleid dat de door Capgemini gevorderde kosten althans in zoverre terecht worden aangevoerd, dan ook onbegrijpelijk.
+Subonderdeel 3.1 klaagt dat het oordeel in rov. 3.13 dat uit de Excel-sheets en de bankafschriften nog steeds niet kan worden afgeleid dat de door Capgemini gevorderde kosten terecht worden aangevoerd, onvoldoende (begrijpelijk) is gemotiveerd. Uit de door Capgemini als onderdeel van productie C-53 overgelegde bankafschriften van afschrijvingen door ING als garantstellende bank in 2018 blijkt immers dat Capgemini in ieder geval € 22.117,21 heeft betaald voor het stellen van de bankgarantie. Een aantal van deze bankafschriften vermeldt “Tgv [eiser] ” en alle afschriften vermelden het nummer ( [001] ) van de garantie gesteld ten behoeve van [eiser] . Zonder nadere motivering is het oordeel van het hof dat ook uit de bankafschriften niet kan worden afgeleid dat de door Capgemini gevorderde kosten althans in zoverre terecht worden aangevoerd, dan ook onbegrijpelijk.
 
 5.41
 
