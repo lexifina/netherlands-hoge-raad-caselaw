@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:202"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031307", "NDFR Nieuws 2026/398", "FutD 2026-0440", "V-N Vandaag 2026/473", "NTFR 2026/511 met annotatie van mr. P.T. van Arnhem", "V-N 2026/17.4 met annotatie van Redactie"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1488"]]
 ---
 
 # ECLI:NL:PHR:2026:202 Parket bij de Hoge Raad , 27-02-2026 / 25/02259
@@ -147,7 +148,7 @@ Uitgangspunten in cassatie
 
 2.1
 
-Belanghebbende is op 29 januari 1992 gescheiden. In het kader van de echtscheiding is een (voorwaardelijke) uitkering aan zijn ex-partner ter verrekening van pensioenrechten overeengekomen.
+Belanghebbende is op [...] 1992 gescheiden. In het kader van de echtscheiding is een (voorwaardelijke) uitkering aan zijn ex-partner ter verrekening van pensioenrechten overeengekomen.
 
 2.2
 
