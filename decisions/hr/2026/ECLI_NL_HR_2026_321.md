@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:321"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0118", "NJB 2026/481", "RvdW 2026/377"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0118", "NJB 2026/481", "RvdW 2026/377", "RAV 2026/32", "JA 2026/64 met annotatie van mr. dr. E.J. Wervelman", "NJ 2026/177 met annotatie van N. van Tiggele-van der Velde", "JIN 2026/93 met annotatie van M. de Groot, mr. Y.D. Noordenne"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1288"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:2538"]]
 ---
 
