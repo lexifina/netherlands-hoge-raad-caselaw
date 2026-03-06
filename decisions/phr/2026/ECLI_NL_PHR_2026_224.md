@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:224"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1551"]]
 ---
 
 # ECLI:NL:PHR:2026:224 Parket bij de Hoge Raad , 06-03-2026 / 25/00198
@@ -47,9 +48,9 @@ In de zaak
 
 6.		[eiseres 6] B.V.
 
-7.		Louwman MB G B.V.
+7.		[eiseres 7] B.V.
 
-8.		Louwman MB R B.V.
+8.		[eiseres 8] B.V.
 
 9.		[eiseres 9] B.V.
 
@@ -57,7 +58,7 @@ In de zaak
 
 11.	[eiseres 11] B.V.
 
-12.	Louwman MB B.V.
+12.	[eiseres 12] B.V.
 
 13.	AGAM B.V., als rechtsopvolgster onder bijzondere titel van Mercedes-Benz Dealer Bedrijven B.V.
 
