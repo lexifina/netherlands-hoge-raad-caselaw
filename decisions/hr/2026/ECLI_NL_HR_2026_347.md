@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:347"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0054", "NJB 2026/541", "RvdW 2026/394", "NJ 2026/114"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0054", "NJB 2026/541", "RvdW 2026/394", "NJ 2026/114", "JPF 2026/48 met annotatie van mr. Y.E.M. Cremers", "RFR 2026/68"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2025:281"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1363"]]
 ---
 
