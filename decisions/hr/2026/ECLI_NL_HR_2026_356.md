@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:356"
-published_in: ["Rechtspraak.nl", "NJB 2026/540", "RvdW 2026/396"]
+published_in: ["Rechtspraak.nl", "NJB 2026/540", "RvdW 2026/396", "JIN 2026/64 met annotatie van mr. W.A. Braams", "WR 2026/84", "TvHB 2026/23, UDH:TvHB/57297 met annotatie van mr. I.E. (Ingrid) Reimert"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:2617"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:955"]]
 ---
 
