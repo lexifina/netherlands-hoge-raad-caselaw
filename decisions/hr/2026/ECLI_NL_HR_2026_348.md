@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:348"
-published_in: ["Rechtspraak.nl", "NJB 2026/539", "RvdW 2026/393", "NJ 2026/113"]
+published_in: ["Rechtspraak.nl", "NJB 2026/539", "RvdW 2026/393", "NJ 2026/113", "RCR 2026/39", "TvPP 2026/27, p.96 met annotatie van A.M.A. Canta en K.N. Campagne"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:2626"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1212"]]
 ---
 
