@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:409"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/92", "VAAN-AR-Updates.nl 2026-0397", "AR-Updates.nl 2026-0397", "NJB 2026/592", "BPR-Updates.nl 2026-0023", "RvdW 2026/413", "NJ 2026/121", "JAR 2026/104"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/92", "VAAN-AR-Updates.nl 2026-0397", "AR-Updates.nl 2026-0397", "NJB 2026/592", "BPR-Updates.nl 2026-0023", "RvdW 2026/413", "NJ 2026/121", "JAR 2026/104", "RAR 2026/74", "TvPP 2026/26, p.93 met annotatie van A.J.J. Kool"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:988"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:2884"]]
 ---
 
