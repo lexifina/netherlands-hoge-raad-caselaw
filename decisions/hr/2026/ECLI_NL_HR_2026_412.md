@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:412"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0141", "RvdW 2026/418", "JAR 2026/105 met annotatie van prof. mr. B. Barentsen"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0141", "RvdW 2026/418", "JAR 2026/105 met annotatie van prof. mr. B. Barentsen", "Jurisprudentie HSE 2026/40"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:39"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2025:79"]]
 ---
 
