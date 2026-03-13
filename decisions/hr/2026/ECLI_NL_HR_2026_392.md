@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:392"
-published_in: ["Rechtspraak.nl", "NJB 2026/588"]
+published_in: ["Rechtspraak.nl", "NJB 2026/588", "JOR 2026/101 met annotatie van mr. drs. M.J. Bökkerink", "RCR 2026/37", "JONDR 2026/491", "NTHR 2026/33, p.145", "RF 2026/39", "RvdW 2026/698", "NJ 2026/199", "JBP 2026/93 met annotatie van M. Khalil"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:260"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:419"]]
 ---
 
