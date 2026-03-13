@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie in het belang der wet"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:400"
-published_in: ["Rechtspraak.nl", "NJB 2026/597", "RvdW 2026/411"]
+published_in: ["Rechtspraak.nl", "NJB 2026/597", "RvdW 2026/411", "NJ 2026/198 met annotatie van F.M.J. Verstijlen", "JOR 2026/176 met annotatie van mr. S.W.H. Bootsma", "TvI 2026/33 met annotatie van A. Karapetian, R.E. de Vries"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1066"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2014:1310"]]
 ---
 
