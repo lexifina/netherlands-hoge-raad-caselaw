@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:398"
-published_in: ["Rechtspraak.nl", "NJB 2026/595", "RvdW 2026/420"]
+published_in: ["Rechtspraak.nl", "NJB 2026/595", "RvdW 2026/420", "GZR-Updates.nl 2026-0133", "JGz 2026/27 met annotatie van mr. drs. F. Westenberg"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:88"]]
 ---
 
