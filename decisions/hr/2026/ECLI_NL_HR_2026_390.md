@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:390"
-published_in: ["Rechtspraak.nl", "NJB 2026/589", "RvdW 2026/407", "JOR 2026/87 met annotatie van mr. A. Steneker"]
+published_in: ["Rechtspraak.nl", "NJB 2026/589", "RvdW 2026/407", "JOR 2026/87 met annotatie van mr. A. Steneker", "NJ 2026/136 met annotatie van F.M.J. Verstijlen", "AA20260385 met annotatie van Wibier R.M. Reinout", "RCR 2026/38", "JIN 2026/65 met annotatie van mr. F.A.E. Kuijpers", "JIN 2026/77 met annotatie van mr. T. Ensink", "JONDR 2026/520", "TvI 2026/34 met annotatie van R.J. Abendroth"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1012"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:1635"]]
 ---
 
