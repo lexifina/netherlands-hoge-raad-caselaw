@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:393"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031305", "NDFR Nieuws 2026/401", "V-N Vandaag 2026/457", "FutD 2026-0436", "NTFR 2026/490 met annotatie van mr. R. Zeldenrust", "V-N 2026/13.26 met annotatie van Redactie", "NJB 2026/603"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031305", "NDFR Nieuws 2026/401", "V-N Vandaag 2026/457", "FutD 2026-0436", "NTFR 2026/490 met annotatie van mr. R. Zeldenrust", "V-N 2026/13.26 met annotatie van Redactie", "NJB 2026/603", "BNB 2026/97 met annotatie van A.J.H. van Suilen"]
 ---
 
 # ECLI:NL:HR:2026:393 Hoge Raad , 13-03-2026 / 24/01046
