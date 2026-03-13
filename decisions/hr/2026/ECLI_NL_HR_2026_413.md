@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:413"
-published_in: ["Rechtspraak.nl", "NJB 2026/594", "BPR-Updates.nl 2026-0027", "RvdW 2026/414", "NJ 2026/122"]
+published_in: ["Rechtspraak.nl", "NJB 2026/594", "BPR-Updates.nl 2026-0027", "RvdW 2026/414", "NJ 2026/122", "JIN 2026/94 met annotatie van mr. R.J.G. Mengelberg", "JBPr 2026/49 met annotatie van mr. G.J. Harryvan"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1073"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2025:795"]]
 ---
 
