@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:391"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0072", "RvdW 2026/415"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0072", "RvdW 2026/415", "JIN 2026/78 met annotatie van mr. T. Ensink", "JONDR 2026/519"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1013"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:3373"]]
 ---
 
