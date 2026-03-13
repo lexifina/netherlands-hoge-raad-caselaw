@@ -8,7 +8,8 @@ published: "2026-03-11"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:248"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031306", "FutD 2026-0441", "V-N Vandaag 2026/491", "NTFR 2026/532 met annotatie van mr. R.J. de Jong", "V-N 2026/15.18 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031306", "FutD 2026-0441", "V-N Vandaag 2026/491", "NTFR 2026/532 met annotatie van mr. R.J. de Jong", "V-N 2026/15.18 met annotatie van Redactie", "Belastingblad 2026/178"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:735"]]
 ---
 
 # ECLI:NL:PHR:2026:248 Parket bij de Hoge Raad , 13-03-2026 / 25/02550
