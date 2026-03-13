@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:411"
-published_in: ["Rechtspraak.nl", "RvdW 2026/421"]
+published_in: ["Rechtspraak.nl", "RvdW 2026/421", "JONDR 2026/348"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:89"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2025:677"]]
 ---
 
