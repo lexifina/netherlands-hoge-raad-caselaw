@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:403"
-published_in: ["Rechtspraak.nl", "NJB 2026/593", "RvdW 2026/409", "JOR 2026/67 met annotatie van mr. M.W. Josephus Jitta", "OR-Updates.nl 2026-0054"]
+published_in: ["Rechtspraak.nl", "NJB 2026/593", "RvdW 2026/409", "JOR 2026/67 met annotatie van mr. M.W. Josephus Jitta", "OR-Updates.nl 2026-0054", "RN 2026/28", "JONDR 2026/349", "JIN 2026/79 met annotatie van mr. B.N. Goedhart, mr. R.A.M.D. Smit", "JIN 2026/91 met annotatie van mr. A.M. Dumoulin-Siemens", "RO 2026/45", "NJ 2026/248 met annotatie van H.J. de Kluiver"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:916"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:3140"]]
 ---
 
