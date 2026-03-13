@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:252"
 published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0066"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1281"]]
 ---
 
 # ECLI:NL:PHR:2026:252 Parket bij de Hoge Raad , 13-03-2026 / 26/00083
