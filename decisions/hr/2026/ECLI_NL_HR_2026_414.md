@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:414"
-published_in: ["Rechtspraak.nl", "NJB 2026/590", "BPR-Updates.nl 2026-0024", "RvdW 2026/412", "NJ 2026/120"]
+published_in: ["Rechtspraak.nl", "NJB 2026/590", "BPR-Updates.nl 2026-0024", "RvdW 2026/412", "NJ 2026/120", "JONDR 2026/394", "NTHR 2026/30, p.139", "JBPr 2026/37 met annotatie van mr. dr. J.G.A. Linssen"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1071"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2024:1841"]]
 ---
 
