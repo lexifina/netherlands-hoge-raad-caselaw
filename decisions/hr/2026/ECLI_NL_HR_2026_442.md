@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:442"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0091", "NJB 2026/653", "RvdW 2026/448"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0091", "NJB 2026/653", "RvdW 2026/448", "JIN 2026/66 met annotatie van mr. C. van Oort", "NTS 2026/30", "AA20260744 met annotatie van Nan J.S. Joost"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:3"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:2752"]]
 ---
 
