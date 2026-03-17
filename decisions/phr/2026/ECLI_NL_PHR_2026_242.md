@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:242"
 published_in: ["Rechtspraak.nl", "JM 2026/62 met annotatie van mr. S. Pieters"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:799"]]
 ---
 
 # ECLI:NL:PHR:2026:242 Parket bij de Hoge Raad , 17-03-2026 / 24/00844
