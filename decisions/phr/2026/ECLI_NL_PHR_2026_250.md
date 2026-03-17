@@ -8,7 +8,8 @@ published: "2026-03-11"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:250"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/60.4"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1003"]]
 ---
 
 # ECLI:NL:PHR:2026:250 Parket bij de Hoge Raad , 17-03-2026 / 26/00090
