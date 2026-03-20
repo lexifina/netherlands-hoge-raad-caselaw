@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:454"
-published_in: ["Rechtspraak.nl", "NJB 2026/649", "RvdW 2026/447"]
+published_in: ["Rechtspraak.nl", "NJB 2026/649", "RvdW 2026/447", "JGz 2026/29 met annotatie van Redactie"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:40"]]
 ---
 
