@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:272"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1560"]]
 ---
 
 # ECLI:NL:PHR:2026:272 Parket bij de Hoge Raad , 20-03-2026 / 25/01379
@@ -149,7 +150,7 @@ b. tien jaren na de in lid 1 bedoelde dag, indien het Werk hetzij geheel of gede
 
 (ix) Bij het Inschrijfdocument zijn diverse ‘dwingende bijlagen’ opgenomen. In de dwingende bijlage onder '06.01 Vraagspecificatie Nieuwbouw' is het volgende bepaald:
 
-‘De prestatie-eisen voor de hoofddraagconstructie zijn opgenomen in de documenten van [ingenieursbedrijf 1]. De bouwfysische prestatiespecificatie is opgenomen in de map van DGMR.’
+‘De prestatie-eisen voor de hoofddraagconstructie zijn opgenomen in de documenten van [ingenieursbedrijf 1] . De bouwfysische prestatiespecificatie is opgenomen in de map van DGMR.’
 
 (x) In de notitie van [ingenieursbedrijf 1] is het volgende bepaald over de prestatie- eisen voor de hoofddraagconstructie en de uitvoering van de verdiepingsvloeren:
 
@@ -251,7 +252,7 @@ Hoewel niet van elke specifieke naad een apart model is gemaakt kan op basis van
 
 Dit leidt tot aangepaste plattegronden met minder kritische naden.’
 
-(xxiii) ADS heeft de rapportages van ABT voorgelegd aan [deskundige] (hierna te noemen: ‘[deskundige]’). In april 2021 is een rapportage van [deskundige] verschenen, waarin [deskundige] erop wijst dat bollenplaatvloeren tot aan de instorting van de parkeergarage in Eindhoven gedurende meer dan 25 jaar zonder problemen internationaal zijn toegepast. Het ontwerp, alsmede de detailtekeningen en detailberekeningen wijken volgens [deskundige] niet af van hetgeen in die periode gebruikelijk was. Daarnaast stelt [deskundige] dat er geen scheuren, grote doorbuigingen of andere gebreken in de vloeren zijn geconstateerd. ADS heeft aan [deskundige] gevraagd om de vraag te beantwoorden of er een concreet risico bestaat op (dreigende) instorting van de vloeren. Bij de beantwoording van deze vraag heeft [deskundige] niet de Rekenregels 2019 gebruikt, maar een methode naar eigen inzicht. Het antwoord van [deskundige] luidt als volgt:
+(xxiii) ADS heeft de rapportages van ABT voorgelegd aan [deskundige] (hierna te noemen: ‘ [deskundige] ’). In april 2021 is een rapportage van [deskundige] verschenen, waarin [deskundige] erop wijst dat bollenplaatvloeren tot aan de instorting van de parkeergarage in Eindhoven gedurende meer dan 25 jaar zonder problemen internationaal zijn toegepast. Het ontwerp, alsmede de detailtekeningen en detailberekeningen wijken volgens [deskundige] niet af van hetgeen in die periode gebruikelijk was. Daarnaast stelt [deskundige] dat er geen scheuren, grote doorbuigingen of andere gebreken in de vloeren zijn geconstateerd. ADS heeft aan [deskundige] gevraagd om de vraag te beantwoorden of er een concreet risico bestaat op (dreigende) instorting van de vloeren. Bij de beantwoording van deze vraag heeft [deskundige] niet de Rekenregels 2019 gebruikt, maar een methode naar eigen inzicht. Het antwoord van [deskundige] luidt als volgt:
 
 ‘Om deze vraag te kunnen beantwoorden heb ik de 1e verdieping doorgerekend en me met name geconcentreerd op de locaties die door ABT als rode Bubbledeck problemen zijn aangeduid. Mijn conclusie, naar aanleiding van onderstaand verslag, is dat er geen dreigend instortingsgevaar aanwezig is.’
 
@@ -263,7 +264,7 @@ Dit leidt tot aangepaste plattegronden met minder kritische naden.’
 
 Het verschil zit in de wijze waarop de invloed van de doorgaande wapening is verdisconteerd. ABT heeft op basis van de DIANA analyse het volgende onderscheid gemaakt: Alle naden met doorgaande wapening Ø12-300 voldoen aan de normwaarde (afkeur) en hoeven niet versterkt te worden (althans niet i.v.m. breedplaatproblematiek). Alle naden met doorgaande wapening Ø12-300 voldoen niet aan de ontwerpwaarde. Deze naden worden verder niet met de gunstige invloed van de doorgaande wapening beschouwd.
 
-Naden met een geringe overschrijding kunnen door ABT daarom als “te versterken” zijn aangemerkt. Terwijl door [deskundige], ondanks de conservatieve benadering wel een deel van de doorgaande wapening in rekening wordt gebracht. Deze naden kunnen dan net wel voldoen. Juist die naden die door [deskundige] zijn onderzocht betreffen alleen naden met doorgaande staven Ø12-300. Er kan dus inderdaad een verschil zijn ontstaan tussen de resultaten van [deskundige] en die van ABT voor de eerste verdiepingsvloer.
+Naden met een geringe overschrijding kunnen door ABT daarom als “te versterken” zijn aangemerkt. Terwijl door [deskundige] , ondanks de conservatieve benadering wel een deel van de doorgaande wapening in rekening wordt gebracht. Deze naden kunnen dan net wel voldoen. Juist die naden die door [deskundige] zijn onderzocht betreffen alleen naden met doorgaande staven Ø12-300. Er kan dus inderdaad een verschil zijn ontstaan tussen de resultaten van [deskundige] en die van ABT voor de eerste verdiepingsvloer.
 
 [deskundige] heeft echter slechts een beperkte hoeveelheid naden beschouwd. Hij heeft niet naar de overige verdiepingen zonder de doorgaande staven gekeken. Als de door [deskundige] gehanteerde methode consequent over alle naden wordt doorgezet, dan is zeer waarschijnlijk een groter deel van de naden kritisch en zullen ook met zijn berekeningsmethode aanzienlijk meer versterkingen nodig zijn.
 
@@ -401,7 +402,7 @@ ff. Het Waterschap heeft de bevindingen van [ingenieursbedrijf 3] bestreden met 
 
 ‒ Is sprake van instortingsgevaar?
 
-gg. Het Waterschap baseert zich op de rekenkundige beoordelingen van ABT en [ingenieursbedrijf 2], die hebben gewezen op het risico van bros bezwijken (lees: plotseling instorten) van vloeren op de eerste drie verdiepingen als gevolg van delaminatie tot aan de tralieligger. Nu proefbelasten in de ogen van het Waterschap geen optie is, blijft alleen deze beoordeling over. (onder 3.43)
+gg. Het Waterschap baseert zich op de rekenkundige beoordelingen van ABT en [ingenieursbedrijf 2] , die hebben gewezen op het risico van bros bezwijken (lees: plotseling instorten) van vloeren op de eerste drie verdiepingen als gevolg van delaminatie tot aan de tralieligger. Nu proefbelasten in de ogen van het Waterschap geen optie is, blijft alleen deze beoordeling over. (onder 3.43)
 
 hh. Het hof volgt het Waterschap niet en licht dat hierna toe. Buiten de ingestorte parkeergarage in Eindhoven (waarbij specifieke problemen speelden die hier niet aan de orde zijn) zijn tot nu toe geen andere gebouwen met breedplaatvloeren gevonden waarbij in de praktijk sprake was van lokaal bezwijken of grote constructieve problemen. Volgens [deskundige] is er geen dreigend instortingsgevaar aanwezig en voldoen alle beschouwde naden aan het afkeurniveau, met uitzondering van één naad, die over een lengte van 2 meter niet voldoet. ABT constateert op 5 juli 2019 dat het gebouw bij ongewijzigd gebruik in de oranje categorie valt en daarmee veilig is. [ingenieursbedrijf 2] geeft aan dat het feit dat een breedplaatvloer niet voldoet aan de eisen volgens NEN 8700 niet wil zeggen dat de beschouwde breedplaatvloer op het punt van bezwijken staat. (onder 3.44-3.46).
 
@@ -525,7 +526,7 @@ De vraag of sprake is van ernstige gebreken
 
 3.43
 
-Het Waterschap baseert zich op de rekenkundige beoordelingen van ABT en [ingenieursbedrijf 2], die hebben gewezen op het risico van bros bezwijken (lees: plotseling instorten) van vloeren op de eerste drie verdiepingen als gevolg van delaminatie tot aan de tralieligger. Nu proefbelasten in de ogen van het Waterschap geen optie is, blijft alleen deze beoordeling over. Die zijn echter wel verricht conform stappenplan 2019, en daaruit volgt dat het gebouw niet voldoet aan het afkeurniveau dat is vastgelegd in NEN 8700. In de ogen van de wetgever is daarmee sprake van een vanuit maatschappelijke veiligheid onacceptabele hoge kans dat het gebouw bezwijkt. Daarmee is volgens van het Waterschap voldaan is aan het criterium "dreigt in te storten" uit par. 28-2 onder b UAV-GC. Het gebouw wordt wel gebruikt, maar dat gebeurt in goed overleg met deskundigen, na het onderstempelen van vloerdelen en gedeeltelijke ontruiming.
+Het Waterschap baseert zich op de rekenkundige beoordelingen van ABT en [ingenieursbedrijf 2] , die hebben gewezen op het risico van bros bezwijken (lees: plotseling instorten) van vloeren op de eerste drie verdiepingen als gevolg van delaminatie tot aan de tralieligger. Nu proefbelasten in de ogen van het Waterschap geen optie is, blijft alleen deze beoordeling over. Die zijn echter wel verricht conform stappenplan 2019, en daaruit volgt dat het gebouw niet voldoet aan het afkeurniveau dat is vastgelegd in NEN 8700. In de ogen van de wetgever is daarmee sprake van een vanuit maatschappelijke veiligheid onacceptabele hoge kans dat het gebouw bezwijkt. Daarmee is volgens van het Waterschap voldaan is aan het criterium "dreigt in te storten" uit par. 28-2 onder b UAV-GC. Het gebouw wordt wel gebruikt, maar dat gebeurt in goed overleg met deskundigen, na het onderstempelen van vloerdelen en gedeeltelijke ontruiming.
 
 3.44
 
@@ -837,7 +838,7 @@ Of er een reëel gevaar van instorting bestond van het na de maatregelen ongebru
 
 Inleidende dagvaarding, productie 10, p. 6: ‘Van alle verdiepingsvloeren heeft verdieping 1 de grootste concentratie leidingen t.p.v. bovengenoemde locaties. Deze verdieping is daarom als maatgevend beschouwd. De verkregen resultaten en inzichten zijn daarom ook geldig voor de overige vloeren van het gebouw.’
 
-Vergelijk bijvoorbeeld het memo van ABT (hiervoor 2.3 onder xxvi) en het rapport van [ingenieursbedrijf 2], door het hof aangehaald in rechtsoverwegingen 3.17 en (korter) 3.46.
+Vergelijk bijvoorbeeld het memo van ABT (hiervoor 2.3 onder xxvi) en het rapport van [ingenieursbedrijf 2] , door het hof aangehaald in rechtsoverwegingen 3.17 en (korter) 3.46.
 
 Is dat het geval dan sluit dat weliswaar niet categorisch uit dat sprake is van een ernstig gebrek, maar dat veronderstelt dan dat de getroffen maatregelen buitengewone en zeer kostbare voorzieningen in de zin van de UAV-GC zijn en daarom moeten worden weggedacht, en bovendien dat niet met minder vergaande, niet-buitengewone en zeer kostbare voorzieningen kon worden volstaan.
 
