@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:457"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032002", "FutD 2026-0474", "NTFR 2026/530"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032002", "FutD 2026-0474", "NTFR 2026/530", "Belastingblad 2026/204 met annotatie van J.C. Scherff"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:907"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:994"]]
 ---
 
