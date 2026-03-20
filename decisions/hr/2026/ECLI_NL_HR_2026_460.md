@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:460"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032002", "FutD 2026-0474", "NTFR 2026/531"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032002", "FutD 2026-0474", "NTFR 2026/531", "Belastingblad 2026/177 met annotatie van R.T. Wiegerink"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:908"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:994"]]
 ---
 
