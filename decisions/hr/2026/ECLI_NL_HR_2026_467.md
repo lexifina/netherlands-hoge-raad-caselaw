@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:467"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/172"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2025:3970"]]
 ---
 
