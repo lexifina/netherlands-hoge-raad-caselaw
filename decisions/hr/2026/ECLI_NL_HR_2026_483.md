@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:483"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0108", "NJB 2026/707", "RvdW 2026/489"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0108", "NJB 2026/707", "RvdW 2026/489", "Gst. 2026/62 met annotatie van B. van der Vorm", "NJ 2026/224 met annotatie van N. Rozemond", "AB 2026/205 met annotatie van A.E. Schilder, J.G. Brouwer"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:45"]]
 ---
 
