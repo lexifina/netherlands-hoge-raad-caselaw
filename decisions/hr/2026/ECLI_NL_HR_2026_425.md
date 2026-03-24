@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:425"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0115", "RvdW 2026/494"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0115", "RvdW 2026/494", "NTFR 2026/929 met annotatie van mr. R.B.H. Beune", "NDFR Nieuws 2026/838"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2023:1968"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:76"]]
 ---
 
