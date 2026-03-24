@@ -8,7 +8,8 @@ published: "2026-03-19"
 type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:283"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0673 met annotatie van mr. R.W.J. Kerckhoffs"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1185"]]
 ---
 
 # ECLI:NL:PHR:2026:283 Parket bij de Hoge Raad , 24-03-2026 / 23/03848
