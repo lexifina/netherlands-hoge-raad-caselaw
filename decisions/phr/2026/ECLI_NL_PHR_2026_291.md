@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:291"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1183"]]
 ---
 
 # ECLI:NL:PHR:2026:291 Parket bij de Hoge Raad , 24-03-2026 / 25/00879
@@ -54,7 +55,7 @@ Er bestaat samenhang met de zaken 23/04981 en 24/04604. In beide zaken zal ik va
 
 1.3
 
-Namens het openbaar ministerie heeft [naam 1], advocaat-generaal bij het ressortsparket, twee middelen van cassatie voorgesteld.
+Namens het openbaar ministerie heeft [naam 1] , advocaat-generaal bij het ressortsparket, twee middelen van cassatie voorgesteld.
 
 2
 De zaak in het kort
