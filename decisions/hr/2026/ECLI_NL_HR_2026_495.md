@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:495"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/470", "Viditax (FutD) 2026032701", "V-N Vandaag 2026/568", "FutD 2026-0520", "Sdu Nieuws Belastingzaken 2026/446", "V-N 2026/15.4 met annotatie van Redactie", "NTFR 2026/600 met annotatie van mr. P.T. van Arnhem", "NJB 2026/716"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/470", "Viditax (FutD) 2026032701", "V-N Vandaag 2026/568", "FutD 2026-0520", "Sdu Nieuws Belastingzaken 2026/446", "V-N 2026/15.4 met annotatie van Redactie", "NTFR 2026/600 met annotatie van mr. P.T. van Arnhem", "NJB 2026/716", "BNB 2026/114 met annotatie van A.J.H. van Suilen", "FED 2026/82 met annotatie van D.M. Broekhuijsen"]
 relations: [["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:RBDHA:2025:10265"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1210"]]
 ---
 
