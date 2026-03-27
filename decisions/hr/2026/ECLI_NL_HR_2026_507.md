@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:507"
-published_in: ["Rechtspraak.nl", "NJB 2026/703", "RvdW 2026/484"]
+published_in: ["Rechtspraak.nl", "NJB 2026/703", "RvdW 2026/484", "JBPr 2026/38 met annotatie van mr. G.C.C. Lewin", "TvPP 2026/36, p.133 met annotatie van N.E. Kuijer"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1070"], ["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:5613"]]
 ---
 
