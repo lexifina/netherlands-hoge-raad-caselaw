@@ -8,7 +8,7 @@ published: "2026-04-02"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:356"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/611", "V-N Vandaag 2026/758", "CFN 2026/28 met annotatie van -"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/611", "V-N Vandaag 2026/758", "CFN 2026/28 met annotatie van -", "NTFR 2026/797 met annotatie van mr. F.A.C. den Ouden", "V-N 2026/21.15 met annotatie van Redactie", "NLF 2026/0780 met annotatie van mr. D.G. Barmentlo"]
 ---
 
 # ECLI:NL:PHR:2026:356 Parket bij de Hoge Raad , 27-03-2026 / 25/01499
