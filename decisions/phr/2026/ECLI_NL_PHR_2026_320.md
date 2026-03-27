@@ -8,7 +8,8 @@ published: "2026-03-26"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:320"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/560", "Viditax (FutD) 2026041303", "V-N Vandaag 2026/710", "FutD 2026-0669"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/560", "Viditax (FutD) 2026041303", "V-N Vandaag 2026/710", "FutD 2026-0669", "NTFR 2026/736 met annotatie van mr. B.S. Kats", "Belastingblad 2026/211", "V-N 2026/27.19 met annotatie van Redactie"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1629"]]
 ---
 
 # ECLI:NL:PHR:2026:320 Parket bij de Hoge Raad , 27-03-2026 / 25/00666; 25/00668; 25/00669; 25/00670; 25/00671; 25/00672; 25/00673; 25/00674; 25/00675; 25/00677; 25/00678; 25/00679; 25/00680; 25/00681; 25/00682; 25/00683; 25/00684
