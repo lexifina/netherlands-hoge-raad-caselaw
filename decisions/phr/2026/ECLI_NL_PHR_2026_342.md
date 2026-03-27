@@ -8,7 +8,7 @@ published: "2026-03-27"
 type: "conclusie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:342"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/561", "Viditax (FutD) 2026041306", "V-N Vandaag 2026/717", "FutD 2026-0668"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/561", "Viditax (FutD) 2026041306", "V-N Vandaag 2026/717", "FutD 2026-0668", "NTFR 2026/973 met annotatie van prof. mr. dr. J.B.O. Bijl", "V-N 2026/27.9 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:PHR:2026:342 Parket bij de Hoge Raad , 27-03-2026 / 24/03250
