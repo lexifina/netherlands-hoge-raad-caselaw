@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:522"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/471", "Viditax (FutD) 2026032705", "V-N Vandaag 2026/569", "FutD 2026-0527", "NTFR 2026/581 met annotatie van mr. M.L. Scholte", "V-N 2026/15.19 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/471", "Viditax (FutD) 2026032705", "V-N Vandaag 2026/569", "FutD 2026-0527", "NTFR 2026/581 met annotatie van mr. M.L. Scholte", "V-N 2026/15.19 met annotatie van Redactie", "FED 2026/96 met annotatie van R.M.P.G. Niessen-Cobben"]
 ---
 
 # ECLI:NL:HR:2026:522 Hoge Raad , 27-03-2026 / 25/03569
