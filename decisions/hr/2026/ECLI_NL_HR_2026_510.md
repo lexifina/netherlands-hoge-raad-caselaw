@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:510"
-published_in: ["Rechtspraak.nl", "NJB 2026/702", "RvdW 2026/481"]
+published_in: ["Rechtspraak.nl", "NJB 2026/702", "RvdW 2026/481", "NJ 2026/167 met annotatie van S.F.M. Wortmann", "JV 2026/106 met annotatie van mr. M.J. den Besten, mr. V. Kidjan", "JPF 2026/69 met annotatie van mr. E.N. Frohn"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:579"]]
 ---
 
