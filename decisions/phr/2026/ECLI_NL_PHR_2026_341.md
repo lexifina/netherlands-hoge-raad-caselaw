@@ -8,7 +8,8 @@ published: "2026-03-27"
 type: "conclusie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:341"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0076"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0076", "JPF 2026/119 met annotatie van mr. dr. H.J. Weijers"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1219"]]
 ---
 
 # ECLI:NL:PHR:2026:341 Parket bij de Hoge Raad , 27-03-2026 / 25/03398
