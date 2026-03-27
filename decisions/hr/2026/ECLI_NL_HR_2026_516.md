@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:516"
-published_in: ["Rechtspraak.nl", "NJB 2026/705", "BPR-Updates.nl 2026-0026", "RvdW 2026/482"]
+published_in: ["Rechtspraak.nl", "NJB 2026/705", "BPR-Updates.nl 2026-0026", "RvdW 2026/482", "NJ 2026/137", "JONDR 2026/347", "RN 2026/34", "OR-Updates.nl 2026-0097", "JOR 2026/121 met annotatie van mr. B.I. Kraaipoel"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1287"]]
 ---
 
