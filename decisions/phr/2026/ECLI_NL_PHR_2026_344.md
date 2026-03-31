@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:344"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:890"]]
 ---
 
 # ECLI:NL:PHR:2026:344 Parket bij de Hoge Raad , 31-03-2026 / 23/04790
@@ -287,9 +288,9 @@ D-327: In het SG-systeem is een e-mail van [verdachte] aan [getuige 3] aangetrof
 7
 E-mail van 29-09-2011, 16.27 uur
 
-Van BNP Paribas is ontvangen een e-mail van 29-09-2011, 16.27 uur, van [betrokkene 1] (BNP Paribas) aan [verdachte] . ( [e-mailadres 1] ) met als onderwerp: “trade confo”. Het betreft een aantal trades van elk € 200.000.000,-. In deze e-mail staat o.a. vermeld: “We have paid an introducer fee to Fifa-finance”. Deze e-mail is in “cc” tevens verzonden naar o.a. [medeverdachte 1] ( [e-mailadres 2] ).
+Van BNP Paribas is ontvangen een e-mail van 29-09-2011, 16.27 uur, van [betrokkene 1] (BNP Paribas) aan [verdachte] . ( [e-mailadres 1] ) met als onderwerp: “trade confo”. Het betreft een aantal trades van elk € 200.000.000,-. In deze e-mail staat o.a. vermeld: “We have paid an introducer fee to [A] ”. Deze e-mail is in “cc” tevens verzonden naar o.a. [medeverdachte 1] ( [e-mailadres 2] ).
 
-D-333: In het SG-systeem is een e-mail van [verdachte] aan [getuige 3] aangetroffen. Deze is verzonden op 30-09-2011, 12.08 uur. In deze e-mail is de eerder van [betrokkene 1] (29-09-2011, 16.28 uur) ontvangen e-mail opgenomen. Daarbij is de zinsnede: ‘we have paid an introducer fee to Fifa-finance” verwijderd. Ook is de regel: “cc: [e-mailadres 6] , [e-mailadres 5] ” verwijderd.
+D-333: In het SG-systeem is een e-mail van [verdachte] aan [getuige 3] aangetroffen. Deze is verzonden op 30-09-2011, 12.08 uur. In deze e-mail is de eerder van [betrokkene 1] (29-09-2011, 16.28 uur) ontvangen e-mail opgenomen. Daarbij is de zinsnede: ‘we have paid an introducer fee to [A] ” verwijderd. Ook is de regel: “cc: [e-mailadres 6] , [e-mailadres 5] ” verwijderd.
 
 CITI BANK
 
@@ -598,7 +599,7 @@ en/of dat/die voorwerp(en)/geldbedrag(en) voorhanden heeft/hebben gehad en/of he
 
 I
 
-door dit/die voorwerp(en)/geldbedrag(en) te laten overboeken/overmaken c.q. te ontvangen op een ABN AMRO inzake rekening 41.56.11.954 onder vermelding van “INVENTUS”, waarbij voor (een) derde(n) niet zichtbaar was/is dat hij, verdachte, de houder van deze inzake rekening was/is (zie: AH-016-l (a) en/of 1-AH-15 en/of 1- AH-023)
+door dit/die voorwerp(en)/geldbedrag(en) te laten overboeken/overmaken c.q. te ontvangen op een ABN AMRO inzake rekening 41.56.11.954 onder vermelding van “ [naam] ”, waarbij voor (een) derde(n) niet zichtbaar was/is dat hij, verdachte, de houder van deze inzake rekening was/is (zie: AH-016-l (a) en/of 1-AH-15 en/of 1- AH-023)
 
 en/of (vervolgens)
 
@@ -622,7 +623,7 @@ voorhanden heeft gehad en heeft verworven en heeft omgezet en heeft overgedragen
 
 I
 
-door die geldbedragen te ontvangen op een ABN AMRO inzake rekening 41.56.11.954 onder vermelding van “INVENTUS”,
+door die geldbedragen te ontvangen op een ABN AMRO inzake rekening 41.56.11.954 onder vermelding van “ [naam] ”,
 
 en
 
@@ -656,9 +657,9 @@ Ik heb geld uitgegeven aan wijnen. Ik schat zo rond de 800.000 euro. Ik heb geld
 
 Er heeft een doorzoeking plaatsgevonden op het adres [a-straat 1] , [postcode] te [plaats] , zijnde het vestigingsadres van [B] B.V., voorheen [E] B.V. Bij de doorzoeking zijn diverse mappen, inhoudende administratieve bescheiden, in beslag genomen. Daarbij bevonden zich dagafschriften van een aantal bankrekeningen, waaronder de RABO-rekening [rekeningnummer 8] (ten name van [C] / [D] / [A] ). Betreffende deze bankrekening zijn de dagafschriften over de periode 01-01-2004 t/m 31-12-2011 in beslag genomen.
 
-Aan de hand van deze dagafschriften is het proces-verbaal opgemaakt met daarin per jaar een tabel met daarin de ontvangen en betaalde bedragen. In totaal is door [medeverdachte 1] aan [verdachte] op de (Inventus-) [rekeningnummer 7] € 10.419.866,00 betaald.
+Aan de hand van deze dagafschriften is het proces-verbaal opgemaakt met daarin per jaar een tabel met daarin de ontvangen en betaalde bedragen. In totaal is door [medeverdachte 1] aan [verdachte] op de ( [naam] -) [rekeningnummer 7] € 10.419.866,00 betaald.
 
-Hierna geef ik een totaal overzicht van de Inventus bankrekening over de periode 2004 t/m 2010.
+Hierna geef ik een totaal overzicht van de [naam] bankrekening over de periode 2004 t/m 2010.
 
 (…)
 
@@ -702,7 +703,7 @@ Totaal
 
 Het hof heeft voorts ten aanzien van dit feit het volgende overwogen:
 
-“Met de rechtbank is het hof van oordeel dat de verdachte van het deel van de tenlastelegging, dat ziet op het verhullen dan wel verbergen door de verdachte van de criminele herkomst van het in de tenlastelegging genoemde geldbedrag, niet kan worden bewezen, nu de Inventus rekening, waarop de geldbedragen zijn gestort, op naam van de verdachte staat en aldus zichtbaar is voor derden wie de rekeninghouder is.
+“Met de rechtbank is het hof van oordeel dat de verdachte van het deel van de tenlastelegging, dat ziet op het verhullen dan wel verbergen door de verdachte van de criminele herkomst van het in de tenlastelegging genoemde geldbedrag, niet kan worden bewezen, nu de [naam] rekening, waarop de geldbedragen zijn gestort, op naam van de verdachte staat en aldus zichtbaar is voor derden wie de rekeninghouder is.
 
 Ook volgt het hof het oordeel van de rechtbank, dat de verdachte dient te worden ontslagen van rechtsvervolging voor zover de tenlastelegging ziet op het ontvangen en voorhanden hebben van het in de tenlastelegging genoemde geldbedrag, nu dit deel als zodanig geen witwashandeling oplevert.
 
@@ -732,7 +733,7 @@ De ter terechtzitting in hoger beroep van 18 september 2023 door de raadsvrouw v
 
 157. Deze gedraging is een sterke contra-indicatie dat cliënt de criminele herkomst van het geldbedrag heeft willen verbergen of verhullen. Waar in veel zaken aan verdachten verweten wordt dat zij criminele inkomsten uit het zicht van de overheid hebben willen houden, heeft cliënt exact het tegenovergestelde gedaan: hij heeft de overheid in feite elk jaar op de hoogte gehouden van zijn – later als crimineel aangemerkte – inkomsten.
 
-158. De rechtbank heeft nagelaten op dit (ook in eerste aanleg gevoerde) verweer te reageren of überhaupt in het vonnis gewag te maken van het feit dat een flink deel van het op de Inventus rekening gestorte geld naar de Belastingdienst is gegaan.
+158. De rechtbank heeft nagelaten op dit (ook in eerste aanleg gevoerde) verweer te reageren of überhaupt in het vonnis gewag te maken van het feit dat een flink deel van het op de [naam] rekening gestorte geld naar de Belastingdienst is gegaan.
 
 159. In dat kader wijst de verdediging uw hof nog op het volgende. Indien u van mening bent dat de uitgaven wel een verhullend karakter hadden en cliënt dus niet dient te worden ontslagen van alle rechtsvervolging, geldt dat het bedrag dat cliënt heeft uit gegeven aan de in de tenlastelegging genoemde zaken vele malen lager is dan de bewezenverklaarde € 7.457.171,83. Zoals eerder opgemerkt, wordt in l-AH-15 uitgewerkt waaraan cliënt de kleine € 7.5 miljoen heeft uitgegeven. Uit deze ambtshandeling kan worden opgemaakt dat cliënt van deze € 7.5 miljoen, een bedrag van € 4.284.047 aan de Belastingdienst heeft betaald. Het bedrag dat cliënt aan de in de tenlastelegging genoemde zaken heeft besteed (de verbouwing van de woning, de wijnen, de afbetaling van de hypotheek etc.) is dus € 3.173.124.83 en niet € 7.457.171,83. Nog los van het feit dat betalingen aan de Belastingdienst bezwaarlijk als verhullende witwashandelingen kunnen worden gekwalificeerd, is niet ten laste gelegd dat cliënt het geldbedrag zou hebben witgewassen door (een deel van) het bedrag aan de Belastingdienst te betalen.
 
@@ -748,7 +749,7 @@ Het proces-verbaal van de terechtzitting van 7 en 18 september  2023 houdt verde
 
 (…)
 
-U houdt mij de witwas verdenking voor. Ik heb de Inventus rekening als inzake rekening geopend op verzoek van [medeverdachte 1] . Ik heb vervolgens verschillende rekeningen gebruikt om rente te pakken. Ik heb veel belasting betaald. Ik heb alleen uitgaven gedaan die ik normaliter ook zou hebben gedaan, alleen zijn deze in kwantiteit meer geworden.
+U houdt mij de witwas verdenking voor. Ik heb de [naam] rekening als inzake rekening geopend op verzoek van [medeverdachte 1] . Ik heb vervolgens verschillende rekeningen gebruikt om rente te pakken. Ik heb veel belasting betaald. Ik heb alleen uitgaven gedaan die ik normaliter ook zou hebben gedaan, alleen zijn deze in kwantiteit meer geworden.
 
 Ik zie de ontvangen gelden niet als van misdrijf afkomstig. Ik heb er belasting over betaald en ik heb er slechts normale uitgaven van gedaan.
 
@@ -778,7 +779,7 @@ Het middel klaagt in de eerste plaats dat het oordeel van het hof dat het betale
 
 Het hof heeft bewezen verklaard dat de verdachte een bedrag van € 10.419.866,- voorhanden heeft gehad en heeft verworven en heeft omgezet en heeft overgedragen en daarvan gebruik heeft gemaakt door:
 
-I. dit geldbedrag te ontvangen op een aparte bankrekening onder vermelding van “INVENTUS” en
+I. dit geldbedrag te ontvangen op een aparte bankrekening onder vermelding van “ [naam] ” en
 
 II. met een gedeelte van dit geldbedrag (te weten: € 7.457.171,83) allerlei uitgaven te financieren, namelijk: de verbouwing en inrichting van zijn woning en tuin, de aankoop van wijnen en wijnbenodigdheden, kleding, geluids- en/of beeldapparatuur en de afbetaling van zijn hypotheek.
 
