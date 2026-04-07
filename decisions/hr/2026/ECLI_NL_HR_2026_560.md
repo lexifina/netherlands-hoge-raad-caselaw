@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:560"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0127", "NJB 2026/816"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0127", "NJB 2026/816", "RvdW 2026/543", "JIN 2026/81 met annotatie van mr. C. van Oort", "NTS 2026/24", "VR 2026/110"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:187"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:323"]]
 ---
 
