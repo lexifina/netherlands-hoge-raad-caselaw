@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:594"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0578", "VAAN-AR-Updates.nl 2026-0578"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0578", "VAAN-AR-Updates.nl 2026-0578", "RvdW 2026/522", "JAR 2026/124", "Prg. 2026/155", "RAR 2026/97", "TRA 2026/58 met annotatie van F.M. Dekker"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:157"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2025:1175"]]
 ---
 
