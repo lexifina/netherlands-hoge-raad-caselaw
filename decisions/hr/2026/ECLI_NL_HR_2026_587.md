@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:587"
-published_in: ["Rechtspraak.nl", "NJB 2026/813"]
+published_in: ["Rechtspraak.nl", "NJB 2026/813", "RvdW 2026/515", "WR 2026/69"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2025:410"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:115"]]
 ---
 
