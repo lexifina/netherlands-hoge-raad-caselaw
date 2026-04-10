@@ -8,7 +8,8 @@ published: "2026-04-09"
 type: "conclusie"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:382"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0090", "JPF 2026/130 met annotatie van mr. A.J.I. Mullenders"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1278"]]
 ---
 
 # ECLI:NL:PHR:2026:382 Parket bij de Hoge Raad , 10-04-2026 / 25/01295
