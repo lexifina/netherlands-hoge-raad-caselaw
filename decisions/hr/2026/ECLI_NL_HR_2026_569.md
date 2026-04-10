@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:569"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/690", "CFN 2026/25 met annotatie van -", "NDFR Nieuws 2026/563", "V-N 2026/17.24 met annotatie van Redactie", "NTFR 2026/695 met annotatie van mr. S.B. Noten"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/690", "CFN 2026/25 met annotatie van -", "NDFR Nieuws 2026/563", "V-N 2026/17.24 met annotatie van Redactie", "NTFR 2026/695 met annotatie van mr. S.B. Noten", "BNB 2026/91 met annotatie van A.J.H. van Suilen", "JOR 2026/181 met annotatie van prof. mr. A.J. Tekstra"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:850"]]
 ---
 
