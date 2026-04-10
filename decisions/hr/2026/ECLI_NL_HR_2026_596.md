@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:596"
-published_in: ["Rechtspraak.nl", "NJB 2026/809"]
+published_in: ["Rechtspraak.nl", "NJB 2026/809", "RvdW 2026/512", "RO 2026/38", "JOR 2026/153 met annotatie van prof. mr. M. Olaerts", "JONDR 2026/601", "Ondernemingsrecht 2026/84 met annotatie van A.F. Verdam"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:1412"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:999"]]
 ---
 
