@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:570"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041013", "V-N Vandaag 2026/692", "FutD 2026-0620", "NDFR Nieuws 2026/565", "NTFR 2026/696 met annotatie van L.J.V. Wall LLM MSc", "V-N 2026/18.16 met annotatie van Redactie"]
-relations: [["Formele relatie", "In sprongcassatie op: ECLI:NL:RBMNE:2025:7154"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041013", "V-N Vandaag 2026/692", "FutD 2026-0620", "NDFR Nieuws 2026/565", "NTFR 2026/696 met annotatie van L.J.V. Wall LLM MSc", "V-N 2026/18.16 met annotatie van Redactie", "NJB 2026/929", "BNB 2026/76", "Belastingblad 2026/225 met annotatie van J.M.J.F. Jansen"]
 ---
 
 # ECLI:NL:HR:2026:570 Hoge Raad , 10-04-2026 / 25/02834
