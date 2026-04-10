@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:592"
-published_in: ["Rechtspraak.nl", "NJB 2026/812"]
+published_in: ["Rechtspraak.nl", "NJB 2026/812", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/127", "RvdW 2026/514", "OR-Updates.nl 2026-0079", "JONDR 2026/432", "RO 2026/39", "JOR 2026/152 met annotatie van prof. mr. T. Salemink", "RN 2026/40", "AA20260726 met annotatie van Bartman S.M. Steef"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1334"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2025:280"]]
 ---
 
