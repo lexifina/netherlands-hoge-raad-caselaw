@@ -8,7 +8,8 @@ published: "2026-04-08"
 type: "conclusie"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:381"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0183", "JAR 2026/181", "Jurisprudentie HSE 2026/61"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:910"]]
 ---
 
 # ECLI:NL:PHR:2026:381 Parket bij de Hoge Raad , 10-04-2026 / 25/01537
