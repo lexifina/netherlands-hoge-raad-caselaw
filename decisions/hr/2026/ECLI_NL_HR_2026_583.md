@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:583"
-published_in: ["Rechtspraak.nl", "NJB 2026/814"]
+published_in: ["Rechtspraak.nl", "NJB 2026/814", "BPR-Updates.nl 2026-0028", "RvdW 2026/521", "GZR-Updates.nl 2026-0138", "JGz 2026/41 met annotatie van mr. I.H. Ploos van Amstel"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:119"]]
 ---
 
