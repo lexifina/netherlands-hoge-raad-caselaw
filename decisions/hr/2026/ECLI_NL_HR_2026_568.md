@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:568"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/559", "Viditax (FutD) 2026041002", "V-N Vandaag 2026/696", "Notamail 2026/85", "FutD 2026-0616", "Sdu Nieuws Belastingzaken 2026/496", "NTFR 2026/627 met annotatie van mr. D.C. Simonis", "V-N 2026/18.8 met annotatie van Redactie", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/112"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/559", "Viditax (FutD) 2026041002", "V-N Vandaag 2026/696", "Notamail 2026/85", "FutD 2026-0616", "Sdu Nieuws Belastingzaken 2026/496", "NTFR 2026/627 met annotatie van mr. D.C. Simonis", "V-N 2026/18.8 met annotatie van Redactie", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/112", "NJB 2026/928", "FED 2026/79 met annotatie van M.D.C. Gomes Vale Viga", "BNB 2026/105 met annotatie van J.P. Boer"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:904"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:3749"]]
 ---
 
