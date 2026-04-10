@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:571"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041008", "V-N Vandaag 2026/691", "Sdu Nieuws Belastingzaken 2026/486", "FutD 2026-0621", "NDFR Nieuws 2026/566", "NTFR 2026/697 met annotatie van mr. V.S. Huygen van Dyck-Jagersma", "V-N 2026/18.13 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041008", "V-N Vandaag 2026/691", "Sdu Nieuws Belastingzaken 2026/486", "FutD 2026-0621", "NDFR Nieuws 2026/566", "NTFR 2026/697 met annotatie van mr. V.S. Huygen van Dyck-Jagersma", "V-N 2026/18.13 met annotatie van Redactie", "NJB 2026/930", "BNB 2026/89 met annotatie van J.J. Vetter"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2022:4706"]]
 ---
 
