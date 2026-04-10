@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:552"
-published_in: ["Rechtspraak.nl", "NJB 2026/810"]
+published_in: ["Rechtspraak.nl", "NJB 2026/810", "NJ 2026/149", "RvdW 2026/516", "Prg. 2026/163", "WR 2026/85", "TvHB 2026/23, UDH:TvHB/57359 met annotatie van mr. K.J.M. (Kirsy) Corten"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:7133"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1404"]]
 ---
 
