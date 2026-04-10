@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:578"
-published_in: ["Rechtspraak.nl", "NJB 2026/811"]
+published_in: ["Rechtspraak.nl", "NJB 2026/811", "RvdW 2026/513", "RFR 2026/81", "NJ 2026/249 met annotatie van J. Legemaate", "JGz 2026/40 met annotatie van mr. dr. B.J.M. Frederiks"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:177"]]
 ---
 
