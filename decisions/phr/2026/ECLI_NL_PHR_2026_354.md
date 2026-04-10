@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:354"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:839"]]
 ---
 
 # ECLI:NL:PHR:2026:354 Parket bij de Hoge Raad , 10-04-2026 / 25/01954
@@ -41,7 +42,7 @@ tegen
 
 [koper-opdrachtgever] B.V.
 
-Partijen worden hierna verkort aangeduid als [verkoper] respectievelijk [koper-opdrachtgever].
+Partijen worden hierna verkort aangeduid als [verkoper] respectievelijk [koper-opdrachtgever] .
 
 1
 Inleiding en samenvatting
@@ -61,7 +62,7 @@ Feiten en procesverloop
 
 In cassatie kan van de volgende feiten worden uitgegaan:
 
-(i) [koper-opdrachtgever] heeft op 17 juni 2022 met [aannemer] B.V. (hierna: [aannemer]; [verkoper] en [aannemer] worden hierna gezamenlijk aangeduid als [verkoper en aannemer]) een koopovereenkomst voor bouwgrond gesloten. In die koopovereenkomst staat dat de levering zal plaatsvinden op 12 augustus 2022, of zoveel eerder of later als partijen nader zullen overeenkomen. Als ontbindende voorwaarde is in artikel 17 opgenomen dat [koper-opdrachtgever] de koopovereenkomst kan ontbinden uiterlijk op 29 juli 2022 als zij geen financiering voor de aankoop van het perceel bouwgrond kan krijgen.
+(i) [koper-opdrachtgever] heeft op 17 juni 2022 met [aannemer] B.V. (hierna: [aannemer] ; [verkoper] en [aannemer] worden hierna gezamenlijk aangeduid als [verkoper en aannemer] ) een koopovereenkomst voor bouwgrond gesloten. In die koopovereenkomst staat dat de levering zal plaatsvinden op 12 augustus 2022, of zoveel eerder of later als partijen nader zullen overeenkomen. Als ontbindende voorwaarde is in artikel 17 opgenomen dat [koper-opdrachtgever] de koopovereenkomst kan ontbinden uiterlijk op 29 juli 2022 als zij geen financiering voor de aankoop van het perceel bouwgrond kan krijgen.
 
 In artikel 16 lid 2, aanhef en sub b, van de koopovereenkomst staat:
 
@@ -89,7 +90,7 @@ In artikel 20 van de koopovereenkomst staat:
 
 2.2
 
-Bij inleidende dagvaarding van 23 december 2022 hebben [verkoper en aannemer] (dus [verkoper] én [aannemer]; hiervoor 2.1 onder i) betaling gevorderd van zowel de boete in de koopovereenkomst als die in de aannemingsovereenkomst (respectievelijk een bedrag van € 114.345 op grond van de koopovereenkomst (te betalen aan [aannemer]) en een bedrag van € 250.464,43 op grond van de aannemingsovereenkomst (te betalen aan [verkoper]).
+Bij inleidende dagvaarding van 23 december 2022 hebben [verkoper en aannemer] (dus [verkoper] én [aannemer] ; hiervoor 2.1 onder i) betaling gevorderd van zowel de boete in de koopovereenkomst als die in de aannemingsovereenkomst (respectievelijk een bedrag van € 114.345 op grond van de koopovereenkomst (te betalen aan [aannemer] ) en een bedrag van € 250.464,43 op grond van de aannemingsovereenkomst (te betalen aan [verkoper] ).
 
 2.3
 
@@ -103,9 +104,9 @@ a. [koper-opdrachtgever] was in beginsel verplicht de koopovereenkomst en de aan
 
 b. [aannemer] baseert haar vordering niet op nakoming. [aannemer] heeft op de juiste wijze en op goede gronden de ontbinding van de koopovereenkomst ingeroepen. Niet is betwist dat [aannemer] [koper-opdrachtgever] op de afgesproken wijze in gebreke heeft gesteld en dat [koper-opdrachtgever] vervolgens in verzuim is geraakt. Het hof ziet geen reden op grond waarvan zou moeten worden geoordeeld dat de vereiste schriftelijke verklaring voor het inroepen van de ontbinding niet in de vorm van een dagvaarding zou kunnen worden gedaan. Op basis van artikel 16 lid 2 sub b van de koopovereenkomst is [koper-opdrachtgever] een contractuele boete verschuldigd. (onder 3.20)
 
-c. De boete van artikel 8 van de aannemingsovereenkomst geldt alleen bij een ontbinding van deze overeenkomst door [koper-opdrachtgever]. (onder 3.21)
+c. De boete van artikel 8 van de aannemingsovereenkomst geldt alleen bij een ontbinding van deze overeenkomst door [koper-opdrachtgever] . (onder 3.21)
 
-d. [koper-opdrachtgever] heeft terecht betwist dat sprake is van een ontbinding als bedoeld in artikel 8 van de aannemingsovereenkomst. Uiteindelijk is de koopovereenkomst ontbonden door [aannemer]. Gelet op artikel 20 van de koopovereenkomst brengt dat ook de ontbinding van de aannemingsovereenkomst mee. Daardoor geldt dat de aannemingsovereenkomst geacht wordt te zijn ontbonden door [verkoper]. (onder 3.21)
+d. [koper-opdrachtgever] heeft terecht betwist dat sprake is van een ontbinding als bedoeld in artikel 8 van de aannemingsovereenkomst. Uiteindelijk is de koopovereenkomst ontbonden door [aannemer] . Gelet op artikel 20 van de koopovereenkomst brengt dat ook de ontbinding van de aannemingsovereenkomst mee. Daardoor geldt dat de aannemingsovereenkomst geacht wordt te zijn ontbonden door [verkoper] . (onder 3.21)
 
 e. Gelet op het voorgaande is niet voldaan aan de voorwaarde van artikel 8 van de aannemingsovereenkomst dat [koper-opdrachtgever] de aannemingsovereenkomst moet hebben ontbonden. Om die reden kan [verkoper] geen aanspraak maken op de contractuele boete van artikel 8 van de aannemingsovereenkomst. In zoverre slaagt het hoger beroep. (onder 3.21)
 
@@ -130,7 +131,7 @@ Het middel bestaat uit twee onderdelen, waarvan het tweede enkel voortbouwklacht
 
 Onderdeel 1 richt zich vanuit verschillende invalshoeken tegen rechtsoverweging 3.21 van het arrest van het hof. Die overweging luidt als volgt:
 
-‘3.21. Met betrekking tot de aannemingsovereenkomst oordeelt het hof anders. [koper-opdrachtgever] heeft in haar toelichting op grief 9 terecht betwist dat sprake is van een ontbinding als bedoeld in art. 8 van de aannemingsovereenkomst. Uit het voorgaande volgt dat [koper-opdrachtgever] de koopovereenkomst niet meer kon ontbinden. De aannemingsovereenkomst kan dus niet zijn ontbonden als gevolg van de ontbinding van de koopovereenkomst door [koper-opdrachtgever]. [verkoper en aannemer] stelt in punt 25 van de dagvaarding dat [koper-opdrachtgever] de aannemingsovereenkomst wenste te ontbinden en dat [koper-opdrachtgever] dit meermaals ondubbelzinnig te kennen heeft gegeven. Waar dat uit blijkt, stelt [verkoper en aannemer] echter niet. Uit de feitelijke gang van zaken blijkt juist dat [koper-opdrachtgever] nooit expliciet een beroep op ontbinding van de koopovereenkomst heeft gedaan en dat de aannemingsovereenkomst niet afzonderlijk ter sprake is gekomen. Uiteindelijk is de koopovereenkomst ontbonden door [aannemer]. Gelet op art. 20 van de koopovereenkomst brengt dat ook de ontbinding van de aannemingsovereenkomst mee. Daardoor geldt dat de aannemingsovereenkomst geacht wordt te zijn ontbonden door [verkoper]. De boete van art. 8 van de aannemingsovereenkomst geldt alleen bij een ontbinding van de aannemingsovereenkomst door [koper-opdrachtgever]. Aan die voorwaarde is niet voldaan en daarom kan [verkoper] geen aanspraak maken op de contractuele boete van de aannemingsovereenkomst. In zoverre slaagt het hoger beroep. Dat betekent dat voor toewijzing van de vordering van [verkoper] tot betaling van buitengerechtelijke kosten ook geen grondslag is. Ook op dat punt slaagt het hoger beroep.’
+‘3.21. Met betrekking tot de aannemingsovereenkomst oordeelt het hof anders. [koper-opdrachtgever] heeft in haar toelichting op grief 9 terecht betwist dat sprake is van een ontbinding als bedoeld in art. 8 van de aannemingsovereenkomst. Uit het voorgaande volgt dat [koper-opdrachtgever] de koopovereenkomst niet meer kon ontbinden. De aannemingsovereenkomst kan dus niet zijn ontbonden als gevolg van de ontbinding van de koopovereenkomst door [koper-opdrachtgever] . [verkoper en aannemer] stelt in punt 25 van de dagvaarding dat [koper-opdrachtgever] de aannemingsovereenkomst wenste te ontbinden en dat [koper-opdrachtgever] dit meermaals ondubbelzinnig te kennen heeft gegeven. Waar dat uit blijkt, stelt [verkoper en aannemer] echter niet. Uit de feitelijke gang van zaken blijkt juist dat [koper-opdrachtgever] nooit expliciet een beroep op ontbinding van de koopovereenkomst heeft gedaan en dat de aannemingsovereenkomst niet afzonderlijk ter sprake is gekomen. Uiteindelijk is de koopovereenkomst ontbonden door [aannemer] . Gelet op art. 20 van de koopovereenkomst brengt dat ook de ontbinding van de aannemingsovereenkomst mee. Daardoor geldt dat de aannemingsovereenkomst geacht wordt te zijn ontbonden door [verkoper] . De boete van art. 8 van de aannemingsovereenkomst geldt alleen bij een ontbinding van de aannemingsovereenkomst door [koper-opdrachtgever] . Aan die voorwaarde is niet voldaan en daarom kan [verkoper] geen aanspraak maken op de contractuele boete van de aannemingsovereenkomst. In zoverre slaagt het hoger beroep. Dat betekent dat voor toewijzing van de vordering van [verkoper] tot betaling van buitengerechtelijke kosten ook geen grondslag is. Ook op dat punt slaagt het hoger beroep.’
 
 3.4
 
@@ -162,7 +163,7 @@ De memorie van grieven van [koper-opdrachtgever] houdt bij grief 9 (in de Romein
 
 ‘Grief IX
 
-Ten onrechte heeft de rechtbank in randnummer 5.9 en 5.10 van het vonnis geoordeeld dat nu [koper-opdrachtgever] de aanneemovereenkomst heeft ontbonden, [koper-opdrachtgever] op grond van art. 8 van de aanneemovereenkomst een boete van 10% van de koopsom aan [verkoper en aannemer] ([verkoper]) verschuldigd is.
+Ten onrechte heeft de rechtbank in randnummer 5.9 en 5.10 van het vonnis geoordeeld dat nu [koper-opdrachtgever] de aanneemovereenkomst heeft ontbonden, [koper-opdrachtgever] op grond van art. 8 van de aanneemovereenkomst een boete van 10% van de koopsom aan [verkoper en aannemer] ( [verkoper] ) verschuldigd is.
 
 Toelichting:
 
@@ -182,7 +183,7 @@ De rechtbank is in deze niet te volgen. Geoordeeld wordt dat het twee verschille
 
 3.10
 
-Het hof heeft in grief 9 klaarblijkelijk gelezen dat volgens [koper-opdrachtgever] zich niet het geval heeft voorgedaan dat zij de aannemingsovereenkomst heeft ontbonden in de zin van het boetebeding van artikel 8 van die overeenkomst. Volgens [koper-opdrachtgever] ziet dat beding op het geval dat [koper-opdrachtgever], hoewel eigenaar geworden van de grond, de aannemingsovereenkomst ontbindt, met als gevolg dat [verkoper] de bouwopdracht misloopt. Dit zou volgens [koper-opdrachtgever] volgen uit het verband tussen beide overeenkomsten (kennelijk volgens artikel 20 van de koopovereenkomst). Volgens de uitleg die [koper-opdrachtgever] aan de aannemingsovereenkomst geeft, geldt in het geval dat levering van de bouwkavel achterwege blijft, dat de aannemingsovereenkomst vervalt. Vervolgens heeft het hof (zo lees ik zijn arrest) deze uitleg van de aannemingsovereenkomst als juist aanvaard – althans vanwege de aannemelijkheid van die uitleg aangenomen dat de juistheid van de uitleg die [verkoper] aan haar vordering ten grondslag had gelegd, niet was komen vast te staan – en in zoverre het hoger beroep gegrond geoordeeld.
+Het hof heeft in grief 9 klaarblijkelijk gelezen dat volgens [koper-opdrachtgever] zich niet het geval heeft voorgedaan dat zij de aannemingsovereenkomst heeft ontbonden in de zin van het boetebeding van artikel 8 van die overeenkomst. Volgens [koper-opdrachtgever] ziet dat beding op het geval dat [koper-opdrachtgever] , hoewel eigenaar geworden van de grond, de aannemingsovereenkomst ontbindt, met als gevolg dat [verkoper] de bouwopdracht misloopt. Dit zou volgens [koper-opdrachtgever] volgen uit het verband tussen beide overeenkomsten (kennelijk volgens artikel 20 van de koopovereenkomst). Volgens de uitleg die [koper-opdrachtgever] aan de aannemingsovereenkomst geeft, geldt in het geval dat levering van de bouwkavel achterwege blijft, dat de aannemingsovereenkomst vervalt. Vervolgens heeft het hof (zo lees ik zijn arrest) deze uitleg van de aannemingsovereenkomst als juist aanvaard – althans vanwege de aannemelijkheid van die uitleg aangenomen dat de juistheid van de uitleg die [verkoper] aan haar vordering ten grondslag had gelegd, niet was komen vast te staan – en in zoverre het hoger beroep gegrond geoordeeld.
 
 3.11
 
@@ -192,7 +193,7 @@ Mijns inziens is de door het hof aan de grieven van [koper-opdrachtgever] gegeve
 
 Uit de memorie van antwoord is af te leiden dat [verkoper en aannemer] in feitelijke aanleg het standpunt van [koper-opdrachtgever] ook ruimer hebben opgevat dan dat deze uitsluitend aanvoerde dat het financieringsvoorbehoud tijdig is ingeroepen en dáárom (ook) de boete van de aannemingsovereenkomst door [koper-opdrachtgever] niet verschuldigd is. Uit de reactie van [verkoper en aannemer] op grief 9 volgt namelijk dat [verkoper en aannemer] begrepen hadden dat [koper-opdrachtgever] niet alleen betoogde dat zij het financieringsvoorbehoud tijdig had ingeroepen, maar ook dat vanwege het verband tussen koop- en aannemingsovereenkomst het in strijd met de redelijkheid en billijkheid zou zijn als zij naast de boete uit de koopovereenkomst ook de boete uit de aannemingsovereenkomst verschuldigd zou zijn. Ik citeer de memorie van antwoord onder 23 (onderstreping toegevoegd):
 
-‘Volgens [koper-opdrachtgever], althans zo begrijpt [verkoper en aannemer] dit, volgt de aannemingsovereenkomst de koopovereenkomst en is het in strijd met de redelijkheid en billijkheid dat ook daarvoor een boete verschuldigd is. Dit standpunt kan niet gevolgd worden.’
+‘Volgens [koper-opdrachtgever] , althans zo begrijpt [verkoper en aannemer] dit, volgt de aannemingsovereenkomst de koopovereenkomst en is het in strijd met de redelijkheid en billijkheid dat ook daarvoor een boete verschuldigd is. Dit standpunt kan niet gevolgd worden.’
 
 Ook in dit licht is de uitleg die het hof aan de memorie van grieven van [koper-opdrachtgever] heeft gegeven, niet onbegrijpelijk en ook niet onvoldoende gemotiveerd.
 
@@ -206,7 +207,7 @@ Zoals gezegd, ik lees het arrest van het hof zo dat het hof de uitleg van [koper
 
 3.15
 
-Subonderdeel 1.2 betoogt dat het hof in strijd met art. 24 Rv het verweer van [koper-opdrachtgever] heeft aangevuld. Meer specifiek zou [koper-opdrachtgever] geen beroep hebben gedaan op (i) de ontbinding van de koopovereenkomst door [aannemer], (ii) op artikel 20 van de koopovereenkomst en (iii) op ontbinding van de aannemingsovereenkomst door [verkoper]. Daarmee zou het oordeel van het hof onjuist, althans onbegrijpelijk zijn.
+Subonderdeel 1.2 betoogt dat het hof in strijd met art. 24 Rv het verweer van [koper-opdrachtgever] heeft aangevuld. Meer specifiek zou [koper-opdrachtgever] geen beroep hebben gedaan op (i) de ontbinding van de koopovereenkomst door [aannemer] , (ii) op artikel 20 van de koopovereenkomst en (iii) op ontbinding van de aannemingsovereenkomst door [verkoper] . Daarmee zou het oordeel van het hof onjuist, althans onbegrijpelijk zijn.
 
 3.16
 
@@ -230,7 +231,7 @@ Subonderdeel 1.4 leest in rechtsoverweging 3.21 (‘Uit de feitelijke gang van z
 
 3.21
 
-De klacht mist feitelijke grondslag. De woorden ‘nooit expliciet’ zien op ontbinding van de koopovereenkomst. Ook met betrekking tot die overeenkomst klopt intussen niet dat het hof is uitgegaan van een opvatting volgens welke een beroep op ontbinding expliciet moet worden gedaan. Het hof heeft integendeel aan de hand van wat partijen hebben verklaard en de feitelijke gang van zaken afgeleid dat sprake was van een ontbinding van de koopovereenkomst door [aannemer]. In verband met de samenhang tussen beide overeenkomsten heeft het hof het geval dat zich voordeed vervolgens gelijkgesteld aan een ontbinding van de aannemingsovereenkomst door [verkoper]. Het geval dat in artikel 8 van de aannemingsovereenkomst was bedoeld, deed zich daarmee volgens het hof niet voor.
+De klacht mist feitelijke grondslag. De woorden ‘nooit expliciet’ zien op ontbinding van de koopovereenkomst. Ook met betrekking tot die overeenkomst klopt intussen niet dat het hof is uitgegaan van een opvatting volgens welke een beroep op ontbinding expliciet moet worden gedaan. Het hof heeft integendeel aan de hand van wat partijen hebben verklaard en de feitelijke gang van zaken afgeleid dat sprake was van een ontbinding van de koopovereenkomst door [aannemer] . In verband met de samenhang tussen beide overeenkomsten heeft het hof het geval dat zich voordeed vervolgens gelijkgesteld aan een ontbinding van de aannemingsovereenkomst door [verkoper] . Het geval dat in artikel 8 van de aannemingsovereenkomst was bedoeld, deed zich daarmee volgens het hof niet voor.
 
 3.22
 
@@ -250,11 +251,11 @@ De rechtsklacht moet falen omdat zij niet duidelijk maakt welke rechtsopvatting 
 
 3.24
 
-Intussen slagen ook de motiveringsklachten niet. Dat het hof de beide brieven niet afzonderlijk heeft besproken, levert geen motiveringsgebrek op. Zoals al blijkt uit de eigen weergave van [verkoper] van haar stellingen, heeft zij in beide brieven gelezen dat [koper-opdrachtgever] zich beriep op het financieringsvoorbehoud in de koopovereenkomst. Daarvan is ook het hof uitgegaan (maar volgens het hof was het beroep op dat voorbehoud te laat; ook dat is intussen conform het standpunt van [verkoper en aannemer]). De overige stellingen van [verkoper en aannemer] komen erop neer dat vanwege het verband tussen beide overeenkomsten het inroepen door [koper-opdrachtgever] van de ontbindende voorwaarde van het financieringsvoorbehoud in de koopovereenkomst betekende dat [koper-opdrachtgever] ook de aannemingsovereenkomst ontbond. Het hof heeft die stellingen gemotiveerd verworpen op grond van een andere uitleg van artikel 8 van de aannemingsovereenkomst.
+Intussen slagen ook de motiveringsklachten niet. Dat het hof de beide brieven niet afzonderlijk heeft besproken, levert geen motiveringsgebrek op. Zoals al blijkt uit de eigen weergave van [verkoper] van haar stellingen, heeft zij in beide brieven gelezen dat [koper-opdrachtgever] zich beriep op het financieringsvoorbehoud in de koopovereenkomst. Daarvan is ook het hof uitgegaan (maar volgens het hof was het beroep op dat voorbehoud te laat; ook dat is intussen conform het standpunt van [verkoper en aannemer] ). De overige stellingen van [verkoper en aannemer] komen erop neer dat vanwege het verband tussen beide overeenkomsten het inroepen door [koper-opdrachtgever] van de ontbindende voorwaarde van het financieringsvoorbehoud in de koopovereenkomst betekende dat [koper-opdrachtgever] ook de aannemingsovereenkomst ontbond. Het hof heeft die stellingen gemotiveerd verworpen op grond van een andere uitleg van artikel 8 van de aannemingsovereenkomst.
 
 3.25
 
-Ik merk nog op dat het nauwe verband tussen beide overeenkomsten zowel in de gedachtegang van [verkoper] als in die van [koper-opdrachtgever] en van het hof een rol speelt, maar met tegengestelde uitkomst. Ik veroorloof mij in dit verband de opmerking dat de gedachtegang van [verkoper] erop neerkomt dat een mislukt beroep van [koper-opdrachtgever] op de ontbindende voorwaarde in de koopovereenkomst (die dus níét leidt tot ontbinding van die overeenkomst) doortikt naar de samenhangende aannemingsovereenkomst als een (kennelijk wél geslaagde?) ontbinding van die overeenkomst door [koper-opdrachtgever]. De logica daarvan ontgaat mij. Intussen volstaat in cassatie dat het oordeel van het hof, als rechter die over de feiten oordeelt, niet onbegrijpelijk is.
+Ik merk nog op dat het nauwe verband tussen beide overeenkomsten zowel in de gedachtegang van [verkoper] als in die van [koper-opdrachtgever] en van het hof een rol speelt, maar met tegengestelde uitkomst. Ik veroorloof mij in dit verband de opmerking dat de gedachtegang van [verkoper] erop neerkomt dat een mislukt beroep van [koper-opdrachtgever] op de ontbindende voorwaarde in de koopovereenkomst (die dus níét leidt tot ontbinding van die overeenkomst) doortikt naar de samenhangende aannemingsovereenkomst als een (kennelijk wél geslaagde?) ontbinding van die overeenkomst door [koper-opdrachtgever] . De logica daarvan ontgaat mij. Intussen volstaat in cassatie dat het oordeel van het hof, als rechter die over de feiten oordeelt, niet onbegrijpelijk is.
 
 3.26
 
@@ -266,7 +267,7 @@ Volgens de eerste klacht heeft het hof een onbegrijpelijke uitleg gegeven aan de
 
 3.28
 
-Deze klacht faalt. Het hof heeft zich voor zijn uitleg van het boetebeding van artikel 8 van de aannemingsovereenkomst gebaseerd op de samenhang tussen beide overeenkomsten. Die uitleg bracht het hof ertoe om het geval dat zich voordoet ([koper-opdrachtgever] kan de koop niet financieren en wordt daardoor geen eigenaar van de grond, maar het beroep op de financieringsclausule is te laat en op die grond ontbindt [aannemer] de koopovereenkomst) gelijk te stellen aan het geval dat [verkoper] de aannemingsovereenkomst zou hebben ontbonden. Die op uitleg van de overeenkomst gebaseerde overwegingen behoren tot het domein van het hof als rechter die over de feiten oordeelt en zijn niet onbegrijpelijk. Het enkele feit dat eventueel een andere uitleg denkbaar zou zijn, maakt de door het hof gegeven uitleg nog niet onbegrijpelijk.
+Deze klacht faalt. Het hof heeft zich voor zijn uitleg van het boetebeding van artikel 8 van de aannemingsovereenkomst gebaseerd op de samenhang tussen beide overeenkomsten. Die uitleg bracht het hof ertoe om het geval dat zich voordoet ( [koper-opdrachtgever] kan de koop niet financieren en wordt daardoor geen eigenaar van de grond, maar het beroep op de financieringsclausule is te laat en op die grond ontbindt [aannemer] de koopovereenkomst) gelijk te stellen aan het geval dat [verkoper] de aannemingsovereenkomst zou hebben ontbonden. Die op uitleg van de overeenkomst gebaseerde overwegingen behoren tot het domein van het hof als rechter die over de feiten oordeelt en zijn niet onbegrijpelijk. Het enkele feit dat eventueel een andere uitleg denkbaar zou zijn, maakt de door het hof gegeven uitleg nog niet onbegrijpelijk.
 
 3.29
 
@@ -280,7 +281,7 @@ Deze bepaling wordt aangehaald in de feitenvaststelling van de rechtbank, maar i
 
 3.31
 
-Vervolgens klaagt het subonderdeel dat niet valt in te zien waarom de ontbinding van de koopovereenkomst automatisch leidt tot de ontbinding van een door een andere partij gesloten aannemingsovereenkomst. In ieder geval had het hof moeten motiveren waarom de ontbinding van de aannemingsovereenkomst in het licht van de feiten en omstandigheden werd toegerekend aan [verkoper] in plaats van aan [koper-opdrachtgever], aldus het middel.
+Vervolgens klaagt het subonderdeel dat niet valt in te zien waarom de ontbinding van de koopovereenkomst automatisch leidt tot de ontbinding van een door een andere partij gesloten aannemingsovereenkomst. In ieder geval had het hof moeten motiveren waarom de ontbinding van de aannemingsovereenkomst in het licht van de feiten en omstandigheden werd toegerekend aan [verkoper] in plaats van aan [koper-opdrachtgever] , aldus het middel.
 
 3.32
 
@@ -303,7 +304,7 @@ A-G
 
 Zie Hof Arnhem-Leeuwarden (locatie Arnhem) 25 februari 2025, ECLI:NL:GHARL:2025:1066, onder 3.2-3.7.
 
-In feitelijke aanleg waren [verkoper] en [aannemer] ([verkoper en aannemer] dus) beide procespartij in het geding tegen [koper-opdrachtgever]. [aannemer] is een gebieds- en vastgoedontwikkelaar. [verkoper] is een bouw- en aannemingsbedrijf. [aannemer] en [verkoper] zijn zustervennootschappen. Zij begeleiden en realiseren samen bouwprojecten vanaf de verkoop van een perceel tot en met de oplevering van een woning en/of bedrijfspand. Zie vonnis van rechtbank van 23 augustus 2023, onder 3.1. (opm. AG)
+In feitelijke aanleg waren [verkoper] en [aannemer] ( [verkoper en aannemer] dus) beide procespartij in het geding tegen [koper-opdrachtgever] . [aannemer] is een gebieds- en vastgoedontwikkelaar. [verkoper] is een bouw- en aannemingsbedrijf. [aannemer] en [verkoper] zijn zustervennootschappen. Zij begeleiden en realiseren samen bouwprojecten vanaf de verkoop van een perceel tot en met de oplevering van een woning en/of bedrijfspand. Zie vonnis van rechtbank van 23 augustus 2023, onder 3.1. (opm. AG)
 
 Rb. Overijssel (locatie Almelo) 23 augustus 2023, zaaknummer: C/08/291138 / HA ZA 23-37 (niet gepubliceerd).
 
