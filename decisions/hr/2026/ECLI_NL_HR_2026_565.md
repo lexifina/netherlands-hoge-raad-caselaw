@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:565"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041007", "V-N Vandaag 2026/702", "FutD 2026-0623", "NDFR Nieuws 2026/567", "NTFR 2026/671", "V-N 2026/18.18.9"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041007", "V-N Vandaag 2026/702", "FutD 2026-0623", "NDFR Nieuws 2026/567", "NTFR 2026/671", "V-N 2026/18.18.9", "NLF 2026/0703 met annotatie van mr. dr. B.M.M. Didden"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2025:1998"]]
 ---
 
