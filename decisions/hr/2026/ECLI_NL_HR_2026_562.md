@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Herziening"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:562"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0142"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0142", "NJB 2026/864", "RvdW 2026/578"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1194"], ["Formele relatie", "Aanvraag tot herziening van: ECLI:NL:RBNNE:2017:2948"]]
 ---
 
