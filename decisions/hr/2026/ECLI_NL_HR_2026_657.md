@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:657"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RvdW 2026/560"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:73"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2023:2851"]]
 ---
 
