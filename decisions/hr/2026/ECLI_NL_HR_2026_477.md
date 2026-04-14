@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:477"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0143"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0143", "NJB 2026/865", "RvdW 2026/558", "NTS 2026/34", "NJ 2026/196 met annotatie van J. Bijlsma"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:134"], ["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2024:4051"]]
 ---
 
