@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:635"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0134"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:142"]]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0134", "NJB 2026/863", "RvdW 2026/559", "NJ 2026/163", "NTS 2026/28"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:705"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:142"]]
 ---
 
 # ECLI:NL:HR:2026:635 Hoge Raad , 14-04-2026 / 24/01557
