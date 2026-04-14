@@ -9,6 +9,7 @@ type: "conclusie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:392"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1007"]]
 ---
 
 # ECLI:NL:PHR:2026:392 Parket bij de Hoge Raad , 14-04-2026 / 25/03511
@@ -69,11 +70,11 @@ Chronologisch is de zaak – voor zover daarvan blijkt uit de in cassatie ter be
 
 2.2
 
-Het Functioneel Parket in Amsterdam en de Fiscale Inlichtingen- en Opsporingsdienst (FIOD) zijn een strafrechtelijk onderzoek gestart onder de naam ‘Chalton’. Het gaat om een verdenking van niet-ambtelijke omkoping, valsheid in geschrift en witwassen in de periode van 1 juni 2022 tot en met 31 december 2023. [A] BV (hierna: [A] ) en (middellijk) bestuurder [betrokkene 1] worden ervan verdacht contracten te hebben afgesloten met het Centraal Orgaan opvang Asielzoekers (hierna: COA) voor het bemiddelen in tijdelijke opvanglocaties voor asielzoekers tussen het COA en de [B] van het [klager] -concern. Verdachte [betrokkene 2] zou hierbij middels zijn bedrijf [C] B.V., eveneens verdachte, de contactpersoon namens de [B] zijn geweest.
+Het Functioneel Parket in Amsterdam en de Fiscale Inlichtingen- en Opsporingsdienst (FIOD) zijn een strafrechtelijk onderzoek gestart onder de naam ‘Chalton’. Het gaat om een verdenking van niet-ambtelijke omkoping, valsheid in geschrift en witwassen in de periode van 1 juni 2022 tot en met 31 december 2023. [A] BV (hierna: [A] ) en (middellijk) bestuurder [betrokkene 1] worden ervan verdacht contracten te hebben afgesloten met het Centraal Orgaan opvang Asielzoekers (hierna: COA) voor het bemiddelen in tijdelijke opvanglocaties voor asielzoekers tussen het COA en de [B] van het [klager] -concern. Verdachte [klager] zou hierbij middels zijn bedrijf [medeklaagster] B.V., eveneens verdachte, de contactpersoon namens de [B] zijn geweest.
 
 2.3
 
-Op 20 juni 2024 heeft onder leiding van de rechter-commissaris een doorzoeking plaatsgevonden in onder andere de woning van [betrokkene 1] . Tijdens die doorzoeking heeft de rechter-commissaris een stuk, te weten een samenwerkingsovereenkomst tussen [A] en [C] van 4 november 2022, onder zich genomen om te beoordelen of daarop mogelijk een verschoningsrecht rust. De samenwerkingsovereenkomst is opgesteld door advocaten van het advocatenkantoor [D] .
+Op 20 juni 2024 heeft onder leiding van de rechter-commissaris een doorzoeking plaatsgevonden in onder andere de woning van [betrokkene 1] . Tijdens die doorzoeking heeft de rechter-commissaris een stuk, te weten een samenwerkingsovereenkomst tussen [A] en [medeklaagster] van 4 november 2022, onder zich genomen om te beoordelen of daarop mogelijk een verschoningsrecht rust. De samenwerkingsovereenkomst is opgesteld door advocaten van het advocatenkantoor [D] .
 
 2.4
 
@@ -101,7 +102,7 @@ De rechtbank heeft in de bestreden beschikking hetgeen door de partijen is aange
 
 “Standpunt van klager
 
-De samenwerkingsovereenkomst valt onder het verschoningsrecht van [D] , nu deze door [D] is opgesteld voor haar cliënten. [D] trad op voor [A] , maar had ook een advocaat-cliënt-relatie met [C] en [klager] .
+De samenwerkingsovereenkomst valt onder het verschoningsrecht van [D] , nu deze door [D] is opgesteld voor haar cliënten. [D] trad op voor [A] , maar had ook een advocaat-cliënt-relatie met [medeklaagster] en [klager] .
 
 De door de rechter-commissaris aangelegde maatstaf bij de filtering is te beperkt.
 
@@ -123,13 +124,13 @@ De rechtbank heeft de klager niet-ontvankelijk verklaard in het beklag en heeft 
 
 “Beoordeling
 
-Bij de doorzoeking in het strafrechtelijk onderzoek Chalton zijn documenten in beslag genomen. Deze doorzoeking heeft plaatsgevonden bij [betrokkene 1] . Hij is de beslagene. De rechter-commissaris heeft vervolgens de in beslag genomen geschriften gefilterd op geheimhouderstukken. Hieruit kwam de onderhavige samenwerkingsovereenkomst naar voren. In deze overeenkomst staat [C] genoemd. [C] en [klager] zijn geen beslagenen maar zijn wel als verdachten in het onderzoek Chalton aangemerkt.
+Bij de doorzoeking in het strafrechtelijk onderzoek Chalton zijn documenten in beslag genomen. Deze doorzoeking heeft plaatsgevonden bij [betrokkene 1] . Hij is de beslagene. De rechter-commissaris heeft vervolgens de in beslag genomen geschriften gefilterd op geheimhouderstukken. Hieruit kwam de onderhavige samenwerkingsovereenkomst naar voren. In deze overeenkomst staat [medeklaagster] genoemd. [medeklaagster] en [klager] zijn geen beslagenen maar zijn wel als verdachten in het onderzoek Chalton aangemerkt.
 
 De aard van de hier aan de orde zijnde bevoegdheid tot verschoning brengt mee dat het oordeel omtrent de vraag of een geschrift object van de bevoegdheid tot verschoning uitmaakt, in beginsel toekomt aan de tot verschoning bevoegde persoon.
 
 Ten aanzien van de samenwerkingsovereenkomst is de rechtbank van oordeel dat die onder het verschoningsrecht van [D] valt, als opsteller van de overeenkomst.
 
-[C] en [klager] zijn geen verschoningsgerechtigden.
+[medeklaagster] en [klager] zijn geen verschoningsgerechtigden.
 
 Gelet op het feit dat zij wel als verdachten zijn aangemerkt in dit strafrechtelijk onderzoek zal de rechtbank klager als belanghebbende in deze procedure zien.
 
