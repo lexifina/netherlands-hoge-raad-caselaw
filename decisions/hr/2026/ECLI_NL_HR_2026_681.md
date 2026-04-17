@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:681"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0091", "NJB 2026/860", "RvdW 2026/554", "JPF 2026/72 met annotatie van mr. H.J. Weijers", "RFR 2026/78", "BPR-Updates.nl 2026-0032"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:46"], ["Formele relatie", "In cassatie op : ECLI:NL:GHAMS:2025:525"]]
 ---
 
