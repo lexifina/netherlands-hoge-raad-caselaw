@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:680"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJB 2026/858", "ERF-Updates.nl 2026-0259", "VEAN-ERF-Updates.nl 2026-0259", "RvdW 2026/547", "NJ 2026/160", "JERF Actueel 2026/118", "JERF 2026/117"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1128"]]
 ---
 
