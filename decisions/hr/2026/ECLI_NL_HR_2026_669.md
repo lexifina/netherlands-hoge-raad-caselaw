@@ -1,0 +1,156 @@
+---
+ecli: "ECLI:NL:HR:2026:669"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "25/00767"
+decided: "2026-04-17"
+published: "2026-04-16"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:669"
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/612", "Viditax (FutD) 2026041713", "V-N Vandaag 2026/752", "FutD 2026-0663", "Sdu Nieuws Belastingzaken 2026/525", "NTFR 2026/681 met annotatie van mr. H.A.S. Roozeboom", "V-N 2026/18.7 met annotatie van Redactie"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:785"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2025:956"]]
+---
+
+# ECLI:NL:HR:2026:669 Hoge Raad , 17-04-2026 / 25/00767
+
+## Inhoudsindicatie
+
+Erfbelasting; artikel 1a, lid 4, SW 1956 (tekst tot 1 januari 2021); artikel 32, lid 1, onderdeel 4°, letter a, SW 1956; artikel 128 Overgangswet nieuw Burgerlijk Wetboek.
+
+Partnervrijstelling voor kind dat mantelzorg verleent na het vervallen van de Wet maatschappelijke ondersteuning? Strijd met artikel 1 EP of artikel 14 EVRM?
+
+Beroep op legitieme portie in nalatenschap die is opengevallen onder het oude erfrecht. Invloed op omvang van de nalatenschap van de langstlevende ouder.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+BELASTINGKAMER
+
+Nummer 25/00767
+
+Datum	17 april 2026
+
+ARREST
+
+in de zaak van
+
+[X] (hierna: belanghebbende)
+
+tegen
+
+de STAATSSECRETARIS VAN FINANCIËN
+
+op het beroep in cassatie tegen de uitspraak van het Gerechtshof Den Haag van 21 januari 2025, nr. BK-23/728, op het hoger beroep van belanghebbende tegen een uitspraak van de Rechtbank Den Haag (nr. SGR 22/2882) betreffende een aanslag in de erfbelasting.
+
+1
+Geding in cassatie
+
+Belanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld. Het beroepschrift in cassatie is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De Staatssecretaris, vertegenwoordigd door [P], heeft een verweerschrift ingediend.
+
+Belanghebbende heeft een conclusie van repliek ingediend.
+
+De Advocaat-Generaal R.J. Koopman heeft op 11 juli 2025 geconcludeerd tot ongegrondverklaring van het beroep in cassatie.
+
+Belanghebbende heeft schriftelijk op de conclusie gereageerd.
+
+2
+Uitgangspunten in cassatie
+
+2.1
+
+[B] (hierna: erflater) is overleden op [datum] 1995. Zijn echtgenote [A] (hierna: erflaatster) is op [datum] 2019 overleden. Zij waren gehuwd in algehele gemeenschap van goederen en hadden twee kinderen: belanghebbende en zijn broer.
+
+2.2
+
+Bij testament heeft erflater over zijn nalatenschap beschikt en erflaatster tot zijn enig erfgenaam benoemd. Belanghebbende en zijn broer hebben een beroep gedaan op hun legitieme portie in de nalatenschap van erflater. Hun legitieme porties bedragen tezamen 4/9e deel van de nalatenschap van erflater. Tot die nalatenschap behoorde onder meer het aandeel van erflater in de echtelijke woning (hierna: de woning).
+
+2.3
+
+Erflaatster woonde tot haar overlijden samen met belanghebbende in de woning, die na het overlijden van erflater en ook nog ten tijde van haar overlijden op naam van erflater stond.
+
+2.4
+
+Belanghebbende en zijn broer zijn de erfgenamen van erflaatster, ieder voor de helft.
+
+2.5
+
+Bij de vaststelling van de aan belanghebbende opgelegde aanslag in de erfbelasting is de Inspecteur ervan uitgegaan dat, in verband met het beroep van belanghebbende en zijn broer op de legitieme portie in de nalatenschap van erflater, op de nalatenschap van erflaatster een “schuldig gebleven erfdeel” in mindering komt. Bij uitspraak op bezwaar heeft de Inspecteur de waarde van die schuld nader vastgesteld op € 73.446 inclusief rente.
+
+2.6
+
+Verder is de Inspecteur bij het vaststellen van de aanslag ervan uitgegaan dat belanghebbende als zoon van erflaatster geen aanspraak kan maken op de partnervrijstelling van artikel 32, lid 1, onderdeel 4°, letter a, van de Successiewet 1956 (tekst 2019; hierna: de SW).
+
+3
+De oordelen van het Hof
+
+3.1.1	Voor het Hof was in de eerste plaats in geschil of, en zo ja voor welke waarde, een “schuldig gebleven erfdeel” uit de nalatenschap van erflater in aanmerking moet worden genomen bij het bepalen van de omvang van de verkrijging van belanghebbende in de nalatenschap van erflaatster. Belanghebbende stelt zich daartoe in de eerste plaats op het standpunt dat hij en zijn broer door het inroepen van de legitieme portie inzake de nalatenschap van erflater een vorderingsrecht op erflaatster hebben verkregen wegens overbedeling van erflaatster, en dat over die vorderingen rente moet worden berekend. Bovendien is belanghebbende van mening dat de Inspecteur is uitgegaan van een te geringe waarde van die vordering (voor oprenting). Volgens belanghebbende moet namelijk worden uitgegaan van een hogere waarde van de voormalige echtelijke woning op de sterfdatum van erflater. De Inspecteur had volgens hem om die beide redenen een hoger bedrag aan schuldig gebleven erfdeel in mindering moeten brengen bij de berekening van de omvang van de nalatenschap van erflaatster.
+
+3.1.2	In hoger beroep heeft de Inspecteur daartegenover – in afwijking van zijn eerdere standpunt in deze zaak – betoogd dat het beroep op de legitieme portie niet heeft geleid tot een vordering op erflaatster maar tot een goederenrechtelijke aanspraak van belanghebbende en zijn broer in de nalatenschap van erflater. Bovendien kan volgens hem geen sprake zijn van een schuldig gebleven erfdeel omdat belanghebbende al die jaren in een onverdeeldheid verkeerde met zijn moeder en zijn broer. Doordat geen verdeling van de nalatenschap van erflater heeft plaatsgevonden, kunnen geen vorderingen en schulden wegens verdeling zijn ontstaan, aldus de Inspecteur. Volgens de Inspecteur is de aanslag daarom te laag vastgesteld doordat daarin per abuis is uitgegaan van een vordering en daarover rente is berekend. Een (verdere) verlaging van de aanslag is daarom zijns inziens niet aan de orde. Belanghebbende heeft in reactie daarop betoogd dat de Inspecteur in de bezwaarfase en bij de Rechtbank ervan is uitgegaan dat sprake is van een “schuldig gebleven erfdeel” en dat hij daarvan op grond van het vertrouwensbeginsel niet kan terugkomen.
+
+3.1.3	Voor het Hof was in de tweede plaats in geschil of de hiervoor in 2.6 genoemde partnervrijstelling (hierna: de partnervrijstelling) van toepassing is op de verkrijging van belanghebbende uit de nalatenschap van erflaatster. Volgens belanghebbende moet hij worden geacht te voldoen aan de toen geldende definitie van partner in artikel 1a van de SW, in het bijzonder aan de in lid 4 (oud) van deze bepaling bedoelde verzachting voor mantelzorgers.
+
+3.2.1 	Met betrekking tot de omvang van de erfrechtelijke verkrijging door belanghebbende heeft het Hof overwogen dat erflater in zijn testament een ouderlijke boedelverdeling heeft gemaakt ten behoeve van erflaatster. Belanghebbende en zijn broer zijn naar het oordeel van het Hof op grond van het hier toepasselijke erfrecht, dat gold tot 1 januari 2003, vanwege hun beroep op de legitieme portie erfgenamen geworden in de nalatenschap van erflater. Zij kregen daardoor aanspraak op de goederen van de nalatenschap (een goederenrechtelijke aanspraak) en niet een vorderingsrecht op het vermogen van erflater. De stelling van belanghebbende dat hij door het inroepen van de legitieme portie een vorderingsrecht op erflaatster zou hebben gekregen wegens overbedeling, en dat over die vordering rente zou moeten worden berekend, is daarom naar het oordeel van het Hof niet juist.
+
+3.2.2	Verder heeft het Hof geoordeeld dat de nalatenschap van erflater niet is verdeeld. Het heeft bovendien geoordeeld dat de goederenrechtelijke aanspraak van belanghebbende en zijn broer tijdens het leven van erflaatster niet is uitgeoefend, en dat daarom die aanspraak ten tijde van het overlijden van erflaatster in 2019, gelet op artikel 128 van de Overgangswet nieuw Burgerlijk Wetboek (hierna: Overgangswet NBW), was uitgewerkt.
+
+3.2.3	Het Hof heeft belanghebbendes beroep op door de Inspecteur gewekt vertrouwen verworpen. De Inspecteur is bij het vaststellen van de aanslag en ook bij de uitspraak op bezwaar weliswaar belanghebbende gevolgd in zijn standpunt dat sprake was van de door belanghebbende gestelde overbedelingsvordering, maar beide partijen kunnen volgens het Hof in hoger beroep hun standpunt wijzigen, mits zij daarbij niet in strijd handelen met de goede procesorde. Van strijd met een goede procesorde is in dit geval geen sprake, aldus het Hof.
+
+3.2.4	Het Hof is gelet op het voorgaande niet toegekomen aan de stelling van belanghebbende dat het vorderingsrecht op een hoger bedrag moet worden gewaardeerd vanwege een hogere waarde van de woning op de sterfdatum van erflater.
+
+3.2.5	Het Hof heeft een eigen berekening van de omvang van de nalatenschap van erflaatster gemaakt. Daarbij heeft het, in overeenstemming met het verweerschrift van de Inspecteur, rekening gehouden met de legitieme portie van belanghebbende en zijn broer van in totaal 4/9e in de nalatenschap van erflater. Het Hof is ervan uitgegaan dat belanghebbende en zijn broer daarom door het overlijden van erflater gerechtigd werden tot 4/9e deel van de helft van de woning die op grond van huwelijksvermogensrecht aan erflater toebehoorde. Bij zijn berekening van de omvang van de nalatenschap van erflaatster heeft het Hof daarom de waarde van de woning, als onderdeel van die nalatenschap, verminderd met de helft van 4/9e. Dat komt neer op een vermindering met € 65.555. Op grond van deze eigen berekening komt het Hof tot de slotsom dat de aanslag bij de uitspraak op bezwaar eerder te laag dan te hoog is vastgesteld. Aangezien de Inspecteur de aanslag in beroep en hoger beroep niet hoger mag vaststellen dan deze bij uitspraak op bezwaar is vastgesteld, blijft het hiervoor in 3.1.2 vermelde nadere standpunt van de Inspecteur in hoger beroep zonder gevolg voor de hoogte van de aanslag. Als gevolg hiervan is belanghebbende door dat nadere standpunt niet benadeeld, aldus het Hof.
+
+3.3.1 	Het Hof heeft het beroep van belanghebbende op toepassing van de partnervrijstelling verworpen.
+
+3.3.2 	Gelet op de tekst van artikel 1a, lid 4 (oud), van de SW en de wetsgeschiedenis heeft het Hof geoordeeld dat de aanslag niet in strijd met de wet is vastgesteld.
+
+3.3.3	Het Hof heeft deze uitkomst naar nationaal recht vervolgens getoetst aan artikel 14 van het EVRM, waarop belanghebbende zich beroept. Dit beroep slaagt volgens het Hof niet.
+
+4
+Beoordeling van de klachten
+
+4.1.1 	De eerste klacht richt zich tegen de hiervoor in 3.2 vermelde oordelen van het Hof. De klacht betoogt dat de erfenis van erflater destijds wel is verdeeld. Verder houdt de klacht in dat (i) de waarde van de goederenrechtelijke aanspraak op het tijdstip van overlijden van erflater (voor oprenting) op een hoger bedrag dient te worden gesteld wegens een hogere waarde van de woning dan waarvan de Inspecteur is uitgegaan, en (ii) daarover bovendien rente dient te worden berekend tot het tijdstip van overlijden van erflaatster. Ook betoogt deze klacht dat de Inspecteur in de procedure aanvankelijk is meegegaan in het standpunt van belanghebbende.
+
+4.1.2	Met betrekking tot de hiervoor in 4.1.1 onder (ii) genoemde klacht dat oprenting had moeten plaatsvinden, overweegt de Hoge Raad als volgt. Het Hof is bij zijn oordelen uitgegaan van de hiervoor in 2.1 en 2.2 vermelde – in cassatie onbestreden – feiten en heeft op grond daarvan terecht aangenomen dat belanghebbende en zijn broer door het inroepen van de legitieme portie op grond van het hier toepasselijke erfrecht dat gold tot 1 januari 2003 een goederenrechtelijke aanspraak hebben gekregen en niet een vorderingsrecht op erflaatster. Het Hof heeft eveneens aangenomen dat, aangezien de nalatenschap van erflater niet is verdeeld, belanghebbende geen vorderingsrecht op erflaatster wegens overbedeling heeft verkregen en dat dus geen rente daarover behoort te worden berekend. Dit oordeel geeft niet blijk van een onjuiste rechtsopvatting en is naar behoren gemotiveerd. Gelet op dit een en ander faalt de klacht dat oprenting had moeten plaatsvinden.
+
+4.1.3	Het hiervoor in 3.2.1 vermelde oordeel van het Hof dat erflater in zijn testament een ouderlijke boedelverdeling heeft gemaakt ten behoeve van erflaatster, kan hieraan niet afdoen. Bij een ouderlijke boedelverdeling had wel een vordering van de kinderen op erflaatster kunnen ontstaan, wat onverenigbaar zou zijn met de hiervoor in 3.2.1 vermelde oordelen van het Hof. De gedingstukken laten echter geen andere conclusie toe dan dat erflaatster in dat testament tot enige erfgenaam was benoemd, zodat door het overlijden van erflater naar de bedoeling van het testament geen te verdelen gemeenschap ontstond. Het oordeel van het Hof dat in het testament van erflater een ouderlijke boedelverdeling is gemaakt, is dan ook onjuist.
+
+4.1.4	De hiervoor in 4.1.1 onder (i) vermelde klacht van belanghebbende dat de Inspecteur is uitgegaan van een te lage waarde van de woning ten tijde van het overlijden van erflater, en daarmee van een te lage waarde van de schuld wegens “schuldig gebleven erfdeel” voor oprenting, behoeft geen behandeling. Zoals hiervoor in 4.1.2 is overwogen, heeft het beroep op de legitieme portie geleid tot een goederenrechtelijke aanspraak van belanghebbende en zijn broer, en niet tot een schuld van erflaatster. Een schuld van erflaatster had wel kunnen ontstaan bij een latere verdeling van de nalatenschap van erflater, maar het Hof heeft, zoals hiervoor in 3.2.2 vermeld, geoordeeld dat de nalatenschap van erflater niet is verdeeld. Zoals hiervoor in 4.1.2 is overwogen, houdt dat oordeel in cassatie stand. Gelet op dit een en ander is voor de bepaling van de omvang van de nalatenschap van erflaatster niet van belang wat de waarde zou zijn van een dergelijke schuld.
+
+4.1.5	In plaats daarvan dient bij de vaststelling van de omvang van die nalatenschap rekening te worden gehouden met de goederenrechtelijke aanspraak van belanghebbende en zijn broer als legitimarissen, die met betrekking tot de woning inhield dat zij als gevolg van het overlijden van erflater deelgenoten zijn geworden in de tot zijn nalatenschap behorende gerechtigdheid van erflater tot die woning. Zij waren dat ook nog ten tijde van het overlijden van erflaatster, aangezien in cassatie ervan moet worden uitgegaan dat de nalatenschap van erflater op dat moment nog niet was verdeeld (zie hiervoor in 4.1.2). Daarvan uitgaande heeft het Hof bij de vaststelling van de omvang van de nalatenschap van erflaatster op de juiste wijze rekening gehouden met de goederenrechtelijke aanspraak van belanghebbende en zijn broer, door via een berekening zoals hiervoor in 3.2.5 beschreven een bedrag van € 65.555 in mindering te brengen op de waarde van de woning ten tijde van het overlijden van erflaatster. In cassatie is de uitspraak van het Hof in zoverre dan ook terecht niet bestreden.
+
+4.1.6	Hierbij verdient nog opmerking dat wat hiervoor in 4.1.5 is overwogen niet anders wordt doordat het Hof tevens heeft geoordeeld dat de goederenrechtelijke aanspraak van belanghebbende en zijn broer in de nalatenschap van erflater ten tijde van het overlijden van erflaatster in 2019 was uitgewerkt. Dat oordeel berust op een onjuiste rechtsopvatting. Artikel 128 van de Overgangswet NBW brengt voor nalatenschappen die zijn opengevallen voor 1 januari 2003 mee dat de legitimaris zijn onder het oude erfrecht ontstane bevoegdheid ook nog kan blijven uitoefenen nadat het nieuwe erfrecht op die datum in werking is getreden. Daartoe dient hij binnen de in het tweede lid van die bepaling genoemde termijn een verklaring af te leggen die inhoudt dat hij zijn legitieme portie wenst te ontvangen. Daarvoor is niet vereist dat de legitimaris binnen die termijn zijn legitieme portie ook daadwerkelijk opeist, bijvoorbeeld door het vorderen van verdeling van de nalatenschap. Nadat belanghebbende en zijn broer door het inroepen van hun legitieme portie in de nalatenschap van erflater een goederenrechtelijke aanspraak hadden verkregen, bracht artikel 128, lid 2, van de Overgangswet NBW dan ook niet mee dat die aanspraak na afloop van de in die bepaling genoemde termijn was uitgewerkt. Dit onjuiste oordeel van het Hof heeft echter geen invloed gehad op zijn beslissing over de omvang van de nalatenschap van erflaatster. Zoals volgt uit wat hiervoor in 4.1.5 is overwogen, heeft het Hof daarbij immers op juiste wijze rekening gehouden met die goederenrechtelijke aanspraak.
+
+4.1.7	De eerste klacht faalt ook voor zover daarin een beroep wordt gedaan op het afwijkende standpunt dat de Inspecteur in een eerder stadium van de procedure had ingenomen. De redenen hiervoor staan vermeld in de conclusie van de Advocaat-Generaal in onderdeel 8.4 en de onderdelen 8.16 tot en met 8.18.
+
+4.1.8	Gelet op het voorgaande faalt de eerste klacht in zijn geheel.
+
+4.2.1	De tweede klacht richt zich tegen het hiervoor in 3.3.3 vermelde oordeel van het Hof over artikel 14 van het EVRM. Volgens de klacht is het in strijd met deze verdragsbepaling dat een bloedverwant in de rechte lijn niet in aanmerking komt voor de partnervrijstelling.
+
+4.2.2	Deze klacht faalt eveneens. De redenen hiervoor staan vermeld in de onderdelen 8.28 en 8.29 van de conclusie van de Advocaat-Generaal.
+
+5
+Proceskosten
+
+De Hoge Raad ziet geen aanleiding voor een veroordeling in de proceskosten.
+
+6
+Beslissing
+
+De Hoge Raad verklaart het beroep in cassatie ongegrond.
+
+Dit arrest is gewezen door de raadsheer M.W.C. Feteris als voorzitter, en de raadsheren M.T. Boerlage, F.R. Salomons, A.E.H. van der Voort Maarschalk en W.A.P. van Roij, in tegenwoordigheid van de waarnemend griffier J.P.J. van Kampen, en in het openbaar uitgesproken op 17 april 2026.
+
+ECLI:NL:GHDHA:2025:956.
+
+ECLI:NL:PHR:2025:785.
+
+De helft omdat op grond van huwelijksvermogensrecht de woning voor de helft tot het vermogen van erflater en daarmee tot diens nalatenschap behoorde, en 4/9e omdat dit de legitieme portie van belanghebbende en zijn broer tezamen was in de nalatenschap van erflater.
+
+Vgl. onderdeel 5 van de conclusie van de Advocaat-Generaal.
+
+Vgl. HR 24 juni 2016, ECLI:NL:HR:2016:1271, rechtsoverwegingen 3.4.4 en 3.4.5.
