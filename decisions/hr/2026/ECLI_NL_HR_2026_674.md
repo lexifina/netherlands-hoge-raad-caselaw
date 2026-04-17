@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:674"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041701", "FutD 2026-0659", "NTFR 2026/694"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041701", "FutD 2026-0659", "NTFR 2026/694", "NLF 2026/0778", "Belastingblad 2026/375 met annotatie van L.J. Boone"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:624"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:652"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:1988"]]
 ---
 
