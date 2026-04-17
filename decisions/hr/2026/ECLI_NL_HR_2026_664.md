@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:664"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/237"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/237", "PFR-Updates.nl 2026-0093", "BPR-Updates.nl 2026-0030", "NJB 2026/859", "RvdW 2026/548", "NJ 2026/161", "JIN 2026/73 met annotatie van B. Tesink", "JPF 2026/78 met annotatie van mr. A. Wakker", "RFR 2026/80"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:112"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2025:745"]]
 ---
 
