@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:679"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "BPR-Updates.nl 2026-0031", "NJB 2026/857", "RvdW 2026/756", "O&A 2026/44", "O&A 2026/36", "JA 2026/88 met annotatie van mr. J. van de Klashorst", "RAV 2026/62", "NJ 2026/264 met annotatie van N. Jörg"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1251"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2024:1099"]]
 ---
 
