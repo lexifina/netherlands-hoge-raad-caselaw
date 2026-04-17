@@ -8,7 +8,8 @@ published: "2026-04-16"
 type: "conclusie"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2026:419"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.31", "JPF 2026/146 met annotatie van prof. mr. P. Vlaardingerbroek"]
+relations: [["Formele relatie", "Arrest Hoge Raad: ECLI:NL:HR:2026:1277"]]
 ---
 
 # ECLI:NL:PHR:2026:419 Parket bij de Hoge Raad , 17-04-2026 / 25/04267
