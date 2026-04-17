@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:662"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0088", "BPR-Updates.nl 2026-0029", "NJB 2026/861", "RvdW 2026/549", "NJ 2026/162", "RI 2026/46", "JOR 2026/178 met annotatie van mr. J.B.A. Jansen", "JIN 2026/92 met annotatie van mr. C. van Huffelen", "Sdu Nieuws Insolventierecht 2026/139"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:151"]]
 ---
 
