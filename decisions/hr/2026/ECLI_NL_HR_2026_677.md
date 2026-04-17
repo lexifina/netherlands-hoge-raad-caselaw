@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:677"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/613", "Viditax (FutD) 2026041714", "V-N Vandaag 2026/753", "FutD 2026-0664", "NTFR 2026/698 met annotatie van mr. J. Hollander", "Sdu Nieuws Belastingzaken 2026/529", "V-N 2026/18.12 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/613", "Viditax (FutD) 2026041714", "V-N Vandaag 2026/753", "FutD 2026-0664", "NTFR 2026/698 met annotatie van mr. J. Hollander", "Sdu Nieuws Belastingzaken 2026/529", "V-N 2026/18.12 met annotatie van Redactie", "BNB 2026/77 met annotatie van A.O. Lubbers"]
 ---
 
 # ECLI:NL:HR:2026:677 Hoge Raad , 17-04-2026 / 25/00089
