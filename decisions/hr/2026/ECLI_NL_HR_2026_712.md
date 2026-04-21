@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:712"
-published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0144"]
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0144", "NJB 2026/925", "RvdW 2026/606"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHSHE:2025:1765"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:162"]]
 ---
 
