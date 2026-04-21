@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:683"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:16"]]
+published_in: ["Rechtspraak.nl", "RvdW 2026/588"]
+relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:2833"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:16"]]
 ---
 
 # ECLI:NL:HR:2026:683 Hoge Raad , 21-04-2026 / 23/04258
