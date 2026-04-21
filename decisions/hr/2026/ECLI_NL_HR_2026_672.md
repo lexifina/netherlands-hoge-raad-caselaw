@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Artikel 81 RO-zaken"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:672"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:160"]]
+published_in: ["Rechtspraak.nl", "RvdW 2026/603"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:160"], ["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2025:2979"]]
 ---
 
 # ECLI:NL:HR:2026:672 Hoge Raad , 21-04-2026 / 25/00189
