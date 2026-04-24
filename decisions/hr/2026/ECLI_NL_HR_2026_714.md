@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudiciële beslissing"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:714"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJB 2026/918", "INS-Updates.nl 2026-0098", "RvdW 2026/583", "RI 2026/55", "TvI 2026/32 met annotatie van B.J. Engberts"]
 relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1279"], ["Formele relatie", "Prejudiciële beslissing op vraag van: ECLI:NL:GHSHE:2025:1365"]]
 ---
 
