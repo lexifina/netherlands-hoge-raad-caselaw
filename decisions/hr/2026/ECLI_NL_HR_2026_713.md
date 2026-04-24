@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:713"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/642", "Viditax (FutD) 2026042402"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/642", "Viditax (FutD) 2026042402", "V-N Vandaag 2026/830", "FutD 2026-0709", "NTFR 2026/732 met annotatie van mr. J.P.W.H.T. Becks, mr. N.P. Arzini", "Sdu Nieuws Belastingzaken 2026/551", "V-N 2026/19.11 met annotatie van Redactie", "NLF 2026/0822 met annotatie van prof. mr. dr. R.A. Wolf", "NJB 2026/983", "BNB 2026/101"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHDHA:2023:1621"]]
 ---
 
