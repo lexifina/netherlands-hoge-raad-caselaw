@@ -10,7 +10,7 @@ procedure: "Herziening"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:724"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Aanvraag tot herziening van: ECLI:NL:HR:2025:1537"]]
+relations: [["Formele relatie", "Aanvraag tot herziening van: ECLI:NL:HR:2025:1537"], ["Formele relatie", "Herziening: ECLI:NL:HR:2026:1470"]]
 ---
 
 # ECLI:NL:HR:2026:724 Hoge Raad , 24-04-2026 / 25/03916
