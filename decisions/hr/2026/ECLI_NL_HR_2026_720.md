@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:720"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042401"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042401", "FutD 2026-0710", "NLF 2026/0841", "NTFR 2026/762"]
 relations: [["Formele relatie", "In cassatie op : ECLI:NL:GHARL:2024:6690"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1324"], ["Formele relatie", "Conclusie: ECLI:NL:PHR:2025:1405"]]
 ---
 
