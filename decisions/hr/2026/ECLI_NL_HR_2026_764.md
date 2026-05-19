@@ -1,0 +1,107 @@
+---
+ecli: "ECLI:NL:HR:2026:764"
+court: "Hoge Raad"
+court_code: "HR"
+docket: "25/01196"
+decided: "2026-05-19"
+published: "2026-05-15"
+type: "uitspraak"
+procedure: "Cassatie"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:764"
+published_in: ["Rechtspraak.nl", "SR-Updates.nl 2026-0169", "NJB 2026/1070", "NJ 2026/187", "RvdW 2026/619"]
+relations: [["Formele relatie", "Conclusie: ECLI:NL:PHR:2026:362"]]
+---
+
+# ECLI:NL:HR:2026:764 Hoge Raad , 19-05-2026 / 25/01196
+
+## Inhoudsindicatie
+
+Beklag ex art. 98.4 jo. 552a Sv door klager (werkzaam bij kinderrechtenorganisatie in Engeland) tegen beslag op gegevensdragers onder klager i.v.m. verdenking tegen klager van huiselijk geweld, waarbij klager stelt dat hem als directeur en ‘legal expert’ bij die organisatie zelfstandig dan wel afgeleid verschoningsrecht toekomt. Ontvankelijkheid cassatieberoep, termijn indiening schriftuur. Geldt 14-dagentermijn (art. 447.5 jo. 552d.3 Sv) ook als klager in klaagschrift a.b.i. art. 98.4 jo. 552a Sv stelt dat inbeslagneming niet is toegestaan omdat hij zelfstandig verschoningsrecht heeft maar Rb oordeelt dat klager niet zo’n verschoningsrecht heeft? Is schriftuur tijdig ingediend?
+
+Cassatieberoep richt zich tegen beschikking Rb op klaagschrift a.b.i. art. 98.4 jo. 552a Sv. Het gaat daarbij om klaagschrift tegen beschikking die RC o.g.v. art. 98.3 Sv heeft genomen. Art. 98.4 Sv stelt mogelijkheid tot indienen van klaagschrift tegen beschikking RC uitsluitend open voor de in art. 98.1 Sv bedoelde personen met bevoegdheid tot verschoning. Tegen beschikking Rb op klaagschrift kan o.g.v. art. 98.4 jo. art. 552a en 552d.2 Sv door OM en klager (dus degene die klaagschrift a.b.i. art. 98.4 jo. art. 552a Sv heeft ingediend) cassatieberoep worden ingesteld. O.g.v. art. 447.5 jo. 552d.3 Sv is bij cassatieberoep van klager de (verkorte) termijn voor indiening van schriftuur met middelen 14 dagen na betekening van aanzegging a.b.i. art. 447.3 Sv. Termijn van 14 dagen is ook van toepassing in geval als dit, waarin klager een klaagschrift a.b.i. art. 98.4 jo. 552a Sv heeft ingediend en zich daarin op standpunt heeft gesteld dat inbeslagneming niet is toegestaan op de grond dat hem zelfstandig verschoningsrecht toekomt, ook al heeft Rb geoordeeld dat klager niet zo’n verschoningsrecht toekomt. Nu aanzegging (waarin wordt gewezen op termijn van 14 dagen) is betekend op 27-11-2025 en schriftuur is ingediend op 19-12-2025, kan HR beroep niet in behandeling nemen.
+
+Klager n-o. CAG (strekking): verwerping. Samenhang met 25/01195 B.
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+STRAFKAMER
+
+Nummer 25/01196 Bv
+
+Datum	19 mei 2026
+
+BESCHIKKING
+
+op het beroep in cassatie tegen een beschikking van de rechtbank Midden-Nederland van 31 maart 2025, nummer RK 25/000371, op een klaagschrift als bedoeld in artikel 98 lid 4 in samenhang met artikel 552a van het Wetboek van Strafvordering, ingediend
+
+door
+
+[klager] ,
+
+geboren in [geboorteplaats] op [geboortedatum] 1979,
+
+hierna: de klager.
+
+1
+Procesverloop in cassatie
+
+Het beroep is ingesteld door de klager. Namens deze hebben de advocaten J.J.J. Zwaan en J.W.D. Roozemond een schriftuur ingediend, die echter pas bij de griffie van de Hoge Raad is ingekomen nadat de daarvoor in de wet gestelde termijn was verlopen.
+
+De advocaat-generaal M.E. van Wees heeft geconcludeerd tot verwerping van het cassatieberoep.
+
+2
+Beoordeling van de ontvankelijkheid van het beroep
+
+2.1
+
+De volgende bepalingen uit het Wetboek van Strafvordering (hierna: Sv) zijn van belang.
+
+- Artikel 98 lid 1 tot en met 4 Sv:
+
+“1. Bij personen met bevoegdheid tot verschooning, als bedoeld bij de artikelen 218 en 218a, worden, tenzij met hunne toestemming, niet in beslag genomen brieven of andere geschriften, tot welke hun plicht tot geheimhouding zich uitstrekt. De rechter-commissaris is bevoegd ter zake te beslissen.
+
+2. Indien de persoon met bevoegdheid tot verschoning bezwaar maakt tegen de inbeslagneming van brieven of andere geschriften omdat zijn plicht tot geheimhouding zich daartoe uitstrekt, wordt niet tot kennisneming overgegaan dan nadat de rechter-commissaris daarover heeft bepaald.
+
+3. De rechter-commissaris die beslist dat inbeslagneming is toegestaan, deelt de persoon met bevoegdheid tot verschoning mede dat tegen zijn beslissing beklag open staat bij het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd en tevens dat niet tot kennisneming wordt overgegaan dan nadat onherroepelijk over het beklag is beslist.
+
+4. Tegen de beschikking van de rechter-commissaris kan de persoon met bevoegdheid tot verschoning binnen veertien dagen na de betekening daarvan een klaagschrift indienen bij het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd. Artikel 552a is van toepassing.”
+
+- Artikel 218 Sv:
+
+“Van het geven van getuigenis of van het beantwoorden van bepaalde vragen kunnen zich ook verschoonen zij die uit hoofde van hun stand, hun beroep of hun ambt tot geheimhouding verplicht zijn, doch alleen omtrent hetgeen waarvan de wetenschap aan hen als zoodanig is toevertrouwd.”
+
+- Artikel 447 lid 3 en 5 Sv:
+
+“3. Na ontvangst van de stukken van het geding door de griffier van de Hoge Raad wordt door de procureur-generaal aan de partij die cassatie heeft ingesteld aangezegd dat de stukken van het geding bij de Hoge Raad zijn ingekomen. In de aanzegging wordt gewezen op het vierde onderscheidenlijk vijfde lid. (...)
+
+5. De verdachte of andere belanghebbende is op straffe van niet-ontvankelijkheid verplicht binnen een maand nadat de aanzegging is betekend, bij de Hoge Raad door zijn raadsman onderscheidenlijk door een advocaat een schriftuur te doen indienen, houdende zijn middelen van cassatie.”
+
+- Artikel 552a lid 1 Sv:
+
+“De belanghebbenden kunnen zich schriftelijk beklagen over inbeslagneming (...).”
+
+- Artikel 552d lid 3 Sv:
+
+“Indien het klaagschrift is ingediend door een persoon met de bevoegdheid tot verschoning als bedoeld in artikel 218 beslist de Hoge Raad binnen negentig dagen na indiening van de schriftuur. Artikel 447 is van overeenkomstige toepassing, met dien verstande dat de termijn voor indiening van middelen van cassatie veertien dagen bedraagt.”
+
+2.2.1
+
+Het cassatieberoep richt zich tegen een beschikking van de rechtbank op een klaagschrift als bedoeld in artikel 98 lid 4 in samenhang met artikel 552a Sv. Het gaat daarbij om een klaagschrift dat zich richt tegen de beschikking die de rechter-commissaris op grond van artikel 98 lid 3 Sv heeft genomen. Artikel 98 lid 4 Sv stelt de mogelijkheid tot het indienen van een klaagschrift tegen die beschikking van de rechter-commissaris uitsluitend open voor de in artikel 98 lid 1 Sv bedoelde personen met bevoegdheid tot verschoning. Tegen een beschikking van de rechtbank op dit klaagschrift kan, op grond van artikel 98 lid 4 in samenhang met artikel 552a en 552d lid 2 Sv, door het openbaar ministerie en de klager – dus degene die een klaagschrift als bedoeld in artikel 98 lid 4 in samenhang met artikel 552a Sv heeft ingediend – beroep in cassatie worden ingesteld. Op grond van artikel 447 lid 5 in samenhang met artikel 552d lid 3 Sv is bij het cassatieberoep van de klager de (verkorte) termijn voor de indiening van een schriftuur met cassatiemiddelen veertien dagen na de betekening van de aanzegging als bedoeld in artikel 447 lid 3 Sv.
+
+2.2.2
+
+Deze termijn van veertien dagen na de betekening van de aanzegging als bedoeld in artikel 447 lid 3 Sv, is ook van toepassing in een geval als dit, waarin de klager een klaagschrift als bedoeld in artikel 98 lid 4 in samenhang met artikel 552a Sv heeft ingediend en zich daarin op het standpunt heeft gesteld dat de inbeslagneming van de betreffende voorwerpen niet is toegestaan op de grond dat hem een zelfstandig verschoningsrecht toekomt, ook al heeft de rechtbank geoordeeld dat de klager niet zo’n verschoningsrecht toekomt.
+
+2.3
+
+De aanzegging als bedoeld in artikel 447 lid 3 Sv – waarin wordt gewezen op de termijn van veertien dagen voor de indiening van een schriftuur – is betekend op 27 november 2025. Nu de schriftuur is ingediend op 19 december 2025, kan de Hoge Raad het beroep van de klager niet in behandeling nemen.
+
+3
+Beslissing
+
+De Hoge Raad verklaart het beroep niet-ontvankelijk.
+
+Deze beschikking is gegeven door de vice-president M.J. Borgers als voorzitter, en de raadsheren A.L.J. van Strien en T. Kooijmans, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van 19 mei 2026.
