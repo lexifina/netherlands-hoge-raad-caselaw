@@ -1,5 +1,7 @@
 # Dutch case law: Hoge Raad (and its Parket)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Hoge Raad (and its Parket), Netherlands, which global-law reads at `netherlands/hoge-raad/caselaw/`.
+
 Every decision of Hoge Raad (and its Parket) that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 76,891 decisions from 1869-12-10 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/hoge-raad/caselaw`.
